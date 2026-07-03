@@ -2,14 +2,14 @@
 
 A daily-updated directory of upcoming concerts in the Mexico City metro area, scraped from [Songkick](https://www.songkick.com/metro-areas/34385-mexico-mexico-city).
 
-**Live site:** _[add your Vercel URL here]_
+**Live site:** _[add your GitHub Pages URL here]_
 
 ## How it works
 
-A GitHub Action runs daily at midnight CDMX time (6 AM UTC). It scrapes Songkick for all upcoming concerts, outputs structured JSON, and commits the updated data. Vercel auto-deploys on push — no build step, just static files.
+A GitHub Action runs daily at midnight CDMX time (6 AM UTC). It scrapes Songkick for all upcoming concerts, outputs structured JSON, and commits the updated data. GitHub Pages serves the `docs/` folder automatically.
 
 ```
-Songkick → scraper → JSON → git push → Vercel serves site/
+Songkick → scraper → JSON → git push → GitHub Pages serves docs/
 ```
 
 ## Features
@@ -34,10 +34,10 @@ Songkick → scraper → JSON → git push → Vercel serves site/
 ├── data/
 │   ├── songkick_concerts.json  # Scraper output
 │   └── raw/                    # Original scraped markdown (reference)
-├── site/                       # ← Vercel root directory
+├── docs/                       # ← GitHub Pages root directory
 │   ├── index.html              # Frontend (fetches JSON at runtime)
 │   ├── data/songkick_concerts.json
-│   └── vercel.json             # Deploy config
+│   └── vercel.json             # Deploy config (legacy)
 ├── concerts.html               # Standalone version (embedded JSON, works offline)
 └── requirements.txt            # Python deps
 ```
@@ -71,8 +71,9 @@ Songkick → scraper → JSON → git push → Vercel serves site/
 ### Deploy
 
 1. Push this repo to GitHub
-2. Connect the repo to [Vercel](https://vercel.com/new) — set **Root Directory** to `site/`
-3. The Action runs daily. You can also trigger it manually from the Actions tab.
+2. Go to **Settings → Pages → Source** and select **Deploy from a branch**
+3. Set branch to `main` and folder to `/docs`
+4. The Action runs daily. You can also trigger it manually from the Actions tab.
 
 ### Run locally
 
@@ -81,7 +82,7 @@ pip install -r requirements.txt
 python scrapers/update_concerts.py
 ```
 
-Then open `site/index.html` via a local server, or open `concerts.html` directly in a browser.
+Then open `docs/index.html` via a local server, or open `concerts.html` directly in a browser.
 
 ## Safety checks
 

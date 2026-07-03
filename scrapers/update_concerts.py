@@ -1,6 +1,6 @@
 """
 Update Concerts Pipeline
-Runs the Songkick scraper and copies output to the site directory.
+Runs the Songkick scraper and copies output to the docs directory.
 Designed to be called from GitHub Actions or manually.
 """
 import shutil
@@ -36,9 +36,9 @@ def main():
         )
         sys.exit(1)
 
-    # Copy JSON to site/data/ for Vercel
+    # Copy JSON to docs/data/ for GitHub Pages
     src = ROOT_DIR / "data" / "songkick_concerts.json"
-    dst_dir = ROOT_DIR / "site" / "data"
+    dst_dir = ROOT_DIR / "docs" / "data"
     dst_dir.mkdir(parents=True, exist_ok=True)
     dst = dst_dir / "songkick_concerts.json"
 

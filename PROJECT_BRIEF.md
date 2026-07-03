@@ -23,7 +23,7 @@ A self-contained concert directory for the Mexico City metro area, scraped from 
 
 ### Frontend
 
-- `site/index.html` — Dark-themed single-page app. Fetches JSON from `site/data/`. Requires an HTTP server (or localhost) to work.
+- `docs/index.html` — Dark-themed single-page app. Fetches JSON from `docs/data/`. Requires an HTTP server (or localhost) to work.
 - `concerts.html` — Standalone version with JSON embedded inline. Works from `file://` — just open from Finder.
 
 Both versions have: text search across artists and venues, month picker, venue dropdown, sticky date headers, mobile-responsive layout, and links to Songkick concert/venue pages.
@@ -59,7 +59,7 @@ concerts-directory/
 │   ├── extract_and_save.py          # Extraction helper
 │   ├── bookmarklet.js               # Browser bookmarklet
 │   └── BOOKMARKLET_INSTRUCTIONS.md
-└── site/
+└── docs/
     ├── index.html                   # Server-dependent version
     ├── data/songkick_concerts.json  # Copy for site
     └── vercel.json                  # Deploy config
@@ -78,5 +78,5 @@ concerts-directory/
 ## What's Left
 
 - **Pages 11–14 (Format C)**: 171 concerts without Songkick URLs. Could be re-fetched in Format A to add links.
-- **Deployment**: `site/` folder has a `vercel.json` ready for hosting if needed.
+- **Deployment**: `docs/` folder has a `vercel.json` ready for hosting if needed.
 - **Auto-refresh**: The scraper pipeline could be scheduled to re-fetch and regenerate periodically.

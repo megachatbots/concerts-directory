@@ -33,7 +33,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/songkick_concerts.json site/data/songkick_concerts.json
+          git add data/songkick_concerts.json docs/data/songkick_concerts.json
           git diff --staged --quiet && echo "No changes" && exit 0
           git commit -m "chore: update concert data $(date -u +%Y-%m-%d)"
           git push
