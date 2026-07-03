@@ -1,40 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-07-03T05:03:53.197539Z",
-  "total_concerts": 601,
+  "scraped_at": "2026-07-03T09:17:14.335171Z",
+  "total_concerts": 599,
   "concerts": [
-    {
-      "date": "2026-07-02",
-      "source": "ticketmaster",
-      "artists": [
-        "Gordo"
-      ],
-      "artist_display": "Gordo",
-      "url": "https://www.ticketmaster.com.mx/gordo-campo-marte-santander-no-incluye-mexico-02-07-2026/event/140064B689A2479D",
-      "ticket_url": "https://www.ticketmaster.com.mx/gordo-campo-marte-santander-no-incluye-mexico-02-07-2026/event/140064B689A2479D",
-      "venue": "Campo Marte",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "source": "ticketmaster",
-      "artists": [
-        "Leyendas el show"
-      ],
-      "artist_display": "Leyendas el show",
-      "url": "https://www.ticketmaster.com.mx/leyendas-ciudad-de-mexico-02-07-2026/event/3D006498BA6CA4F1",
-      "ticket_url": "https://www.ticketmaster.com.mx/leyendas-ciudad-de-mexico-02-07-2026/event/3D006498BA6CA4F1",
-      "venue": "Foro Stelaris Fiesta Americana Reforma",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
-      ]
-    },
     {
       "date": "2026-07-03",
       "source": "ticketmaster",

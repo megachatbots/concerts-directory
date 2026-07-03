@@ -5,8 +5,8 @@
     "ticketmaster"
   ],
   "metro_area": "Mexico City",
-  "scraped_at": "2026-07-03T05:03:53.222791Z",
-  "total_concerts": 969,
+  "scraped_at": "2026-07-03T09:17:14.359749Z",
+  "total_concerts": 963,
   "concerts": [
     {
       "date": "2026-07-02",
@@ -18,12 +18,7 @@
       "url": "https://www.songkick.com/concerts/43237260-gordo-at-campo-marte",
       "venue": "Campo Marte",
       "venue_url": "https://www.songkick.com/venues/1334681-campo-marte",
-      "location": "Campo Marte,Mexico City, Mexico",
-      "ticket_url": "https://www.ticketmaster.com.mx/gordo-campo-marte-santander-no-incluye-mexico-02-07-2026/event/140064B689A2479D",
-      "tags": [
-        "Electro Pop",
-        "Pop"
-      ]
+      "location": "Campo Marte,Mexico City, Mexico"
     },
     {
       "date": "2026-07-02",
@@ -72,21 +67,6 @@
       "venue": "LooLoo",
       "venue_url": "https://www.songkick.com/venues/3769259-looloo",
       "location": "LooLoo,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-07-02",
-      "source": "ticketmaster",
-      "artists": [
-        "Leyendas el show"
-      ],
-      "artist_display": "Leyendas el show",
-      "url": "https://www.ticketmaster.com.mx/leyendas-ciudad-de-mexico-02-07-2026/event/3D006498BA6CA4F1",
-      "ticket_url": "https://www.ticketmaster.com.mx/leyendas-ciudad-de-mexico-02-07-2026/event/3D006498BA6CA4F1",
-      "venue": "Foro Stelaris Fiesta Americana Reforma",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
-      ]
     },
     {
       "date": "2026-07-03",
@@ -926,70 +906,6 @@
       "date": "2026-07-11",
       "source": "songkick",
       "artists": [
-        "Caifanes"
-      ],
-      "artist_display": "Caifanes",
-      "url": "https://www.songkick.com/concerts/43108062-caifanes-at-estadio-gnp-seguros",
-      "venue": "Estadio GNP Seguros",
-      "venue_url": "https://www.songkick.com/venues/33578-estadio-gnp-seguros",
-      "location": "Estadio GNP Seguros,Mexico City, Mexico",
-      "ticket_url": "https://www.ticketmaster.com.mx/caifanes-ciudad-de-mexico-11-07-2026/event/1400646DD3163F38",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-07-11",
-      "source": "songkick",
-      "artists": [
-        "ENHYPEN"
-      ],
-      "artist_display": "ENHYPEN",
-      "url": "https://www.songkick.com/concerts/43181678-enhypen-at-arena-cdmx",
-      "venue": "Arena CDMX",
-      "venue_url": "https://www.songkick.com/venues/1649258-arena-cdmx",
-      "location": "Arena CDMX,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-07-11",
-      "source": "songkick",
-      "artists": [
-        "Takuya NakamuraVictor Rice"
-      ],
-      "artist_display": "Takuya NakamuraVictor Rice",
-      "url": "https://www.songkick.com/concerts/43168762-takuya-nakamura-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks",
-      "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-07-11",
-      "source": "songkick",
-      "artists": [
-        "Los CogelonesBlanco Nejo"
-      ],
-      "artist_display": "Los CogelonesBlanco Nejo",
-      "url": "https://www.songkick.com/concerts/43225088-los-cogelones-at-fuck-off-room",
-      "venue": "FÜCK OFF ROOM",
-      "venue_url": "https://www.songkick.com/venues/4540201-fuck-off-room",
-      "location": "FÜCK OFF ROOM,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-07-11",
-      "source": "songkick",
-      "artists": [
-        "Disney on Ice: Jump In!"
-      ],
-      "artist_display": "Disney on Ice: Jump In!",
-      "url": "https://www.songkick.com/concerts/43114536-disney-on-ice-jump-in-at-auditorio-nacional",
-      "venue": "Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/34183-auditorio-nacional",
-      "location": "Auditorio Nacional,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-07-11",
-      "source": "songkick",
-      "artists": [
         "Elías Medina"
       ],
       "artist_display": "Elías Medina",
@@ -1086,6 +1002,21 @@
       "tags": [
         "Classical",
         "Classical/Vocal"
+      ]
+    },
+    {
+      "date": "2026-07-11",
+      "source": "ticketmaster",
+      "artists": [
+        "Caifanes"
+      ],
+      "artist_display": "Caifanes",
+      "url": "https://www.ticketmaster.com.mx/caifanes-ciudad-de-mexico-11-07-2026/event/1400646DD3163F38",
+      "ticket_url": "https://www.ticketmaster.com.mx/caifanes-ciudad-de-mexico-11-07-2026/event/1400646DD3163F38",
+      "venue": "Estadio GNP Seguros",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
       ]
     },
     {
@@ -3926,18 +3857,6 @@
       "venue": "FÜCK OFF ROOM",
       "venue_url": "https://www.songkick.com/venues/4540201-fuck-off-room",
       "location": "FÜCK OFF ROOM,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-08-15",
-      "source": "songkick",
-      "artists": [
-        "A-live"
-      ],
-      "artist_display": "A-live",
-      "url": "https://www.songkick.com/concerts/43281983-alive-at-foro-stelaris-fiesta-americana-reforma",
-      "venue": "Foro Stelaris, Fiesta Americana Reforma",
-      "venue_url": "https://www.songkick.com/venues/4639533-foro-stelaris-fiesta-americana-reforma",
-      "location": "Foro Stelaris, Fiesta Americana Reforma,Mexico City, Mexico"
     },
     {
       "date": "2026-08-15",
@@ -6817,6 +6736,18 @@
       "date": "2026-09-17",
       "source": "songkick",
       "artists": [
+        "Inner Wave"
+      ],
+      "artist_display": "Inner Wave",
+      "url": "https://www.songkick.com/concerts/43291334-inner-wave-at-foro-indie-rocks",
+      "venue": "Foro Indie Rocks",
+      "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
+      "location": "Foro Indie Rocks,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-17",
+      "source": "songkick",
+      "artists": [
         "Ana Torroja"
       ],
       "artist_display": "Ana Torroja",
@@ -6840,18 +6771,6 @@
       "venue": "FÜCK OFF ROOM",
       "venue_url": "https://www.songkick.com/venues/4540201-fuck-off-room",
       "location": "FÜCK OFF ROOM,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-09-17",
-      "source": "songkick",
-      "artists": [
-        "Inner Wave"
-      ],
-      "artist_display": "Inner Wave",
-      "url": "https://www.songkick.com/concerts/43291334-inner-wave-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks",
-      "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks,Mexico City, Mexico"
     },
     {
       "date": "2026-09-17",
@@ -7566,6 +7485,16 @@
       "date": "2026-09-26",
       "source": "songkick",
       "artists": [
+        "Graviity"
+      ],
+      "artist_display": "Graviity",
+      "url": "https://www.songkick.com/concerts/43216557-graviity-at-unknown-venue",
+      "location": "Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-26",
+      "source": "songkick",
+      "artists": [
         "Rebel Cats"
       ],
       "artist_display": "Rebel Cats",
@@ -7578,16 +7507,6 @@
         "Pop",
         "Rock"
       ]
-    },
-    {
-      "date": "2026-09-26",
-      "source": "songkick",
-      "artists": [
-        "Graviity"
-      ],
-      "artist_display": "Graviity",
-      "url": "https://www.songkick.com/concerts/43216557-graviity-at-unknown-venue",
-      "location": "Mexico City, Mexico"
     },
     {
       "date": "2026-09-26",
@@ -9910,6 +9829,22 @@
     },
     {
       "date": "2026-10-23",
+      "source": "songkick",
+      "artists": [
+        "Matisse"
+      ],
+      "artist_display": "Matisse",
+      "url": "https://www.songkick.com/concerts/43305272-matisse-at-la-maraka",
+      "venue": "La Maraka",
+      "venue_url": "https://www.songkick.com/venues/1076291-la-maraka",
+      "location": "La Maraka,Mexico City, Mexico",
+      "ticket_url": "https://www.ticketmaster.com.mx/matisse-mexico-23-10-2026/event/3D0064DAAB493025",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-10-23",
       "source": "ticketmaster",
       "artists": [
         "Belako"
@@ -9938,21 +9873,6 @@
       "tags": [
         "Rock",
         "Pop"
-      ]
-    },
-    {
-      "date": "2026-10-23",
-      "source": "ticketmaster",
-      "artists": [
-        "Matisse"
-      ],
-      "artist_display": "Matisse",
-      "url": "https://www.ticketmaster.com.mx/matisse-mexico-23-10-2026/event/3D0064DAAB493025",
-      "ticket_url": "https://www.ticketmaster.com.mx/matisse-mexico-23-10-2026/event/3D0064DAAB493025",
-      "venue": "La Maraka",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
       ]
     },
     {
@@ -11732,18 +11652,6 @@
       "date": "2026-11-21",
       "source": "songkick",
       "artists": [
-        "Nocturnal Depression"
-      ],
-      "artist_display": "Nocturnal Depression",
-      "url": "https://www.songkick.com/concerts/43080458-nocturnal-depression-at-multiforo-alicia",
-      "venue": "Multiforo Alicia",
-      "venue_url": "https://www.songkick.com/venues/120456-multiforo-alicia",
-      "location": "Multiforo Alicia,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-21",
-      "source": "songkick",
-      "artists": [
         "Playa Limbo"
       ],
       "artist_display": "Playa Limbo",
@@ -11755,6 +11663,18 @@
       "tags": [
         "Pop"
       ]
+    },
+    {
+      "date": "2026-11-21",
+      "source": "songkick",
+      "artists": [
+        "Nocturnal Depression"
+      ],
+      "artist_display": "Nocturnal Depression",
+      "url": "https://www.songkick.com/concerts/43080458-nocturnal-depression-at-multiforo-alicia",
+      "venue": "Multiforo Alicia",
+      "venue_url": "https://www.songkick.com/venues/120456-multiforo-alicia",
+      "location": "Multiforo Alicia,Mexico City, Mexico"
     },
     {
       "date": "2026-11-21",
