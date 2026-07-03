@@ -149,6 +149,25 @@ body {
   background: #1a2e1a;
   color: #88cc88;
 }
+.ticket-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 0.25rem 0.6rem;
+  border-radius: 3px;
+  background: var(--accent);
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+  flex-shrink: 0;
+  transition: background 0.15s;
+}
+.ticket-link:hover {
+  background: var(--accent-dim);
+}
 .no-results {
   text-align: center;
   padding: 4rem 1rem;
@@ -191,7 +210,8 @@ body {
 <div class="concerts" id="concerts"></div>
 
 <div class="footer">
-  Data from <a href="https://www.songkick.com/metro-areas/34385-mexico-mexico-city" target="_blank">Songkick</a> &middot;
+  Data from <a href="https://www.songkick.com/metro-areas/34385-mexico-mexico-city" target="_blank">Songkick</a>
+  &amp; <a href="https://www.ticketmaster.com.mx/" target="_blank">Ticketmaster</a> &middot;
   Last updated <span id="updated"></span>
 </div>
 
@@ -216,7 +236,7 @@ function formatDateShort(dateStr) {
 
 async function init() {
   try {
-    const res = await fetch('data/songkick_concerts.json');
+    const res = await fetch('data/concerts.json');
     const data = await res.json();
     allConcerts = data.concerts;
 
@@ -302,17 +322,22 @@ function render() {
 
       let tagsHtml = '';
       if (c.tags && c.tags.length) {
-        tagsHtml = '<div class="concert-tags">' +
-          c.tags.map(t => `<span class="tag ${t.toLowerCase()}">${t}</span>`).join('') +
-          '</div>';
+        tagsHtml = c.tags.map(t => `<span class="tag ${t.toLowerCase()}">${esc(t)}</span>`).join('');
       }
+
+      const ticketHtml = c.ticket_url
+        ? `<a href="${c.ticket_url}" target="_blank" class="ticket-link">Buy Tickets</a>`
+        : '';
 
       html += `<div class="concert-card">
         <div class="concert-info">
           <div class="concert-artist">${artistHtml}</div>
           <div class="concert-venue">${venueHtml}</div>
         </div>
-        ${tagsHtml}
+        <div class="concert-tags">
+          ${tagsHtml}
+          ${ticketHtml}
+        </div>
       </div>`;
     });
     html += `</div>`;

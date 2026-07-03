@@ -1,0 +1,53 @@
+{
+  "source": "merged",
+  "sources": [
+    "songkick",
+    "ticketmaster"
+  ],
+  "metro_area": "Mexico City",
+  "scraped_at": "2026-07-02T18:00:00Z",
+  "total_concerts": 3,
+  "concerts": [
+    {
+      "date": "2026-08-15",
+      "artists": [
+        "Bad Bunny"
+      ],
+      "artist_display": "Bad Bunny",
+      "url": "https://songkick.com/1",
+      "ticket_url": "https://ticketmaster.com.mx/1",
+      "venue": "Foro Sol",
+      "location": "Mexico City",
+      "tags": [
+        "Latin",
+        "Reggaeton"
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "artists": [
+        "Caifanes"
+      ],
+      "artist_display": "Caifanes",
+      "url": "https://songkick.com/2",
+      "venue": "Auditorio Nacional",
+      "location": "Mexico City",
+      "tags": [
+        "Rock"
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "artists": [
+        "Molotov"
+      ],
+      "artist_display": "Molotov",
+      "ticket_url": "https://ticketmaster.com.mx/3",
+      "venue": "Pepsi Center",
+      "location": "Mexico City",
+      "tags": [
+        "Rock"
+      ]
+    }
+  ]
+}
