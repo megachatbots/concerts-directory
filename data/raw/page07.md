@@ -1,0 +1,64 @@
+- Sunday 13 September 2026
+- [**W.I.T.C.H. (We Intend To Cause Havoc)** WE INTEND TO CAUSE HAVOC](https://www.songkick.com/concerts/43259408-witch-we-intend-to-cause-havoc-at-foro-indie-rocks) - [Foro Indie Rocks](https://www.songkick.com/venues/1859763-foro-indie-rocks), Mexico City, Mexico
+- [**Unión Fatal**](https://www.songkick.com/concerts/43098715-union-fatal-at-soul-dread) - [Soul Dread](https://www.songkick.com/venues/4476994-soul-dread), Nezahualcóyotl, Mexico
+- [**Pipiolas**](https://www.songkick.com/concerts/43269937-pipiolas-at-foro-cultural-hilvana) - [Foro Cultural Hilvana](https://www.songkick.com/venues/4071029-foro-cultural-hilvana), Mexico City, Mexico
+- Monday 14 September 2026
+- [**Sonata Arctica**](https://www.songkick.com/concerts/43057894-sonata-arctica-at-foro-teambro) - [Foro Teambro](https://www.songkick.com/venues/4378754-foro-teambro), Mexico City, Mexico
+- [**Virus (Arg)**](https://www.songkick.com/concerts/43251584-virus-arg-at-lunario-del-auditorio-nacional) - [Lunario Del Auditorio Nacional](https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional), Mexico City, Mexico
+- Tuesday 15 September 2026
+- [**Wave To Earth**](https://www.songkick.com/concerts/43221655-wave-to-earth-at-pepsi-center-wtc) - [Pepsi Center WTC](https://www.songkick.com/venues/1774303-pepsi-center-wtc), Mexico City, Mexico
+- Wednesday 16 September 2026
+- [**LANDMVRKS**](https://www.songkick.com/concerts/43171361-landmvrks-at-circo-volador) - [Circo Volador](https://www.songkick.com/venues/49859-circo-volador), Mexico City, Mexico
+- [**Ill Niño**](https://www.songkick.com/concerts/42994532-ill-nino-at-fuck-off-room) - [FÜCK OFF ROOM](https://www.songkick.com/venues/4540201-fuck-off-room), Mexico City, Mexico
+- Thursday 17 September 2026
+- [**Khalid**](https://www.songkick.com/concerts/43231695-khalid-at-arena-cdmx) - [Arena CDMX](https://www.songkick.com/venues/1649258-arena-cdmx), Mexico City, Mexico
+- [**Reyno**](https://www.songkick.com/concerts/43077778-reyno-at-pepsi-center-wtc) - [Pepsi Center WTC](https://www.songkick.com/venues/1774303-pepsi-center-wtc), Mexico City, Mexico
+- [**Ana Torroja**](https://www.songkick.com/concerts/43123468-ana-torroja-at-teatro-metropolitan) - [Teatro Metropólitan](https://www.songkick.com/venues/44395-teatro-metropolitan), Mexico City, Mexico
+- [**Ill Niño**](https://www.songkick.com/concerts/42994555-ill-nino-at-fuck-off-room) - [FÜCK OFF ROOM](https://www.songkick.com/venues/4540201-fuck-off-room), Mexico City, Mexico
+- [**Inner Wave**](https://www.songkick.com/concerts/43291334-inner-wave-at-foro-indie-rocks) - [Foro Indie Rocks](https://www.songkick.com/venues/1859763-foro-indie-rocks), Mexico City, Mexico
+- [**Alkaloides**](https://www.songkick.com/concerts/43284833-alkaloides-at-bajo-circuito-multiforo-urbano) - [Bajo Circuito Multiforo Urbano](https://www.songkick.com/venues/4335163-bajo-circuito-multiforo-urbano), Mexico City, Mexico
+- [**Plutonio de Alto Grado**](https://www.songkick.com/concerts/43224807-plutonio-de-alto-grado-at-shamrock-pub) - [Shamrock Pub](https://www.songkick.com/venues/2593838-shamrock-pub), Cuautitlán Izcalli, Mexico
+- Friday 18 September 2026
+- [**Beele**](https://www.songkick.com/concerts/43211236-beele-at-estadio-fray-nano-de-beisbol) - [Estadio Fray Nano de Beisbol](https://www.songkick.com/venues/4588267-estadio-fray-nano-de-beisbol), Mexico City, Mexico
+- [**Suuns**](https://www.songkick.com/concerts/43259407-suuns-at-orbe) - [Orbe](https://www.songkick.com/venues/1396323-orbe), Mexico City, Mexico
+- [**Bratty**](https://www.songkick.com/concerts/43165569-bratty-at-teatro-metropolitan) - [Teatro Metropólitan](https://www.songkick.com/venues/44395-teatro-metropolitan), Mexico City, Mexico
+- [**Bengala**](https://www.songkick.com/concerts/43101565-bengala-at-lunario-del-auditorio-nacional) - [Lunario Del Auditorio Nacional](https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional), Mexico City, Mexico
+- [**This is Michael** Jennifer Batten](https://www.songkick.com/concerts/43198208-this-is-michael-at-arena-cdmx) - [Arena CDMX](https://www.songkick.com/venues/1649258-arena-cdmx), Mexico City, Mexico
+- [**Heavy Nopal**](https://www.songkick.com/concerts/43280040-heavy-nopal-at-la-maraka) - [La Maraka](https://www.songkick.com/venues/1076291-la-maraka), Mexico City, Mexico
+- [**Ms.Boan** NINAHOLOGRAM](https://www.songkick.com/concerts/43280957-msboan-at-fuck-off-room) - [FÜCK OFF ROOM](https://www.songkick.com/venues/4540201-fuck-off-room), Mexico City, Mexico
+- Saturday 19 September 2026
+- [**Robyn** Lykke Li](https://www.songkick.com/concerts/43030896-robyn-at-palacio-de-los-deportes) - [Palacio de los Deportes](https://www.songkick.com/venues/31907-palacio-de-los-deportes), Mexico City, Mexico
+- [**Micro TDH**](https://www.songkick.com/concerts/43198494-micro-tdh-at-la-maraka) - [La Maraka](https://www.songkick.com/venues/1076291-la-maraka), Mexico City, Mexico
+- [**Bengala**](https://www.songkick.com/concerts/43014625-bengala-at-lunario-del-auditorio-nacional) - [Lunario Del Auditorio Nacional](https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional), Mexico City, Mexico
+- [**Son Rompe Pera**](https://www.songkick.com/concerts/43215543-son-rompe-pera-at-teatro-metropolitan) - [Teatro Metropólitan](https://www.songkick.com/venues/44395-teatro-metropolitan), Mexico City, Mexico
+- [**Dimitri y las brujas**](https://www.songkick.com/concerts/43292162-dimitri-y-las-brujas-at-sala-black-pepsi-center-wtc) - [Sala Black Pepsi Center WTC](https://www.songkick.com/venues/4569973-sala-black-pepsi-center-wtc), Mexico City, Mexico
+- Sunday 20 September 2026
+- [**Beach Fossils**](https://www.songkick.com/concerts/43251583-beach-fossils-at-lunario-del-auditorio-nacional) - [Lunario Del Auditorio Nacional](https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional), Mexico City, Mexico
+- [**Toe**](https://www.songkick.com/concerts/43198438-toe-at-orbe) - [Orbe](https://www.songkick.com/venues/1396323-orbe), Mexico City, Mexico
+- [**MC Davo**](https://www.songkick.com/concerts/43131529-mc-davo-at-pepsi-center-wtc) - [Pepsi Center WTC](https://www.songkick.com/venues/1774303-pepsi-center-wtc), Mexico City, Mexico
+- Monday 21 September 2026
+- [**Blonde Redhead**](https://www.songkick.com/concerts/43247295-blonde-redhead-at-teatro-metropolitan) - [Teatro Metropólitan](https://www.songkick.com/venues/44395-teatro-metropolitan), Mexico City, Mexico
+- Tuesday 22 September 2026
+- [**Young Miko**](https://www.songkick.com/concerts/43143960-young-miko-at-palacio-de-los-deportes) - [Palacio de los Deportes](https://www.songkick.com/venues/31907-palacio-de-los-deportes), Mexico City, Mexico
+- [**Gondwana and Quique Neira**](https://www.songkick.com/concerts/43219214-gondwana-at-auditorio-nacional) - [Auditorio Nacional](https://www.songkick.com/venues/34183-auditorio-nacional), Mexico City, Mexico
+- Wednesday 23 September 2026
+- [**De La Rose**](https://www.songkick.com/concerts/43212634-de-la-rose-at-teatro-metropolitan) - [Teatro Metropólitan](https://www.songkick.com/venues/44395-teatro-metropolitan), Mexico City, Mexico
+- Thursday 24 September 2026
+- [**Moenia**](https://www.songkick.com/concerts/43168839-moenia-at-palacio-de-los-deportes) - [Palacio de los Deportes](https://www.songkick.com/venues/31907-palacio-de-los-deportes), Mexico City, Mexico
+- [**Marco Mares**](https://www.songkick.com/concerts/43150971-marco-mares-at-teatro-metropolitan) - [Teatro Metropólitan](https://www.songkick.com/venues/44395-teatro-metropolitan), Mexico City, Mexico
+- [**Pastilla**](https://www.songkick.com/concerts/43113531-pastilla-at-gran-recinto) - [Gran Recinto](https://www.songkick.com/venues/3837629-gran-recinto), Tlalnepantla, Mexico
+- [**Lucero (MX)**](https://www.songkick.com/concerts/43178348-lucero-mx-at-auditorio-nacional) - [Auditorio Nacional](https://www.songkick.com/venues/34183-auditorio-nacional), Mexico City, Mexico
+- [**Erikku Onno**](https://www.songkick.com/concerts/42620608-erikku-onno-at-mexico-city-festival) - [Mexico City Festival](https://www.songkick.com/venues/2131814-mexico-city-festival), Mexico City, Mexico
+- [**GRTSCH**](https://www.songkick.com/concerts/43299642-grtsch-at-lunario-del-auditorio-nacional) - [Lunario Del Auditorio Nacional](https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional), Mexico City, Mexico
+- Friday 25 September 2026
+- [**The Neighbourhood**](https://www.songkick.com/concerts/42904919-neighbourhood-at-palacio-de-los-deportes) - [Palacio de los Deportes](https://www.songkick.com/venues/31907-palacio-de-los-deportes), Mexico City, Mexico
+- [**Stray Kids** NEXZ, Andrés Obregón, and Renee (MX)](https://www.songkick.com/concerts/43232372-stray-kids-at-estadio-gnp-seguros) - [Estadio GNP Seguros](https://www.songkick.com/venues/33578-estadio-gnp-seguros), Mexico City, Mexico
+- [**The Knocks**](https://www.songkick.com/concerts/43256167-knocks-at-foro-niebla) - [Foro Niebla](https://www.songkick.com/venues/4379084-foro-niebla), Mexico City, Mexico
+- [**Chetes** Kill Aniston](https://www.songkick.com/concerts/43146169-chetes-at-pabellon-del-palacio-de-los-deportes) - [Pabellón del Palacio de los Deportes](https://www.songkick.com/venues/1551083-pabellon-del-palacio-de-los-deportes), Mexico City, Mexico
+- [**Hocico** HOFFEN and ghostbells](https://www.songkick.com/concerts/43298643-hocico-at-doppler) - [Doppler](https://www.songkick.com/venues/2928958-doppler), Texcoco, Mexico
+- [**Nicho Hinojosa**](https://www.songkick.com/concerts/43283399-nicho-hinojosa-at-foro-stelaris-fiesta-americana-reforma) - [Foro Stelaris, Fiesta Americana Reforma](https://www.songkick.com/venues/4639533-foro-stelaris-fiesta-americana-reforma), Mexico City, Mexico
+- [**Winona Riders**](https://www.songkick.com/concerts/43123467-winona-riders-at-foro-puebla) - [Foro Puebla](https://www.songkick.com/venues/4506135-foro-puebla), Mexico City, Mexico
+- [**Billions of Comrades** Billions of Comrades (b)](https://www.songkick.com/concerts/43284839-billions-of-comrades-at-aldea-vikinga) - [Aldea Vikinga](https://www.songkick.com/venues/3372394-aldea-vikinga), Texcoco, Mexico
+- Saturday 26 September 2026
+- [**Stray Kids** NEXZ, Andrés Obregón, and Renee (MX)](https://www.songkick.com/concerts/43245254-stray-kids-at-estadio-gnp-seguros) - [Estadio GNP Seguros](https://www.songkick.com/venues/33578-estadio-gnp-seguros), Mexico City, Mexico
+- [**AFI**](https://www.songkick.com/concerts/43196114-afi-at-pabellon-del-palacio-de-los-deportes) - [Pabellón del Palacio de los Deportes](https://www.songkick.com/venues/1551083-pabellon-del-palacio-de-los-deportes), Mexico City, Mexico

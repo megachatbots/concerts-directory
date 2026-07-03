@@ -1,0 +1,9 @@
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Test files
+data/raw/test*.txt

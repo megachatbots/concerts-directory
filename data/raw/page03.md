@@ -1,0 +1,71 @@
+Mexico City Concerts, Festivals, Tickets & Tour Dates 2026 & 2027 – Songkick
+https://www.songkick.com/metro-areas/34385-mexico-mexico-city?page=3
+
+## 657 upcoming concerts
+
+- Saturday 18 July 2026
+- [**Guy J**](https://www.songkick.com/concerts/43182799-guy-j-at-looloo) - [LooLoo](https://www.songkick.com/venues/3769259-looloo), Mexico City, Mexico
+- [**DARKWAYS**](https://www.songkick.com/concerts/43049120-darkways-at-foro-veintiocho) - [Foro Veintiocho](https://www.songkick.com/venues/4416868-foro-veintiocho), Mexico City, Mexico
+- [**Antidoping**](https://www.songkick.com/concerts/43266313-antidoping-at-doppler) - [Doppler](https://www.songkick.com/venues/2928958-doppler), Texcoco, Mexico
+- [**Da Skate** DA-SKATE, Gula, Big Spin, and kenarban](https://www.songkick.com/concerts/43212515-da-skate-at-casa-desastre) - [Casa Desastre](https://www.songkick.com/venues/4477684-casa-desastre), Mexico City, Mexico
+- [**Rettchit** Maikeds, KOHZA, and Astrominate](https://www.songkick.com/concerts/43259897-rettchit-at-plaza-del-estudiante) - [Plaza del Estudiante](https://www.songkick.com/venues/4652877-plaza-del-estudiante), Mexico City, Mexico
+- [**Averly Morillo**](https://www.songkick.com/concerts/43264651-averly-morillo-at-gimnasio-multidisciplinario-de-la-uat) - [Gimnasio Multidisciplinario De La Uat](https://www.songkick.com/venues/4653276-gimnasio-multidisciplinario-de-la-uat), Mexico City, Mexico
+- Saturday 18 July 2026 – Saturday 18 July 2026
+- [**Ritual Siniestro 2026** Combichrist, ROMES, Violent Vickie, Calaverx, Disociados, and Lady Veneno](https://www.songkick.com/festivals/3790752-ritual-siniestro/id/43263974-ritual-siniestro-2026) - [Munet Museo de Energia y Tecnologia](https://www.songkick.com/venues/4545980-munet-museo-de-energia-y-tecnologia), Mexico City, Mexico
+- [**VXRGUIZAS KXBRONAS 2026** Unperro andaluz, Mengers, Grito Exclamac!ón, Rostro del Sol, Daebru, Cacomixtle, Los Biombos se queman, and Honey Pot (MX)](https://www.songkick.com/festivals/3791825-vxrguizas-kxbronas/id/43276220-vxrguizas-kxbronas-2026) - [Sangriento](https://www.songkick.com/venues/4418992-sangriento), Mexico City, Mexico
+- Sunday 19 July 2026
+- [**The Avalanches**](https://www.songkick.com/concerts/43186931-avalanches-at-campo-marte) - [Campo Marte](https://www.songkick.com/venues/1334681-campo-marte), Mexico City, Mexico
+- [**Eme MalaFe**](https://www.songkick.com/concerts/43276521-eme-malafe-at-explanada-de-la-alcadia-gustavo-a-madero) - [Explanada de la Alcadía Gustavo A. Madero](https://www.songkick.com/venues/4502237-explanada-de-la-alcadia-gustavo-a-madero), Mexico City, Mexico
+- Wednesday 22 July 2026
+- [**sombr** King Princess](https://www.songkick.com/concerts/43154940-sombr-at-pepsi-center-wtc) - [Pepsi Center WTC](https://www.songkick.com/venues/1774303-pepsi-center-wtc), Mexico City, Mexico
+- [**Flow and DOES** DJ Take](https://www.songkick.com/concerts/43284560-flow-at-foro-polanco) - [Foro Polanco](https://www.songkick.com/venues/2075269-foro-polanco), Mexico City, Mexico
+- Thursday 23 July 2026
+- [**Celest**](https://www.songkick.com/concerts/43182731-celest-at-foro-indie-rocks) - [Foro Indie Rocks](https://www.songkick.com/venues/1859763-foro-indie-rocks), Mexico City, Mexico
+- [**O-Key**](https://www.songkick.com/concerts/43232373-okey-at-lunario-del-auditorio-nacional) - [Lunario Del Auditorio Nacional](https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional), Mexico City, Mexico
+- Friday 24 July 2026
+- [**Fernando Delgadillo**](https://www.songkick.com/concerts/42877310-fernando-delgadillo-at-la-maraka) - [La Maraka](https://www.songkick.com/venues/1076291-la-maraka), Mexico City, Mexico
+- [**Lil Supa'**](https://www.songkick.com/concerts/43088384-lil-supa-at-foro-indie-rocks) - [Foro Indie Rocks](https://www.songkick.com/venues/1859763-foro-indie-rocks), Mexico City, Mexico
+- [**Santa Sabina**](https://www.songkick.com/concerts/43232376-santa-sabina-at-teatro-metropolitan) - [Teatro Metropólitan](https://www.songkick.com/venues/44395-teatro-metropolitan), Mexico City, Mexico
+- [**Los Dandy's**](https://www.songkick.com/concerts/43228518-los-dandys-at-lunario-del-auditorio-nacional) - [Lunario Del Auditorio Nacional](https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional), Mexico City, Mexico
+- Saturday 25 July 2026
+- [**El Tri**](https://www.songkick.com/concerts/43009790-el-tri-at-palacio-de-los-deportes) - [Palacio de los Deportes](https://www.songkick.com/venues/31907-palacio-de-los-deportes), Mexico City, Mexico
+- [**Grupo Marca Registrada**](https://www.songkick.com/concerts/43174225-grupo-marca-registrada-at-centro-de-convenciones-tlatelolco) - [Centro De Convenciones Tlatelolco](https://www.songkick.com/venues/127772-centro-de-convenciones-tlatelolco), Mexico City, Mexico
+- [**Porfi Baloa and David Pabon**](https://www.songkick.com/concerts/42873858-porfi-baloa-at-la-maraka) - [La Maraka](https://www.songkick.com/venues/1076291-la-maraka), Mexico City, Mexico
+- [**Anna Fiori** Cicuta and Velvet Darkness](https://www.songkick.com/concerts/43207352-anna-fiori-at-fuck-off-room) - [FÜCK OFF ROOM](https://www.songkick.com/venues/4540201-fuck-off-room), Mexico City, Mexico
+- [**Petite Amie**](https://www.songkick.com/concerts/43166284-petite-amie-at-foro-la-paz) - [Foro La Paz](https://www.songkick.com/venues/4471031-foro-la-paz), Mexico City, Mexico
+- [**Flvckka**](https://www.songkick.com/concerts/43168761-flvckka-at-foro-indie-rocks) - [Foro Indie Rocks](https://www.songkick.com/venues/1859763-foro-indie-rocks), Mexico City, Mexico
+- [**BlakLight and Carved Souls**](https://www.songkick.com/concerts/43176336-blaklight-at-real-under) - [Real Under](https://www.songkick.com/venues/4403776-real-under), Mexico City, Mexico
+- [**Carlos Macias**](https://www.songkick.com/concerts/43235200-carlos-macias-at-foro-stelaris-fiesta-americana-reforma) - [Foro Stelaris, Fiesta Americana Reforma](https://www.songkick.com/venues/4639533-foro-stelaris-fiesta-americana-reforma), Mexico City, Mexico
+- [**Amantes**](https://www.songkick.com/concerts/43258467-amantes-at-lunario-del-auditorio-nacional) - [Lunario Del Auditorio Nacional](https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional), Mexico City, Mexico
+- Saturday 25 July 2026 – Saturday 25 July 2026
+- [**More Juice Fest 2026** Lucho SSJ, Simpson Ahuevo, robot95, Tino El Pingüino, and Los Muchachos](https://www.songkick.com/festivals/3772214-more-juice-fest/id/43063906-more-juice-fest-2026) - [Pepsi Center WTC](https://www.songkick.com/venues/1774303-pepsi-center-wtc), Mexico City, Mexico
+- Sunday 26 July 2026
+- [**Los Panchos**](https://www.songkick.com/concerts/43228516-los-panchos-at-la-maraka) - [La Maraka](https://www.songkick.com/venues/1076291-la-maraka), Mexico City, Mexico
+- Wednesday 29 July 2026
+- [**Shawn James**](https://www.songkick.com/concerts/43217441-shawn-james-at-foro-indie-rocks) - [Foro Indie Rocks](https://www.songkick.com/venues/1859763-foro-indie-rocks), Mexico City, Mexico
+- [**La Renga**](https://www.songkick.com/concerts/43245258-la-renga-at-lunario-del-auditorio-nacional) - [Lunario Del Auditorio Nacional](https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional), Mexico City, Mexico
+- Friday 31 July 2026
+- [**Harry Styles** Jorja Smith](https://www.songkick.com/concerts/43003932-harry-styles-at-estadio-gnp-seguros) - [Estadio GNP Seguros](https://www.songkick.com/venues/33578-estadio-gnp-seguros), Mexico City, Mexico
+- [**The Red Jumpsuit Apparatus**](https://www.songkick.com/concerts/42997263-red-jumpsuit-apparatus-at-foro-veintiocho) - [Foro Veintiocho](https://www.songkick.com/venues/4416868-foro-veintiocho), Mexico City, Mexico
+- [**Bandalos Chinos**](https://www.songkick.com/concerts/43215528-bandalos-chinos-at-foro-a) - [Foro A](https://www.songkick.com/venues/1516898-foro-a), Tlalnepantla, Mexico
+- [**La Santa Grifa and Adan Cruz** Hispana and Solitario Mondragón](https://www.songkick.com/concerts/43274857-la-santa-grifa-at-foro-teambro) - [Foro Teambro](https://www.songkick.com/venues/4378754-foro-teambro), Mexico City, Mexico
+- [**Young Tender**](https://www.songkick.com/concerts/43224826-young-tender-at-foro-indie-rocks) - [Foro Indie Rocks](https://www.songkick.com/venues/1859763-foro-indie-rocks), Mexico City, Mexico
+- [**Los Tetas**](https://www.songkick.com/concerts/43254147-los-tetas-at-fuck-off-room) - [FÜCK OFF ROOM](https://www.songkick.com/venues/4540201-fuck-off-room), Mexico City, Mexico
+- [**La Rondalla De Saltillo**](https://www.songkick.com/concerts/43264385-la-rondalla-de-saltillo-at-teatro-tepeyac) - [Teatro Tepeyac](https://www.songkick.com/venues/986801-teatro-tepeyac), Mexico City, Mexico
+- [**Tolidos**](https://www.songkick.com/concerts/43188470-tolidos-at-foro-la-paz) - [Foro La Paz](https://www.songkick.com/venues/4471031-foro-la-paz), Mexico City, Mexico
+- [**Adiós Cometa** Cacomixtle](https://www.songkick.com/concerts/43195058-adios-cometa-at-film-club-cafe) - [Film Club Café](https://www.songkick.com/venues/2070419-film-club-cafe), Naucalpan, Mexico
+- Saturday 01 August 2026
+- [**Harry Styles** Jorja Smith](https://www.songkick.com/concerts/43003928-harry-styles-at-estadio-gnp-seguros) - [Estadio GNP Seguros](https://www.songkick.com/venues/33578-estadio-gnp-seguros), Mexico City, Mexico
+- [**Yuri**](https://www.songkick.com/concerts/43219121-yuri-at-auditorio-nacional) - [Auditorio Nacional](https://www.songkick.com/venues/34183-auditorio-nacional), Mexico City, Mexico
+- [**Human Tetris**](https://www.songkick.com/concerts/43224479-human-tetris-at-foro-indie-rocks) - [Foro Indie Rocks](https://www.songkick.com/venues/1859763-foro-indie-rocks), Mexico City, Mexico
+- [**Raul Di Blasio**](https://www.songkick.com/concerts/43003939-raul-di-blasio-at-la-maraka) - [La Maraka](https://www.songkick.com/venues/1076291-la-maraka), Mexico City, Mexico
+- [**El Shirota** No Somos Marineros, Grito Exclamac!ón, and Unperro andaluz](https://www.songkick.com/concerts/43261559-el-shirota-at-foro-a) - [Foro A](https://www.songkick.com/venues/1516898-foro-a), Tlalnepantla, Mexico
+- [**Seguimos Perdiendo**](https://www.songkick.com/concerts/43248172-seguimos-perdiendo-at-fuck-off-room) - [FÜCK OFF ROOM](https://www.songkick.com/venues/4540201-fuck-off-room), Mexico City, Mexico
+- [**rojoazul**](https://www.songkick.com/concerts/42995629-rojoazul-at-gato-calavera) - [Gato Calavera](https://www.songkick.com/venues/1385981-gato-calavera), Mexico City, Mexico
+- [**Charly Gynn**](https://www.songkick.com/concerts/43209815-charly-gynn-at-bajo-circuito-multiforo-urbano) - [Bajo Circuito Multiforo Urbano](https://www.songkick.com/venues/4335163-bajo-circuito-multiforo-urbano), Mexico City, Mexico
+- Saturday 01 August 2026 – Saturday 01 August 2026
+- [**Echa el Cable Fest 2026** V for Volume, Gloory Hole, los rucos de la terraza, and Guxano](https://www.songkick.com/festivals/3787393-echa-el-cable-fest/id/43231788-echa-el-cable-fest-2026) - [Ex-Foro Normandie](https://www.songkick.com/venues/3344039-exforo-normandie), Mexico City, Mexico
+- Sunday 02 August 2026
+- [**TEED**](https://www.songkick.com/concerts/43247612-teed-at-tabaqueros-tabaqueros) - [Tabaqueros Tabaqueros](https://www.songkick.com/venues/4436296-tabaqueros-tabaqueros), Mexico City, Mexico
+
+Page 3 of 14
