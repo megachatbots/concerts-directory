@@ -63,84 +63,78 @@ def scrape_page(page_num):
         # Try the broader container
         calendar = soup
 
-    # Walk through date headers and event items
-    for el in calendar.find_all(["h3", "li"]):
-        # Date headers
-        if el.name == "h3" and el.get("class") and "date" in " ".join(el.get("class", [])):
-            current_date = parse_date(el.get_text(strip=True))
+    # Walk through <li> elements — date headers and event items
+    for el in calendar.find_all("li"):
+        classes = " ".join(el.get("class", []))
+
+        # Date headers: <li class="date-element"> or <li class="after-ad date-element">
+        if "date-element" in classes and "event" not in classes:
+            # Try <time> element first (has datetime attr), fall back to text
+            time_el = el.find("time")
+            if time_el and time_el.get("datetime"):
+                # datetime="2026-07-02T20:00:00-0600" -> "2026-07-02"
+                current_date = time_el["datetime"][:10]
+            elif time_el:
+                current_date = parse_date(time_el.get_text(strip=True))
+            else:
+                current_date = parse_date(el.get_text(strip=True))
             continue
 
-        # Also catch date headers in different format
-        if el.name == "h3":
-            text = el.get_text(strip=True)
-            # Check if it looks like a date
-            if re.match(r"(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)\s+\d+\s+\w+\s+\d{4}", text):
-                current_date = parse_date(text)
-                continue
+        # Event items: <li class="event-listings-element">
+        if "event-listings-element" not in classes:
+            continue
 
-        # Event items
-        if el.name == "li" and el.get("class"):
-            classes = " ".join(el.get("class", []))
-            if "event" not in classes:
-                continue
+        concert = {"date": current_date, "source": "songkick"}
 
-            concert = {"date": current_date, "source": "songkick"}
+        # Artist name(s)
+        artist_el = el.find("p", class_="artists")
+        if not artist_el:
+            artist_el = el.find("a", class_="event-link")
+        if artist_el:
+            # Get individual artist links
+            artist_links = artist_el.find_all("a")
+            if artist_links:
+                artists = []
+                for a in artist_links:
+                    name = a.get_text(strip=True)
+                    if name and name.lower() not in ("", "more"):
+                        artists.append(name)
+                concert["artists"] = artists
+                concert["artist_display"] = ", ".join(artists) if artists else artist_el.get_text(strip=True)
+            else:
+                concert["artist_display"] = artist_el.get_text(strip=True)
+                concert["artists"] = [concert["artist_display"]]
 
-            # Artist name(s)
-            artist_el = el.find("p", class_="artists")
-            if not artist_el:
-                artist_el = el.find("a", class_="event-link")
-            if artist_el:
-                # Get individual artist links
-                artist_links = artist_el.find_all("a")
-                if artist_links:
-                    artists = []
-                    for a in artist_links:
-                        name = a.get_text(strip=True)
-                        if name and name.lower() not in ("", "more"):
-                            artists.append(name)
-                    concert["artists"] = artists
-                    concert["artist_display"] = ", ".join(artists) if artists else artist_el.get_text(strip=True)
-                else:
-                    concert["artist_display"] = artist_el.get_text(strip=True)
-                    concert["artists"] = [concert["artist_display"]]
+        # Concert detail URL
+        link_el = el.find("a", href=re.compile(r"/concerts/"))
+        if not link_el:
+            link_el = el.find("a", href=re.compile(r"/festivals/"))
+        if link_el:
+            href = link_el.get("href", "")
+            if href.startswith("/"):
+                href = f"https://www.songkick.com{href}"
+            concert["url"] = href
 
-            # Concert detail URL
-            link_el = el.find("a", href=re.compile(r"/concerts/"))
-            if not link_el:
-                link_el = el.find("a", href=re.compile(r"/festivals/"))
-            if link_el:
-                href = link_el.get("href", "")
-                if href.startswith("/"):
-                    href = f"https://www.songkick.com{href}"
-                concert["url"] = href
+        # Venue — now inside <p class="location"> as <a class="venue-link">
+        loc_el = el.find("p", class_="location")
+        if loc_el:
+            venue_link = loc_el.find("a", class_="venue-link")
+            if venue_link:
+                concert["venue"] = venue_link.get_text(strip=True)
+                venue_href = venue_link.get("href", "")
+                if venue_href.startswith("/"):
+                    venue_href = f"https://www.songkick.com{venue_href}"
+                concert["venue_url"] = venue_href
+            concert["location"] = loc_el.get_text(strip=True)
 
-            # Venue
-            venue_el = el.find("p", class_="venue-name") or el.find("span", class_="venue-name")
-            if venue_el:
-                venue_link = venue_el.find("a")
-                if venue_link:
-                    concert["venue"] = venue_link.get_text(strip=True)
-                    venue_href = venue_link.get("href", "")
-                    if venue_href.startswith("/"):
-                        venue_href = f"https://www.songkick.com{venue_href}"
-                    concert["venue_url"] = venue_href
-                else:
-                    concert["venue"] = venue_el.get_text(strip=True)
+        # Type tag (Outdoor, Festival, etc.)
+        tag_el = el.find("span", class_="type-tag") or el.find("p", class_="type")
+        if tag_el:
+            concert["tags"] = [tag_el.get_text(strip=True)]
 
-            # Location (city)
-            loc_el = el.find("p", class_="location")
-            if loc_el:
-                concert["location"] = loc_el.get_text(strip=True)
-
-            # Type tag (Outdoor, Festival, etc.)
-            tag_el = el.find("span", class_="type-tag") or el.find("p", class_="type")
-            if tag_el:
-                concert["tags"] = [tag_el.get_text(strip=True)]
-
-            # Only add if we got at least an artist or a URL
-            if concert.get("artist_display") or concert.get("url"):
-                concerts.append(concert)
+        # Only add if we got at least an artist or a URL
+        if concert.get("artist_display") or concert.get("url"):
+            concerts.append(concert)
 
     print(f"found {len(concerts)} concerts")
     return concerts

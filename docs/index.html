@@ -238,7 +238,7 @@ async function init() {
   try {
     const res = await fetch('data/concerts.json');
     const data = await res.json();
-    allConcerts = data.concerts;
+    allConcerts = data.concerts.filter(c => c.date);
 
     // Populate subtitle
     const first = allConcerts[0]?.date;
@@ -286,6 +286,7 @@ function render() {
       const haystack = (c.artist_display + ' ' + (c.venue || '') + ' ' + c.artists.join(' ')).toLowerCase();
       if (!haystack.includes(query)) return false;
     }
+    if (!c.date) return false;
     if (monthVal && !c.date.startsWith(monthVal)) return false;
     if (venueVal && c.venue !== venueVal) return false;
     return true;

@@ -45,8 +45,12 @@ def normalize_name(name):
 
 
 def make_dedup_key(concert):
-    """Create a dedup key from date + first artist name (normalized)."""
-    date = concert.get("date") or ""
+    """Create a dedup key from date + first artist name (normalized).
+    Returns None if date is missing — those concerts can't be deduped reliably.
+    """
+    date = concert.get("date")
+    if not date:
+        return None
     artists = concert.get("artists", [])
     first_artist = normalize_name(artists[0]) if artists else ""
     return f"{date}|{first_artist}"
@@ -66,7 +70,7 @@ def merge_concerts(concerts_a, concerts_b):
 
     for c in concerts_a:
         key = make_dedup_key(c)
-        if key and key != "|":
+        if key:
             index[key] = c
         merged.append(c)
 
@@ -76,7 +80,7 @@ def merge_concerts(concerts_a, concerts_b):
     for c in concerts_b:
         key = make_dedup_key(c)
 
-        if key and key != "|" and key in index:
+        if key and key in index:
             # Duplicate found — enrich the existing entry
             existing = index[key]
 
@@ -105,7 +109,7 @@ def merge_concerts(concerts_a, concerts_b):
         else:
             # New concert — add it
             merged.append(c)
-            if key and key != "|":
+            if key:
                 index[key] = c
             added += 1
 
