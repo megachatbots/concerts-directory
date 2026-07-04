@@ -1,89 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-07-03T09:17:14.335171Z",
-  "total_concerts": 599,
+  "scraped_at": "2026-07-04T08:35:44.502158Z",
+  "total_concerts": 595,
   "concerts": [
-    {
-      "date": "2026-07-03",
-      "source": "ticketmaster",
-      "artists": [
-        "Carlita"
-      ],
-      "artist_display": "Carlita",
-      "url": "https://www.ticketmaster.com.mx/carlita-campo-marte-santander-no-incluye-mexico-03-07-2026/event/140064908F264D65",
-      "ticket_url": "https://www.ticketmaster.com.mx/carlita-campo-marte-santander-no-incluye-mexico-03-07-2026/event/140064908F264D65",
-      "venue": "Campo Marte",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-07-03",
-      "source": "ticketmaster",
-      "artists": [
-        "Sinfónica de Minería"
-      ],
-      "artist_display": "Sinfónica de Minería",
-      "url": "https://www.ticketmaster.com.mx/sinfonica-de-mineria-dia-del-ingeniero-mexico-03-07-2026/event/3D0064D184451FF1",
-      "ticket_url": "https://www.ticketmaster.com.mx/sinfonica-de-mineria-dia-del-ingeniero-mexico-03-07-2026/event/3D0064D184451FF1",
-      "venue": "Sala Silvestre Revueltas",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Classical",
-        "Classical/Vocal"
-      ]
-    },
-    {
-      "date": "2026-07-03",
-      "source": "ticketmaster",
-      "artists": [
-        "San Francisco Disco Band"
-      ],
-      "artist_display": "San Francisco Disco Band",
-      "url": "https://www.ticketmaster.com.mx/san-francisco-disco-band-la-mejor-mexico-03-07-2026/event/3D006384A2594B8E",
-      "ticket_url": "https://www.ticketmaster.com.mx/san-francisco-disco-band-la-mejor-mexico-03-07-2026/event/3D006384A2594B8E",
-      "venue": "Foro Red Access",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-07-03",
-      "source": "ticketmaster",
-      "artists": [
-        "Kalimba"
-      ],
-      "artist_display": "Kalimba",
-      "url": "https://www.ticketmaster.com.mx/kalimba-hits-tour-mexico-03-07-2026/event/3D006434E0D7502F",
-      "ticket_url": "https://www.ticketmaster.com.mx/kalimba-hits-tour-mexico-03-07-2026/event/3D006434E0D7502F",
-      "venue": "La Maraka",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-07-03",
-      "source": "ticketmaster",
-      "artists": [
-        "Enrique Guzmán",
-        "Jose Luis Rodríguez"
-      ],
-      "artist_display": "Enrique Guzmán, Jose Luis Rodríguez",
-      "url": "https://www.ticketmaster.com.mx/jose-luis-rodriguez-el-puma-y-mexico-03-07-2026/event/3D00635D8E2A3F59",
-      "ticket_url": "https://www.ticketmaster.com.mx/jose-luis-rodriguez-el-puma-y-mexico-03-07-2026/event/3D00635D8E2A3F59",
-      "venue": "La Maraka",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Pop"
-      ]
-    },
     {
       "date": "2026-07-04",
       "source": "ticketmaster",
@@ -6167,6 +6087,22 @@
       "tags": [
         "Pop",
         "Electro Pop"
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "source": "ticketmaster",
+      "artists": [
+        "Airbag"
+      ],
+      "artist_display": "Airbag",
+      "url": "https://www.ticketmaster.com.mx/airbag-mexico-17-10-2026/event/14006472B18F8B81",
+      "ticket_url": "https://www.ticketmaster.com.mx/airbag-mexico-17-10-2026/event/14006472B18F8B81",
+      "venue": "Pepsi Center",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Pop"
       ]
     },
     {
