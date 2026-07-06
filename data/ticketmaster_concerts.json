@@ -1,56 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-07-05T08:51:47.118758Z",
-  "total_concerts": 588,
+  "scraped_at": "2026-07-06T10:19:40.462126Z",
+  "total_concerts": 585,
   "concerts": [
-    {
-      "date": "2026-07-04",
-      "source": "ticketmaster",
-      "artists": [
-        "Sinfónica de Minería"
-      ],
-      "artist_display": "Sinfónica de Minería",
-      "url": "https://www.ticketmaster.com.mx/sinfonica-de-mineria-abono-sabados-temporada-mexico-04-07-2026/event/3D0064ACC751B82B",
-      "ticket_url": "https://www.ticketmaster.com.mx/sinfonica-de-mineria-abono-sabados-temporada-mexico-04-07-2026/event/3D0064ACC751B82B",
-      "venue": "Sala Silvestre Revueltas",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Classical",
-        "Classical/Vocal"
-      ]
-    },
-    {
-      "date": "2026-07-05",
-      "source": "ticketmaster",
-      "artists": [
-        "Sinfónica de Minería"
-      ],
-      "artist_display": "Sinfónica de Minería",
-      "url": "https://www.ticketmaster.com.mx/sinfonica-de-mineria-temporada-de-verano-mexico-05-07-2026/event/3D0064ACBCC2A3EE",
-      "ticket_url": "https://www.ticketmaster.com.mx/sinfonica-de-mineria-temporada-de-verano-mexico-05-07-2026/event/3D0064ACBCC2A3EE",
-      "venue": "Sala Silvestre Revueltas",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Classical",
-        "Classical/Vocal"
-      ]
-    },
-    {
-      "date": "2026-07-05",
-      "source": "ticketmaster",
-      "artists": [
-        "Piaf Symphonique"
-      ],
-      "artist_display": "Piaf Symphonique",
-      "url": "https://www.ticketmaster.com.mx/piaf-sinfonico-mexico-05-07-2026/event/3D0064C58BD330A4",
-      "ticket_url": "https://www.ticketmaster.com.mx/piaf-sinfonico-mexico-05-07-2026/event/3D0064C58BD330A4",
-      "venue": "Teatro de la Ciudad Esperanza Iris",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Chanson Francaise"
-      ]
-    },
     {
       "date": "2026-07-05",
       "source": "ticketmaster",
