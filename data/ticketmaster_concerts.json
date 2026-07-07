@@ -1,25 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-07-06T10:19:40.462126Z",
-  "total_concerts": 585,
+  "scraped_at": "2026-07-07T09:39:42.635556Z",
+  "total_concerts": 586,
   "concerts": [
-    {
-      "date": "2026-07-05",
-      "source": "ticketmaster",
-      "artists": [
-        "Sinfónica de Minería"
-      ],
-      "artist_display": "Sinfónica de Minería",
-      "url": "https://www.ticketmaster.com.mx/sinfonica-de-mineria-abono-domingos-temporada-mexico-05-07-2026/event/3D0064ACB8FC9967",
-      "ticket_url": "https://www.ticketmaster.com.mx/sinfonica-de-mineria-abono-domingos-temporada-mexico-05-07-2026/event/3D0064ACB8FC9967",
-      "venue": "Sala Silvestre Revueltas",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Classical",
-        "Classical/Vocal"
-      ]
-    },
     {
       "date": "2026-07-07",
       "source": "ticketmaster",
@@ -58,8 +42,8 @@
         "Marcos Valle"
       ],
       "artist_display": "Marcos Valle",
-      "url": "https://www.ticketmaster.com.mx/marcos-valle-mexico-08-07-2026/event/140064AA91C57017",
-      "ticket_url": "https://www.ticketmaster.com.mx/marcos-valle-mexico-08-07-2026/event/140064AA91C57017",
+      "url": "https://www.ticketmaster.com.mx/marcos-valle-cambio-a-foro-indie-mexico-08-07-2026/event/140064AA91C57017",
+      "ticket_url": "https://www.ticketmaster.com.mx/marcos-valle-cambio-a-foro-indie-mexico-08-07-2026/event/140064AA91C57017",
       "venue": "Foro Polanco Moliere",
       "location": "México, Ciudad de México, Mexico",
       "tags": [
@@ -1740,6 +1724,21 @@
       "date": "2026-08-08",
       "source": "ticketmaster",
       "artists": [
+        "ROA"
+      ],
+      "artist_display": "ROA",
+      "url": "https://www.ticketmaster.com.mx/roa-mexico-08-08-2026/event/3D0064DA85C30EAA",
+      "ticket_url": "https://www.ticketmaster.com.mx/roa-mexico-08-08-2026/event/3D0064DA85C30EAA",
+      "venue": "Foro Puebla",
+      "location": "Mexico, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-08-08",
+      "source": "ticketmaster",
+      "artists": [
         "Shey Band"
       ],
       "artist_display": "Shey Band",
@@ -1989,19 +1988,6 @@
       "date": "2026-08-14",
       "source": "ticketmaster",
       "artists": [
-        "Festival Urbano",
-        "C-Kan"
-      ],
-      "artist_display": "Festival Urbano, C-Kan",
-      "url": "https://www.ticketmaster.com.mx/urbano-fest-mexico-14-08-2026/event/1400649789F73A7C",
-      "ticket_url": "https://www.ticketmaster.com.mx/urbano-fest-mexico-14-08-2026/event/1400649789F73A7C",
-      "venue": "Pepsi Center",
-      "location": "México, Ciudad de México, Mexico"
-    },
-    {
-      "date": "2026-08-14",
-      "source": "ticketmaster",
-      "artists": [
         "Arcángel"
       ],
       "artist_display": "Arcángel",
@@ -2059,19 +2045,6 @@
       "tags": [
         "Ballads/Romantic"
       ]
-    },
-    {
-      "date": "2026-08-15",
-      "source": "ticketmaster",
-      "artists": [
-        "Festival Urbano",
-        "C-Kan"
-      ],
-      "artist_display": "Festival Urbano, C-Kan",
-      "url": "https://www.ticketmaster.com.mx/urbano-fest-mexico-15-08-2026/event/140064A58B724468",
-      "ticket_url": "https://www.ticketmaster.com.mx/urbano-fest-mexico-15-08-2026/event/140064A58B724468",
-      "venue": "Pepsi Center",
-      "location": "México, Ciudad de México, Mexico"
     },
     {
       "date": "2026-08-15",
@@ -3814,6 +3787,21 @@
       "date": "2026-09-10",
       "source": "ticketmaster",
       "artists": [
+        "Leyendas el show"
+      ],
+      "artist_display": "Leyendas el show",
+      "url": "https://www.ticketmaster.com.mx/leyendas-ciudad-de-mexico-10-09-2026/event/3D0064C2EB8A8332",
+      "ticket_url": "https://www.ticketmaster.com.mx/leyendas-ciudad-de-mexico-10-09-2026/event/3D0064C2EB8A8332",
+      "venue": "Foro Stelaris Fiesta Americana Reforma",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Ballads/Romantic"
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "source": "ticketmaster",
+      "artists": [
         "La bande-son imaginaire"
       ],
       "artist_display": "La bande-son imaginaire",
@@ -4188,6 +4176,22 @@
       "tags": [
         "Metal",
         "Nu-Metal"
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "source": "ticketmaster",
+      "artists": [
+        "Evento Prueba"
+      ],
+      "artist_display": "Evento Prueba",
+      "url": "https://www.ticketmaster.com.mx/evento-prueba-iztacalco-15-09-2026/event/3D00647F166F8B09",
+      "ticket_url": "https://www.ticketmaster.com.mx/evento-prueba-iztacalco-15-09-2026/event/3D00647F166F8B09",
+      "venue": "Estadio Ticketmaster México",
+      "location": "Iztacalco, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -6966,6 +6970,21 @@
       "date": "2026-11-08",
       "source": "ticketmaster",
       "artists": [
+        "Los Panchos"
+      ],
+      "artist_display": "Los Panchos",
+      "url": "https://www.ticketmaster.com.mx/los-panchos-la-rondalla-del-amor-mexico-08-11-2026/event/140064C2E60E185C",
+      "ticket_url": "https://www.ticketmaster.com.mx/los-panchos-la-rondalla-del-amor-mexico-08-11-2026/event/140064C2E60E185C",
+      "venue": "Teatro Metropolitan",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "source": "ticketmaster",
+      "artists": [
         "Sin Fronteras"
       ],
       "artist_display": "Sin Fronteras",
@@ -7443,30 +7462,6 @@
       "url": "https://www.ticketmaster.com.mx/abono-banamex-plus-corona-capital-2026-mexico-20-11-2026/event/14006499E967D4F2",
       "ticket_url": "https://www.ticketmaster.com.mx/abono-banamex-plus-corona-capital-2026-mexico-20-11-2026/event/14006499E967D4F2",
       "venue": "Autodromo Hnos. Rodriguez",
-      "location": "México, Ciudad de México, Mexico"
-    },
-    {
-      "date": "2026-11-20",
-      "source": "ticketmaster",
-      "artists": [
-        "Time Warp"
-      ],
-      "artist_display": "Time Warp",
-      "url": "https://www.ticketmaster.com.mx/abono-general-time-warp-mexico-20-11-2026/event/14006497EE433B9B",
-      "ticket_url": "https://www.ticketmaster.com.mx/abono-general-time-warp-mexico-20-11-2026/event/14006497EE433B9B",
-      "venue": "Expo Santa Fe",
-      "location": "México, Ciudad de México, Mexico"
-    },
-    {
-      "date": "2026-11-20",
-      "source": "ticketmaster",
-      "artists": [
-        "Time Warp"
-      ],
-      "artist_display": "Time Warp",
-      "url": "https://www.ticketmaster.com.mx/abono-banamex-stage-vip-time-warp-mexico-20-11-2026/event/14006498D856EE30",
-      "ticket_url": "https://www.ticketmaster.com.mx/abono-banamex-stage-vip-time-warp-mexico-20-11-2026/event/14006498D856EE30",
-      "venue": "Expo Santa Fe",
       "location": "México, Ciudad de México, Mexico"
     },
     {
@@ -8712,6 +8707,19 @@
       "date": "2027-02-20",
       "source": "ticketmaster",
       "artists": [
+        "Festival Urbano",
+        "C-Kan"
+      ],
+      "artist_display": "Festival Urbano, C-Kan",
+      "url": "https://www.ticketmaster.com.mx/urbano-fest-mexico-20-02-2027/event/1400649789F73A7C",
+      "ticket_url": "https://www.ticketmaster.com.mx/urbano-fest-mexico-20-02-2027/event/1400649789F73A7C",
+      "venue": "Pepsi Center",
+      "location": "México, Ciudad de México, Mexico"
+    },
+    {
+      "date": "2027-02-20",
+      "source": "ticketmaster",
+      "artists": [
         "Jorge Drexler"
       ],
       "artist_display": "Jorge Drexler",
@@ -8723,6 +8731,19 @@
         "Rock",
         "Pop"
       ]
+    },
+    {
+      "date": "2027-02-21",
+      "source": "ticketmaster",
+      "artists": [
+        "Festival Urbano",
+        "C-Kan"
+      ],
+      "artist_display": "Festival Urbano, C-Kan",
+      "url": "https://www.ticketmaster.com.mx/urbano-fest-mexico-21-02-2027/event/140064A58B724468",
+      "ticket_url": "https://www.ticketmaster.com.mx/urbano-fest-mexico-21-02-2027/event/140064A58B724468",
+      "venue": "Pepsi Center",
+      "location": "México, Ciudad de México, Mexico"
     },
     {
       "date": "2027-02-21",
