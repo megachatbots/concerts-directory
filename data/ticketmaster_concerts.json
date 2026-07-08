@@ -1,24 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-07-07T09:39:42.635556Z",
-  "total_concerts": 586,
+  "scraped_at": "2026-07-08T08:26:38.455647Z",
+  "total_concerts": 595,
   "concerts": [
-    {
-      "date": "2026-07-07",
-      "source": "ticketmaster",
-      "artists": [
-        "Sala Principal Bellas Artes"
-      ],
-      "artist_display": "Sala Principal Bellas Artes",
-      "url": "https://www.ticketmaster.com.mx/asycteatro-de-movimiento-80-movimientos-coornd-mexico-cdmx-07-07-2026/event/3D00646F8FAE1AC2",
-      "ticket_url": "https://www.ticketmaster.com.mx/asycteatro-de-movimiento-80-movimientos-coornd-mexico-cdmx-07-07-2026/event/3D00646F8FAE1AC2",
-      "venue": "Palacio de Bellas Artes",
-      "location": "México CDMX, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
     {
       "date": "2026-07-08",
       "source": "ticketmaster",
@@ -276,6 +261,21 @@
       "ticket_url": "https://www.ticketmaster.com.mx/cross-road-bon-jovi-live-experience-mexico-11-07-2026/event/3D00648328C8A813",
       "venue": "Foro Red Access",
       "location": "México, Ciudad de México, Mexico"
+    },
+    {
+      "date": "2026-07-12",
+      "source": "ticketmaster",
+      "artists": [
+        "Sala Principal Bellas Artes"
+      ],
+      "artist_display": "Sala Principal Bellas Artes",
+      "url": "https://www.ticketmaster.com.mx/orquesta-sinfonica-de-mineria8-ingreso-1630-mexico-cdmx-12-07-2026/event/3D006489AE9A504A",
+      "ticket_url": "https://www.ticketmaster.com.mx/orquesta-sinfonica-de-mineria8-ingreso-1630-mexico-cdmx-12-07-2026/event/3D006489AE9A504A",
+      "venue": "Palacio de Bellas Artes",
+      "location": "México CDMX, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
     },
     {
       "date": "2026-07-14",
@@ -754,18 +754,6 @@
         "World",
         "Trova"
       ]
-    },
-    {
-      "date": "2026-07-25",
-      "source": "ticketmaster",
-      "artists": [
-        "Morejuice Fest"
-      ],
-      "artist_display": "Morejuice Fest",
-      "url": "https://www.ticketmaster.com.mx/morejuice-fest-mexico-25-07-2026/event/1400644CBCADC4B0",
-      "ticket_url": "https://www.ticketmaster.com.mx/morejuice-fest-mexico-25-07-2026/event/1400644CBCADC4B0",
-      "venue": "Pepsi Center",
-      "location": "México, Ciudad de México, Mexico"
     },
     {
       "date": "2026-07-25",
@@ -1254,6 +1242,21 @@
       "location": "México, Ciudad de México, Mexico",
       "tags": [
         "Other"
+      ]
+    },
+    {
+      "date": "2026-08-02",
+      "source": "ticketmaster",
+      "artists": [
+        "Sala Principal Bellas Artes"
+      ],
+      "artist_display": "Sala Principal Bellas Artes",
+      "url": "https://www.ticketmaster.com.mx/orquesta-sinfonica-de-mineria-8-ingreso-mexico-cdmx-02-08-2026/event/3D006489B03251A4",
+      "ticket_url": "https://www.ticketmaster.com.mx/orquesta-sinfonica-de-mineria-8-ingreso-mexico-cdmx-02-08-2026/event/3D006489B03251A4",
+      "venue": "Palacio de Bellas Artes",
+      "location": "México CDMX, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
       ]
     },
     {
@@ -2654,6 +2657,21 @@
       "date": "2026-08-23",
       "source": "ticketmaster",
       "artists": [
+        "Sala Principal Bellas Artes"
+      ],
+      "artist_display": "Sala Principal Bellas Artes",
+      "url": "https://www.ticketmaster.com.mx/orquesta-sinfonica-de-mineria-8-ingreso-mexico-cdmx-23-08-2026/event/3D006489B03251A8",
+      "ticket_url": "https://www.ticketmaster.com.mx/orquesta-sinfonica-de-mineria-8-ingreso-mexico-cdmx-23-08-2026/event/3D006489B03251A8",
+      "venue": "Palacio de Bellas Artes",
+      "location": "México CDMX, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-08-23",
+      "source": "ticketmaster",
+      "artists": [
         "Festival Mundial del Bolero"
       ],
       "artist_display": "Festival Mundial del Bolero",
@@ -2926,6 +2944,21 @@
       "date": "2026-08-28",
       "source": "ticketmaster",
       "artists": [
+        "Sala Principal Bellas Artes"
+      ],
+      "artist_display": "Sala Principal Bellas Artes",
+      "url": "https://www.ticketmaster.com.mx/grafias-gala-coreografos-contemporaneos-cnd10-ingreso-mexico-cdmx-28-08-2026/event/3D0064E1BEAE3BF9",
+      "ticket_url": "https://www.ticketmaster.com.mx/grafias-gala-coreografos-contemporaneos-cnd10-ingreso-mexico-cdmx-28-08-2026/event/3D0064E1BEAE3BF9",
+      "venue": "Palacio de Bellas Artes",
+      "location": "México CDMX, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-08-28",
+      "source": "ticketmaster",
+      "artists": [
         "Morir Poquito"
       ],
       "artist_display": "Morir Poquito",
@@ -3165,6 +3198,21 @@
       "tags": [
         "Classical",
         "Classical/Vocal"
+      ]
+    },
+    {
+      "date": "2026-08-30",
+      "source": "ticketmaster",
+      "artists": [
+        "Sala Principal Bellas Artes"
+      ],
+      "artist_display": "Sala Principal Bellas Artes",
+      "url": "https://www.ticketmaster.com.mx/grafias-gala-coreografos-contemporaneos-cnd10-ingreso-mexico-cdmx-30-08-2026/event/3D0064E1BFC03C4B",
+      "ticket_url": "https://www.ticketmaster.com.mx/grafias-gala-coreografos-contemporaneos-cnd10-ingreso-mexico-cdmx-30-08-2026/event/3D0064E1BFC03C4B",
+      "venue": "Palacio de Bellas Artes",
+      "location": "México CDMX, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
       ]
     },
     {
@@ -4102,6 +4150,18 @@
       "date": "2026-09-13",
       "source": "ticketmaster",
       "artists": [
+        "Morejuice Fest"
+      ],
+      "artist_display": "Morejuice Fest",
+      "url": "https://www.ticketmaster.com.mx/morejuice-fest-mexico-13-09-2026/event/1400644CBCADC4B0",
+      "ticket_url": "https://www.ticketmaster.com.mx/morejuice-fest-mexico-13-09-2026/event/1400644CBCADC4B0",
+      "venue": "Pepsi Center",
+      "location": "México, Ciudad de México, Mexico"
+    },
+    {
+      "date": "2026-09-13",
+      "source": "ticketmaster",
+      "artists": [
         "El amante de Gardel"
       ],
       "artist_display": "El amante de Gardel",
@@ -4842,7 +4902,8 @@
       "venue": "Estadio Alfredo Harp Helú",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -5292,6 +5353,22 @@
       "location": "Mexico, Ciudad de México, Mexico",
       "tags": [
         "Pop"
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "source": "ticketmaster",
+      "artists": [
+        "Of Monsters and Men"
+      ],
+      "artist_display": "Of Monsters and Men",
+      "url": "https://www.ticketmaster.com.mx/of-monsters-and-men-the-mouse-mexico-09-10-2026/event/140064D7BB81765E",
+      "ticket_url": "https://www.ticketmaster.com.mx/of-monsters-and-men-the-mouse-mexico-09-10-2026/event/140064D7BB81765E",
+      "venue": "Pepsi Center",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Folk",
+        "Indie Folk"
       ]
     },
     {
@@ -6893,6 +6970,21 @@
       "date": "2026-11-07",
       "source": "ticketmaster",
       "artists": [
+        "Coro Acardenchado"
+      ],
+      "artist_display": "Coro Acardenchado",
+      "url": "https://www.ticketmaster.com.mx/coro-acardenchado-x-aniversario-mexico-07-11-2026/event/3D0064E48C262BB1",
+      "ticket_url": "https://www.ticketmaster.com.mx/coro-acardenchado-x-aniversario-mexico-07-11-2026/event/3D0064E48C262BB1",
+      "venue": "Teatro de la Ciudad Esperanza Iris",
+      "location": "Mexico, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-11-07",
+      "source": "ticketmaster",
+      "artists": [
         "Morat"
       ],
       "artist_display": "Morat",
@@ -7319,6 +7411,22 @@
       "date": "2026-11-19",
       "source": "ticketmaster",
       "artists": [
+        "Orquesta Nacional de Jazz"
+      ],
+      "artist_display": "Orquesta Nacional de Jazz",
+      "url": "https://www.ticketmaster.com.mx/orquesta-nacional-de-jazz-mexico-19-11-2026/event/3D0064CC01D77F30",
+      "ticket_url": "https://www.ticketmaster.com.mx/orquesta-nacional-de-jazz-mexico-19-11-2026/event/3D0064CC01D77F30",
+      "venue": "Teatro de la Ciudad Esperanza Iris",
+      "location": "Mexico, Ciudad de México, Mexico",
+      "tags": [
+        "Music",
+        "Chamber Music"
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "source": "ticketmaster",
+      "artists": [
         "Arde Bogota"
       ],
       "artist_display": "Arde Bogota",
@@ -7462,6 +7570,30 @@
       "url": "https://www.ticketmaster.com.mx/abono-banamex-plus-corona-capital-2026-mexico-20-11-2026/event/14006499E967D4F2",
       "ticket_url": "https://www.ticketmaster.com.mx/abono-banamex-plus-corona-capital-2026-mexico-20-11-2026/event/14006499E967D4F2",
       "venue": "Autodromo Hnos. Rodriguez",
+      "location": "México, Ciudad de México, Mexico"
+    },
+    {
+      "date": "2026-11-20",
+      "source": "ticketmaster",
+      "artists": [
+        "Time Warp"
+      ],
+      "artist_display": "Time Warp",
+      "url": "https://www.ticketmaster.com.mx/abono-general-time-warp-mexico-20-11-2026/event/14006497EE433B9B",
+      "ticket_url": "https://www.ticketmaster.com.mx/abono-general-time-warp-mexico-20-11-2026/event/14006497EE433B9B",
+      "venue": "Expo Santa Fe",
+      "location": "México, Ciudad de México, Mexico"
+    },
+    {
+      "date": "2026-11-20",
+      "source": "ticketmaster",
+      "artists": [
+        "Time Warp"
+      ],
+      "artist_display": "Time Warp",
+      "url": "https://www.ticketmaster.com.mx/abono-banamex-stage-vip-time-warp-mexico-20-11-2026/event/14006498D856EE30",
+      "ticket_url": "https://www.ticketmaster.com.mx/abono-banamex-stage-vip-time-warp-mexico-20-11-2026/event/14006498D856EE30",
+      "venue": "Expo Santa Fe",
       "location": "México, Ciudad de México, Mexico"
     },
     {
@@ -8699,8 +8831,8 @@
       "venue": "Autodromo Hnos. Rodriguez",
       "location": "México, Ciudad de México, Mexico",
       "tags": [
-        "Pop",
-        "Electro Pop"
+        "Dance/Electronic",
+        "Amapiano"
       ]
     },
     {
