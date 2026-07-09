@@ -1,40 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-07-08T08:26:38.455647Z",
-  "total_concerts": 595,
+  "scraped_at": "2026-07-09T09:37:44.898020Z",
+  "total_concerts": 598,
   "concerts": [
-    {
-      "date": "2026-07-08",
-      "source": "ticketmaster",
-      "artists": [
-        "Modeselektor"
-      ],
-      "artist_display": "Modeselektor",
-      "url": "https://www.ticketmaster.com.mx/modeselektor-campo-marte-santander-no-incluye-mexico-08-07-2026/event/140064908F2B4D77",
-      "ticket_url": "https://www.ticketmaster.com.mx/modeselektor-campo-marte-santander-no-incluye-mexico-08-07-2026/event/140064908F2B4D77",
-      "venue": "Campo Marte",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-07-08",
-      "source": "ticketmaster",
-      "artists": [
-        "Marcos Valle"
-      ],
-      "artist_display": "Marcos Valle",
-      "url": "https://www.ticketmaster.com.mx/marcos-valle-cambio-a-foro-indie-mexico-08-07-2026/event/140064AA91C57017",
-      "ticket_url": "https://www.ticketmaster.com.mx/marcos-valle-cambio-a-foro-indie-mexico-08-07-2026/event/140064AA91C57017",
-      "venue": "Foro Polanco Moliere",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Jazz"
-      ]
-    },
     {
       "date": "2026-07-09",
       "source": "ticketmaster",
@@ -423,6 +392,21 @@
       "artist_display": "Grupo Firme",
       "url": "https://www.ticketmaster.com.mx/grupo-firme-ciudad-de-mexico-17-07-2026/event/14006491C78DD35E",
       "ticket_url": "https://www.ticketmaster.com.mx/grupo-firme-ciudad-de-mexico-17-07-2026/event/14006491C78DD35E",
+      "venue": "Estadio GNP Seguros",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-07-17",
+      "source": "ticketmaster",
+      "artists": [
+        "Grupo Firme"
+      ],
+      "artist_display": "Grupo Firme",
+      "url": "https://www.ticketmaster.com.mx/grupo-firme-zona-vibra-ciudad-de-mexico-17-07-2026/event/14006491AB1D91F4",
+      "ticket_url": "https://www.ticketmaster.com.mx/grupo-firme-zona-vibra-ciudad-de-mexico-17-07-2026/event/14006491AB1D91F4",
       "venue": "Estadio GNP Seguros",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
@@ -2015,8 +1999,8 @@
       "venue": "El Lunario del Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop",
-        "Electro Pop"
+        "Dance/Electronic",
+        "Amapiano"
       ]
     },
     {
@@ -2328,16 +2312,15 @@
       "date": "2026-08-20",
       "source": "ticketmaster",
       "artists": [
-        "Homenaje a Mercedes Sosa \"Con la piel de América\""
+        "Mercedes Sosa"
       ],
-      "artist_display": "Homenaje a Mercedes Sosa \"Con la piel de América\"",
+      "artist_display": "Mercedes Sosa",
       "url": "https://www.ticketmaster.com.mx/homenaje-a-mercedes-sosa-con-la-mexico-20-08-2026/event/3D0064DDE2F837A1",
       "ticket_url": "https://www.ticketmaster.com.mx/homenaje-a-mercedes-sosa-con-la-mexico-20-08-2026/event/3D0064DDE2F837A1",
       "venue": "Teatro de la Ciudad Esperanza Iris",
       "location": "Mexico, Ciudad de México, Mexico",
       "tags": [
-        "Hip-Hop/Rap",
-        "Reggaeton"
+        "Latin"
       ]
     },
     {
@@ -2913,6 +2896,21 @@
       "date": "2026-08-27",
       "source": "ticketmaster",
       "artists": [
+        "Leyendas el show"
+      ],
+      "artist_display": "Leyendas el show",
+      "url": "https://www.ticketmaster.com.mx/leyendas-ciudad-de-mexico-27-08-2026/event/3D0064C2EB89832D",
+      "ticket_url": "https://www.ticketmaster.com.mx/leyendas-ciudad-de-mexico-27-08-2026/event/3D0064C2EB89832D",
+      "venue": "Foro Stelaris Fiesta Americana Reforma",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Ballads/Romantic"
+      ]
+    },
+    {
+      "date": "2026-08-27",
+      "source": "ticketmaster",
+      "artists": [
         "Victor Garcia"
       ],
       "artist_display": "Victor Garcia",
@@ -3178,6 +3176,21 @@
       "artist_display": "Enjambre",
       "url": "https://www.ticketmaster.com.mx/enjambre-ciudad-de-mexico-29-08-2026/event/1400648898E65B09",
       "ticket_url": "https://www.ticketmaster.com.mx/enjambre-ciudad-de-mexico-29-08-2026/event/1400648898E65B09",
+      "venue": "Estadio GNP Seguros",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-08-29",
+      "source": "ticketmaster",
+      "artists": [
+        "Enjambre"
+      ],
+      "artist_display": "Enjambre",
+      "url": "https://www.ticketmaster.com.mx/enjambre-zona-vibra-ciudad-de-mexico-29-08-2026/event/1400648996805A42",
+      "ticket_url": "https://www.ticketmaster.com.mx/enjambre-zona-vibra-ciudad-de-mexico-29-08-2026/event/1400648996805A42",
       "venue": "Estadio GNP Seguros",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
@@ -4111,6 +4124,22 @@
       "date": "2026-09-12",
       "source": "ticketmaster",
       "artists": [
+        "Alive, una fiesta en el tiempo"
+      ],
+      "artist_display": "Alive, una fiesta en el tiempo",
+      "url": "https://www.ticketmaster.com.mx/alive-ciudad-de-mexico-12-09-2026/event/3D0064E7B1FE2E19",
+      "ticket_url": "https://www.ticketmaster.com.mx/alive-ciudad-de-mexico-12-09-2026/event/3D0064E7B1FE2E19",
+      "venue": "Foro Stelaris Fiesta Americana Reforma",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "source": "ticketmaster",
+      "artists": [
         "Angelo Diep"
       ],
       "artist_display": "Angelo Diep",
@@ -4827,6 +4856,22 @@
       "tags": [
         "Rock",
         "Alternative Rock"
+      ]
+    },
+    {
+      "date": "2026-09-26",
+      "source": "ticketmaster",
+      "artists": [
+        "Alive, una fiesta en el tiempo"
+      ],
+      "artist_display": "Alive, una fiesta en el tiempo",
+      "url": "https://www.ticketmaster.com.mx/alive-ciudad-de-mexico-26-09-2026/event/3D0064E7B7AA32F4",
+      "ticket_url": "https://www.ticketmaster.com.mx/alive-ciudad-de-mexico-26-09-2026/event/3D0064E7B7AA32F4",
+      "venue": "Foro Stelaris Fiesta Americana Reforma",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -6174,7 +6219,8 @@
       "venue": "Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -6839,7 +6885,8 @@
       "venue": "Teatro Metropolitan",
       "location": "México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {

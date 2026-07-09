@@ -5,40 +5,9 @@
     "ticketmaster"
   ],
   "metro_area": "Mexico City",
-  "scraped_at": "2026-07-08T08:26:38.481948Z",
-  "total_concerts": 906,
+  "scraped_at": "2026-07-09T09:37:44.921535Z",
+  "total_concerts": 910,
   "concerts": [
-    {
-      "date": "2026-07-08",
-      "source": "ticketmaster",
-      "artists": [
-        "Modeselektor"
-      ],
-      "artist_display": "Modeselektor",
-      "url": "https://www.ticketmaster.com.mx/modeselektor-campo-marte-santander-no-incluye-mexico-08-07-2026/event/140064908F2B4D77",
-      "ticket_url": "https://www.ticketmaster.com.mx/modeselektor-campo-marte-santander-no-incluye-mexico-08-07-2026/event/140064908F2B4D77",
-      "venue": "Campo Marte",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-07-08",
-      "source": "ticketmaster",
-      "artists": [
-        "Marcos Valle"
-      ],
-      "artist_display": "Marcos Valle",
-      "url": "https://www.ticketmaster.com.mx/marcos-valle-cambio-a-foro-indie-mexico-08-07-2026/event/140064AA91C57017",
-      "ticket_url": "https://www.ticketmaster.com.mx/marcos-valle-cambio-a-foro-indie-mexico-08-07-2026/event/140064AA91C57017",
-      "venue": "Foro Polanco Moliere",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Jazz"
-      ]
-    },
     {
       "date": "2026-07-09",
       "source": "ticketmaster",
@@ -467,18 +436,6 @@
       "date": "2026-07-18",
       "source": "songkick",
       "artists": [
-        "RettchitMaikeds, KOHZA, and Astrominate"
-      ],
-      "artist_display": "RettchitMaikeds, KOHZA, and Astrominate",
-      "url": "https://www.songkick.com/concerts/43259897-rettchit-at-plaza-del-estudiante",
-      "venue": "Plaza del Estudiante",
-      "venue_url": "https://www.songkick.com/venues/4652877-plaza-del-estudiante",
-      "location": "Plaza del Estudiante,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-07-18",
-      "source": "songkick",
-      "artists": [
         "Los EsquizitosBlack Casino"
       ],
       "artist_display": "Los EsquizitosBlack Casino",
@@ -694,9 +651,9 @@
       ],
       "artist_display": "Celest",
       "url": "https://www.songkick.com/concerts/43182731-celest-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks",
+      "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks,Mexico City, Mexico"
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
     },
     {
       "date": "2026-07-23",
@@ -777,9 +734,9 @@
       ],
       "artist_display": "Lil Supa'",
       "url": "https://www.songkick.com/concerts/43088384-lil-supa-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks",
+      "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks,Mexico City, Mexico"
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
     },
     {
       "date": "2026-07-24",
@@ -968,9 +925,9 @@
       ],
       "artist_display": "Flvckka",
       "url": "https://www.songkick.com/concerts/43168761-flvckka-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks",
+      "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks,Mexico City, Mexico"
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
     },
     {
       "date": "2026-07-25",
@@ -1227,9 +1184,9 @@
       ],
       "artist_display": "Shawn James",
       "url": "https://www.songkick.com/concerts/43217441-shawn-james-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks",
+      "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks,Mexico City, Mexico"
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
     },
     {
       "date": "2026-07-29",
@@ -1329,9 +1286,9 @@
       ],
       "artist_display": "Young Tender",
       "url": "https://www.songkick.com/concerts/43224826-young-tender-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks",
+      "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks,Mexico City, Mexico"
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
     },
     {
       "date": "2026-07-31",
@@ -1378,13 +1335,13 @@
       "date": "2026-07-31",
       "source": "songkick",
       "artists": [
-        "Adiós CometaCacomixtle"
+        "Riot V"
       ],
-      "artist_display": "Adiós CometaCacomixtle",
-      "url": "https://www.songkick.com/concerts/43195058-adios-cometa-at-film-club-cafe",
-      "venue": "Film Club Café",
-      "venue_url": "https://www.songkick.com/venues/2070419-film-club-cafe",
-      "location": "Film Club Café,Naucalpan, Mexico"
+      "artist_display": "Riot V",
+      "url": "https://www.songkick.com/concerts/43077724-riot-v-at-circo-volador",
+      "venue": "Circo Volador",
+      "venue_url": "https://www.songkick.com/venues/49859-circo-volador",
+      "location": "Circo Volador,Mexico City, Mexico"
     },
     {
       "date": "2026-07-31",
@@ -1497,9 +1454,9 @@
       ],
       "artist_display": "Human Tetris",
       "url": "https://www.songkick.com/concerts/43224479-human-tetris-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks",
+      "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks,Mexico City, Mexico"
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
     },
     {
       "date": "2026-08-01",
@@ -2294,9 +2251,9 @@
       ],
       "artist_display": "La Bestia Aniversario 2026Touché Amoré, La Vida Bohéme, Sadfields, and Chivos",
       "url": "https://www.songkick.com/festivals/3792707-la-bestia-aniversario/id/43286603-la-bestia-aniversario-2026",
-      "venue": "Foro Indie Rocks",
+      "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks,Mexico City, Mexico"
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
     },
     {
       "date": "2026-08-08",
@@ -2518,9 +2475,9 @@
       ],
       "artist_display": "Plastilina Mosh",
       "url": "https://www.songkick.com/concerts/43294269-plastilina-mosh-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks",
+      "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks,Mexico City, Mexico"
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
     },
     {
       "date": "2026-08-11",
@@ -2630,6 +2587,18 @@
     },
     {
       "date": "2026-08-13",
+      "source": "songkick",
+      "artists": [
+        "El David Aguilar"
+      ],
+      "artist_display": "El David Aguilar",
+      "url": "https://www.songkick.com/concerts/43312675-el-david-aguilar-at-foro-indie-rocks",
+      "venue": "Foro Indie Rocks!",
+      "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-08-13",
       "source": "ticketmaster",
       "artists": [
         "Antonio Vivaldi"
@@ -2728,8 +2697,8 @@
       "location": "Lunario Del Auditorio Nacional,Mexico City, Mexico",
       "ticket_url": "https://www.ticketmaster.com.mx/beach-weather-ciudad-de-mexico-14-08-2026/event/3D00648BC8665539",
       "tags": [
-        "Electro Pop",
-        "Pop"
+        "Amapiano",
+        "Dance/Electronic"
       ]
     },
     {
@@ -2788,13 +2757,13 @@
       "date": "2026-08-14",
       "source": "songkick",
       "artists": [
-        "Skillbea"
+        "VampaBADVOID"
       ],
-      "artist_display": "Skillbea",
-      "url": "https://www.songkick.com/concerts/43209814-skillbea-at-bajo-circuito-multiforo-urbano",
-      "venue": "Bajo Circuito Multiforo Urbano",
-      "venue_url": "https://www.songkick.com/venues/4335163-bajo-circuito-multiforo-urbano",
-      "location": "Bajo Circuito Multiforo Urbano,Mexico City, Mexico"
+      "artist_display": "VampaBADVOID",
+      "url": "https://www.songkick.com/concerts/43230417-vampa-at-foro-1869",
+      "venue": "Foro 1869",
+      "venue_url": "https://www.songkick.com/venues/3826719-foro-1869",
+      "location": "Foro 1869,Mexico City, Mexico"
     },
     {
       "date": "2026-08-14",
@@ -3242,9 +3211,9 @@
       ],
       "artist_display": "Sarah Kinsley",
       "url": "https://www.songkick.com/concerts/43198445-sarah-kinsley-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks",
+      "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks,Mexico City, Mexico"
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
     },
     {
       "date": "2026-08-20",
@@ -3306,16 +3275,15 @@
       "date": "2026-08-20",
       "source": "ticketmaster",
       "artists": [
-        "Homenaje a Mercedes Sosa \"Con la piel de América\""
+        "Mercedes Sosa"
       ],
-      "artist_display": "Homenaje a Mercedes Sosa \"Con la piel de América\"",
+      "artist_display": "Mercedes Sosa",
       "url": "https://www.ticketmaster.com.mx/homenaje-a-mercedes-sosa-con-la-mexico-20-08-2026/event/3D0064DDE2F837A1",
       "ticket_url": "https://www.ticketmaster.com.mx/homenaje-a-mercedes-sosa-con-la-mexico-20-08-2026/event/3D0064DDE2F837A1",
       "venue": "Teatro de la Ciudad Esperanza Iris",
       "location": "Mexico, Ciudad de México, Mexico",
       "tags": [
-        "Hip-Hop/Rap",
-        "Reggaeton"
+        "Latin"
       ]
     },
     {
@@ -3599,9 +3567,9 @@
       ],
       "artist_display": "Bestia Bebé",
       "url": "https://www.songkick.com/concerts/43168759-bestia-bebe-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks",
+      "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks,Mexico City, Mexico"
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
     },
     {
       "date": "2026-08-22",
@@ -3712,9 +3680,9 @@
       ],
       "artist_display": "Zola Jesus",
       "url": "https://www.songkick.com/concerts/43217438-zola-jesus-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks",
+      "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks,Mexico City, Mexico"
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
     },
     {
       "date": "2026-08-23",
@@ -4004,6 +3972,21 @@
       "location": "México, Ciudad de México, Mexico",
       "tags": [
         "Other"
+      ]
+    },
+    {
+      "date": "2026-08-27",
+      "source": "ticketmaster",
+      "artists": [
+        "Leyendas el show"
+      ],
+      "artist_display": "Leyendas el show",
+      "url": "https://www.ticketmaster.com.mx/leyendas-ciudad-de-mexico-27-08-2026/event/3D0064C2EB89832D",
+      "ticket_url": "https://www.ticketmaster.com.mx/leyendas-ciudad-de-mexico-27-08-2026/event/3D0064C2EB89832D",
+      "venue": "Foro Stelaris Fiesta Americana Reforma",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Ballads/Romantic"
       ]
     },
     {
@@ -4942,9 +4925,9 @@
       ],
       "artist_display": "Psyched! Fest México 2026Santa Sabina, Vondré, Gloory Hole, and Cacomixtle",
       "url": "https://www.songkick.com/festivals/3785436-psyched-fest-mexico/id/43231753-psyched-fest-mxico-2026",
-      "venue": "Foro Indie Rocks",
+      "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks,Mexico City, Mexico"
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
     },
     {
       "date": "2026-09-05",
@@ -5096,9 +5079,9 @@
       ],
       "artist_display": "DON WEST",
       "url": "https://www.songkick.com/concerts/43304584-don-west-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks",
+      "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks,Mexico City, Mexico"
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
     },
     {
       "date": "2026-09-08",
@@ -5139,9 +5122,9 @@
       ],
       "artist_display": "DON WEST",
       "url": "https://www.songkick.com/concerts/43225319-don-west-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks",
+      "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks,Mexico City, Mexico"
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
     },
     {
       "date": "2026-09-09",
@@ -5253,9 +5236,9 @@
       ],
       "artist_display": "Rafa Arreguín",
       "url": "https://www.songkick.com/concerts/42965666-rafa-arreguin-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks",
+      "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks,Mexico City, Mexico"
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
     },
     {
       "date": "2026-09-10",
@@ -5496,9 +5479,9 @@
       ],
       "artist_display": "maye",
       "url": "https://www.songkick.com/concerts/43252950-maye-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks",
+      "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks,Mexico City, Mexico"
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
     },
     {
       "date": "2026-09-12",
@@ -5627,6 +5610,22 @@
       "date": "2026-09-12",
       "source": "ticketmaster",
       "artists": [
+        "Alive, una fiesta en el tiempo"
+      ],
+      "artist_display": "Alive, una fiesta en el tiempo",
+      "url": "https://www.ticketmaster.com.mx/alive-ciudad-de-mexico-12-09-2026/event/3D0064E7B1FE2E19",
+      "ticket_url": "https://www.ticketmaster.com.mx/alive-ciudad-de-mexico-12-09-2026/event/3D0064E7B1FE2E19",
+      "venue": "Foro Stelaris Fiesta Americana Reforma",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "source": "ticketmaster",
+      "artists": [
         "Angelo Diep"
       ],
       "artist_display": "Angelo Diep",
@@ -5704,9 +5703,9 @@
       ],
       "artist_display": "W.I.T.C.H. (We Intend To Cause Havoc)WE INTEND TO CAUSE HAVOC",
       "url": "https://www.songkick.com/concerts/43259408-witch-we-intend-to-cause-havoc-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks",
+      "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks,Mexico City, Mexico"
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
     },
     {
       "date": "2026-09-13",
@@ -5881,9 +5880,9 @@
       ],
       "artist_display": "Inner Wave",
       "url": "https://www.songkick.com/concerts/43291334-inner-wave-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks",
+      "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks,Mexico City, Mexico"
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
     },
     {
       "date": "2026-09-17",
@@ -6724,6 +6723,18 @@
     },
     {
       "date": "2026-09-26",
+      "source": "songkick",
+      "artists": [
+        "A-live"
+      ],
+      "artist_display": "A-live",
+      "url": "https://www.songkick.com/concerts/43314518-alive-at-foro-stelaris-fiesta-americana-reforma",
+      "venue": "Foro Stelaris, Fiesta Americana Reforma",
+      "venue_url": "https://www.songkick.com/venues/4639533-foro-stelaris-fiesta-americana-reforma",
+      "location": "Foro Stelaris, Fiesta Americana Reforma,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-26",
       "source": "ticketmaster",
       "artists": [
         "Stray Kids"
@@ -6767,6 +6778,22 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2026-09-26",
+      "source": "ticketmaster",
+      "artists": [
+        "Alive, una fiesta en el tiempo"
+      ],
+      "artist_display": "Alive, una fiesta en el tiempo",
+      "url": "https://www.ticketmaster.com.mx/alive-ciudad-de-mexico-26-09-2026/event/3D0064E7B7AA32F4",
+      "ticket_url": "https://www.ticketmaster.com.mx/alive-ciudad-de-mexico-26-09-2026/event/3D0064E7B7AA32F4",
+      "venue": "Foro Stelaris Fiesta Americana Reforma",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -6870,9 +6897,9 @@
       ],
       "artist_display": "Chiara Oliver",
       "url": "https://www.songkick.com/concerts/43170603-chiara-oliver-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks",
+      "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks,Mexico City, Mexico"
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
     },
     {
       "date": "2026-09-30",
@@ -7109,6 +7136,30 @@
     },
     {
       "date": "2026-10-02",
+      "source": "songkick",
+      "artists": [
+        "A Flock of Seagulls"
+      ],
+      "artist_display": "A Flock of Seagulls",
+      "url": "https://www.songkick.com/concerts/43313831-a-flock-of-seagulls-at-sala-urbana",
+      "venue": "Sala Urbana",
+      "venue_url": "https://www.songkick.com/venues/4453196-sala-urbana",
+      "location": "Sala Urbana,Naucalpan, Mexico"
+    },
+    {
+      "date": "2026-10-02",
+      "source": "songkick",
+      "artists": [
+        "Sasha & John DigweedSasha and John Digweed"
+      ],
+      "artist_display": "Sasha & John DigweedSasha and John Digweed",
+      "url": "https://www.songkick.com/concerts/43314423-sasha-and-john-digweed-at-fronton-bucareli",
+      "venue": "Fronton Bucareli",
+      "venue_url": "https://www.songkick.com/venues/4461516-fronton-bucareli",
+      "location": "Fronton Bucareli,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-10-02",
       "source": "ticketmaster",
       "artists": [
         "Hija de la Luna",
@@ -7336,9 +7387,9 @@
       ],
       "artist_display": "Penyair",
       "url": "https://www.songkick.com/concerts/43311071-penyair-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks",
+      "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks,Mexico City, Mexico"
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
     },
     {
       "date": "2026-10-04",
@@ -7480,9 +7531,9 @@
       ],
       "artist_display": "POiSON GiRL FRiEND",
       "url": "https://www.songkick.com/concerts/43297937-poison-girl-friend-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks",
+      "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks,Mexico City, Mexico"
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
     },
     {
       "date": "2026-10-08",
@@ -7611,6 +7662,23 @@
       "date": "2026-10-09",
       "source": "songkick",
       "artists": [
+        "Of Monsters and Men"
+      ],
+      "artist_display": "Of Monsters and Men",
+      "url": "https://www.songkick.com/concerts/43311526-of-monsters-and-men-at-pepsi-center",
+      "venue": "Pepsi Center",
+      "venue_url": "https://www.songkick.com/venues/4642353-pepsi-center",
+      "location": "Pepsi Center,Mexico City, Mexico",
+      "ticket_url": "https://www.ticketmaster.com.mx/of-monsters-and-men-the-mouse-mexico-09-10-2026/event/140064D7BB81765E",
+      "tags": [
+        "Folk",
+        "Indie Folk"
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "source": "songkick",
+      "artists": [
         "Alvaro Díaz"
       ],
       "artist_display": "Alvaro Díaz",
@@ -7656,9 +7724,9 @@
       ],
       "artist_display": "Vlad Holiday",
       "url": "https://www.songkick.com/concerts/43261840-vlad-holiday-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks",
+      "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks,Mexico City, Mexico"
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
     },
     {
       "date": "2026-10-09",
@@ -7704,22 +7772,6 @@
       "date": "2026-10-09",
       "source": "songkick",
       "artists": [
-        "Meme Del Real"
-      ],
-      "artist_display": "Meme Del Real",
-      "url": "https://www.songkick.com/concerts/43254173-meme-del-real-at-teatro-metropolitan",
-      "venue": "Teatro Metropólitan",
-      "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
-      "location": "Teatro Metropólitan,Mexico City, Mexico",
-      "ticket_url": "https://www.ticketmaster.com.mx/meme-del-real-mexico-09-10-2026/event/140064BE836F4C03",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-10-09",
-      "source": "songkick",
-      "artists": [
         "Ska Fest 2026Smash Mouth, Tokyo Ska Paradise Orchestra, Los de Abajo, La Resistencia, Almalafa, and ¡Fuákata!"
       ],
       "artist_display": "Ska Fest 2026Smash Mouth, Tokyo Ska Paradise Orchestra, Los de Abajo, La Resistencia, Almalafa, and ¡Fuákata!",
@@ -7727,6 +7779,21 @@
       "venue": "Velódromo Olímpico",
       "venue_url": "https://www.songkick.com/venues/451101-velodromo-olimpico",
       "location": "Velódromo Olímpico,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-10-09",
+      "source": "ticketmaster",
+      "artists": [
+        "Meme del Real"
+      ],
+      "artist_display": "Meme del Real",
+      "url": "https://www.ticketmaster.com.mx/meme-del-real-mexico-09-10-2026/event/140064BE836F4C03",
+      "ticket_url": "https://www.ticketmaster.com.mx/meme-del-real-mexico-09-10-2026/event/140064BE836F4C03",
+      "venue": "Teatro Metropolitan",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
     },
     {
       "date": "2026-10-09",
@@ -7742,22 +7809,6 @@
       "tags": [
         "Pop",
         "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-10-09",
-      "source": "ticketmaster",
-      "artists": [
-        "Of Monsters and Men"
-      ],
-      "artist_display": "Of Monsters and Men",
-      "url": "https://www.ticketmaster.com.mx/of-monsters-and-men-the-mouse-mexico-09-10-2026/event/140064D7BB81765E",
-      "ticket_url": "https://www.ticketmaster.com.mx/of-monsters-and-men-the-mouse-mexico-09-10-2026/event/140064D7BB81765E",
-      "venue": "Pepsi Center",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Folk",
-        "Indie Folk"
       ]
     },
     {
@@ -7799,9 +7850,9 @@
       ],
       "artist_display": "Son Lux",
       "url": "https://www.songkick.com/concerts/43228195-son-lux-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks",
+      "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks,Mexico City, Mexico"
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
     },
     {
       "date": "2026-10-10",
@@ -7840,18 +7891,6 @@
       "date": "2026-10-10",
       "source": "songkick",
       "artists": [
-        "No Fun At AllAuthority Zero, AXPI, and Kinderplay"
-      ],
-      "artist_display": "No Fun At AllAuthority Zero, AXPI, and Kinderplay",
-      "url": "https://www.songkick.com/concerts/43070849-no-fun-at-all-at-multiforo-alicia",
-      "venue": "Multiforo Alicia",
-      "venue_url": "https://www.songkick.com/venues/120456-multiforo-alicia",
-      "location": "Multiforo Alicia,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-10",
-      "source": "songkick",
-      "artists": [
         "EngelwoodMACROSS 82-99 and Neon Vectors"
       ],
       "artist_display": "EngelwoodMACROSS 82-99 and Neon Vectors",
@@ -7859,6 +7898,18 @@
       "venue": "FÜCK OFF ROOM",
       "venue_url": "https://www.songkick.com/venues/4540201-fuck-off-room",
       "location": "FÜCK OFF ROOM,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-10-10",
+      "source": "songkick",
+      "artists": [
+        "No Fun At AllAuthority Zero, AXPI, and Kinderplay"
+      ],
+      "artist_display": "No Fun At AllAuthority Zero, AXPI, and Kinderplay",
+      "url": "https://www.songkick.com/concerts/43070849-no-fun-at-all-at-multiforo-alicia",
+      "venue": "Multiforo Alicia",
+      "venue_url": "https://www.songkick.com/venues/120456-multiforo-alicia",
+      "location": "Multiforo Alicia,Mexico City, Mexico"
     },
     {
       "date": "2026-10-10",
@@ -8225,9 +8276,9 @@
       ],
       "artist_display": "VVV [Trippin'you]",
       "url": "https://www.songkick.com/concerts/43189073-vvv-trippinyou-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks",
+      "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks,Mexico City, Mexico"
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
     },
     {
       "date": "2026-10-15",
@@ -8516,10 +8567,10 @@
         "Airbag"
       ],
       "artist_display": "Airbag",
-      "url": "https://www.songkick.com/concerts/43306617-airbag-at-pepsi-center",
-      "venue": "Pepsi Center",
-      "venue_url": "https://www.songkick.com/venues/4642353-pepsi-center",
-      "location": "Pepsi Center,Mexico City, Mexico",
+      "url": "https://www.songkick.com/concerts/43306617-airbag-at-pepsi-center-wtc",
+      "venue": "Pepsi Center WTC",
+      "venue_url": "https://www.songkick.com/venues/1774303-pepsi-center-wtc",
+      "location": "Pepsi Center WTC,Mexico City, Mexico",
       "ticket_url": "https://www.ticketmaster.com.mx/airbag-mexico-17-10-2026/event/14006472B18F8B81",
       "tags": [
         "Pop",
@@ -8567,9 +8618,9 @@
       ],
       "artist_display": "Dirty Sound Magnet",
       "url": "https://www.songkick.com/concerts/43224307-dirty-sound-magnet-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks",
+      "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks,Mexico City, Mexico"
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
     },
     {
       "date": "2026-10-17",
@@ -8678,6 +8729,7 @@
       "location": "Auditorio Nacional,Mexico City, Mexico",
       "ticket_url": "https://www.ticketmaster.com.mx/hombres-g-ciudad-de-mexico-18-10-2026/event/3D00643784EE1AEC",
       "tags": [
+        "Electro Pop",
         "Pop"
       ]
     },
@@ -8970,9 +9022,9 @@
       ],
       "artist_display": "Frank TurnerKatacombs",
       "url": "https://www.songkick.com/concerts/43228199-frank-turner-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks",
+      "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks,Mexico City, Mexico"
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
     },
     {
       "date": "2026-10-23",
@@ -9194,9 +9246,9 @@
       ],
       "artist_display": "Ploho",
       "url": "https://www.songkick.com/concerts/43284301-ploho-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks",
+      "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks,Mexico City, Mexico"
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
     },
     {
       "date": "2026-10-24",
@@ -9677,9 +9729,9 @@
       ],
       "artist_display": "Em Beihold",
       "url": "https://www.songkick.com/concerts/43297938-em-beihold-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks",
+      "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks,Mexico City, Mexico"
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
     },
     {
       "date": "2026-10-31",
@@ -9858,6 +9910,7 @@
       "location": "Teatro Metropólitan,Mexico City, Mexico",
       "ticket_url": "https://www.ticketmaster.com.mx/leire-martinez-mexico-03-11-2026/event/140064BB849A66DF",
       "tags": [
+        "Electro Pop",
         "Pop"
       ]
     },
@@ -9914,9 +9967,9 @@
       ],
       "artist_display": "León Benavente",
       "url": "https://www.songkick.com/concerts/43233297-leon-benavente-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks",
+      "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks,Mexico City, Mexico"
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
     },
     {
       "date": "2026-11-05",
@@ -10344,9 +10397,9 @@
       ],
       "artist_display": "The Limiñanas",
       "url": "https://www.songkick.com/concerts/43168757-liminanas-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks",
+      "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks,Mexico City, Mexico"
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
     },
     {
       "date": "2026-11-12",
@@ -10449,9 +10502,9 @@
       ],
       "artist_display": "Rehash",
       "url": "https://www.songkick.com/concerts/43217434-rehash-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks",
+      "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks,Mexico City, Mexico"
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
     },
     {
       "date": "2026-11-13",
@@ -10629,9 +10682,9 @@
       ],
       "artist_display": "Dying Fetus",
       "url": "https://www.songkick.com/concerts/43054438-dying-fetus-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks",
+      "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks,Mexico City, Mexico"
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
     },
     {
       "date": "2026-11-15",
@@ -10804,9 +10857,9 @@
       ],
       "artist_display": "Mitú",
       "url": "https://www.songkick.com/concerts/43246337-mitu-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks",
+      "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks,Mexico City, Mexico"
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
     },
     {
       "date": "2026-11-20",
@@ -10987,9 +11040,9 @@
       ],
       "artist_display": "Granada (MX)",
       "url": "https://www.songkick.com/concerts/43189076-granada-mx-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks",
+      "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks,Mexico City, Mexico"
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
     },
     {
       "date": "2026-11-21",
@@ -11507,18 +11560,6 @@
       "date": "2026-11-28",
       "source": "songkick",
       "artists": [
-        "Hanabi"
-      ],
-      "artist_display": "Hanabi",
-      "url": "https://www.songkick.com/concerts/43181664-hanabi-at-fuck-off-room",
-      "venue": "FÜCK OFF ROOM",
-      "venue_url": "https://www.songkick.com/venues/4540201-fuck-off-room",
-      "location": "FÜCK OFF ROOM,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-28",
-      "source": "songkick",
-      "artists": [
         "Menudo"
       ],
       "artist_display": "Menudo",
@@ -11530,6 +11571,18 @@
       "tags": [
         "Latin"
       ]
+    },
+    {
+      "date": "2026-11-28",
+      "source": "songkick",
+      "artists": [
+        "Hanabi"
+      ],
+      "artist_display": "Hanabi",
+      "url": "https://www.songkick.com/concerts/43181664-hanabi-at-fuck-off-room",
+      "venue": "FÜCK OFF ROOM",
+      "venue_url": "https://www.songkick.com/venues/4540201-fuck-off-room",
+      "location": "FÜCK OFF ROOM,Mexico City, Mexico"
     },
     {
       "date": "2026-11-28",
