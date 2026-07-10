@@ -1,70 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-07-09T09:37:44.898020Z",
-  "total_concerts": 598,
+  "scraped_at": "2026-07-10T09:33:48.346279Z",
+  "total_concerts": 596,
   "concerts": [
-    {
-      "date": "2026-07-09",
-      "source": "ticketmaster",
-      "artists": [
-        "Sala Principal Bellas Artes"
-      ],
-      "artist_display": "Sala Principal Bellas Artes",
-      "url": "https://www.ticketmaster.com.mx/aterno-80-movimientos-coor-nacional-de-mexico-cdmx-09-07-2026/event/3D00646FBA5042D1",
-      "ticket_url": "https://www.ticketmaster.com.mx/aterno-80-movimientos-coor-nacional-de-mexico-cdmx-09-07-2026/event/3D00646FBA5042D1",
-      "venue": "Palacio de Bellas Artes",
-      "location": "México CDMX, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-07-09",
-      "source": "ticketmaster",
-      "artists": [
-        "Claptone"
-      ],
-      "artist_display": "Claptone",
-      "url": "https://www.ticketmaster.com.mx/claptone-campo-marte-santander-no-incluye-mexico-09-07-2026/event/140064908F2B4D7D",
-      "ticket_url": "https://www.ticketmaster.com.mx/claptone-campo-marte-santander-no-incluye-mexico-09-07-2026/event/140064908F2B4D7D",
-      "venue": "Campo Marte",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-07-09",
-      "source": "ticketmaster",
-      "artists": [
-        "Junior Leon"
-      ],
-      "artist_display": "Junior Leon",
-      "url": "https://www.ticketmaster.com.mx/junior-d-leon-en-concierto-mexico-09-07-2026/event/3D0064CFB0753858",
-      "ticket_url": "https://www.ticketmaster.com.mx/junior-d-leon-en-concierto-mexico-09-07-2026/event/3D0064CFB0753858",
-      "venue": "Mambo Cafe Insurgentes",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
-      ]
-    },
-    {
-      "date": "2026-07-09",
-      "source": "ticketmaster",
-      "artists": [
-        "Tito Nieves"
-      ],
-      "artist_display": "Tito Nieves",
-      "url": "https://www.ticketmaster.com.mx/tito-nieves-la-historia-continua-mexico-09-07-2026/event/3D0064A1ACE26FC1",
-      "ticket_url": "https://www.ticketmaster.com.mx/tito-nieves-la-historia-continua-mexico-09-07-2026/event/3D0064A1ACE26FC1",
-      "venue": "La Maraka",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
     {
       "date": "2026-07-10",
       "source": "ticketmaster",
@@ -2449,6 +2388,22 @@
       "date": "2026-08-21",
       "source": "ticketmaster",
       "artists": [
+        "Sinfónica de Minería"
+      ],
+      "artist_display": "Sinfónica de Minería",
+      "url": "https://www.ticketmaster.com.mx/la-sinfonia-de-colaborar-mexico-21-08-2026/event/3D0064E9B9AC433D",
+      "ticket_url": "https://www.ticketmaster.com.mx/la-sinfonia-de-colaborar-mexico-21-08-2026/event/3D0064E9B9AC433D",
+      "venue": "Sala Silvestre Revueltas",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Classical",
+        "Classical/Vocal"
+      ]
+    },
+    {
+      "date": "2026-08-21",
+      "source": "ticketmaster",
+      "artists": [
         "Sam Smith"
       ],
       "artist_display": "Sam Smith",
@@ -4186,6 +4141,21 @@
       "ticket_url": "https://www.ticketmaster.com.mx/morejuice-fest-mexico-13-09-2026/event/1400644CBCADC4B0",
       "venue": "Pepsi Center",
       "location": "México, Ciudad de México, Mexico"
+    },
+    {
+      "date": "2026-09-13",
+      "source": "ticketmaster",
+      "artists": [
+        "Grupo Yndio"
+      ],
+      "artist_display": "Grupo Yndio",
+      "url": "https://www.ticketmaster.com.mx/63-54-ans-de-exitos-grupo-mexico-13-09-2026/event/140064C9AC4FB2E2",
+      "ticket_url": "https://www.ticketmaster.com.mx/63-54-ans-de-exitos-grupo-mexico-13-09-2026/event/140064C9AC4FB2E2",
+      "venue": "Teatro Metropolitan",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
     },
     {
       "date": "2026-09-13",
@@ -6964,7 +6934,8 @@
       "venue": "Palacio de los Deportes",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
