@@ -1,56 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-07-10T09:33:48.346279Z",
-  "total_concerts": 596,
+  "scraped_at": "2026-07-11T07:54:31.411949Z",
+  "total_concerts": 592,
   "concerts": [
-    {
-      "date": "2026-07-10",
-      "source": "ticketmaster",
-      "artists": [
-        "NSQK"
-      ],
-      "artist_display": "NSQK",
-      "url": "https://www.ticketmaster.com.mx/nsqk-campo-marte-santander-no-incluye-mexico-10-07-2026/event/140064908F2D4D80",
-      "ticket_url": "https://www.ticketmaster.com.mx/nsqk-campo-marte-santander-no-incluye-mexico-10-07-2026/event/140064908F2D4D80",
-      "venue": "Campo Marte",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Hip-Hop/Rap",
-        "Trap"
-      ]
-    },
-    {
-      "date": "2026-07-10",
-      "source": "ticketmaster",
-      "artists": [
-        "La Cantadera"
-      ],
-      "artist_display": "La Cantadera",
-      "url": "https://www.ticketmaster.com.mx/la-cantadera-ciudad-de-mexico-10-07-2026/event/3D0064C2E2DE7E80",
-      "ticket_url": "https://www.ticketmaster.com.mx/la-cantadera-ciudad-de-mexico-10-07-2026/event/3D0064C2E2DE7E80",
-      "venue": "Foro Stelaris Fiesta Americana Reforma",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Pop"
-      ]
-    },
-    {
-      "date": "2026-07-10",
-      "source": "ticketmaster",
-      "artists": [
-        "Tito Nieves"
-      ],
-      "artist_display": "Tito Nieves",
-      "url": "https://www.ticketmaster.com.mx/tito-nieves-la-historia-continua-mexico-10-07-2026/event/3D0064A3914C3619",
-      "ticket_url": "https://www.ticketmaster.com.mx/tito-nieves-la-historia-continua-mexico-10-07-2026/event/3D0064A3914C3619",
-      "venue": "La Maraka",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
     {
       "date": "2026-07-11",
       "source": "ticketmaster",
@@ -1244,22 +1197,6 @@
       ]
     },
     {
-      "date": "2026-08-03",
-      "source": "ticketmaster",
-      "artists": [
-        "Antonio Vivaldi"
-      ],
-      "artist_display": "Antonio Vivaldi",
-      "url": "https://www.ticketmaster.com.mx/le-quattro-stagioni-antonio-vivaldi-mexico-03-08-2026/event/3D0064D8B68B25A5",
-      "ticket_url": "https://www.ticketmaster.com.mx/le-quattro-stagioni-antonio-vivaldi-mexico-03-08-2026/event/3D0064D8B68B25A5",
-      "venue": "Capilla Gótica",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Classical",
-        "Classical/Vocal"
-      ]
-    },
-    {
       "date": "2026-08-04",
       "source": "ticketmaster",
       "artists": [
@@ -1304,22 +1241,6 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Pop"
-      ]
-    },
-    {
-      "date": "2026-08-05",
-      "source": "ticketmaster",
-      "artists": [
-        "Antonio Vivaldi"
-      ],
-      "artist_display": "Antonio Vivaldi",
-      "url": "https://www.ticketmaster.com.mx/le-quattro-stagioni-antonio-vivaldi-mexico-05-08-2026/event/3D0064D8B953282E",
-      "ticket_url": "https://www.ticketmaster.com.mx/le-quattro-stagioni-antonio-vivaldi-mexico-05-08-2026/event/3D0064D8B953282E",
-      "venue": "Capilla Gótica",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Classical",
-        "Classical/Vocal"
       ]
     },
     {
@@ -1396,22 +1317,6 @@
       "location": "México, Ciudad de México, Mexico",
       "tags": [
         "Ballads/Romantic"
-      ]
-    },
-    {
-      "date": "2026-08-06",
-      "source": "ticketmaster",
-      "artists": [
-        "Antonio Vivaldi"
-      ],
-      "artist_display": "Antonio Vivaldi",
-      "url": "https://www.ticketmaster.com.mx/le-quattro-stagioni-antonio-vivaldi-mexico-06-08-2026/event/3D0064D8B967283A",
-      "ticket_url": "https://www.ticketmaster.com.mx/le-quattro-stagioni-antonio-vivaldi-mexico-06-08-2026/event/3D0064D8B967283A",
-      "venue": "Capilla Gótica",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Classical",
-        "Classical/Vocal"
       ]
     },
     {
@@ -1924,6 +1829,21 @@
       "tags": [
         "Hip-Hop/Rap",
         "Reggaeton"
+      ]
+    },
+    {
+      "date": "2026-08-14",
+      "source": "ticketmaster",
+      "artists": [
+        "Odissea Music Presenta Progresivo Concierto Sinfonico"
+      ],
+      "artist_display": "Odissea Music Presenta Progresivo Concierto Sinfonico",
+      "url": "https://www.ticketmaster.com.mx/odissea-music-presenta-progresivo-concierto-sinfonico-mexico-14-08-2026/event/140064D890F1360C",
+      "ticket_url": "https://www.ticketmaster.com.mx/odissea-music-presenta-progresivo-concierto-sinfonico-mexico-14-08-2026/event/140064D890F1360C",
+      "venue": "Teatro Metropolitan",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
       ]
     },
     {
@@ -4312,6 +4232,22 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "source": "ticketmaster",
+      "artists": [
+        "La Fanfarria del Capitán,Bailanta Sin Fronteras"
+      ],
+      "artist_display": "La Fanfarria del Capitán,Bailanta Sin Fronteras",
+      "url": "https://www.ticketmaster.com.mx/la-fanfarria-del-capitanbailanta-sin-fronteras-ciudad-de-mexico-17-09-2026/event/3D0064E9C52B5045",
+      "ticket_url": "https://www.ticketmaster.com.mx/la-fanfarria-del-capitanbailanta-sin-fronteras-ciudad-de-mexico-17-09-2026/event/3D0064E9C52B5045",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Alternative Rock"
       ]
     },
     {
