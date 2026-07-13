@@ -1,36 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-07-12T08:15:43.019513Z",
-  "total_concerts": 585,
+  "scraped_at": "2026-07-13T09:25:02.283664Z",
+  "total_concerts": 583,
   "concerts": [
-    {
-      "date": "2026-07-11",
-      "source": "ticketmaster",
-      "artists": [
-        "Cross Road: The Bon Jovi live experience"
-      ],
-      "artist_display": "Cross Road: The Bon Jovi live experience",
-      "url": "https://www.ticketmaster.com.mx/cross-road-bon-jovi-live-experience-mexico-11-07-2026/event/3D00648328C8A813",
-      "ticket_url": "https://www.ticketmaster.com.mx/cross-road-bon-jovi-live-experience-mexico-11-07-2026/event/3D00648328C8A813",
-      "venue": "Foro Red Access",
-      "location": "México, Ciudad de México, Mexico"
-    },
-    {
-      "date": "2026-07-12",
-      "source": "ticketmaster",
-      "artists": [
-        "Sala Principal Bellas Artes"
-      ],
-      "artist_display": "Sala Principal Bellas Artes",
-      "url": "https://www.ticketmaster.com.mx/orquesta-sinfonica-de-mineria8-ingreso-1630-mexico-cdmx-12-07-2026/event/3D006489AE9A504A",
-      "ticket_url": "https://www.ticketmaster.com.mx/orquesta-sinfonica-de-mineria8-ingreso-1630-mexico-cdmx-12-07-2026/event/3D006489AE9A504A",
-      "venue": "Palacio de Bellas Artes",
-      "location": "México CDMX, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
     {
       "date": "2026-07-14",
       "source": "ticketmaster",
