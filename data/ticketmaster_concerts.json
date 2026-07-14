@@ -1,8 +1,8 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-07-13T09:25:02.283664Z",
-  "total_concerts": 583,
+  "scraped_at": "2026-07-14T08:02:55.115131Z",
+  "total_concerts": 588,
   "concerts": [
     {
       "date": "2026-07-14",
@@ -1685,6 +1685,21 @@
       "date": "2026-08-14",
       "source": "ticketmaster",
       "artists": [
+        "El Señor de los Anillos Tributo Sinfonico Audiovisual"
+      ],
+      "artist_display": "El Señor de los Anillos Tributo Sinfonico Audiovisual",
+      "url": "https://www.ticketmaster.com.mx/el-senor-de-los-anillos-tributo-mexico-14-08-2026/event/3D0064ED86A00FA0",
+      "ticket_url": "https://www.ticketmaster.com.mx/el-senor-de-los-anillos-tributo-mexico-14-08-2026/event/3D0064ED86A00FA0",
+      "venue": "Teatro Xola Julio Prieto",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
+      ]
+    },
+    {
+      "date": "2026-08-14",
+      "source": "ticketmaster",
+      "artists": [
         "Arcángel"
       ],
       "artist_display": "Arcángel",
@@ -1707,6 +1722,21 @@
       "url": "https://www.ticketmaster.com.mx/odissea-music-presenta-progresivo-concierto-sinfonico-mexico-14-08-2026/event/140064D890F1360C",
       "ticket_url": "https://www.ticketmaster.com.mx/odissea-music-presenta-progresivo-concierto-sinfonico-mexico-14-08-2026/event/140064D890F1360C",
       "venue": "Teatro Metropolitan",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
+      ]
+    },
+    {
+      "date": "2026-08-14",
+      "source": "ticketmaster",
+      "artists": [
+        "El Señor de los Anillos Tributo Sinfonico Audiovisual"
+      ],
+      "artist_display": "El Señor de los Anillos Tributo Sinfonico Audiovisual",
+      "url": "https://www.ticketmaster.com.mx/el-senor-de-los-anillos-tributo-mexico-14-08-2026/event/3D0064ED87B1102B",
+      "ticket_url": "https://www.ticketmaster.com.mx/el-senor-de-los-anillos-tributo-mexico-14-08-2026/event/3D0064ED87B1102B",
+      "venue": "Teatro Xola Julio Prieto",
       "location": "México, Ciudad de México, Mexico",
       "tags": [
         "Other"
@@ -2683,6 +2713,21 @@
       "date": "2026-08-28",
       "source": "ticketmaster",
       "artists": [
+        "The Legend of Zelda Ocarina of Time Tributo Sinfónico Audiovisual"
+      ],
+      "artist_display": "The Legend of Zelda Ocarina of Time Tributo Sinfónico Audiovisual",
+      "url": "https://www.ticketmaster.com.mx/the-legend-of-zelda-ocarina-of-mexico-28-08-2026/event/3D0064ED970619F5",
+      "ticket_url": "https://www.ticketmaster.com.mx/the-legend-of-zelda-ocarina-of-mexico-28-08-2026/event/3D0064ED970619F5",
+      "venue": "Teatro Xola Julio Prieto",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
+      ]
+    },
+    {
+      "date": "2026-08-28",
+      "source": "ticketmaster",
+      "artists": [
         "Sala Principal Bellas Artes"
       ],
       "artist_display": "Sala Principal Bellas Artes",
@@ -2739,6 +2784,21 @@
       "tags": [
         "Classical",
         "Classical/Vocal"
+      ]
+    },
+    {
+      "date": "2026-08-28",
+      "source": "ticketmaster",
+      "artists": [
+        "The Legend of Zelda Ocarina of Time Tributo Sinfónico Audiovisual"
+      ],
+      "artist_display": "The Legend of Zelda Ocarina of Time Tributo Sinfónico Audiovisual",
+      "url": "https://www.ticketmaster.com.mx/the-legend-of-zelda-ocarina-of-mexico-28-08-2026/event/3D0064ED9A5D1BBB",
+      "ticket_url": "https://www.ticketmaster.com.mx/the-legend-of-zelda-ocarina-of-mexico-28-08-2026/event/3D0064ED9A5D1BBB",
+      "venue": "Teatro Xola Julio Prieto",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
       ]
     },
     {
@@ -4027,16 +4087,16 @@
       "date": "2026-09-15",
       "source": "ticketmaster",
       "artists": [
-        "Evento Prueba"
+        "EVENTO PRUEBA"
       ],
-      "artist_display": "Evento Prueba",
+      "artist_display": "EVENTO PRUEBA",
       "url": "https://www.ticketmaster.com.mx/evento-prueba-iztacalco-15-09-2026/event/3D00647F166F8B09",
       "ticket_url": "https://www.ticketmaster.com.mx/evento-prueba-iztacalco-15-09-2026/event/3D00647F166F8B09",
       "venue": "Estadio Ticketmaster México",
       "location": "Iztacalco, Ciudad de México, Mexico",
       "tags": [
-        "Pop",
-        "Electro Pop"
+        "Rock",
+        "Alternative Rock"
       ]
     },
     {
@@ -4104,16 +4164,15 @@
       "date": "2026-09-17",
       "source": "ticketmaster",
       "artists": [
-        "La Fanfarria del Capitán,Bailanta Sin Fronteras"
+        "La Fanfarria del Capitan"
       ],
-      "artist_display": "La Fanfarria del Capitán,Bailanta Sin Fronteras",
+      "artist_display": "La Fanfarria del Capitan",
       "url": "https://www.ticketmaster.com.mx/la-fanfarria-del-capitanbailanta-sin-fronteras-ciudad-de-mexico-17-09-2026/event/3D0064E9C52B5045",
       "ticket_url": "https://www.ticketmaster.com.mx/la-fanfarria-del-capitanbailanta-sin-fronteras-ciudad-de-mexico-17-09-2026/event/3D0064E9C52B5045",
       "venue": "El Lunario del Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Rock",
-        "Alternative Rock"
+        "Latin"
       ]
     },
     {
@@ -4907,6 +4966,21 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Pop"
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "source": "ticketmaster",
+      "artists": [
+        "Cox Homenaje al Príncipe"
+      ],
+      "artist_display": "Cox Homenaje al Príncipe",
+      "url": "https://www.ticketmaster.com.mx/cox-homenaje-al-principe-ciudad-de-mexico-03-10-2026/event/3D0064E686630AB1",
+      "ticket_url": "https://www.ticketmaster.com.mx/cox-homenaje-al-principe-ciudad-de-mexico-03-10-2026/event/3D0064E686630AB1",
+      "venue": "Foro Stelaris Fiesta Americana Reforma",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
       ]
     },
     {
