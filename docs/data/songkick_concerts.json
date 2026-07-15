@@ -1,8 +1,8 @@
 {
   "source": "songkick",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-07-14T08:02:51.309665Z",
-  "total_concerts": 617,
+  "scraped_at": "2026-07-15T08:08:13.138157Z",
+  "total_concerts": 623,
   "concerts": [
     {
       "date": "2026-07-25",
@@ -260,6 +260,18 @@
       "date": "2026-08-01",
       "source": "songkick",
       "artists": [
+        "Charly Gynn"
+      ],
+      "artist_display": "Charly Gynn",
+      "url": "https://www.songkick.com/concerts/43209815-charly-gynn-at-bajo-circuito-multiforo-urbano",
+      "venue": "Bajo Circuito Multiforo Urbano",
+      "venue_url": "https://www.songkick.com/venues/4335163-bajo-circuito-multiforo-urbano",
+      "location": "Bajo Circuito Multiforo Urbano,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-08-01",
+      "source": "songkick",
+      "artists": [
         "JE T'AIMEStaatseinde and Nao Katafuchi"
       ],
       "artist_display": "JE T'AIMEStaatseinde and Nao Katafuchi",
@@ -267,18 +279,6 @@
       "venue": "Real Under",
       "venue_url": "https://www.songkick.com/venues/4403776-real-under",
       "location": "Real Under,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-08-01",
-      "source": "songkick",
-      "artists": [
-        "Adiós Cometa"
-      ],
-      "artist_display": "Adiós Cometa",
-      "url": "https://www.songkick.com/concerts/43088387-adios-cometa-at-chico",
-      "venue": "Chico",
-      "venue_url": "https://www.songkick.com/venues/69136-chico",
-      "location": "Chico,Mexico City, Mexico"
     },
     {
       "date": "2026-08-01",
@@ -788,18 +788,6 @@
       "date": "2026-08-14",
       "source": "songkick",
       "artists": [
-        "Cristian Castro"
-      ],
-      "artist_display": "Cristian Castro",
-      "url": "https://www.songkick.com/concerts/43057970-cristian-castro-at-auditorio-nacional",
-      "venue": "Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/34183-auditorio-nacional",
-      "location": "Auditorio Nacional,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-08-14",
-      "source": "songkick",
-      "artists": [
         "Beach Weather"
       ],
       "artist_display": "Beach Weather",
@@ -807,6 +795,18 @@
       "venue": "Lunario Del Auditorio Nacional",
       "venue_url": "https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional",
       "location": "Lunario Del Auditorio Nacional,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-08-14",
+      "source": "songkick",
+      "artists": [
+        "Cristian Castro"
+      ],
+      "artist_display": "Cristian Castro",
+      "url": "https://www.songkick.com/concerts/43057970-cristian-castro-at-auditorio-nacional",
+      "venue": "Auditorio Nacional",
+      "venue_url": "https://www.songkick.com/venues/34183-auditorio-nacional",
+      "location": "Auditorio Nacional,Mexico City, Mexico"
     },
     {
       "date": "2026-08-14",
@@ -2468,6 +2468,18 @@
       "date": "2026-09-13",
       "source": "songkick",
       "artists": [
+        "Millonario"
+      ],
+      "artist_display": "Millonario",
+      "url": "https://www.songkick.com/concerts/43318913-millonario-at-hdx-circus-bar",
+      "venue": "HDX Circus Bar",
+      "venue_url": "https://www.songkick.com/venues/3875309-hdx-circus-bar",
+      "location": "HDX Circus Bar,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-13",
+      "source": "songkick",
+      "artists": [
         "Los Vaguens"
       ],
       "artist_display": "Los Vaguens",
@@ -2475,6 +2487,18 @@
       "venue": "Lunario Del Auditorio Nacional",
       "venue_url": "https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional",
       "location": "Lunario Del Auditorio Nacional,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-13",
+      "source": "songkick",
+      "artists": [
+        "Pipiolas"
+      ],
+      "artist_display": "Pipiolas",
+      "url": "https://www.songkick.com/concerts/43269937-pipiolas-at-foro-cultural-hilvana",
+      "venue": "Foro Cultural Hilvana",
+      "venue_url": "https://www.songkick.com/venues/4071029-foro-cultural-hilvana",
+      "location": "Foro Cultural Hilvana,Mexico City, Mexico"
     },
     {
       "date": "2026-09-13",
@@ -2504,18 +2528,6 @@
       "date": "2026-09-13",
       "source": "songkick",
       "artists": [
-        "Pipiolas"
-      ],
-      "artist_display": "Pipiolas",
-      "url": "https://www.songkick.com/concerts/43269937-pipiolas-at-foro-cultural-hilvana",
-      "venue": "Foro Cultural Hilvana",
-      "venue_url": "https://www.songkick.com/venues/4071029-foro-cultural-hilvana",
-      "location": "Foro Cultural Hilvana,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-09-13",
-      "source": "songkick",
-      "artists": [
         "Grupo Yndio"
       ],
       "artist_display": "Grupo Yndio",
@@ -2523,18 +2535,6 @@
       "venue": "Teatro Metropólitan",
       "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
       "location": "Teatro Metropólitan,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-09-13",
-      "source": "songkick",
-      "artists": [
-        "Millonario"
-      ],
-      "artist_display": "Millonario",
-      "url": "https://www.songkick.com/concerts/43318913-millonario-at-hdx-circus-bar",
-      "venue": "HDX Circus Bar",
-      "venue_url": "https://www.songkick.com/venues/3875309-hdx-circus-bar",
-      "location": "HDX Circus Bar,Mexico City, Mexico"
     },
     {
       "date": "2026-09-14",
@@ -2576,9 +2576,9 @@
       "date": "2026-09-16",
       "source": "songkick",
       "artists": [
-        "LANDMVRKS"
+        "LANDMVRKSShe Breathes Fire"
       ],
-      "artist_display": "LANDMVRKS",
+      "artist_display": "LANDMVRKSShe Breathes Fire",
       "url": "https://www.songkick.com/concerts/43171361-landmvrks-at-circo-volador",
       "venue": "Circo Volador",
       "venue_url": "https://www.songkick.com/venues/49859-circo-volador",
@@ -3005,6 +3005,18 @@
       "location": "Mexico City Festival,Mexico City, Mexico"
     },
     {
+      "date": "2026-09-24",
+      "source": "songkick",
+      "artists": [
+        "Chapterhouse"
+      ],
+      "artist_display": "Chapterhouse",
+      "url": "https://www.songkick.com/concerts/43322963-chapterhouse-at-bajo-circuito-multiforo-urbano",
+      "venue": "Bajo Circuito Multiforo Urbano",
+      "venue_url": "https://www.songkick.com/venues/4335163-bajo-circuito-multiforo-urbano",
+      "location": "Bajo Circuito Multiforo Urbano,Mexico City, Mexico"
+    },
+    {
       "date": "2026-09-25",
       "source": "songkick",
       "artists": [
@@ -3039,18 +3051,6 @@
       "venue": "Foro Niebla",
       "venue_url": "https://www.songkick.com/venues/4379084-foro-niebla",
       "location": "Foro Niebla,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-09-25",
-      "source": "songkick",
-      "artists": [
-        "R3HAB"
-      ],
-      "artist_display": "R3HAB",
-      "url": "https://www.songkick.com/concerts/43310641-r3hab-at-sala-urbana",
-      "venue": "Sala Urbana",
-      "venue_url": "https://www.songkick.com/venues/4453196-sala-urbana",
-      "location": "Sala Urbana,Naucalpan, Mexico"
     },
     {
       "date": "2026-09-25",
@@ -3111,6 +3111,18 @@
       "venue": "Aldea Vikinga",
       "venue_url": "https://www.songkick.com/venues/3372394-aldea-vikinga",
       "location": "Aldea Vikinga,Texcoco, Mexico"
+    },
+    {
+      "date": "2026-09-25",
+      "source": "songkick",
+      "artists": [
+        "R3HAB"
+      ],
+      "artist_display": "R3HAB",
+      "url": "https://www.songkick.com/concerts/43310641-r3hab-at-sala-urbana",
+      "venue": "Sala Urbana",
+      "venue_url": "https://www.songkick.com/venues/4453196-sala-urbana",
+      "location": "Sala Urbana,Naucalpan, Mexico"
     },
     {
       "date": "2026-09-25",
@@ -3625,6 +3637,18 @@
       "venue": "Dada X",
       "venue_url": "https://www.songkick.com/venues/1491093-dada-x",
       "location": "Dada X,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-10-03",
+      "source": "songkick",
+      "artists": [
+        "High Vis"
+      ],
+      "artist_display": "High Vis",
+      "url": "https://www.songkick.com/concerts/43321554-high-vis-at-gato-calavera",
+      "venue": "Gato Calavera",
+      "venue_url": "https://www.songkick.com/venues/1385981-gato-calavera",
+      "location": "Gato Calavera,Mexico City, Mexico"
     },
     {
       "date": "2026-10-04",
@@ -4338,9 +4362,9 @@
       "date": "2026-10-15",
       "source": "songkick",
       "artists": [
-        "Rubytates"
+        "RubytatesDaly"
       ],
-      "artist_display": "Rubytates",
+      "artist_display": "RubytatesDaly",
       "url": "https://www.songkick.com/concerts/43318928-rubytates-at-bajo-circuito-multiforo-urbano",
       "venue": "Bajo Circuito Multiforo Urbano",
       "venue_url": "https://www.songkick.com/venues/4335163-bajo-circuito-multiforo-urbano",
@@ -4657,6 +4681,18 @@
       "venue": "Foro Red Access",
       "venue_url": "https://www.songkick.com/venues/4604435-foro-red-access",
       "location": "Foro Red Access,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-10-18",
+      "source": "songkick",
+      "artists": [
+        "RubytatesAmore Aurora and Chucho Nave"
+      ],
+      "artist_display": "RubytatesAmore Aurora and Chucho Nave",
+      "url": "https://www.songkick.com/concerts/43322922-rubytates-at-bajo-circuito-multiforo-urbano",
+      "venue": "Bajo Circuito Multiforo Urbano",
+      "venue_url": "https://www.songkick.com/venues/4335163-bajo-circuito-multiforo-urbano",
+      "location": "Bajo Circuito Multiforo Urbano,Mexico City, Mexico"
     },
     {
       "date": "2026-10-19",
@@ -5619,6 +5655,18 @@
       "location": "FÜCK OFF ROOM,Mexico City, Mexico"
     },
     {
+      "date": "2026-11-07",
+      "source": "songkick",
+      "artists": [
+        "Festival Amigo 2026Julieta Venegas, Los Amigos Invisibles, Porter, Disco Bahía, Farmacos, and Los Amigos Invisibles (OFICIAL)"
+      ],
+      "artist_display": "Festival Amigo 2026Julieta Venegas, Los Amigos Invisibles, Porter, Disco Bahía, Farmacos, and Los Amigos Invisibles (OFICIAL)",
+      "url": "https://www.songkick.com/festivals/3278715-amigo/id/43321524-festival-amigo-2026",
+      "venue": "Campo Los Alcanfores",
+      "venue_url": "https://www.songkick.com/venues/4262644-campo-los-alcanfores",
+      "location": "Campo Los Alcanfores,Cuautitlán Izcalli, Mexico"
+    },
+    {
       "date": "2026-11-08",
       "source": "songkick",
       "artists": [
@@ -5883,6 +5931,18 @@
       "location": "Doppler,Texcoco, Mexico"
     },
     {
+      "date": "2026-11-13",
+      "source": "songkick",
+      "artists": [
+        "Dragonfly"
+      ],
+      "artist_display": "Dragonfly",
+      "url": "https://www.songkick.com/concerts/43322919-dragonfly-at-multiforo-alicia",
+      "venue": "Multiforo Alicia",
+      "venue_url": "https://www.songkick.com/venues/120456-multiforo-alicia",
+      "location": "Multiforo Alicia,Mexico City, Mexico"
+    },
+    {
       "date": "2026-11-14",
       "source": "songkick",
       "artists": [
@@ -5953,6 +6013,18 @@
       "venue": "El Cantoral",
       "venue_url": "https://www.songkick.com/venues/4032244-el-cantoral",
       "location": "El Cantoral,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-11-14",
+      "source": "songkick",
+      "artists": [
+        "Little Jesus"
+      ],
+      "artist_display": "Little Jesus",
+      "url": "https://www.songkick.com/concerts/43322814-little-jesus-at-teatro-metropolitan",
+      "venue": "Teatro Metropólitan",
+      "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
+      "location": "Teatro Metropólitan,Mexico City, Mexico"
     },
     {
       "date": "2026-11-15",

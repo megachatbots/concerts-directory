@@ -1,24 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-07-14T08:02:55.115131Z",
-  "total_concerts": 588,
+  "scraped_at": "2026-07-15T08:08:17.187105Z",
+  "total_concerts": 589,
   "concerts": [
-    {
-      "date": "2026-07-14",
-      "source": "ticketmaster",
-      "artists": [
-        "Sala Principal Bellas Artes"
-      ],
-      "artist_display": "Sala Principal Bellas Artes",
-      "url": "https://www.ticketmaster.com.mx/danza-visual-80-movimientos-coornd-6-mexico-cdmx-14-07-2026/event/3D00646FC68D4C60",
-      "ticket_url": "https://www.ticketmaster.com.mx/danza-visual-80-movimientos-coornd-6-mexico-cdmx-14-07-2026/event/3D00646FC68D4C60",
-      "venue": "Palacio de Bellas Artes",
-      "location": "México CDMX, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
     {
       "date": "2026-07-15",
       "source": "ticketmaster",
@@ -3299,8 +3284,8 @@
         "Festival Arre"
       ],
       "artist_display": "Festival Arre",
-      "url": "https://www.ticketmaster.com.mx/individual-vip-hsbc-premier-arre-pepsi-mexico-05-09-2026/event/14006499E7E2D208",
-      "ticket_url": "https://www.ticketmaster.com.mx/individual-vip-hsbc-premier-arre-pepsi-mexico-05-09-2026/event/14006499E7E2D208",
+      "url": "https://www.ticketmaster.com.mx/individual-zona-vip-hsbc-premier-arre-mexico-05-09-2026/event/14006499E7E2D208",
+      "ticket_url": "https://www.ticketmaster.com.mx/individual-zona-vip-hsbc-premier-arre-mexico-05-09-2026/event/14006499E7E2D208",
       "venue": "Autodromo Hnos. Rodriguez",
       "location": "México, Ciudad de México, Mexico"
     },
@@ -3436,8 +3421,8 @@
         "Festival Arre"
       ],
       "artist_display": "Festival Arre",
-      "url": "https://www.ticketmaster.com.mx/abono-vip-hsbc-premier-arre-pepsi-mexico-05-09-2026/event/14006499AA246710",
-      "ticket_url": "https://www.ticketmaster.com.mx/abono-vip-hsbc-premier-arre-pepsi-mexico-05-09-2026/event/14006499AA246710",
+      "url": "https://www.ticketmaster.com.mx/abono-zona-vip-hsbc-premier-arre-mexico-05-09-2026/event/14006499AA246710",
+      "ticket_url": "https://www.ticketmaster.com.mx/abono-zona-vip-hsbc-premier-arre-mexico-05-09-2026/event/14006499AA246710",
       "venue": "Autodromo Hnos. Rodriguez",
       "location": "México, Ciudad de México, Mexico"
     },
@@ -3460,8 +3445,8 @@
         "Festival Arre"
       ],
       "artist_display": "Festival Arre",
-      "url": "https://www.ticketmaster.com.mx/individual-vip-hsbc-premier-arre-pepsi-mexico-06-09-2026/event/14006499E883D363",
-      "ticket_url": "https://www.ticketmaster.com.mx/individual-vip-hsbc-premier-arre-pepsi-mexico-06-09-2026/event/14006499E883D363",
+      "url": "https://www.ticketmaster.com.mx/individual-zona-vip-hsbc-premier-arre-mexico-06-09-2026/event/14006499E883D363",
+      "ticket_url": "https://www.ticketmaster.com.mx/individual-zona-vip-hsbc-premier-arre-mexico-06-09-2026/event/14006499E883D363",
       "venue": "Autodromo Hnos. Rodriguez",
       "location": "México, Ciudad de México, Mexico"
     },
@@ -6042,6 +6027,21 @@
       "date": "2026-10-18",
       "source": "ticketmaster",
       "artists": [
+        "Los Baby's"
+      ],
+      "artist_display": "Los Baby's",
+      "url": "https://www.ticketmaster.com.mx/los-babys-mexico-18-10-2026/event/3D0064E7E6F34CFF",
+      "ticket_url": "https://www.ticketmaster.com.mx/los-babys-mexico-18-10-2026/event/3D0064E7E6F34CFF",
+      "venue": "La Maraka",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "source": "ticketmaster",
+      "artists": [
         "OMD"
       ],
       "artist_display": "OMD",
@@ -6312,7 +6312,8 @@
       "venue": "Teatro Metropolitan",
       "location": "México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -7179,6 +7180,22 @@
       "tags": [
         "Rock",
         "Pop"
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "source": "ticketmaster",
+      "artists": [
+        "Little Jesus"
+      ],
+      "artist_display": "Little Jesus",
+      "url": "https://www.ticketmaster.com.mx/little-jesus-mexico-14-11-2026/event/140064C9C546F0CA",
+      "ticket_url": "https://www.ticketmaster.com.mx/little-jesus-mexico-14-11-2026/event/140064C9C546F0CA",
+      "venue": "Teatro Metropolitan",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
