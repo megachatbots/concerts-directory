@@ -1,26 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-07-15T08:08:17.187105Z",
-  "total_concerts": 589,
+  "scraped_at": "2026-07-16T08:11:28.471103Z",
+  "total_concerts": 588,
   "concerts": [
-    {
-      "date": "2026-07-15",
-      "source": "ticketmaster",
-      "artists": [
-        "ENHYPEN",
-        "Santos Bravos"
-      ],
-      "artist_display": "ENHYPEN, Santos Bravos",
-      "url": "https://www.ticketmaster.com.mx/enhypen-santos-bravos-no-incluye-acceso-mexico-15-07-2026/event/140064D5C9C98F6D",
-      "ticket_url": "https://www.ticketmaster.com.mx/enhypen-santos-bravos-no-incluye-acceso-mexico-15-07-2026/event/140064D5C9C98F6D",
-      "venue": "Campo Marte",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "K-Pop"
-      ]
-    },
     {
       "date": "2026-07-16",
       "source": "ticketmaster",
@@ -324,23 +307,6 @@
       "tags": [
         "Pop",
         "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-07-22",
-      "source": "ticketmaster",
-      "artists": [
-        "Sombr",
-        "King Princess"
-      ],
-      "artist_display": "Sombr, King Princess",
-      "url": "https://www.ticketmaster.com.mx/sombr-mexico-22-07-2026/event/1400645A87A630E8",
-      "ticket_url": "https://www.ticketmaster.com.mx/sombr-mexico-22-07-2026/event/1400645A87A630E8",
-      "venue": "Pepsi Center",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Alternative Rock"
       ]
     },
     {
@@ -847,7 +813,8 @@
       "venue": "Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -1670,9 +1637,9 @@
       "date": "2026-08-14",
       "source": "ticketmaster",
       "artists": [
-        "El Señor de los Anillos Tributo Sinfonico Audiovisual"
+        "El Señor de los Anillos Concierto Tributo Audiovisual"
       ],
-      "artist_display": "El Señor de los Anillos Tributo Sinfonico Audiovisual",
+      "artist_display": "El Señor de los Anillos Concierto Tributo Audiovisual",
       "url": "https://www.ticketmaster.com.mx/el-senor-de-los-anillos-tributo-mexico-14-08-2026/event/3D0064ED86A00FA0",
       "ticket_url": "https://www.ticketmaster.com.mx/el-senor-de-los-anillos-tributo-mexico-14-08-2026/event/3D0064ED86A00FA0",
       "venue": "Teatro Xola Julio Prieto",
@@ -1716,9 +1683,9 @@
       "date": "2026-08-14",
       "source": "ticketmaster",
       "artists": [
-        "El Señor de los Anillos Tributo Sinfonico Audiovisual"
+        "El Señor de los Anillos Concierto Tributo Audiovisual"
       ],
-      "artist_display": "El Señor de los Anillos Tributo Sinfonico Audiovisual",
+      "artist_display": "El Señor de los Anillos Concierto Tributo Audiovisual",
       "url": "https://www.ticketmaster.com.mx/el-senor-de-los-anillos-tributo-mexico-14-08-2026/event/3D0064ED87B1102B",
       "ticket_url": "https://www.ticketmaster.com.mx/el-senor-de-los-anillos-tributo-mexico-14-08-2026/event/3D0064ED87B1102B",
       "venue": "Teatro Xola Julio Prieto",
@@ -2331,8 +2298,8 @@
       "venue": "Estadio GNP Seguros",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop",
-        "Electro Pop"
+        "Dance/Electronic",
+        "Amapiano"
       ]
     },
     {
@@ -2698,21 +2665,6 @@
       "date": "2026-08-28",
       "source": "ticketmaster",
       "artists": [
-        "The Legend of Zelda Ocarina of Time Tributo Sinfónico Audiovisual"
-      ],
-      "artist_display": "The Legend of Zelda Ocarina of Time Tributo Sinfónico Audiovisual",
-      "url": "https://www.ticketmaster.com.mx/the-legend-of-zelda-ocarina-of-mexico-28-08-2026/event/3D0064ED970619F5",
-      "ticket_url": "https://www.ticketmaster.com.mx/the-legend-of-zelda-ocarina-of-mexico-28-08-2026/event/3D0064ED970619F5",
-      "venue": "Teatro Xola Julio Prieto",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
-      ]
-    },
-    {
-      "date": "2026-08-28",
-      "source": "ticketmaster",
-      "artists": [
         "Sala Principal Bellas Artes"
       ],
       "artist_display": "Sala Principal Bellas Artes",
@@ -2769,21 +2721,6 @@
       "tags": [
         "Classical",
         "Classical/Vocal"
-      ]
-    },
-    {
-      "date": "2026-08-28",
-      "source": "ticketmaster",
-      "artists": [
-        "The Legend of Zelda Ocarina of Time Tributo Sinfónico Audiovisual"
-      ],
-      "artist_display": "The Legend of Zelda Ocarina of Time Tributo Sinfónico Audiovisual",
-      "url": "https://www.ticketmaster.com.mx/the-legend-of-zelda-ocarina-of-mexico-28-08-2026/event/3D0064ED9A5D1BBB",
-      "ticket_url": "https://www.ticketmaster.com.mx/the-legend-of-zelda-ocarina-of-mexico-28-08-2026/event/3D0064ED9A5D1BBB",
-      "venue": "Teatro Xola Julio Prieto",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
       ]
     },
     {
@@ -2919,7 +2856,8 @@
       "venue": "Auditorio BB",
       "location": "México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -3550,7 +3488,8 @@
       "venue": "Palacio de los Deportes",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -4187,7 +4126,8 @@
       "venue": "Teatro Metropolitan",
       "location": "México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -4202,8 +4142,8 @@
       "venue": "Pabellón del Palacio de los Deportes",
       "location": "México, Ciudad de México, Mexico",
       "tags": [
-        "Pop",
-        "Electro Pop"
+        "Dance/Electronic",
+        "Amapiano"
       ]
     },
     {
@@ -5707,8 +5647,8 @@
       "venue": "Palacio de los Deportes",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop",
-        "Electro Pop"
+        "Dance/Electronic",
+        "Amapiano"
       ]
     },
     {
@@ -5753,8 +5693,8 @@
       "venue": "Auditorio BB",
       "location": "México, Ciudad de México, Mexico",
       "tags": [
-        "Pop",
-        "Electro Pop"
+        "Dance/Electronic",
+        "Amapiano"
       ]
     },
     {
@@ -5882,8 +5822,8 @@
       "venue": "Palacio de los Deportes",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop",
-        "Electro Pop"
+        "Dance/Electronic",
+        "Amapiano"
       ]
     },
     {
@@ -6050,7 +5990,8 @@
       "venue": "Pepsi Center",
       "location": "México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -6562,7 +6503,8 @@
       "venue": "Teatro Metropolitan",
       "location": "México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -6608,7 +6550,8 @@
       "venue": "Pepsi Center",
       "location": "México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -6756,6 +6699,22 @@
       "date": "2026-11-05",
       "source": "ticketmaster",
       "artists": [
+        "Peces Raros"
+      ],
+      "artist_display": "Peces Raros",
+      "url": "https://www.ticketmaster.com.mx/peces-raros-mexico-05-11-2026/event/140064AEE70C5CDE",
+      "ticket_url": "https://www.ticketmaster.com.mx/peces-raros-mexico-05-11-2026/event/140064AEE70C5CDE",
+      "venue": "Auditorio BB",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Dance/Electronic",
+        "Amapiano"
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "source": "ticketmaster",
+      "artists": [
         "EMJAY"
       ],
       "artist_display": "EMJAY",
@@ -6764,8 +6723,8 @@
       "venue": "Pabellón del Palacio de los Deportes",
       "location": "México, Ciudad de México, Mexico",
       "tags": [
-        "Pop",
-        "Electro Pop"
+        "Dance/Electronic",
+        "Amapiano"
       ]
     },
     {
@@ -6888,7 +6847,8 @@
       "venue": "Palacio de los Deportes",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -6995,7 +6955,8 @@
       "venue": "Palacio de los Deportes",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -7041,7 +7002,8 @@
       "venue": "Palacio de los Deportes",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -7081,8 +7043,8 @@
         "Lifehouse"
       ],
       "artist_display": "Lifehouse",
-      "url": "https://www.ticketmaster.com.mx/lifehouse-mexico-12-11-2026/event/3D0064B08D245B12",
-      "ticket_url": "https://www.ticketmaster.com.mx/lifehouse-mexico-12-11-2026/event/3D0064B08D245B12",
+      "url": "https://www.ticketmaster.com.mx/lifehouse-best-of-acoustic-mexico-12-11-2026/event/3D0064B08D245B12",
+      "ticket_url": "https://www.ticketmaster.com.mx/lifehouse-best-of-acoustic-mexico-12-11-2026/event/3D0064B08D245B12",
       "venue": "La Maraka",
       "location": "México, Ciudad de México, Mexico",
       "tags": [
@@ -7102,7 +7064,8 @@
       "venue": "Palacio de los Deportes",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -7117,7 +7080,8 @@
       "venue": "Teatro Metropolitan",
       "location": "México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -7210,7 +7174,8 @@
       "venue": "Palacio de los Deportes",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -7716,7 +7681,8 @@
       "venue": "Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -7731,7 +7697,8 @@
       "venue": "Teatro Metropolitan",
       "location": "México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -7869,8 +7836,8 @@
       "venue": "Pepsi Center",
       "location": "México, Ciudad de México, Mexico",
       "tags": [
-        "Pop",
-        "Electro Pop"
+        "Dance/Electronic",
+        "Amapiano"
       ]
     },
     {
@@ -8240,8 +8207,8 @@
         "Kalimba"
       ],
       "artist_display": "Kalimba",
-      "url": "https://www.ticketmaster.com.mx/kalimba-hits-tour-mexico-05-12-2026/event/3D006434E1BC5079",
-      "ticket_url": "https://www.ticketmaster.com.mx/kalimba-hits-tour-mexico-05-12-2026/event/3D006434E1BC5079",
+      "url": "https://www.ticketmaster.com.mx/kalimba-christmas-soul-mexico-05-12-2026/event/3D006434E1BC5079",
+      "ticket_url": "https://www.ticketmaster.com.mx/kalimba-christmas-soul-mexico-05-12-2026/event/3D006434E1BC5079",
       "venue": "La Maraka",
       "location": "México, Ciudad de México, Mexico",
       "tags": [
@@ -8369,7 +8336,8 @@
       "venue": "Teatro Metropolitan",
       "location": "México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -8588,6 +8556,40 @@
       "ticket_url": "https://www.ticketmaster.com.mx/black-label-society-ciudad-de-mexico-23-01-2027/event/3D00635FF41D343A",
       "venue": "Velodromo",
       "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Alternative Rock"
+      ]
+    },
+    {
+      "date": "2027-01-29",
+      "source": "ticketmaster",
+      "artists": [
+        "Sombr",
+        "King Princess"
+      ],
+      "artist_display": "Sombr, King Princess",
+      "url": "https://www.ticketmaster.com.mx/sombr-mexico-29-01-2027/event/1400645A87A630E8",
+      "ticket_url": "https://www.ticketmaster.com.mx/sombr-mexico-29-01-2027/event/1400645A87A630E8",
+      "venue": "Pepsi Center",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Alternative Rock"
+      ]
+    },
+    {
+      "date": "2027-01-30",
+      "source": "ticketmaster",
+      "artists": [
+        "Sombr",
+        "King Princess"
+      ],
+      "artist_display": "Sombr, King Princess",
+      "url": "https://www.ticketmaster.com.mx/sombr-mexico-30-01-2027/event/1400645A85802DA2",
+      "ticket_url": "https://www.ticketmaster.com.mx/sombr-mexico-30-01-2027/event/1400645A85802DA2",
+      "venue": "Pepsi Center",
+      "location": "México, Ciudad de México, Mexico",
       "tags": [
         "Rock",
         "Alternative Rock"
