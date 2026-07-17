@@ -1,99 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-07-16T08:11:28.471103Z",
-  "total_concerts": 588,
+  "scraped_at": "2026-07-17T08:08:41.944357Z",
+  "total_concerts": 589,
   "concerts": [
-    {
-      "date": "2026-07-16",
-      "source": "ticketmaster",
-      "artists": [
-        "Camouflage Big Band"
-      ],
-      "artist_display": "Camouflage Big Band",
-      "url": "https://www.ticketmaster.com.mx/15-aniversario-camouflage-big-band-mexico-16-07-2026/event/3D0064A8C7298131",
-      "ticket_url": "https://www.ticketmaster.com.mx/15-aniversario-camouflage-big-band-mexico-16-07-2026/event/3D0064A8C7298131",
-      "venue": "Teatro de la Ciudad Esperanza Iris",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Jazz"
-      ]
-    },
-    {
-      "date": "2026-07-16",
-      "source": "ticketmaster",
-      "artists": [
-        "Sala Principal Bellas Artes"
-      ],
-      "artist_display": "Sala Principal Bellas Artes",
-      "url": "https://www.ticketmaster.com.mx/gala-flamenca-80-movimientos-coornd-10-mexico-cdmx-16-07-2026/event/3D00646FC8614E7D",
-      "ticket_url": "https://www.ticketmaster.com.mx/gala-flamenca-80-movimientos-coornd-10-mexico-cdmx-16-07-2026/event/3D00646FC8614E7D",
-      "venue": "Palacio de Bellas Artes",
-      "location": "México CDMX, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-07-16",
-      "source": "ticketmaster",
-      "artists": [
-        "Tributo a la Diva con Jennely"
-      ],
-      "artist_display": "Tributo a la Diva con Jennely",
-      "url": "https://www.ticketmaster.com.mx/tributo-a-la-diva-con-jennely-mexico-16-07-2026/event/140064CFDB96B4DD",
-      "ticket_url": "https://www.ticketmaster.com.mx/tributo-a-la-diva-con-jennely-mexico-16-07-2026/event/140064CFDB96B4DD",
-      "venue": "Teatro Hidalgo",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-07-16",
-      "source": "ticketmaster",
-      "artists": [
-        "Leyendas el show"
-      ],
-      "artist_display": "Leyendas el show",
-      "url": "https://www.ticketmaster.com.mx/leyendas-ciudad-de-mexico-16-07-2026/event/3D006498BA6DA4F5",
-      "ticket_url": "https://www.ticketmaster.com.mx/leyendas-ciudad-de-mexico-16-07-2026/event/3D006498BA6DA4F5",
-      "venue": "Foro Stelaris Fiesta Americana Reforma",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
-      ]
-    },
-    {
-      "date": "2026-07-16",
-      "source": "ticketmaster",
-      "artists": [
-        "Dalú"
-      ],
-      "artist_display": "Dalú",
-      "url": "https://www.ticketmaster.com.mx/dalu-playlist-para-esos-dias-nublados-mexico-16-07-2026/event/3D0064948CB4213A",
-      "ticket_url": "https://www.ticketmaster.com.mx/dalu-playlist-para-esos-dias-nublados-mexico-16-07-2026/event/3D0064948CB4213A",
-      "venue": "Foro Red Access",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop"
-      ]
-    },
-    {
-      "date": "2026-07-16",
-      "source": "ticketmaster",
-      "artists": [
-        "Tex Tex"
-      ],
-      "artist_display": "Tex Tex",
-      "url": "https://www.ticketmaster.com.mx/tex-tex-mexico-16-07-2026/event/3D00645A96C22E32",
-      "ticket_url": "https://www.ticketmaster.com.mx/tex-tex-mexico-16-07-2026/event/3D00645A96C22E32",
-      "venue": "La Maraka",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
-      ]
-    },
     {
       "date": "2026-07-17",
       "source": "ticketmaster",
@@ -996,7 +906,8 @@
       "venue": "Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -3719,6 +3630,21 @@
       "url": "https://www.ticketmaster.com.mx/juntos-ciudad-de-mexico-11-09-2026/event/3D00645121F37378",
       "ticket_url": "https://www.ticketmaster.com.mx/juntos-ciudad-de-mexico-11-09-2026/event/3D00645121F37378",
       "venue": "Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "source": "ticketmaster",
+      "artists": [
+        "Carlos Macías"
+      ],
+      "artist_display": "Carlos Macías",
+      "url": "https://www.ticketmaster.com.mx/carlos-macias-ciudad-de-mexico-11-09-2026/event/3D0064EC931C437C",
+      "ticket_url": "https://www.ticketmaster.com.mx/carlos-macias-ciudad-de-mexico-11-09-2026/event/3D0064EC931C437C",
+      "venue": "El Lunario del Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
@@ -7119,6 +7045,21 @@
       "date": "2026-11-13",
       "source": "ticketmaster",
       "artists": [
+        "Carlos Cuevas"
+      ],
+      "artist_display": "Carlos Cuevas",
+      "url": "https://www.ticketmaster.com.mx/carlos-cuevas-el-rey-del-bolero-ciudad-de-mexico-13-11-2026/event/3D0064EC942445CF",
+      "ticket_url": "https://www.ticketmaster.com.mx/carlos-cuevas-el-rey-del-bolero-ciudad-de-mexico-13-11-2026/event/3D0064EC942445CF",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "source": "ticketmaster",
+      "artists": [
         "TrendLine"
       ],
       "artist_display": "TrendLine",
@@ -7347,6 +7288,21 @@
       ]
     },
     {
+      "date": "2026-11-19",
+      "source": "ticketmaster",
+      "artists": [
+        "Kalimba"
+      ],
+      "artist_display": "Kalimba",
+      "url": "https://www.ticketmaster.com.mx/kalimba-christmas-soul-mexico-19-11-2026/event/3D0064E79FC01D9A",
+      "ticket_url": "https://www.ticketmaster.com.mx/kalimba-christmas-soul-mexico-19-11-2026/event/3D0064E79FC01D9A",
+      "venue": "La Maraka",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
       "date": "2026-11-20",
       "source": "ticketmaster",
       "artists": [
@@ -7568,6 +7524,21 @@
       "location": "Mexico, Ciudad de México, Mexico",
       "tags": [
         "Pop"
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "source": "ticketmaster",
+      "artists": [
+        "Kalimba"
+      ],
+      "artist_display": "Kalimba",
+      "url": "https://www.ticketmaster.com.mx/kalimba-christmas-soul-mexico-21-11-2026/event/3D0064E7E8084DD1",
+      "ticket_url": "https://www.ticketmaster.com.mx/kalimba-christmas-soul-mexico-21-11-2026/event/3D0064E7E8084DD1",
+      "venue": "La Maraka",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
       ]
     },
     {
@@ -8170,6 +8141,21 @@
       ]
     },
     {
+      "date": "2026-12-03",
+      "source": "ticketmaster",
+      "artists": [
+        "Kalimba"
+      ],
+      "artist_display": "Kalimba",
+      "url": "https://www.ticketmaster.com.mx/kalimba-christmas-soul-mexico-03-12-2026/event/3D0064E7EBC9508C",
+      "ticket_url": "https://www.ticketmaster.com.mx/kalimba-christmas-soul-mexico-03-12-2026/event/3D0064E7EBC9508C",
+      "venue": "La Maraka",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
       "date": "2026-12-04",
       "source": "ticketmaster",
       "artists": [
@@ -8198,6 +8184,21 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Pop"
+      ]
+    },
+    {
+      "date": "2026-12-04",
+      "source": "ticketmaster",
+      "artists": [
+        "Kalimba"
+      ],
+      "artist_display": "Kalimba",
+      "url": "https://www.ticketmaster.com.mx/kalimba-christmas-soul-mexico-04-12-2026/event/3D0064E7E6D64CE6",
+      "ticket_url": "https://www.ticketmaster.com.mx/kalimba-christmas-soul-mexico-04-12-2026/event/3D0064E7E6D64CE6",
+      "venue": "La Maraka",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
       ]
     },
     {
@@ -8590,6 +8591,22 @@
       "ticket_url": "https://www.ticketmaster.com.mx/sombr-mexico-30-01-2027/event/1400645A85802DA2",
       "venue": "Pepsi Center",
       "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Alternative Rock"
+      ]
+    },
+    {
+      "date": "2027-01-31",
+      "source": "ticketmaster",
+      "artists": [
+        "EVENTO PRUEBA"
+      ],
+      "artist_display": "EVENTO PRUEBA",
+      "url": "https://www.ticketmaster.com.mx/evento-prueba-iztacalco-31-01-2027/event/3D0064F0C57860B6",
+      "ticket_url": "https://www.ticketmaster.com.mx/evento-prueba-iztacalco-31-01-2027/event/3D0064F0C57860B6",
+      "venue": "Estadio Ticketmaster México",
+      "location": "Iztacalco, Ciudad de México, Mexico",
       "tags": [
         "Rock",
         "Alternative Rock"

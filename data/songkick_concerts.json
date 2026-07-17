@@ -1,45 +1,9 @@
 {
   "source": "songkick",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-07-16T08:11:24.293083Z",
-  "total_concerts": 624,
+  "scraped_at": "2026-07-17T08:08:38.341088Z",
+  "total_concerts": 626,
   "concerts": [
-    {
-      "date": "2026-07-26",
-      "source": "songkick",
-      "artists": [
-        "Las Fokin Biches"
-      ],
-      "artist_display": "Las Fokin Biches",
-      "url": "https://www.songkick.com/concerts/43298108-las-fokin-biches-at-fuck-off-room",
-      "venue": "FÜCK OFF ROOM",
-      "venue_url": "https://www.songkick.com/venues/4540201-fuck-off-room",
-      "location": "FÜCK OFF ROOM,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-07-29",
-      "source": "songkick",
-      "artists": [
-        "Shawn James"
-      ],
-      "artist_display": "Shawn James",
-      "url": "https://www.songkick.com/concerts/43217441-shawn-james-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks!",
-      "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks!,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-07-29",
-      "source": "songkick",
-      "artists": [
-        "La Renga"
-      ],
-      "artist_display": "La Renga",
-      "url": "https://www.songkick.com/concerts/43245258-la-renga-at-lunario-del-auditorio-nacional",
-      "venue": "Lunario Del Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional",
-      "location": "Lunario Del Auditorio Nacional,Mexico City, Mexico"
-    },
     {
       "date": "2026-07-29",
       "source": "songkick",
@@ -176,18 +140,6 @@
       "date": "2026-08-01",
       "source": "songkick",
       "artists": [
-        "Yuri"
-      ],
-      "artist_display": "Yuri",
-      "url": "https://www.songkick.com/concerts/43219121-yuri-at-auditorio-nacional",
-      "venue": "Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/34183-auditorio-nacional",
-      "location": "Auditorio Nacional,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-08-01",
-      "source": "songkick",
-      "artists": [
         "Human Tetris"
       ],
       "artist_display": "Human Tetris",
@@ -195,6 +147,18 @@
       "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
       "location": "Foro Indie Rocks!,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-08-01",
+      "source": "songkick",
+      "artists": [
+        "Yuri"
+      ],
+      "artist_display": "Yuri",
+      "url": "https://www.songkick.com/concerts/43219121-yuri-at-auditorio-nacional",
+      "venue": "Auditorio Nacional",
+      "venue_url": "https://www.songkick.com/venues/34183-auditorio-nacional",
+      "location": "Auditorio Nacional,Mexico City, Mexico"
     },
     {
       "date": "2026-08-01",
@@ -2297,6 +2261,18 @@
       "location": "Teatro Metropólitan,Mexico City, Mexico"
     },
     {
+      "date": "2026-09-11",
+      "source": "songkick",
+      "artists": [
+        "Carlos Macias"
+      ],
+      "artist_display": "Carlos Macias",
+      "url": "https://www.songkick.com/concerts/43326769-carlos-macias-at-lunario-del-auditorio-nacional",
+      "venue": "Lunario Del Auditorio Nacional",
+      "venue_url": "https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional",
+      "location": "Lunario Del Auditorio Nacional,Mexico City, Mexico"
+    },
+    {
       "date": "2026-09-12",
       "source": "songkick",
       "artists": [
@@ -3774,18 +3750,6 @@
       "date": "2026-10-07",
       "source": "songkick",
       "artists": [
-        "Austin TVBelafonte Sensacional"
-      ],
-      "artist_display": "Austin TVBelafonte Sensacional",
-      "url": "https://www.songkick.com/concerts/43241680-austin-tv-at-doppler",
-      "venue": "Doppler",
-      "venue_url": "https://www.songkick.com/venues/2928958-doppler",
-      "location": "Doppler,Texcoco, Mexico"
-    },
-    {
-      "date": "2026-10-07",
-      "source": "songkick",
-      "artists": [
         "POiSON GiRL FRiEND"
       ],
       "artist_display": "POiSON GiRL FRiEND",
@@ -3793,6 +3757,18 @@
       "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
       "location": "Foro Indie Rocks!,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-10-07",
+      "source": "songkick",
+      "artists": [
+        "Austin TVBelafonte Sensacional"
+      ],
+      "artist_display": "Austin TVBelafonte Sensacional",
+      "url": "https://www.songkick.com/concerts/43241680-austin-tv-at-doppler",
+      "venue": "Doppler",
+      "venue_url": "https://www.songkick.com/venues/2928958-doppler",
+      "location": "Doppler,Texcoco, Mexico"
     },
     {
       "date": "2026-10-07",
@@ -5898,18 +5874,6 @@
       "date": "2026-11-13",
       "source": "songkick",
       "artists": [
-        "Majo Aguilar"
-      ],
-      "artist_display": "Majo Aguilar",
-      "url": "https://www.songkick.com/concerts/43060119-majo-aguilar-at-auditorio-nacional",
-      "venue": "Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/34183-auditorio-nacional",
-      "location": "Auditorio Nacional,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-13",
-      "source": "songkick",
-      "artists": [
         "Reyno"
       ],
       "artist_display": "Reyno",
@@ -5929,6 +5893,18 @@
       "venue": "Multiforo Alicia",
       "venue_url": "https://www.songkick.com/venues/120456-multiforo-alicia",
       "location": "Multiforo Alicia,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-11-13",
+      "source": "songkick",
+      "artists": [
+        "Carlos Cuevas"
+      ],
+      "artist_display": "Carlos Cuevas",
+      "url": "https://www.songkick.com/concerts/43326767-carlos-cuevas-at-lunario-del-auditorio-nacional",
+      "venue": "Lunario Del Auditorio Nacional",
+      "venue_url": "https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional",
+      "location": "Lunario Del Auditorio Nacional,Mexico City, Mexico"
     },
     {
       "date": "2026-11-14",
@@ -6123,6 +6099,18 @@
       "location": "Arena CDMX,Mexico City, Mexico"
     },
     {
+      "date": "2026-11-19",
+      "source": "songkick",
+      "artists": [
+        "Kalimba"
+      ],
+      "artist_display": "Kalimba",
+      "url": "https://www.songkick.com/concerts/43326765-kalimba-at-la-maraka",
+      "venue": "La Maraka",
+      "venue_url": "https://www.songkick.com/venues/1076291-la-maraka",
+      "location": "La Maraka,Mexico City, Mexico"
+    },
+    {
       "date": "2026-11-20",
       "source": "songkick",
       "artists": [
@@ -6289,6 +6277,18 @@
       "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
       "location": "Foro Indie Rocks!,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-11-21",
+      "source": "songkick",
+      "artists": [
+        "Kalimba"
+      ],
+      "artist_display": "Kalimba",
+      "url": "https://www.songkick.com/concerts/43326758-kalimba-at-la-maraka",
+      "venue": "La Maraka",
+      "venue_url": "https://www.songkick.com/venues/1076291-la-maraka",
+      "location": "La Maraka,Mexico City, Mexico"
     },
     {
       "date": "2026-11-22",
@@ -6687,6 +6687,18 @@
       "location": "Velódromo Olímpico,Mexico City, Mexico"
     },
     {
+      "date": "2026-12-03",
+      "source": "songkick",
+      "artists": [
+        "Kalimba"
+      ],
+      "artist_display": "Kalimba",
+      "url": "https://www.songkick.com/concerts/43326768-kalimba-at-la-maraka",
+      "venue": "La Maraka",
+      "venue_url": "https://www.songkick.com/venues/1076291-la-maraka",
+      "location": "La Maraka,Mexico City, Mexico"
+    },
+    {
       "date": "2026-12-04",
       "source": "songkick",
       "artists": [
@@ -6721,6 +6733,18 @@
       "venue": "Auditorio Nacional",
       "venue_url": "https://www.songkick.com/venues/34183-auditorio-nacional",
       "location": "Auditorio Nacional,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-12-04",
+      "source": "songkick",
+      "artists": [
+        "Kalimba"
+      ],
+      "artist_display": "Kalimba",
+      "url": "https://www.songkick.com/concerts/43326766-kalimba-at-la-maraka",
+      "venue": "La Maraka",
+      "venue_url": "https://www.songkick.com/venues/1076291-la-maraka",
+      "location": "La Maraka,Mexico City, Mexico"
     },
     {
       "date": "2026-12-05",
