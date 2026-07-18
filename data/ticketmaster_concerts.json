@@ -1,84 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-07-17T08:08:41.944357Z",
-  "total_concerts": 589,
+  "scraped_at": "2026-07-18T07:47:51.959591Z",
+  "total_concerts": 591,
   "concerts": [
-    {
-      "date": "2026-07-17",
-      "source": "ticketmaster",
-      "artists": [
-        "Los Angeles Azules"
-      ],
-      "artist_display": "Los Angeles Azules",
-      "url": "https://www.ticketmaster.com.mx/los-angeles-azules-no-incluye-acceso-mexico-17-07-2026/event/140064908F2E4D87",
-      "ticket_url": "https://www.ticketmaster.com.mx/los-angeles-azules-no-incluye-acceso-mexico-17-07-2026/event/140064908F2E4D87",
-      "venue": "Campo Marte",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-07-17",
-      "source": "ticketmaster",
-      "artists": [
-        "Grupo Firme"
-      ],
-      "artist_display": "Grupo Firme",
-      "url": "https://www.ticketmaster.com.mx/grupo-firme-ciudad-de-mexico-17-07-2026/event/14006491C78DD35E",
-      "ticket_url": "https://www.ticketmaster.com.mx/grupo-firme-ciudad-de-mexico-17-07-2026/event/14006491C78DD35E",
-      "venue": "Estadio GNP Seguros",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-07-17",
-      "source": "ticketmaster",
-      "artists": [
-        "Grupo Firme"
-      ],
-      "artist_display": "Grupo Firme",
-      "url": "https://www.ticketmaster.com.mx/grupo-firme-zona-vibra-ciudad-de-mexico-17-07-2026/event/14006491AB1D91F4",
-      "ticket_url": "https://www.ticketmaster.com.mx/grupo-firme-zona-vibra-ciudad-de-mexico-17-07-2026/event/14006491AB1D91F4",
-      "venue": "Estadio GNP Seguros",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-07-17",
-      "source": "ticketmaster",
-      "artists": [
-        "Fato"
-      ],
-      "artist_display": "Fato",
-      "url": "https://www.ticketmaster.com.mx/fato-voz-y-raiz-mexico-17-07-2026/event/3D0064818950194C",
-      "ticket_url": "https://www.ticketmaster.com.mx/fato-voz-y-raiz-mexico-17-07-2026/event/3D0064818950194C",
-      "venue": "Foro Red Access",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-07-17",
-      "source": "ticketmaster",
-      "artists": [
-        "Esto Sí es Despecho: Myriam - Natalia Sosa- Aranza - Sheyla"
-      ],
-      "artist_display": "Esto Sí es Despecho: Myriam - Natalia Sosa- Aranza - Sheyla",
-      "url": "https://www.ticketmaster.com.mx/esto-si-es-despecho-con-big-mexico-17-07-2026/event/3D00646390712C19",
-      "ticket_url": "https://www.ticketmaster.com.mx/esto-si-es-despecho-con-big-mexico-17-07-2026/event/3D00646390712C19",
-      "venue": "La Maraka",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
     {
       "date": "2026-07-18",
       "source": "ticketmaster",
@@ -2113,6 +2038,21 @@
       "date": "2026-08-21",
       "source": "ticketmaster",
       "artists": [
+        "Michelle Williams"
+      ],
+      "artist_display": "Michelle Williams",
+      "url": "https://www.ticketmaster.com.mx/ahi-viene-la-plaga-con-michel-ciudad-de-mexico-21-08-2026/event/3D0064EFEADA560B",
+      "ticket_url": "https://www.ticketmaster.com.mx/ahi-viene-la-plaga-con-michel-ciudad-de-mexico-21-08-2026/event/3D0064EFEADA560B",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "R&B"
+      ]
+    },
+    {
+      "date": "2026-08-21",
+      "source": "ticketmaster",
+      "artists": [
         "Spanish Harlem Orchestra"
       ],
       "artist_display": "Spanish Harlem Orchestra",
@@ -3166,6 +3106,22 @@
       "date": "2026-09-05",
       "source": "ticketmaster",
       "artists": [
+        "Morir Poquito"
+      ],
+      "artist_display": "Morir Poquito",
+      "url": "https://www.ticketmaster.com.mx/morir-poquito-mexico-05-09-2026/event/3D0064CCD4E15F0E",
+      "ticket_url": "https://www.ticketmaster.com.mx/morir-poquito-mexico-05-09-2026/event/3D0064CCD4E15F0E",
+      "venue": "TEATRO SERGIO MAGAÑA",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Dance/Electronic",
+        "Amapiano"
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "source": "ticketmaster",
+      "artists": [
         "Alexa Tarantino",
         "Ciclo NY Jazz All Stars"
       ],
@@ -3310,6 +3266,22 @@
       "ticket_url": "https://www.ticketmaster.com.mx/individual-comfort-arre-pepsi-black-2026-mexico-06-09-2026/event/14006499BAF584A2",
       "venue": "Autodromo Hnos. Rodriguez",
       "location": "México, Ciudad de México, Mexico"
+    },
+    {
+      "date": "2026-09-06",
+      "source": "ticketmaster",
+      "artists": [
+        "Morir Poquito"
+      ],
+      "artist_display": "Morir Poquito",
+      "url": "https://www.ticketmaster.com.mx/morir-poquito-mexico-06-09-2026/event/3D0064CCD56B5F6D",
+      "ticket_url": "https://www.ticketmaster.com.mx/morir-poquito-mexico-06-09-2026/event/3D0064CCD56B5F6D",
+      "venue": "TEATRO SERGIO MAGAÑA",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Dance/Electronic",
+        "Amapiano"
+      ]
     },
     {
       "date": "2026-09-06",
@@ -6156,6 +6128,21 @@
       "date": "2026-10-23",
       "source": "ticketmaster",
       "artists": [
+        "Arturo Sandoval"
+      ],
+      "artist_display": "Arturo Sandoval",
+      "url": "https://www.ticketmaster.com.mx/arturo-sandoval-presentasangu-ciudad-de-mexico-23-10-2026/event/3D0064EAD6325E11",
+      "ticket_url": "https://www.ticketmaster.com.mx/arturo-sandoval-presentasangu-ciudad-de-mexico-23-10-2026/event/3D0064EAD6325E11",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Jazz"
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "source": "ticketmaster",
+      "artists": [
         "Matisse"
       ],
       "artist_display": "Matisse",
@@ -6227,6 +6214,21 @@
       "tags": [
         "Rock",
         "Punk"
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "source": "ticketmaster",
+      "artists": [
+        "Arturo Sandoval"
+      ],
+      "artist_display": "Arturo Sandoval",
+      "url": "https://www.ticketmaster.com.mx/arturo-sandoval-presentasangu-ciudad-de-mexico-24-10-2026/event/3D0064EAD6DB5EA2",
+      "ticket_url": "https://www.ticketmaster.com.mx/arturo-sandoval-presentasangu-ciudad-de-mexico-24-10-2026/event/3D0064EAD6DB5EA2",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Jazz"
       ]
     },
     {
@@ -7372,6 +7374,21 @@
       "date": "2026-11-20",
       "source": "ticketmaster",
       "artists": [
+        "Kalimba"
+      ],
+      "artist_display": "Kalimba",
+      "url": "https://www.ticketmaster.com.mx/kalimba-christmas-soul-mexico-20-11-2026/event/3D0064F0E1EF7CDC",
+      "ticket_url": "https://www.ticketmaster.com.mx/kalimba-christmas-soul-mexico-20-11-2026/event/3D0064F0E1EF7CDC",
+      "venue": "La Maraka",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "source": "ticketmaster",
+      "artists": [
         "Corona Capital"
       ],
       "artist_display": "Corona Capital",
@@ -8197,6 +8214,21 @@
       "ticket_url": "https://www.ticketmaster.com.mx/kalimba-christmas-soul-mexico-04-12-2026/event/3D0064E7E6D64CE6",
       "venue": "La Maraka",
       "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-12-05",
+      "source": "ticketmaster",
+      "artists": [
+        "Caifanes"
+      ],
+      "artist_display": "Caifanes",
+      "url": "https://www.ticketmaster.com.mx/caifanes-ciudad-de-mexico-05-12-2026/event/140064F0DBFCEA8D",
+      "ticket_url": "https://www.ticketmaster.com.mx/caifanes-ciudad-de-mexico-05-12-2026/event/140064F0DBFCEA8D",
+      "venue": "Palacio de los Deportes",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
       ]

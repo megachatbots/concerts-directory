@@ -1,33 +1,9 @@
 {
   "source": "songkick",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-07-17T08:08:38.341088Z",
+  "scraped_at": "2026-07-18T07:47:48.556650Z",
   "total_concerts": 626,
   "concerts": [
-    {
-      "date": "2026-07-29",
-      "source": "songkick",
-      "artists": [
-        "Zazhil"
-      ],
-      "artist_display": "Zazhil",
-      "url": "https://www.songkick.com/concerts/43297281-zazhil-at-centro-cultural-de-espana",
-      "venue": "Centro Cultural de España",
-      "venue_url": "https://www.songkick.com/venues/107609-centro-cultural-de-espana",
-      "location": "Centro Cultural de España,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-07-31",
-      "source": "songkick",
-      "artists": [
-        "Harry StylesJorja Smith"
-      ],
-      "artist_display": "Harry StylesJorja Smith",
-      "url": "https://www.songkick.com/concerts/43003932-harry-styles-at-estadio-gnp-seguros",
-      "venue": "Estadio GNP Seguros",
-      "venue_url": "https://www.songkick.com/venues/33578-estadio-gnp-seguros",
-      "location": "Estadio GNP Seguros,Mexico City, Mexico"
-    },
     {
       "date": "2026-07-31",
       "source": "songkick",
@@ -1001,6 +977,18 @@
       "location": "FÜCK OFF ROOM,Mexico City, Mexico"
     },
     {
+      "date": "2026-08-16",
+      "source": "songkick",
+      "artists": [
+        "Bazar de Bandas 2026Bengala and Gula"
+      ],
+      "artist_display": "Bazar de Bandas 2026Bengala and Gula",
+      "url": "https://www.songkick.com/festivals/2748474-bazar-de-bandas/id/43327778-bazar-de-bandas-2026",
+      "venue": "Pabellón del Palacio de los Deportes",
+      "venue_url": "https://www.songkick.com/venues/1551083-pabellon-del-palacio-de-los-deportes",
+      "location": "Pabellón del Palacio de los Deportes,Mexico City, Mexico"
+    },
+    {
       "date": "2026-08-17",
       "source": "songkick",
       "artists": [
@@ -1256,9 +1244,9 @@
       "date": "2026-08-22",
       "source": "songkick",
       "artists": [
-        "Sparta"
+        "SpartaSad Saturno"
       ],
-      "artist_display": "Sparta",
+      "artist_display": "SpartaSad Saturno",
       "url": "https://www.songkick.com/concerts/43077113-sparta-at-hdx-circus-bar",
       "venue": "HDX Circus Bar",
       "venue_url": "https://www.songkick.com/venues/3875309-hdx-circus-bar",
@@ -5622,9 +5610,9 @@
       "date": "2026-11-07",
       "source": "songkick",
       "artists": [
-        "Festival Amigo 2026Julieta Venegas, Los Amigos Invisibles, Porter, Disco Bahía, Farmacos, and Los Amigos Invisibles (OFICIAL)"
+        "Festival Amigo 2026Julieta Venegas, Caifanes, Los Amigos Invisibles, DLD, Porter, Los Mesoneros, Disco Bahía, and Farmacos"
       ],
-      "artist_display": "Festival Amigo 2026Julieta Venegas, Los Amigos Invisibles, Porter, Disco Bahía, Farmacos, and Los Amigos Invisibles (OFICIAL)",
+      "artist_display": "Festival Amigo 2026Julieta Venegas, Caifanes, Los Amigos Invisibles, DLD, Porter, Los Mesoneros, Disco Bahía, and Farmacos",
       "url": "https://www.songkick.com/festivals/3278715-amigo/id/43321524-festival-amigo-2026",
       "venue": "Campo Los Alcanfores",
       "venue_url": "https://www.songkick.com/venues/4262644-campo-los-alcanfores",
@@ -6529,6 +6517,18 @@
       "venue": "Foro La Paz",
       "venue_url": "https://www.songkick.com/venues/4471031-foro-la-paz",
       "location": "Foro La Paz,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-11-27",
+      "source": "songkick",
+      "artists": [
+        "Farmacos"
+      ],
+      "artist_display": "Farmacos",
+      "url": "https://www.songkick.com/concerts/43327349-farmacos-at-multiforo-246",
+      "venue": "Multiforo 246",
+      "venue_url": "https://www.songkick.com/venues/1808328-multiforo-246",
+      "location": "Multiforo 246,Mexico City, Mexico"
     },
     {
       "date": "2026-11-28",

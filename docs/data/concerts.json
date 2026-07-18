@@ -5,69 +5,9 @@
     "ticketmaster"
   ],
   "metro_area": "Mexico City",
-  "scraped_at": "2026-07-17T08:08:41.968229Z",
-  "total_concerts": 897,
+  "scraped_at": "2026-07-18T07:47:51.984199Z",
+  "total_concerts": 900,
   "concerts": [
-    {
-      "date": "2026-07-17",
-      "source": "ticketmaster",
-      "artists": [
-        "Los Angeles Azules"
-      ],
-      "artist_display": "Los Angeles Azules",
-      "url": "https://www.ticketmaster.com.mx/los-angeles-azules-no-incluye-acceso-mexico-17-07-2026/event/140064908F2E4D87",
-      "ticket_url": "https://www.ticketmaster.com.mx/los-angeles-azules-no-incluye-acceso-mexico-17-07-2026/event/140064908F2E4D87",
-      "venue": "Campo Marte",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-07-17",
-      "source": "ticketmaster",
-      "artists": [
-        "Grupo Firme"
-      ],
-      "artist_display": "Grupo Firme",
-      "url": "https://www.ticketmaster.com.mx/grupo-firme-ciudad-de-mexico-17-07-2026/event/14006491C78DD35E",
-      "ticket_url": "https://www.ticketmaster.com.mx/grupo-firme-ciudad-de-mexico-17-07-2026/event/14006491C78DD35E",
-      "venue": "Estadio GNP Seguros",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-07-17",
-      "source": "ticketmaster",
-      "artists": [
-        "Fato"
-      ],
-      "artist_display": "Fato",
-      "url": "https://www.ticketmaster.com.mx/fato-voz-y-raiz-mexico-17-07-2026/event/3D0064818950194C",
-      "ticket_url": "https://www.ticketmaster.com.mx/fato-voz-y-raiz-mexico-17-07-2026/event/3D0064818950194C",
-      "venue": "Foro Red Access",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-07-17",
-      "source": "ticketmaster",
-      "artists": [
-        "Esto Sí es Despecho: Myriam - Natalia Sosa- Aranza - Sheyla"
-      ],
-      "artist_display": "Esto Sí es Despecho: Myriam - Natalia Sosa- Aranza - Sheyla",
-      "url": "https://www.ticketmaster.com.mx/esto-si-es-despecho-con-big-mexico-17-07-2026/event/3D00646390712C19",
-      "ticket_url": "https://www.ticketmaster.com.mx/esto-si-es-despecho-con-big-mexico-17-07-2026/event/3D00646390712C19",
-      "venue": "La Maraka",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
     {
       "date": "2026-07-18",
       "source": "ticketmaster",
@@ -487,18 +427,6 @@
     },
     {
       "date": "2026-07-29",
-      "source": "songkick",
-      "artists": [
-        "Zazhil"
-      ],
-      "artist_display": "Zazhil",
-      "url": "https://www.songkick.com/concerts/43297281-zazhil-at-centro-cultural-de-espana",
-      "venue": "Centro Cultural de España",
-      "venue_url": "https://www.songkick.com/venues/107609-centro-cultural-de-espana",
-      "location": "Centro Cultural de España,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-07-29",
       "source": "ticketmaster",
       "artists": [
         "La Renga"
@@ -542,18 +470,6 @@
       "tags": [
         "Ballads/Romantic"
       ]
-    },
-    {
-      "date": "2026-07-31",
-      "source": "songkick",
-      "artists": [
-        "Harry StylesJorja Smith"
-      ],
-      "artist_display": "Harry StylesJorja Smith",
-      "url": "https://www.songkick.com/concerts/43003932-harry-styles-at-estadio-gnp-seguros",
-      "venue": "Estadio GNP Seguros",
-      "venue_url": "https://www.songkick.com/venues/33578-estadio-gnp-seguros",
-      "location": "Estadio GNP Seguros,Mexico City, Mexico"
     },
     {
       "date": "2026-07-31",
@@ -2368,6 +2284,18 @@
     },
     {
       "date": "2026-08-16",
+      "source": "songkick",
+      "artists": [
+        "Bazar de Bandas 2026Bengala and Gula"
+      ],
+      "artist_display": "Bazar de Bandas 2026Bengala and Gula",
+      "url": "https://www.songkick.com/festivals/2748474-bazar-de-bandas/id/43327778-bazar-de-bandas-2026",
+      "venue": "Pabellón del Palacio de los Deportes",
+      "venue_url": "https://www.songkick.com/venues/1551083-pabellon-del-palacio-de-los-deportes",
+      "location": "Pabellón del Palacio de los Deportes,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-08-16",
       "source": "ticketmaster",
       "artists": [
         "One Piece In Concert"
@@ -2857,6 +2785,21 @@
       ]
     },
     {
+      "date": "2026-08-21",
+      "source": "ticketmaster",
+      "artists": [
+        "Michelle Williams"
+      ],
+      "artist_display": "Michelle Williams",
+      "url": "https://www.ticketmaster.com.mx/ahi-viene-la-plaga-con-michel-ciudad-de-mexico-21-08-2026/event/3D0064EFEADA560B",
+      "ticket_url": "https://www.ticketmaster.com.mx/ahi-viene-la-plaga-con-michel-ciudad-de-mexico-21-08-2026/event/3D0064EFEADA560B",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "R&B"
+      ]
+    },
+    {
       "date": "2026-08-22",
       "source": "songkick",
       "artists": [
@@ -2917,9 +2860,9 @@
       "date": "2026-08-22",
       "source": "songkick",
       "artists": [
-        "Sparta"
+        "SpartaSad Saturno"
       ],
-      "artist_display": "Sparta",
+      "artist_display": "SpartaSad Saturno",
       "url": "https://www.songkick.com/concerts/43077113-sparta-at-hdx-circus-bar",
       "venue": "HDX Circus Bar",
       "venue_url": "https://www.songkick.com/venues/3875309-hdx-circus-bar",
@@ -4383,6 +4326,22 @@
       "date": "2026-09-05",
       "source": "ticketmaster",
       "artists": [
+        "Morir Poquito"
+      ],
+      "artist_display": "Morir Poquito",
+      "url": "https://www.ticketmaster.com.mx/morir-poquito-mexico-05-09-2026/event/3D0064CCD4E15F0E",
+      "ticket_url": "https://www.ticketmaster.com.mx/morir-poquito-mexico-05-09-2026/event/3D0064CCD4E15F0E",
+      "venue": "TEATRO SERGIO MAGAÑA",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Dance/Electronic",
+        "Amapiano"
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "source": "ticketmaster",
+      "artists": [
         "Alexa Tarantino",
         "Ciclo NY Jazz All Stars"
       ],
@@ -4450,6 +4409,22 @@
       "ticket_url": "https://www.ticketmaster.com.mx/individual-general-arre-pepsi-black-2026-mexico-06-09-2026/event/14006499E74BD086",
       "venue": "Autodromo Hnos. Rodriguez",
       "location": "México, Ciudad de México, Mexico"
+    },
+    {
+      "date": "2026-09-06",
+      "source": "ticketmaster",
+      "artists": [
+        "Morir Poquito"
+      ],
+      "artist_display": "Morir Poquito",
+      "url": "https://www.ticketmaster.com.mx/morir-poquito-mexico-06-09-2026/event/3D0064CCD56B5F6D",
+      "ticket_url": "https://www.ticketmaster.com.mx/morir-poquito-mexico-06-09-2026/event/3D0064CCD56B5F6D",
+      "venue": "TEATRO SERGIO MAGAÑA",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Dance/Electronic",
+        "Amapiano"
+      ]
     },
     {
       "date": "2026-09-06",
@@ -8758,6 +8733,21 @@
       ]
     },
     {
+      "date": "2026-10-23",
+      "source": "ticketmaster",
+      "artists": [
+        "Arturo Sandoval"
+      ],
+      "artist_display": "Arturo Sandoval",
+      "url": "https://www.ticketmaster.com.mx/arturo-sandoval-presentasangu-ciudad-de-mexico-23-10-2026/event/3D0064EAD6325E11",
+      "ticket_url": "https://www.ticketmaster.com.mx/arturo-sandoval-presentasangu-ciudad-de-mexico-23-10-2026/event/3D0064EAD6325E11",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Jazz"
+      ]
+    },
+    {
       "date": "2026-10-24",
       "source": "songkick",
       "artists": [
@@ -8908,6 +8898,21 @@
       "tags": [
         "Rock",
         "Punk"
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "source": "ticketmaster",
+      "artists": [
+        "Arturo Sandoval"
+      ],
+      "artist_display": "Arturo Sandoval",
+      "url": "https://www.ticketmaster.com.mx/arturo-sandoval-presentasangu-ciudad-de-mexico-24-10-2026/event/3D0064EAD6DB5EA2",
+      "ticket_url": "https://www.ticketmaster.com.mx/arturo-sandoval-presentasangu-ciudad-de-mexico-24-10-2026/event/3D0064EAD6DB5EA2",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Jazz"
       ]
     },
     {
@@ -9817,9 +9822,9 @@
       "date": "2026-11-07",
       "source": "songkick",
       "artists": [
-        "Festival Amigo 2026Julieta Venegas, Los Amigos Invisibles, Porter, Disco Bahía, Farmacos, and Los Amigos Invisibles (OFICIAL)"
+        "Festival Amigo 2026Julieta Venegas, Caifanes, Los Amigos Invisibles, DLD, Porter, Los Mesoneros, Disco Bahía, and Farmacos"
       ],
-      "artist_display": "Festival Amigo 2026Julieta Venegas, Los Amigos Invisibles, Porter, Disco Bahía, Farmacos, and Los Amigos Invisibles (OFICIAL)",
+      "artist_display": "Festival Amigo 2026Julieta Venegas, Caifanes, Los Amigos Invisibles, DLD, Porter, Los Mesoneros, Disco Bahía, and Farmacos",
       "url": "https://www.songkick.com/festivals/3278715-amigo/id/43321524-festival-amigo-2026",
       "venue": "Campo Los Alcanfores",
       "venue_url": "https://www.songkick.com/venues/4262644-campo-los-alcanfores",
@@ -10658,6 +10663,21 @@
       "date": "2026-11-20",
       "source": "ticketmaster",
       "artists": [
+        "Kalimba"
+      ],
+      "artist_display": "Kalimba",
+      "url": "https://www.ticketmaster.com.mx/kalimba-christmas-soul-mexico-20-11-2026/event/3D0064F0E1EF7CDC",
+      "ticket_url": "https://www.ticketmaster.com.mx/kalimba-christmas-soul-mexico-20-11-2026/event/3D0064F0E1EF7CDC",
+      "venue": "La Maraka",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "source": "ticketmaster",
+      "artists": [
         "Time Warp"
       ],
       "artist_display": "Time Warp",
@@ -11191,6 +11211,18 @@
     },
     {
       "date": "2026-11-27",
+      "source": "songkick",
+      "artists": [
+        "Farmacos"
+      ],
+      "artist_display": "Farmacos",
+      "url": "https://www.songkick.com/concerts/43327349-farmacos-at-multiforo-246",
+      "venue": "Multiforo 246",
+      "venue_url": "https://www.songkick.com/venues/1808328-multiforo-246",
+      "location": "Multiforo 246,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-11-27",
       "source": "ticketmaster",
       "artists": [
         "Røz"
@@ -11655,6 +11687,21 @@
       "venue": "Multiforo Alicia",
       "venue_url": "https://www.songkick.com/venues/120456-multiforo-alicia",
       "location": "Multiforo Alicia,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-12-05",
+      "source": "ticketmaster",
+      "artists": [
+        "Caifanes"
+      ],
+      "artist_display": "Caifanes",
+      "url": "https://www.ticketmaster.com.mx/caifanes-ciudad-de-mexico-05-12-2026/event/140064F0DBFCEA8D",
+      "ticket_url": "https://www.ticketmaster.com.mx/caifanes-ciudad-de-mexico-05-12-2026/event/140064F0DBFCEA8D",
+      "venue": "Palacio de los Deportes",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
     },
     {
       "date": "2026-12-06",
