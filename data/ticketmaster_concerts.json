@@ -1,101 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-07-18T07:47:51.959591Z",
-  "total_concerts": 591,
+  "scraped_at": "2026-07-19T08:15:44.467052Z",
+  "total_concerts": 587,
   "concerts": [
-    {
-      "date": "2026-07-18",
-      "source": "ticketmaster",
-      "artists": [
-        "Sala Principal Bellas Artes"
-      ],
-      "artist_display": "Sala Principal Bellas Artes",
-      "url": "https://www.ticketmaster.com.mx/cuatro-x-cuatro-80-movimientos-coornd-mexico-cdmx-18-07-2026/event/3D00646FCA764FE4",
-      "ticket_url": "https://www.ticketmaster.com.mx/cuatro-x-cuatro-80-movimientos-coornd-mexico-cdmx-18-07-2026/event/3D00646FCA764FE4",
-      "venue": "Palacio de Bellas Artes",
-      "location": "México CDMX, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-07-18",
-      "source": "ticketmaster",
-      "artists": [
-        "Sinfónica de Minería"
-      ],
-      "artist_display": "Sinfónica de Minería",
-      "url": "https://www.ticketmaster.com.mx/sinfonica-de-mineria-temporada-de-verano-mexico-18-07-2026/event/3D0064ACBCC4A3F7",
-      "ticket_url": "https://www.ticketmaster.com.mx/sinfonica-de-mineria-temporada-de-verano-mexico-18-07-2026/event/3D0064ACBCC4A3F7",
-      "venue": "Sala Silvestre Revueltas",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Classical",
-        "Classical/Vocal"
-      ]
-    },
-    {
-      "date": "2026-07-18",
-      "source": "ticketmaster",
-      "artists": [
-        "Los Malagueña"
-      ],
-      "artist_display": "Los Malagueña",
-      "url": "https://www.ticketmaster.com.mx/los-malaguena-aire-meetgreet-ciudad-de-mexico-18-07-2026/event/3D006427BDD13023",
-      "ticket_url": "https://www.ticketmaster.com.mx/los-malaguena-aire-meetgreet-ciudad-de-mexico-18-07-2026/event/3D006427BDD13023",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-07-18",
-      "source": "ticketmaster",
-      "artists": [
-        "Los Malagueña"
-      ],
-      "artist_display": "Los Malagueña",
-      "url": "https://www.ticketmaster.com.mx/los-malaguena-aire-ciudad-de-mexico-18-07-2026/event/3D006427AB87245E",
-      "ticket_url": "https://www.ticketmaster.com.mx/los-malaguena-aire-ciudad-de-mexico-18-07-2026/event/3D006427AB87245E",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-07-18",
-      "source": "ticketmaster",
-      "artists": [
-        "Grupo Firme"
-      ],
-      "artist_display": "Grupo Firme",
-      "url": "https://www.ticketmaster.com.mx/grupo-firme-ciudad-de-mexico-18-07-2026/event/14006491C955DC29",
-      "ticket_url": "https://www.ticketmaster.com.mx/grupo-firme-ciudad-de-mexico-18-07-2026/event/14006491C955DC29",
-      "venue": "Estadio GNP Seguros",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-07-18",
-      "source": "ticketmaster",
-      "artists": [
-        "Los Amigos Invisibles"
-      ],
-      "artist_display": "Los Amigos Invisibles",
-      "url": "https://www.ticketmaster.com.mx/los-amigos-invisibles-mexico-18-07-2026/event/3D006427E9544B54",
-      "ticket_url": "https://www.ticketmaster.com.mx/los-amigos-invisibles-mexico-18-07-2026/event/3D006427E9544B54",
-      "venue": "La Maraka",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Alternative Rock"
-      ]
-    },
     {
       "date": "2026-07-19",
       "source": "ticketmaster",
@@ -802,6 +710,22 @@
       "tags": [
         "Rock",
         "Alternative Rock"
+      ]
+    },
+    {
+      "date": "2026-08-02",
+      "source": "ticketmaster",
+      "artists": [
+        "Experiencia Midnight Generation"
+      ],
+      "artist_display": "Experiencia Midnight Generation",
+      "url": "https://www.ticketmaster.com.mx/experiencia-midnight-generation-ciudad-de-mexico-02-08-2026/event/3D0064ED81EF0BB8",
+      "ticket_url": "https://www.ticketmaster.com.mx/experiencia-midnight-generation-ciudad-de-mexico-02-08-2026/event/3D0064ED81EF0BB8",
+      "venue": "Estadio Alfredo Harp Helú",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Dance/Electronic",
+        "Amapiano"
       ]
     },
     {
@@ -8605,6 +8529,22 @@
       "url": "https://www.ticketmaster.com.mx/sombr-mexico-29-01-2027/event/1400645A87A630E8",
       "ticket_url": "https://www.ticketmaster.com.mx/sombr-mexico-29-01-2027/event/1400645A87A630E8",
       "venue": "Pepsi Center",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Alternative Rock"
+      ]
+    },
+    {
+      "date": "2027-01-29",
+      "source": "ticketmaster",
+      "artists": [
+        "Los Amigos Invisibles"
+      ],
+      "artist_display": "Los Amigos Invisibles",
+      "url": "https://www.ticketmaster.com.mx/los-amigos-invisibles-mexico-29-01-2027/event/3D0064F28E0D2643",
+      "ticket_url": "https://www.ticketmaster.com.mx/los-amigos-invisibles-mexico-29-01-2027/event/3D0064F28E0D2643",
+      "venue": "La Maraka",
       "location": "México, Ciudad de México, Mexico",
       "tags": [
         "Rock",
