@@ -1,57 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-07-19T08:15:44.467052Z",
-  "total_concerts": 587,
+  "scraped_at": "2026-07-20T08:56:38.170730Z",
+  "total_concerts": 584,
   "concerts": [
-    {
-      "date": "2026-07-19",
-      "source": "ticketmaster",
-      "artists": [
-        "Sinfónica de Minería"
-      ],
-      "artist_display": "Sinfónica de Minería",
-      "url": "https://www.ticketmaster.com.mx/sinfonica-de-mineria-temporada-de-verano-mexico-19-07-2026/event/3D0064ACBCC5A3FD",
-      "ticket_url": "https://www.ticketmaster.com.mx/sinfonica-de-mineria-temporada-de-verano-mexico-19-07-2026/event/3D0064ACBCC5A3FD",
-      "venue": "Sala Silvestre Revueltas",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Classical",
-        "Classical/Vocal"
-      ]
-    },
-    {
-      "date": "2026-07-19",
-      "source": "ticketmaster",
-      "artists": [
-        "Sinfónica de Minería"
-      ],
-      "artist_display": "Sinfónica de Minería",
-      "url": "https://www.ticketmaster.com.mx/sinfonica-de-mineria-concierto-familiar-infantil-mexico-19-07-2026/event/3D0064ACA36E783B",
-      "ticket_url": "https://www.ticketmaster.com.mx/sinfonica-de-mineria-concierto-familiar-infantil-mexico-19-07-2026/event/3D0064ACA36E783B",
-      "venue": "Sala Silvestre Revueltas",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Classical",
-        "Classical/Vocal"
-      ]
-    },
-    {
-      "date": "2026-07-19",
-      "source": "ticketmaster",
-      "artists": [
-        "The Avalanches"
-      ],
-      "artist_display": "The Avalanches",
-      "url": "https://www.ticketmaster.com.mx/avalanches-campo-marte-santander-no-incluye-mexico-19-07-2026/event/140064908F2F4D8B",
-      "ticket_url": "https://www.ticketmaster.com.mx/avalanches-campo-marte-santander-no-incluye-mexico-19-07-2026/event/140064908F2F4D8B",
-      "venue": "Campo Marte",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
     {
       "date": "2026-07-23",
       "source": "ticketmaster",
