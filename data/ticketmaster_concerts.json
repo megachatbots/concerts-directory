@@ -1,8 +1,8 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-07-20T08:56:38.170730Z",
-  "total_concerts": 584,
+  "scraped_at": "2026-07-21T08:26:52.392370Z",
+  "total_concerts": 587,
   "concerts": [
     {
       "date": "2026-07-23",
@@ -668,16 +668,17 @@
       "date": "2026-08-02",
       "source": "ticketmaster",
       "artists": [
-        "Experiencia Midnight Generation"
+        "Midnight Generation",
+        "Diablos Rojos Del Mexico"
       ],
-      "artist_display": "Experiencia Midnight Generation",
+      "artist_display": "Midnight Generation, Diablos Rojos Del Mexico",
       "url": "https://www.ticketmaster.com.mx/experiencia-midnight-generation-ciudad-de-mexico-02-08-2026/event/3D0064ED81EF0BB8",
       "ticket_url": "https://www.ticketmaster.com.mx/experiencia-midnight-generation-ciudad-de-mexico-02-08-2026/event/3D0064ED81EF0BB8",
       "venue": "Estadio Alfredo Harp Helú",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Dance/Electronic",
-        "Amapiano"
+        "Rock",
+        "Pop"
       ]
     },
     {
@@ -2939,7 +2940,8 @@
       "venue": "La Maraka",
       "location": "México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -3617,6 +3619,22 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "R&B"
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "source": "ticketmaster",
+      "artists": [
+        "Neo 5 live show"
+      ],
+      "artist_display": "Neo 5 live show",
+      "url": "https://www.ticketmaster.com.mx/neo-5-live-show-en-concierto-mexico-12-09-2026/event/3D0064F0859C1693",
+      "ticket_url": "https://www.ticketmaster.com.mx/neo-5-live-show-en-concierto-mexico-12-09-2026/event/3D0064F0859C1693",
+      "venue": "Foro Red Access",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -4524,7 +4542,8 @@
       "venue": "El Lunario del Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -4602,7 +4621,8 @@
       "venue": "El Lunario del Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -4664,7 +4684,8 @@
       "venue": "El Lunario del Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -4942,7 +4963,8 @@
       "venue": "Foro Puebla",
       "location": "Mexico, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -4959,6 +4981,21 @@
       "tags": [
         "Folk",
         "Indie Folk"
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "source": "ticketmaster",
+      "artists": [
+        "Ricardo Caballero"
+      ],
+      "artist_display": "Ricardo Caballero",
+      "url": "https://www.ticketmaster.com.mx/ricardo-caballero-el-interprete-ciudad-de-mexico-09-10-2026/event/3D0064EF886C12D5",
+      "ticket_url": "https://www.ticketmaster.com.mx/ricardo-caballero-el-interprete-ciudad-de-mexico-09-10-2026/event/3D0064EF886C12D5",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
       ]
     },
     {
@@ -5064,6 +5101,21 @@
       "ticket_url": "https://www.ticketmaster.com.mx/alejandro-sanz-ciudad-de-mexico-10-10-2026/event/1400648ABED6B4E9",
       "venue": "Estadio GNP Seguros",
       "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "source": "ticketmaster",
+      "artists": [
+        "Camila Fernandez"
+      ],
+      "artist_display": "Camila Fernandez",
+      "url": "https://www.ticketmaster.com.mx/camila-fernandez-mexico-10-10-2026/event/3D0064DAB177352A",
+      "ticket_url": "https://www.ticketmaster.com.mx/camila-fernandez-mexico-10-10-2026/event/3D0064DAB177352A",
+      "venue": "La Maraka",
+      "location": "México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
       ]
@@ -5283,7 +5335,8 @@
       "venue": "Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -5314,7 +5367,8 @@
       "venue": "Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -5437,7 +5491,8 @@
       "venue": "Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -5953,7 +6008,8 @@
       "venue": "Foro Puebla",
       "location": "Mexico, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -6590,7 +6646,8 @@
       "venue": "Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -6667,7 +6724,8 @@
       "venue": "Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -8060,7 +8118,8 @@
       "venue": "Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -8167,7 +8226,8 @@
       "venue": "Velodromo",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -8593,7 +8653,8 @@
       "venue": "Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
