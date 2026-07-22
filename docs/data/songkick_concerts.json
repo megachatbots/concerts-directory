@@ -1,8 +1,8 @@
 {
   "source": "songkick",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-07-21T08:26:48.253847Z",
-  "total_concerts": 660,
+  "scraped_at": "2026-07-22T08:27:27.101003Z",
+  "total_concerts": 661,
   "concerts": [
     {
       "date": "2026-07-22",
@@ -39,18 +39,6 @@
       "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
       "location": "Foro Indie Rocks!,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-07-23",
-      "source": "songkick",
-      "artists": [
-        "O-Key"
-      ],
-      "artist_display": "O-Key",
-      "url": "https://www.songkick.com/concerts/43232373-okey-at-lunario-del-auditorio-nacional",
-      "venue": "Lunario Del Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional",
-      "location": "Lunario Del Auditorio Nacional,Mexico City, Mexico"
     },
     {
       "date": "2026-07-23",
@@ -579,6 +567,18 @@
       "venue": "FÜCK OFF ROOM",
       "venue_url": "https://www.songkick.com/venues/4540201-fuck-off-room",
       "location": "FÜCK OFF ROOM,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-08-02",
+      "source": "songkick",
+      "artists": [
+        "Midnight Generation"
+      ],
+      "artist_display": "Midnight Generation",
+      "url": "https://www.songkick.com/concerts/43331073-midnight-generation-at-estadio-alfredo-harp-helu",
+      "venue": "Estadio Alfredo Harp Helú",
+      "venue_url": "https://www.songkick.com/venues/4599484-estadio-alfredo-harp-helu",
+      "location": "Estadio Alfredo Harp Helú,Mexico City, Mexico"
     },
     {
       "date": "2026-08-04",
@@ -2537,6 +2537,18 @@
       "location": "Pepsi Center WTC,Mexico City, Mexico"
     },
     {
+      "date": "2026-09-10",
+      "source": "songkick",
+      "artists": [
+        "Prefiero Fernandez and Peor Es Nada"
+      ],
+      "artist_display": "Prefiero Fernandez and Peor Es Nada",
+      "url": "https://www.songkick.com/concerts/43333064-prefiero-fernandez-at-mexico",
+      "venue": "MEXICO",
+      "venue_url": "https://www.songkick.com/venues/3964064-mexico",
+      "location": "MEXICO,Mexico City, Mexico"
+    },
+    {
       "date": "2026-09-11",
       "source": "songkick",
       "artists": [
@@ -2636,18 +2648,6 @@
       "date": "2026-09-12",
       "source": "songkick",
       "artists": [
-        "Lagos"
-      ],
-      "artist_display": "Lagos",
-      "url": "https://www.songkick.com/concerts/43289386-lagos-at-auditorio-bb",
-      "venue": "Auditorio BB",
-      "venue_url": "https://www.songkick.com/venues/1683588-auditorio-bb",
-      "location": "Auditorio BB,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-09-12",
-      "source": "songkick",
-      "artists": [
         "La Santa Cecilia"
       ],
       "artist_display": "La Santa Cecilia",
@@ -2655,6 +2655,18 @@
       "venue": "Teatro Metropólitan",
       "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
       "location": "Teatro Metropólitan,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-12",
+      "source": "songkick",
+      "artists": [
+        "Lagos"
+      ],
+      "artist_display": "Lagos",
+      "url": "https://www.songkick.com/concerts/43289386-lagos-at-auditorio-bb",
+      "venue": "Auditorio BB",
+      "venue_url": "https://www.songkick.com/venues/1683588-auditorio-bb",
+      "location": "Auditorio BB,Mexico City, Mexico"
     },
     {
       "date": "2026-09-12",
@@ -2780,18 +2792,6 @@
       "date": "2026-09-13",
       "source": "songkick",
       "artists": [
-        "Pipiolas"
-      ],
-      "artist_display": "Pipiolas",
-      "url": "https://www.songkick.com/concerts/43269937-pipiolas-at-foro-cultural-hilvana",
-      "venue": "Foro Cultural Hilvana",
-      "venue_url": "https://www.songkick.com/venues/4071029-foro-cultural-hilvana",
-      "location": "Foro Cultural Hilvana,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-09-13",
-      "source": "songkick",
-      "artists": [
         "W.I.T.C.H. (We Intend To Cause Havoc)WE INTEND TO CAUSE HAVOC, The Shelter (MX), and Viv & The Sect"
       ],
       "artist_display": "W.I.T.C.H. (We Intend To Cause Havoc)WE INTEND TO CAUSE HAVOC, The Shelter (MX), and Viv & The Sect",
@@ -2811,6 +2811,18 @@
       "venue": "Soul Dread",
       "venue_url": "https://www.songkick.com/venues/4476994-soul-dread",
       "location": "Soul Dread,Nezahualcóyotl, Mexico"
+    },
+    {
+      "date": "2026-09-13",
+      "source": "songkick",
+      "artists": [
+        "Pipiolas"
+      ],
+      "artist_display": "Pipiolas",
+      "url": "https://www.songkick.com/concerts/43269937-pipiolas-at-foro-cultural-hilvana",
+      "venue": "Foro Cultural Hilvana",
+      "venue_url": "https://www.songkick.com/venues/4071029-foro-cultural-hilvana",
+      "location": "Foro Cultural Hilvana,Mexico City, Mexico"
     },
     {
       "date": "2026-09-14",
@@ -4434,18 +4446,6 @@
       "date": "2026-10-10",
       "source": "songkick",
       "artists": [
-        "Estelares"
-      ],
-      "artist_display": "Estelares",
-      "url": "https://www.songkick.com/concerts/43215538-estelares-at-lunario-del-auditorio-nacional",
-      "venue": "Lunario Del Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional",
-      "location": "Lunario Del Auditorio Nacional,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-10",
-      "source": "songkick",
-      "artists": [
         "Renzo Montalbano"
       ],
       "artist_display": "Renzo Montalbano",
@@ -4453,6 +4453,18 @@
       "venue": "Segundo Piso Live",
       "venue_url": "https://www.songkick.com/venues/4269454-segundo-piso-live",
       "location": "Segundo Piso Live,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-10-10",
+      "source": "songkick",
+      "artists": [
+        "Camila Fernandez"
+      ],
+      "artist_display": "Camila Fernandez",
+      "url": "https://www.songkick.com/concerts/43331066-camila-fernandez-at-la-maraka",
+      "venue": "La Maraka",
+      "venue_url": "https://www.songkick.com/venues/1076291-la-maraka",
+      "location": "La Maraka,Mexico City, Mexico"
     },
     {
       "date": "2026-10-11",
@@ -6222,9 +6234,9 @@
       "date": "2026-11-13",
       "source": "songkick",
       "artists": [
-        "Dragonfly"
+        "DragonflyDaeria, Aztlan, and Headon (Spain)"
       ],
-      "artist_display": "Dragonfly",
+      "artist_display": "DragonflyDaeria, Aztlan, and Headon (Spain)",
       "url": "https://www.songkick.com/concerts/43322919-dragonfly-at-multiforo-alicia",
       "venue": "Multiforo Alicia",
       "venue_url": "https://www.songkick.com/venues/120456-multiforo-alicia",

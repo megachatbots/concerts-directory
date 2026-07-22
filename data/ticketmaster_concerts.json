@@ -1,8 +1,8 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-07-21T08:26:52.392370Z",
-  "total_concerts": 587,
+  "scraped_at": "2026-07-22T08:27:30.559699Z",
+  "total_concerts": 594,
   "concerts": [
     {
       "date": "2026-07-23",
@@ -479,6 +479,21 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Pop"
+      ]
+    },
+    {
+      "date": "2026-07-31",
+      "source": "ticketmaster",
+      "artists": [
+        "Homenaje a MADONNA"
+      ],
+      "artist_display": "Homenaje a MADONNA",
+      "url": "https://www.ticketmaster.com.mx/homenaje-a-madonna-san-francisco-coaxusco-31-07-2026/event/3D0064F495AA1492",
+      "ticket_url": "https://www.ticketmaster.com.mx/homenaje-a-madonna-san-francisco-coaxusco-31-07-2026/event/3D0064F495AA1492",
+      "venue": "Alboa Metepec",
+      "location": "San Francisco Coaxusco, Estado de México, Mexico",
+      "tags": [
+        "Ballads/Romantic"
       ]
     },
     {
@@ -3077,9 +3092,32 @@
       "date": "2026-09-05",
       "source": "ticketmaster",
       "artists": [
-        "Festival Arre"
+        "Festival Arre",
+        "Banda MS",
+        "Gabito Ballesteros",
+        "Calle 24",
+        "Edgardo Nuñez",
+        "El Mimoso",
+        "Grupo Cañaveral",
+        "Herencia de Patrones",
+        "Los Plebes Del Rancho",
+        "Regulo Caro",
+        "Cumbia Pedregal",
+        "Yng Naz",
+        "Alejandro Fernández",
+        "Los Tucanes De Tijuana",
+        "Clave Especial",
+        "Eslabon Armado",
+        "La Sonora Dinamita",
+        "Los 2 de la S",
+        "Los Dos Carnales",
+        "Mi Banda El Mexicano",
+        "Damaris Bojor",
+        "Delilah",
+        "Franco Rey",
+        "Victor Mendivil"
       ],
-      "artist_display": "Festival Arre",
+      "artist_display": "Festival Arre, Banda MS, Gabito Ballesteros, Calle 24, Edgardo Nuñez, El Mimoso, Grupo Cañaveral, Herencia de Patrones, Los Plebes Del Rancho, Regulo Caro, Cumbia Pedregal, Yng Naz, Alejandro Fernández, Los Tucanes De Tijuana, Clave Especial, Eslabon Armado, La Sonora Dinamita, Los 2 de la S, Los Dos Carnales, Mi Banda El Mexicano, Damaris Bojor, Delilah, Franco Rey, Victor Mendivil",
       "url": "https://www.ticketmaster.com.mx/abono-general-arre-pepsi-black-2026-mexico-05-09-2026/event/14006499DA4ABAA6",
       "ticket_url": "https://www.ticketmaster.com.mx/abono-general-arre-pepsi-black-2026-mexico-05-09-2026/event/14006499DA4ABAA6",
       "venue": "Autodromo Hnos. Rodriguez",
@@ -3089,9 +3127,32 @@
       "date": "2026-09-05",
       "source": "ticketmaster",
       "artists": [
-        "Festival Arre"
+        "Festival Arre",
+        "Banda MS",
+        "Gabito Ballesteros",
+        "Calle 24",
+        "Edgardo Nuñez",
+        "El Mimoso",
+        "Grupo Cañaveral",
+        "Herencia de Patrones",
+        "Los Plebes Del Rancho",
+        "Regulo Caro",
+        "Cumbia Pedregal",
+        "Yng Naz",
+        "Alejandro Fernández",
+        "Los Tucanes De Tijuana",
+        "Clave Especial",
+        "Eslabon Armado",
+        "La Sonora Dinamita",
+        "Los 2 de la S",
+        "Los Dos Carnales",
+        "Mi Banda El Mexicano",
+        "Damaris Bojor",
+        "Delilah",
+        "Franco Rey",
+        "Victor Mendivil"
       ],
-      "artist_display": "Festival Arre",
+      "artist_display": "Festival Arre, Banda MS, Gabito Ballesteros, Calle 24, Edgardo Nuñez, El Mimoso, Grupo Cañaveral, Herencia de Patrones, Los Plebes Del Rancho, Regulo Caro, Cumbia Pedregal, Yng Naz, Alejandro Fernández, Los Tucanes De Tijuana, Clave Especial, Eslabon Armado, La Sonora Dinamita, Los 2 de la S, Los Dos Carnales, Mi Banda El Mexicano, Damaris Bojor, Delilah, Franco Rey, Victor Mendivil",
       "url": "https://www.ticketmaster.com.mx/abono-comfort-arre-pepsi-black-2026-mexico-05-09-2026/event/14006499DD66C021",
       "ticket_url": "https://www.ticketmaster.com.mx/abono-comfort-arre-pepsi-black-2026-mexico-05-09-2026/event/14006499DD66C021",
       "venue": "Autodromo Hnos. Rodriguez",
@@ -3101,9 +3162,32 @@
       "date": "2026-09-05",
       "source": "ticketmaster",
       "artists": [
-        "Festival Arre"
+        "Festival Arre",
+        "Banda MS",
+        "Gabito Ballesteros",
+        "Calle 24",
+        "Edgardo Nuñez",
+        "El Mimoso",
+        "Grupo Cañaveral",
+        "Herencia de Patrones",
+        "Los Plebes Del Rancho",
+        "Regulo Caro",
+        "Cumbia Pedregal",
+        "Yng Naz",
+        "Alejandro Fernández",
+        "Los Tucanes De Tijuana",
+        "Clave Especial",
+        "Eslabon Armado",
+        "La Sonora Dinamita",
+        "Los 2 de la S",
+        "Los Dos Carnales",
+        "Mi Banda El Mexicano",
+        "Damaris Bojor",
+        "Delilah",
+        "Franco Rey",
+        "Victor Mendivil"
       ],
-      "artist_display": "Festival Arre",
+      "artist_display": "Festival Arre, Banda MS, Gabito Ballesteros, Calle 24, Edgardo Nuñez, El Mimoso, Grupo Cañaveral, Herencia de Patrones, Los Plebes Del Rancho, Regulo Caro, Cumbia Pedregal, Yng Naz, Alejandro Fernández, Los Tucanes De Tijuana, Clave Especial, Eslabon Armado, La Sonora Dinamita, Los 2 de la S, Los Dos Carnales, Mi Banda El Mexicano, Damaris Bojor, Delilah, Franco Rey, Victor Mendivil",
       "url": "https://www.ticketmaster.com.mx/abono-zona-vip-hsbc-premier-arre-mexico-05-09-2026/event/14006499AA246710",
       "ticket_url": "https://www.ticketmaster.com.mx/abono-zona-vip-hsbc-premier-arre-mexico-05-09-2026/event/14006499AA246710",
       "venue": "Autodromo Hnos. Rodriguez",
@@ -3619,6 +3703,21 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "R&B"
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "source": "ticketmaster",
+      "artists": [
+        "Pablo Preciado"
+      ],
+      "artist_display": "Pablo Preciado",
+      "url": "https://www.ticketmaster.com.mx/pablo-preciado-en-concierto-ciudad-de-mexico-12-09-2026/event/3D0064F5837410F5",
+      "ticket_url": "https://www.ticketmaster.com.mx/pablo-preciado-en-concierto-ciudad-de-mexico-12-09-2026/event/3D0064F5837410F5",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Ballads/Romantic"
       ]
     },
     {
@@ -5155,6 +5254,22 @@
       "date": "2026-10-11",
       "source": "ticketmaster",
       "artists": [
+        "Peter Bjorn and John"
+      ],
+      "artist_display": "Peter Bjorn and John",
+      "url": "https://www.ticketmaster.com.mx/peter-bjorn-and-john-writers-block-mexico-11-10-2026/event/3D0064C9F9BF54D5",
+      "ticket_url": "https://www.ticketmaster.com.mx/peter-bjorn-and-john-writers-block-mexico-11-10-2026/event/3D0064C9F9BF54D5",
+      "venue": "Foro Puebla",
+      "location": "Mexico, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "source": "ticketmaster",
+      "artists": [
         "Alvaro Diaz"
       ],
       "artist_display": "Alvaro Diaz",
@@ -5227,6 +5342,22 @@
       "location": "México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "source": "ticketmaster",
+      "artists": [
+        "Sepultura"
+      ],
+      "artist_display": "Sepultura",
+      "url": "https://www.ticketmaster.com.mx/sepultura-mexico-11-10-2026/event/140064EEFAB5C896",
+      "ticket_url": "https://www.ticketmaster.com.mx/sepultura-mexico-11-10-2026/event/140064EEFAB5C896",
+      "venue": "Pepsi Center",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Metal",
+        "Nu-Metal"
       ]
     },
     {
@@ -6887,6 +7018,21 @@
       "date": "2026-11-12",
       "source": "ticketmaster",
       "artists": [
+        "María León"
+      ],
+      "artist_display": "María León",
+      "url": "https://www.ticketmaster.com.mx/maria-leon-mexico-12-11-2026/event/140064F28A8D3ABF",
+      "ticket_url": "https://www.ticketmaster.com.mx/maria-leon-mexico-12-11-2026/event/140064F28A8D3ABF",
+      "venue": "Teatro Metropolitan",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Ballads/Romantic"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "source": "ticketmaster",
+      "artists": [
         "Elefante"
       ],
       "artist_display": "Elefante",
@@ -7180,6 +7326,22 @@
       "date": "2026-11-19",
       "source": "ticketmaster",
       "artists": [
+        "Dimash Qudaibergen"
+      ],
+      "artist_display": "Dimash Qudaibergen",
+      "url": "https://www.ticketmaster.com.mx/dimash-qudaibergen-ciudad-de-mexico-19-11-2026/event/140064C499605A9D",
+      "ticket_url": "https://www.ticketmaster.com.mx/dimash-qudaibergen-ciudad-de-mexico-19-11-2026/event/140064C499605A9D",
+      "venue": "Palacio de los Deportes",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "source": "ticketmaster",
+      "artists": [
         "Arde Bogota"
       ],
       "artist_display": "Arde Bogota",
@@ -7444,6 +7606,22 @@
       "location": "Mexico, Ciudad de México, Mexico",
       "tags": [
         "Jazz"
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "source": "ticketmaster",
+      "artists": [
+        "Benny"
+      ],
+      "artist_display": "Benny",
+      "url": "https://www.ticketmaster.com.mx/benny-mexico-21-11-2026/event/140064F28F5641F8",
+      "ticket_url": "https://www.ticketmaster.com.mx/benny-mexico-21-11-2026/event/140064F28F5641F8",
+      "venue": "Teatro Metropolitan",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Pop"
       ]
     },
     {

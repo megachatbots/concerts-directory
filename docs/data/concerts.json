@@ -5,8 +5,8 @@
     "ticketmaster"
   ],
   "metro_area": "Mexico City",
-  "scraped_at": "2026-07-21T08:26:52.416332Z",
-  "total_concerts": 923,
+  "scraped_at": "2026-07-22T08:27:30.587904Z",
+  "total_concerts": 930,
   "concerts": [
     {
       "date": "2026-07-22",
@@ -43,18 +43,6 @@
       "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
       "location": "Foro Indie Rocks!,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-07-23",
-      "source": "songkick",
-      "artists": [
-        "O-Key"
-      ],
-      "artist_display": "O-Key",
-      "url": "https://www.songkick.com/concerts/43232373-okey-at-lunario-del-auditorio-nacional",
-      "venue": "Lunario Del Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional",
-      "location": "Lunario Del Auditorio Nacional,Mexico City, Mexico"
     },
     {
       "date": "2026-07-23",
@@ -808,6 +796,21 @@
       "date": "2026-07-31",
       "source": "ticketmaster",
       "artists": [
+        "Homenaje a MADONNA"
+      ],
+      "artist_display": "Homenaje a MADONNA",
+      "url": "https://www.ticketmaster.com.mx/homenaje-a-madonna-san-francisco-coaxusco-31-07-2026/event/3D0064F495AA1492",
+      "ticket_url": "https://www.ticketmaster.com.mx/homenaje-a-madonna-san-francisco-coaxusco-31-07-2026/event/3D0064F495AA1492",
+      "venue": "Alboa Metepec",
+      "location": "San Francisco Coaxusco, Estado de México, Mexico",
+      "tags": [
+        "Ballads/Romantic"
+      ]
+    },
+    {
+      "date": "2026-07-31",
+      "source": "ticketmaster",
+      "artists": [
         "Jorge Muñiz"
       ],
       "artist_display": "Jorge Muñiz",
@@ -1069,6 +1072,23 @@
     },
     {
       "date": "2026-08-02",
+      "source": "songkick",
+      "artists": [
+        "Midnight Generation"
+      ],
+      "artist_display": "Midnight Generation",
+      "url": "https://www.songkick.com/concerts/43331073-midnight-generation-at-estadio-alfredo-harp-helu",
+      "venue": "Estadio Alfredo Harp Helú",
+      "venue_url": "https://www.songkick.com/venues/4599484-estadio-alfredo-harp-helu",
+      "location": "Estadio Alfredo Harp Helú,Mexico City, Mexico",
+      "ticket_url": "https://www.ticketmaster.com.mx/experiencia-midnight-generation-ciudad-de-mexico-02-08-2026/event/3D0064ED81EF0BB8",
+      "tags": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "date": "2026-08-02",
       "source": "ticketmaster",
       "artists": [
         "La Onda Vaselina"
@@ -1111,23 +1131,6 @@
       "tags": [
         "Rock",
         "Alternative Rock"
-      ]
-    },
-    {
-      "date": "2026-08-02",
-      "source": "ticketmaster",
-      "artists": [
-        "Midnight Generation",
-        "Diablos Rojos Del Mexico"
-      ],
-      "artist_display": "Midnight Generation, Diablos Rojos Del Mexico",
-      "url": "https://www.ticketmaster.com.mx/experiencia-midnight-generation-ciudad-de-mexico-02-08-2026/event/3D0064ED81EF0BB8",
-      "ticket_url": "https://www.ticketmaster.com.mx/experiencia-midnight-generation-ciudad-de-mexico-02-08-2026/event/3D0064ED81EF0BB8",
-      "venue": "Estadio Alfredo Harp Helú",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Pop"
       ]
     },
     {
@@ -4834,6 +4837,18 @@
     },
     {
       "date": "2026-09-10",
+      "source": "songkick",
+      "artists": [
+        "Prefiero Fernandez and Peor Es Nada"
+      ],
+      "artist_display": "Prefiero Fernandez and Peor Es Nada",
+      "url": "https://www.songkick.com/concerts/43333064-prefiero-fernandez-at-mexico",
+      "venue": "MEXICO",
+      "venue_url": "https://www.songkick.com/venues/3964064-mexico",
+      "location": "MEXICO,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-10",
       "source": "ticketmaster",
       "artists": [
         "ERAUSO o la última increíble aventura de la monja Alférez."
@@ -5095,22 +5110,6 @@
       "date": "2026-09-12",
       "source": "songkick",
       "artists": [
-        "Lagos"
-      ],
-      "artist_display": "Lagos",
-      "url": "https://www.songkick.com/concerts/43289386-lagos-at-auditorio-bb",
-      "venue": "Auditorio BB",
-      "venue_url": "https://www.songkick.com/venues/1683588-auditorio-bb",
-      "location": "Auditorio BB,Mexico City, Mexico",
-      "ticket_url": "https://www.ticketmaster.com.mx/lagos-mexico-12-09-2026/event/140064C380FE2765",
-      "tags": [
-        "Ballads/Romantic"
-      ]
-    },
-    {
-      "date": "2026-09-12",
-      "source": "songkick",
-      "artists": [
         "La Santa Cecilia"
       ],
       "artist_display": "La Santa Cecilia",
@@ -5121,6 +5120,22 @@
       "ticket_url": "https://www.ticketmaster.com.mx/la-santa-cecilia-mexico-12-09-2026/event/14006385A8E5C699",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "source": "songkick",
+      "artists": [
+        "Lagos"
+      ],
+      "artist_display": "Lagos",
+      "url": "https://www.songkick.com/concerts/43289386-lagos-at-auditorio-bb",
+      "venue": "Auditorio BB",
+      "venue_url": "https://www.songkick.com/venues/1683588-auditorio-bb",
+      "location": "Auditorio BB,Mexico City, Mexico",
+      "ticket_url": "https://www.ticketmaster.com.mx/lagos-mexico-12-09-2026/event/140064C380FE2765",
+      "tags": [
+        "Ballads/Romantic"
       ]
     },
     {
@@ -5212,6 +5227,21 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "R&B"
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "source": "ticketmaster",
+      "artists": [
+        "Pablo Preciado"
+      ],
+      "artist_display": "Pablo Preciado",
+      "url": "https://www.ticketmaster.com.mx/pablo-preciado-en-concierto-ciudad-de-mexico-12-09-2026/event/3D0064F5837410F5",
+      "ticket_url": "https://www.ticketmaster.com.mx/pablo-preciado-en-concierto-ciudad-de-mexico-12-09-2026/event/3D0064F5837410F5",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Ballads/Romantic"
       ]
     },
     {
@@ -5351,18 +5381,6 @@
       "date": "2026-09-13",
       "source": "songkick",
       "artists": [
-        "Pipiolas"
-      ],
-      "artist_display": "Pipiolas",
-      "url": "https://www.songkick.com/concerts/43269937-pipiolas-at-foro-cultural-hilvana",
-      "venue": "Foro Cultural Hilvana",
-      "venue_url": "https://www.songkick.com/venues/4071029-foro-cultural-hilvana",
-      "location": "Foro Cultural Hilvana,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-09-13",
-      "source": "songkick",
-      "artists": [
         "W.I.T.C.H. (We Intend To Cause Havoc)WE INTEND TO CAUSE HAVOC, The Shelter (MX), and Viv & The Sect"
       ],
       "artist_display": "W.I.T.C.H. (We Intend To Cause Havoc)WE INTEND TO CAUSE HAVOC, The Shelter (MX), and Viv & The Sect",
@@ -5382,6 +5400,18 @@
       "venue": "Soul Dread",
       "venue_url": "https://www.songkick.com/venues/4476994-soul-dread",
       "location": "Soul Dread,Nezahualcóyotl, Mexico"
+    },
+    {
+      "date": "2026-09-13",
+      "source": "songkick",
+      "artists": [
+        "Pipiolas"
+      ],
+      "artist_display": "Pipiolas",
+      "url": "https://www.songkick.com/concerts/43269937-pipiolas-at-foro-cultural-hilvana",
+      "venue": "Foro Cultural Hilvana",
+      "venue_url": "https://www.songkick.com/venues/4071029-foro-cultural-hilvana",
+      "location": "Foro Cultural Hilvana,Mexico City, Mexico"
     },
     {
       "date": "2026-09-13",
@@ -7731,22 +7761,6 @@
       "date": "2026-10-10",
       "source": "songkick",
       "artists": [
-        "Estelares"
-      ],
-      "artist_display": "Estelares",
-      "url": "https://www.songkick.com/concerts/43215538-estelares-at-lunario-del-auditorio-nacional",
-      "venue": "Lunario Del Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional",
-      "location": "Lunario Del Auditorio Nacional,Mexico City, Mexico",
-      "ticket_url": "https://www.ticketmaster.com.mx/estelares-ciudad-de-mexico-10-10-2026/event/3D0064A982722511",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-10-10",
-      "source": "songkick",
-      "artists": [
         "Renzo Montalbano"
       ],
       "artist_display": "Renzo Montalbano",
@@ -7754,6 +7768,37 @@
       "venue": "Segundo Piso Live",
       "venue_url": "https://www.songkick.com/venues/4269454-segundo-piso-live",
       "location": "Segundo Piso Live,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-10-10",
+      "source": "songkick",
+      "artists": [
+        "Camila Fernandez"
+      ],
+      "artist_display": "Camila Fernandez",
+      "url": "https://www.songkick.com/concerts/43331066-camila-fernandez-at-la-maraka",
+      "venue": "La Maraka",
+      "venue_url": "https://www.songkick.com/venues/1076291-la-maraka",
+      "location": "La Maraka,Mexico City, Mexico",
+      "ticket_url": "https://www.ticketmaster.com.mx/camila-fernandez-mexico-10-10-2026/event/3D0064DAB177352A",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "source": "ticketmaster",
+      "artists": [
+        "Estelares"
+      ],
+      "artist_display": "Estelares",
+      "url": "https://www.ticketmaster.com.mx/estelares-ciudad-de-mexico-10-10-2026/event/3D0064A982722511",
+      "ticket_url": "https://www.ticketmaster.com.mx/estelares-ciudad-de-mexico-10-10-2026/event/3D0064A982722511",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
     },
     {
       "date": "2026-10-10",
@@ -7768,21 +7813,6 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "R&B"
-      ]
-    },
-    {
-      "date": "2026-10-10",
-      "source": "ticketmaster",
-      "artists": [
-        "Camila Fernandez"
-      ],
-      "artist_display": "Camila Fernandez",
-      "url": "https://www.ticketmaster.com.mx/camila-fernandez-mexico-10-10-2026/event/3D0064DAB177352A",
-      "ticket_url": "https://www.ticketmaster.com.mx/camila-fernandez-mexico-10-10-2026/event/3D0064DAB177352A",
-      "venue": "La Maraka",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
       ]
     },
     {
@@ -7871,6 +7901,22 @@
       "date": "2026-10-11",
       "source": "ticketmaster",
       "artists": [
+        "Peter Bjorn and John"
+      ],
+      "artist_display": "Peter Bjorn and John",
+      "url": "https://www.ticketmaster.com.mx/peter-bjorn-and-john-writers-block-mexico-11-10-2026/event/3D0064C9F9BF54D5",
+      "ticket_url": "https://www.ticketmaster.com.mx/peter-bjorn-and-john-writers-block-mexico-11-10-2026/event/3D0064C9F9BF54D5",
+      "venue": "Foro Puebla",
+      "location": "Mexico, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "source": "ticketmaster",
+      "artists": [
         "Grupo Palomo"
       ],
       "artist_display": "Grupo Palomo",
@@ -7880,6 +7926,22 @@
       "location": "México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "source": "ticketmaster",
+      "artists": [
+        "Sepultura"
+      ],
+      "artist_display": "Sepultura",
+      "url": "https://www.ticketmaster.com.mx/sepultura-mexico-11-10-2026/event/140064EEFAB5C896",
+      "ticket_url": "https://www.ticketmaster.com.mx/sepultura-mexico-11-10-2026/event/140064EEFAB5C896",
+      "venue": "Pepsi Center",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Metal",
+        "Nu-Metal"
       ]
     },
     {
@@ -10311,6 +10373,21 @@
       ]
     },
     {
+      "date": "2026-11-12",
+      "source": "ticketmaster",
+      "artists": [
+        "María León"
+      ],
+      "artist_display": "María León",
+      "url": "https://www.ticketmaster.com.mx/maria-leon-mexico-12-11-2026/event/140064F28A8D3ABF",
+      "ticket_url": "https://www.ticketmaster.com.mx/maria-leon-mexico-12-11-2026/event/140064F28A8D3ABF",
+      "venue": "Teatro Metropolitan",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Ballads/Romantic"
+      ]
+    },
+    {
       "date": "2026-11-13",
       "source": "songkick",
       "artists": [
@@ -10429,9 +10506,9 @@
       "date": "2026-11-13",
       "source": "songkick",
       "artists": [
-        "Dragonfly"
+        "DragonflyDaeria, Aztlan, and Headon (Spain)"
       ],
-      "artist_display": "Dragonfly",
+      "artist_display": "DragonflyDaeria, Aztlan, and Headon (Spain)",
       "url": "https://www.songkick.com/concerts/43322919-dragonfly-at-multiforo-alicia",
       "venue": "Multiforo Alicia",
       "venue_url": "https://www.songkick.com/venues/120456-multiforo-alicia",
@@ -10778,6 +10855,22 @@
       "date": "2026-11-19",
       "source": "ticketmaster",
       "artists": [
+        "Dimash Qudaibergen"
+      ],
+      "artist_display": "Dimash Qudaibergen",
+      "url": "https://www.ticketmaster.com.mx/dimash-qudaibergen-ciudad-de-mexico-19-11-2026/event/140064C499605A9D",
+      "ticket_url": "https://www.ticketmaster.com.mx/dimash-qudaibergen-ciudad-de-mexico-19-11-2026/event/140064C499605A9D",
+      "venue": "Palacio de los Deportes",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "source": "ticketmaster",
+      "artists": [
         "Los Cafres",
         "Los Estramboticos"
       ],
@@ -11081,6 +11174,22 @@
       "location": "Mexico, Ciudad de México, Mexico",
       "tags": [
         "Jazz"
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "source": "ticketmaster",
+      "artists": [
+        "Benny"
+      ],
+      "artist_display": "Benny",
+      "url": "https://www.ticketmaster.com.mx/benny-mexico-21-11-2026/event/140064F28F5641F8",
+      "ticket_url": "https://www.ticketmaster.com.mx/benny-mexico-21-11-2026/event/140064F28F5641F8",
+      "venue": "Teatro Metropolitan",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Pop"
       ]
     },
     {
