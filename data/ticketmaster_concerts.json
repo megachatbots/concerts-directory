@@ -1,39 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-07-23T08:28:35.334186Z",
+  "scraped_at": "2026-07-24T08:26:13.621788Z",
   "total_concerts": 593,
   "concerts": [
-    {
-      "date": "2026-07-23",
-      "source": "ticketmaster",
-      "artists": [
-        "Sala Principal Bellas Artes"
-      ],
-      "artist_display": "Sala Principal Bellas Artes",
-      "url": "https://www.ticketmaster.com.mx/yansi-m-y-luis-g-80-mexico-cdmx-23-07-2026/event/3D00646FCD3851E6",
-      "ticket_url": "https://www.ticketmaster.com.mx/yansi-m-y-luis-g-80-mexico-cdmx-23-07-2026/event/3D00646FCD3851E6",
-      "venue": "Palacio de Bellas Artes",
-      "location": "México CDMX, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-07-23",
-      "source": "ticketmaster",
-      "artists": [
-        "Grupo Okey"
-      ],
-      "artist_display": "Grupo Okey",
-      "url": "https://www.ticketmaster.com.mx/okey-en-concierto-ciudad-de-mexico-23-07-2026/event/3D0064B3A0954EBA",
-      "ticket_url": "https://www.ticketmaster.com.mx/okey-en-concierto-ciudad-de-mexico-23-07-2026/event/3D0064B3A0954EBA",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
-      ]
-    },
     {
       "date": "2026-07-24",
       "source": "ticketmaster",
@@ -1544,6 +1514,22 @@
       "location": "México, Ciudad de México, Mexico",
       "tags": [
         "Ballads/Romantic"
+      ]
+    },
+    {
+      "date": "2026-08-15",
+      "source": "ticketmaster",
+      "artists": [
+        "HELP ! En concierto - Homenaje a THE BEATLES"
+      ],
+      "artist_display": "HELP ! En concierto - Homenaje a THE BEATLES",
+      "url": "https://www.ticketmaster.com.mx/help-en-concierto-homenaje-a-the-san-francisco-coaxusco-15-08-2026/event/3D0064F7871F1A50",
+      "ticket_url": "https://www.ticketmaster.com.mx/help-en-concierto-homenaje-a-the-san-francisco-coaxusco-15-08-2026/event/3D0064F7871F1A50",
+      "venue": "Alboa Metepec",
+      "location": "San Francisco Coaxusco, Estado de México, Mexico",
+      "tags": [
+        "Rock",
+        "Alternative Rock"
       ]
     },
     {
@@ -3674,6 +3660,18 @@
       "tags": [
         "Other"
       ]
+    },
+    {
+      "date": "2026-09-11",
+      "source": "ticketmaster",
+      "artists": [
+        "aespa"
+      ],
+      "artist_display": "aespa",
+      "url": "https://www.ticketmaster.com.mx/aespa-hibye-package-upgrade-boleto-de-ciudad-de-mexico-11-09-2026/event/140064F6BBE378B7",
+      "ticket_url": "https://www.ticketmaster.com.mx/aespa-hibye-package-upgrade-boleto-de-ciudad-de-mexico-11-09-2026/event/140064F6BBE378B7",
+      "venue": "Palacio de los Deportes",
+      "location": "Ciudad de México, Ciudad de México, Mexico"
     },
     {
       "date": "2026-09-11",
