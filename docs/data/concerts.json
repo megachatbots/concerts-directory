@@ -5,8 +5,8 @@
     "ticketmaster"
   ],
   "metro_area": "Mexico City",
-  "scraped_at": "2026-07-24T08:26:13.646823Z",
-  "total_concerts": 926,
+  "scraped_at": "2026-07-25T08:05:00.471467Z",
+  "total_concerts": 928,
   "concerts": [
     {
       "date": "2026-07-24",
@@ -18,12 +18,7 @@
       "url": "https://www.songkick.com/concerts/42877310-fernando-delgadillo-at-la-maraka",
       "venue": "La Maraka",
       "venue_url": "https://www.songkick.com/venues/1076291-la-maraka",
-      "location": "La Maraka,Mexico City, Mexico",
-      "ticket_url": "https://www.ticketmaster.com.mx/fernando-delgadillo-y-alejandro-filio-mexico-24-07-2026/event/3D006361893E3637",
-      "tags": [
-        "Trova",
-        "World"
-      ]
+      "location": "La Maraka,Mexico City, Mexico"
     },
     {
       "date": "2026-07-24",
@@ -59,11 +54,7 @@
       "url": "https://www.songkick.com/concerts/43228518-los-dandys-at-lunario-del-auditorio-nacional",
       "venue": "Lunario Del Auditorio Nacional",
       "venue_url": "https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional",
-      "location": "Lunario Del Auditorio Nacional,Mexico City, Mexico",
-      "ticket_url": "https://www.ticketmaster.com.mx/diana-vanoni-y-los-dandys-ciudad-de-mexico-24-07-2026/event/3D0064B0D7F0F288",
-      "tags": [
-        "Ballads/Romantic"
-      ]
+      "location": "Lunario Del Auditorio Nacional,Mexico City, Mexico"
     },
     {
       "date": "2026-07-24",
@@ -88,69 +79,6 @@
       "venue": "Stelaris Foro Reforma",
       "venue_url": "https://www.songkick.com/venues/4658156-stelaris-foro-reforma",
       "location": "Stelaris Foro Reforma,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-07-24",
-      "source": "ticketmaster",
-      "artists": [
-        "El Gran Showman (The Greatest Showman) Movie Concert"
-      ],
-      "artist_display": "El Gran Showman (The Greatest Showman) Movie Concert",
-      "url": "https://www.ticketmaster.com.mx/el-gran-showman-the-greatest-showman-mexico-24-07-2026/event/3D0064CF96791FFF",
-      "ticket_url": "https://www.ticketmaster.com.mx/el-gran-showman-the-greatest-showman-mexico-24-07-2026/event/3D0064CF96791FFF",
-      "venue": "Teatro Xola Julio Prieto",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
-      ]
-    },
-    {
-      "date": "2026-07-24",
-      "source": "ticketmaster",
-      "artists": [
-        "Cuca",
-        "Santa Sabina"
-      ],
-      "artist_display": "Cuca, Santa Sabina",
-      "url": "https://www.ticketmaster.com.mx/cuca-y-santa-sabina-mexico-24-07-2026/event/140064AD83092A53",
-      "ticket_url": "https://www.ticketmaster.com.mx/cuca-y-santa-sabina-mexico-24-07-2026/event/140064AD83092A53",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Pop"
-      ]
-    },
-    {
-      "date": "2026-07-24",
-      "source": "ticketmaster",
-      "artists": [
-        "Neo 5 live show"
-      ],
-      "artist_display": "Neo 5 live show",
-      "url": "https://www.ticketmaster.com.mx/neo-5-live-show-en-concierto-mexico-24-07-2026/event/3D00649E02626426",
-      "ticket_url": "https://www.ticketmaster.com.mx/neo-5-live-show-en-concierto-mexico-24-07-2026/event/3D00649E02626426",
-      "venue": "Foro Red Access",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop"
-      ]
-    },
-    {
-      "date": "2026-07-24",
-      "source": "ticketmaster",
-      "artists": [
-        "La Cantadera"
-      ],
-      "artist_display": "La Cantadera",
-      "url": "https://www.ticketmaster.com.mx/la-cantadera-ciudad-de-mexico-24-07-2026/event/3D0064C2E3787EC7",
-      "ticket_url": "https://www.ticketmaster.com.mx/la-cantadera-ciudad-de-mexico-24-07-2026/event/3D0064C2E3787EC7",
-      "venue": "Foro Stelaris Fiesta Americana Reforma",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Pop"
-      ]
     },
     {
       "date": "2026-07-25",
@@ -1714,13 +1642,29 @@
       "date": "2026-08-09",
       "source": "songkick",
       "artists": [
-        "Yuno, Cecy Leos, Sir Hope, Bonnz, and El Mulu"
+        "Yuno, Cecy Leos, Sir Hope, Bonnz, El Mulu, and Denise Gutiérrez"
       ],
-      "artist_display": "Yuno, Cecy Leos, Sir Hope, Bonnz, and El Mulu",
+      "artist_display": "Yuno, Cecy Leos, Sir Hope, Bonnz, El Mulu, and Denise Gutiérrez",
       "url": "https://www.songkick.com/concerts/43336206-yuno-at-fvck-off-room",
       "venue": "Fvck Off Room",
       "venue_url": "https://www.songkick.com/venues/4658796-fvck-off-room",
       "location": "Fvck Off Room,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-08-09",
+      "source": "songkick",
+      "artists": [
+        "R.O.A."
+      ],
+      "artist_display": "R.O.A.",
+      "url": "https://www.songkick.com/concerts/43338650-roa-at-foro-puebla",
+      "venue": "Foro Puebla",
+      "venue_url": "https://www.songkick.com/venues/4506135-foro-puebla",
+      "location": "Foro Puebla,Mexico City, Mexico",
+      "ticket_url": "https://www.ticketmaster.com.mx/roa-mexico-09-08-2026/event/3D0064F7BDFF598E",
+      "tags": [
+        "Latin"
+      ]
     },
     {
       "date": "2026-08-09",
@@ -2404,9 +2348,9 @@
       "date": "2026-08-16",
       "source": "songkick",
       "artists": [
-        "Bazar de Bandas 2026Bengala and Gula"
+        "Bazar de Bandas 2026Bengala, Pedro y el Lobo, San Venus, May Sunday, Las Decapitadas, Gula, and The Bunyans"
       ],
-      "artist_display": "Bazar de Bandas 2026Bengala and Gula",
+      "artist_display": "Bazar de Bandas 2026Bengala, Pedro y el Lobo, San Venus, May Sunday, Las Decapitadas, Gula, and The Bunyans",
       "url": "https://www.songkick.com/festivals/2748474-bazar-de-bandas/id/43327778-bazar-de-bandas-2026",
       "venue": "Pabellón del Palacio de los Deportes",
       "venue_url": "https://www.songkick.com/venues/1551083-pabellon-del-palacio-de-los-deportes",
@@ -3402,22 +3346,6 @@
       "date": "2026-08-27",
       "source": "ticketmaster",
       "artists": [
-        "Antonio Vivaldi"
-      ],
-      "artist_display": "Antonio Vivaldi",
-      "url": "https://www.ticketmaster.com.mx/le-quattro-stagioni-antonio-vivaldi-mexico-27-08-2026/event/3D0064D8B977285D",
-      "ticket_url": "https://www.ticketmaster.com.mx/le-quattro-stagioni-antonio-vivaldi-mexico-27-08-2026/event/3D0064D8B977285D",
-      "venue": "Capilla Gótica",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Classical",
-        "Classical/Vocal"
-      ]
-    },
-    {
-      "date": "2026-08-27",
-      "source": "ticketmaster",
-      "artists": [
         "Morir Poquito"
       ],
       "artist_display": "Morir Poquito",
@@ -3458,6 +3386,22 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Ballads/Romantic"
+      ]
+    },
+    {
+      "date": "2026-08-27",
+      "source": "ticketmaster",
+      "artists": [
+        "Antonio Vivaldi"
+      ],
+      "artist_display": "Antonio Vivaldi",
+      "url": "https://www.ticketmaster.com.mx/le-quattro-stagioni-antonio-vivaldi-mexico-27-08-2026/event/3D0064D8B9782860",
+      "ticket_url": "https://www.ticketmaster.com.mx/le-quattro-stagioni-antonio-vivaldi-mexico-27-08-2026/event/3D0064D8B9782860",
+      "venue": "Capilla Gótica",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Classical",
+        "Classical/Vocal"
       ]
     },
     {
@@ -3999,22 +3943,6 @@
       "location": "Mexico, Ciudad de México, Mexico",
       "tags": [
         "Jazz"
-      ]
-    },
-    {
-      "date": "2026-08-31",
-      "source": "ticketmaster",
-      "artists": [
-        "Antonio Vivaldi"
-      ],
-      "artist_display": "Antonio Vivaldi",
-      "url": "https://www.ticketmaster.com.mx/le-quattro-stagioni-antonio-vivaldi-mexico-31-08-2026/event/3D0064D8B9792862",
-      "ticket_url": "https://www.ticketmaster.com.mx/le-quattro-stagioni-antonio-vivaldi-mexico-31-08-2026/event/3D0064D8B9792862",
-      "venue": "Capilla Gótica",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Classical",
-        "Classical/Vocal"
       ]
     },
     {
@@ -5492,6 +5420,18 @@
       "location": "FÜCK OFF ROOM,Mexico City, Mexico"
     },
     {
+      "date": "2026-09-16",
+      "source": "songkick",
+      "artists": [
+        "PEROTÁ CHINGÓ"
+      ],
+      "artist_display": "PEROTÁ CHINGÓ",
+      "url": "https://www.songkick.com/concerts/43338101-perota-chingo-at-foro-indie-rocks",
+      "venue": "Foro Indie Rocks!",
+      "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
+    },
+    {
       "date": "2026-09-17",
       "source": "songkick",
       "artists": [
@@ -5825,8 +5765,8 @@
       "venue": "Palacio de los Deportes",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop",
-        "Electro Pop"
+        "Dance/Electronic",
+        "Amapiano"
       ]
     },
     {
@@ -8008,6 +7948,21 @@
       ]
     },
     {
+      "date": "2026-10-13",
+      "source": "ticketmaster",
+      "artists": [
+        "Luigi Vidal"
+      ],
+      "artist_display": "Luigi Vidal",
+      "url": "https://www.ticketmaster.com.mx/xiii-luigi-vidal-en-concierto-ciudad-de-mexico-13-10-2026/event/3D0064F686761739",
+      "ticket_url": "https://www.ticketmaster.com.mx/xiii-luigi-vidal-en-concierto-ciudad-de-mexico-13-10-2026/event/3D0064F686761739",
+      "venue": "Foro Stelaris Fiesta Americana Reforma",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
       "date": "2026-10-14",
       "source": "songkick",
       "artists": [
@@ -8089,18 +8044,6 @@
       "date": "2026-10-15",
       "source": "songkick",
       "artists": [
-        "Six Feet Under"
-      ],
-      "artist_display": "Six Feet Under",
-      "url": "https://www.songkick.com/concerts/43189066-six-feet-under-at-circo-volador",
-      "venue": "Circo Volador",
-      "venue_url": "https://www.songkick.com/venues/49859-circo-volador",
-      "location": "Circo Volador,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-15",
-      "source": "songkick",
-      "artists": [
         "kneecap"
       ],
       "artist_display": "kneecap",
@@ -8113,6 +8056,18 @@
         "Hip-Hop/Rap",
         "Trap"
       ]
+    },
+    {
+      "date": "2026-10-15",
+      "source": "songkick",
+      "artists": [
+        "Six Feet Under"
+      ],
+      "artist_display": "Six Feet Under",
+      "url": "https://www.songkick.com/concerts/43189066-six-feet-under-at-circo-volador",
+      "venue": "Circo Volador",
+      "venue_url": "https://www.songkick.com/venues/49859-circo-volador",
+      "location": "Circo Volador,Mexico City, Mexico"
     },
     {
       "date": "2026-10-15",
@@ -8514,13 +8469,13 @@
       "date": "2026-10-17",
       "source": "songkick",
       "artists": [
-        "Whisky Caravan"
+        "Monte Carlo"
       ],
-      "artist_display": "Whisky Caravan",
-      "url": "https://www.songkick.com/concerts/43250155-whisky-caravan-at-rebel-rebel-el-club-del-rock-and-roll",
-      "venue": "Rebel Rebel / El Club del Rock & Roll",
-      "venue_url": "https://www.songkick.com/venues/4470855-rebel-rebel-el-club-del-rock-and-roll",
-      "location": "Rebel Rebel / El Club del Rock & Roll,Mexico City, Mexico"
+      "artist_display": "Monte Carlo",
+      "url": "https://www.songkick.com/concerts/43266295-monte-carlo-at-foro-la-paz",
+      "venue": "Foro La Paz",
+      "venue_url": "https://www.songkick.com/venues/4471031-foro-la-paz",
+      "location": "Foro La Paz,Mexico City, Mexico"
     },
     {
       "date": "2026-10-17",
@@ -9701,13 +9656,13 @@
       "date": "2026-10-31",
       "source": "songkick",
       "artists": [
-        "PIM PAU, gira internacional 2026Pim Pau"
+        "DISTEST"
       ],
-      "artist_display": "PIM PAU, gira internacional 2026Pim Pau",
-      "url": "https://www.songkick.com/festivals/3791504-pim-pau-gira-internacional/id/43272973-pim-pau-gira-internacional-2026",
-      "venue": "El Cantoral",
-      "venue_url": "https://www.songkick.com/venues/4032244-el-cantoral",
-      "location": "El Cantoral,Mexico City, Mexico"
+      "artist_display": "DISTEST",
+      "url": "https://www.songkick.com/concerts/43337351-distest-at-punto-ciego",
+      "venue": "Punto Ciego",
+      "venue_url": "https://www.songkick.com/venues/3064039-punto-ciego",
+      "location": "Punto Ciego,Ecatepec, Mexico"
     },
     {
       "date": "2026-10-31",
@@ -9798,6 +9753,30 @@
       "location": "Zombie Diner Tlalpan,Mexico City, Mexico"
     },
     {
+      "date": "2026-11-01",
+      "source": "songkick",
+      "artists": [
+        "DISTEST"
+      ],
+      "artist_display": "DISTEST",
+      "url": "https://www.songkick.com/concerts/43337352-distest-at-parque-lira",
+      "venue": "Parque Lira",
+      "venue_url": "https://www.songkick.com/venues/4042179-parque-lira",
+      "location": "Parque Lira,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-11-02",
+      "source": "songkick",
+      "artists": [
+        "Skateday 2026DISTEST"
+      ],
+      "artist_display": "Skateday 2026DISTEST",
+      "url": "https://www.songkick.com/festivals/3797595-skateday/id/43337353-skateday-2026",
+      "venue": "PARCUR Chapultepec",
+      "venue_url": "https://www.songkick.com/venues/4570894-parcur-chapultepec",
+      "location": "PARCUR Chapultepec,Mexico City, Mexico"
+    },
+    {
       "date": "2026-11-03",
       "source": "songkick",
       "artists": [
@@ -9841,6 +9820,18 @@
         "Folk",
         "Indie Folk"
       ]
+    },
+    {
+      "date": "2026-11-04",
+      "source": "songkick",
+      "artists": [
+        "DISTEST"
+      ],
+      "artist_display": "DISTEST",
+      "url": "https://www.songkick.com/concerts/43337354-distest-at-house-of-vans",
+      "venue": "House of Vans",
+      "venue_url": "https://www.songkick.com/venues/3083404-house-of-vans",
+      "location": "House of Vans,Mexico City, Mexico"
     },
     {
       "date": "2026-11-05",
@@ -9995,6 +9986,18 @@
       "venue": "Rebel Rebel / El Club del Rock & Roll",
       "venue_url": "https://www.songkick.com/venues/4470855-rebel-rebel-el-club-del-rock-and-roll",
       "location": "Rebel Rebel / El Club del Rock & Roll,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-11-06",
+      "source": "songkick",
+      "artists": [
+        "DISTEST"
+      ],
+      "artist_display": "DISTEST",
+      "url": "https://www.songkick.com/concerts/43337355-distest-at-la-bestia",
+      "venue": "La Bestia",
+      "venue_url": "https://www.songkick.com/venues/4422849-la-bestia",
+      "location": "La Bestia,Mexico City, Mexico"
     },
     {
       "date": "2026-11-06",
@@ -11669,7 +11672,7 @@
       "venue": "Teatro Metropólitan",
       "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
       "location": "Teatro Metropólitan,Mexico City, Mexico",
-      "ticket_url": "https://www.ticketmaster.com.mx/menudo-mexico-28-11-2026/event/140064CAB6418670",
+      "ticket_url": "https://www.ticketmaster.com.mx/claridad-vip-mg-upgrade-boleto-de-mexico-28-11-2026/event/140064F8A65B684A",
       "tags": [
         "Latin"
       ]
