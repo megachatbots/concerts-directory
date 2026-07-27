@@ -1,56 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-07-26T08:25:29.657354Z",
-  "total_concerts": 578,
+  "scraped_at": "2026-07-27T09:50:31.310794Z",
+  "total_concerts": 575,
   "concerts": [
-    {
-      "date": "2026-07-26",
-      "source": "ticketmaster",
-      "artists": [
-        "Sinfónica de Minería"
-      ],
-      "artist_display": "Sinfónica de Minería",
-      "url": "https://www.ticketmaster.com.mx/sinfonica-de-mineria-temporada-de-verano-mexico-26-07-2026/event/3D0064ACBCC7A403",
-      "ticket_url": "https://www.ticketmaster.com.mx/sinfonica-de-mineria-temporada-de-verano-mexico-26-07-2026/event/3D0064ACBCC7A403",
-      "venue": "Sala Silvestre Revueltas",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Classical",
-        "Classical/Vocal"
-      ]
-    },
-    {
-      "date": "2026-07-26",
-      "source": "ticketmaster",
-      "artists": [
-        "Sinfónica de Minería"
-      ],
-      "artist_display": "Sinfónica de Minería",
-      "url": "https://www.ticketmaster.com.mx/sinfonica-de-mineria-concierto-familiar-infantil-mexico-26-07-2026/event/3D0064ACA5637AE9",
-      "ticket_url": "https://www.ticketmaster.com.mx/sinfonica-de-mineria-concierto-familiar-infantil-mexico-26-07-2026/event/3D0064ACA5637AE9",
-      "venue": "Sala Silvestre Revueltas",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Classical",
-        "Classical/Vocal"
-      ]
-    },
-    {
-      "date": "2026-07-26",
-      "source": "ticketmaster",
-      "artists": [
-        "Los Panchos"
-      ],
-      "artist_display": "Los Panchos",
-      "url": "https://www.ticketmaster.com.mx/trio-los-panchos-mexico-26-07-2026/event/3D0064B0C6EDCBAB",
-      "ticket_url": "https://www.ticketmaster.com.mx/trio-los-panchos-mexico-26-07-2026/event/3D0064B0C6EDCBAB",
-      "venue": "La Maraka",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
     {
       "date": "2026-07-28",
       "source": "ticketmaster",
