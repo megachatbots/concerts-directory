@@ -1,8 +1,8 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-07-27T09:50:31.310794Z",
-  "total_concerts": 575,
+  "scraped_at": "2026-07-28T08:32:18.196347Z",
+  "total_concerts": 591,
   "concerts": [
     {
       "date": "2026-07-28",
@@ -1561,6 +1561,21 @@
       "date": "2026-08-21",
       "source": "ticketmaster",
       "artists": [
+        "Interestelar 12° Aniversario Movie Concert"
+      ],
+      "artist_display": "Interestelar 12° Aniversario Movie Concert",
+      "url": "https://www.ticketmaster.com.mx/interestelar-12-aniversario-movie-concert-mexico-21-08-2026/event/3D0064FB800E0C65",
+      "ticket_url": "https://www.ticketmaster.com.mx/interestelar-12-aniversario-movie-concert-mexico-21-08-2026/event/3D0064FB800E0C65",
+      "venue": "Teatro Xola Julio Prieto",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
+      ]
+    },
+    {
+      "date": "2026-08-21",
+      "source": "ticketmaster",
+      "artists": [
         "Festival Mundial del Bolero"
       ],
       "artist_display": "Festival Mundial del Bolero",
@@ -1601,6 +1616,21 @@
       "tags": [
         "Classical",
         "Classical/Vocal"
+      ]
+    },
+    {
+      "date": "2026-08-21",
+      "source": "ticketmaster",
+      "artists": [
+        "Interestelar 12° Aniversario Movie Concert"
+      ],
+      "artist_display": "Interestelar 12° Aniversario Movie Concert",
+      "url": "https://www.ticketmaster.com.mx/interestelar-12-aniversario-movie-concert-mexico-21-08-2026/event/3D0064FB81CC0D10",
+      "ticket_url": "https://www.ticketmaster.com.mx/interestelar-12-aniversario-movie-concert-mexico-21-08-2026/event/3D0064FB81CC0D10",
+      "venue": "Teatro Xola Julio Prieto",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
       ]
     },
     {
@@ -2544,6 +2574,21 @@
       "date": "2026-09-04",
       "source": "ticketmaster",
       "artists": [
+        "Interestelar 12° Aniversario Movie Concert"
+      ],
+      "artist_display": "Interestelar 12° Aniversario Movie Concert",
+      "url": "https://www.ticketmaster.com.mx/interestelar-12-aniversario-movie-concert-mexico-04-09-2026/event/3D0064FB81CC0D1B",
+      "ticket_url": "https://www.ticketmaster.com.mx/interestelar-12-aniversario-movie-concert-mexico-04-09-2026/event/3D0064FB81CC0D1B",
+      "venue": "Teatro Xola Julio Prieto",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "source": "ticketmaster",
+      "artists": [
         "Morir Poquito"
       ],
       "artist_display": "Morir Poquito",
@@ -2570,6 +2615,21 @@
       "tags": [
         "Rock",
         "Alternative Rock"
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "source": "ticketmaster",
+      "artists": [
+        "Interestelar 12° Aniversario Movie Concert"
+      ],
+      "artist_display": "Interestelar 12° Aniversario Movie Concert",
+      "url": "https://www.ticketmaster.com.mx/interestelar-12-aniversario-movie-concert-mexico-04-09-2026/event/3D0064FB81CE0D24",
+      "ticket_url": "https://www.ticketmaster.com.mx/interestelar-12-aniversario-movie-concert-mexico-04-09-2026/event/3D0064FB81CE0D24",
+      "venue": "Teatro Xola Julio Prieto",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
       ]
     },
     {
@@ -3911,6 +3971,21 @@
       "date": "2026-09-18",
       "source": "ticketmaster",
       "artists": [
+        "Natanael Cano"
+      ],
+      "artist_display": "Natanael Cano",
+      "url": "https://www.ticketmaster.com.mx/natanael-cano-vol-1-tour-ciudad-de-mexico-18-09-2026/event/140064E7A6C847E4",
+      "ticket_url": "https://www.ticketmaster.com.mx/natanael-cano-vol-1-tour-ciudad-de-mexico-18-09-2026/event/140064E7A6C847E4",
+      "venue": "Estadio GNP Seguros",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "source": "ticketmaster",
+      "artists": [
         "Heavy Nopal"
       ],
       "artist_display": "Heavy Nopal",
@@ -4567,6 +4642,21 @@
       "date": "2026-10-02",
       "source": "ticketmaster",
       "artists": [
+        "Collage"
+      ],
+      "artist_display": "Collage",
+      "url": "https://www.ticketmaster.com.mx/collage-mexico-02-10-2026/event/3D0064F8951A2F9C",
+      "ticket_url": "https://www.ticketmaster.com.mx/collage-mexico-02-10-2026/event/3D0064F8951A2F9C",
+      "venue": "Foro Red Access",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "source": "ticketmaster",
+      "artists": [
         "Denisse de Kalafe"
       ],
       "artist_display": "Denisse de Kalafe",
@@ -4940,6 +5030,22 @@
       "date": "2026-10-09",
       "source": "ticketmaster",
       "artists": [
+        "San Francisco Disco Band"
+      ],
+      "artist_display": "San Francisco Disco Band",
+      "url": "https://www.ticketmaster.com.mx/san-francisco-disco-band-la-mejor-mexico-09-10-2026/event/3D0064F88EEC293C",
+      "ticket_url": "https://www.ticketmaster.com.mx/san-francisco-disco-band-la-mejor-mexico-09-10-2026/event/3D0064F88EEC293C",
+      "venue": "Foro Red Access",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Dance/Electronic",
+        "Amapiano"
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "source": "ticketmaster",
+      "artists": [
         "Grupo Galé"
       ],
       "artist_display": "Grupo Galé",
@@ -4996,6 +5102,21 @@
       "tags": [
         "Hip-Hop/Rap",
         "Trap"
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "source": "ticketmaster",
+      "artists": [
+        "Entre Compas."
+      ],
+      "artist_display": "Entre Compas.",
+      "url": "https://www.ticketmaster.com.mx/entre-compas-mexico-10-10-2026/event/140064B0B74FE57A",
+      "ticket_url": "https://www.ticketmaster.com.mx/entre-compas-mexico-10-10-2026/event/140064B0B74FE57A",
+      "venue": "Pepsi Center",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "R&B"
       ]
     },
     {
@@ -5385,6 +5506,21 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Jazz"
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "source": "ticketmaster",
+      "artists": [
+        "Francisco Cespedes"
+      ],
+      "artist_display": "Francisco Cespedes",
+      "url": "https://www.ticketmaster.com.mx/francisco-cespedes-sinfonico-mexico-15-10-2026/event/3D0064F8CA0A6726",
+      "ticket_url": "https://www.ticketmaster.com.mx/francisco-cespedes-sinfonico-mexico-15-10-2026/event/3D0064F8CA0A6726",
+      "venue": "Teatro de la Ciudad Esperanza Iris",
+      "location": "Mexico, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
       ]
     },
     {
@@ -7177,6 +7313,21 @@
       ]
     },
     {
+      "date": "2026-11-18",
+      "source": "ticketmaster",
+      "artists": [
+        "RaiNao"
+      ],
+      "artist_display": "RaiNao",
+      "url": "https://www.ticketmaster.com.mx/rainao-ciudad-de-mexico-18-11-2026/event/3D0064FAB1675A4D",
+      "ticket_url": "https://www.ticketmaster.com.mx/rainao-ciudad-de-mexico-18-11-2026/event/3D0064FAB1675A4D",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "R&B"
+      ]
+    },
+    {
       "date": "2026-11-19",
       "source": "ticketmaster",
       "artists": [
@@ -7879,6 +8030,21 @@
       "date": "2026-11-27",
       "source": "ticketmaster",
       "artists": [
+        "Collage"
+      ],
+      "artist_display": "Collage",
+      "url": "https://www.ticketmaster.com.mx/collage-mexico-27-11-2026/event/3D0064F89612309A",
+      "ticket_url": "https://www.ticketmaster.com.mx/collage-mexico-27-11-2026/event/3D0064F89612309A",
+      "venue": "Foro Red Access",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "source": "ticketmaster",
+      "artists": [
         "Kudai",
         "Nikki Clan"
       ],
@@ -8170,6 +8336,21 @@
       "date": "2026-12-04",
       "source": "ticketmaster",
       "artists": [
+        "Caifanes"
+      ],
+      "artist_display": "Caifanes",
+      "url": "https://www.ticketmaster.com.mx/caifanes-ciudad-de-mexico-04-12-2026/event/140064F6BD947B3F",
+      "ticket_url": "https://www.ticketmaster.com.mx/caifanes-ciudad-de-mexico-04-12-2026/event/140064F6BD947B3F",
+      "venue": "Palacio de los Deportes",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-12-04",
+      "source": "ticketmaster",
+      "artists": [
         "David Bisbal"
       ],
       "artist_display": "David Bisbal",
@@ -8435,6 +8616,22 @@
       "date": "2026-12-18",
       "source": "ticketmaster",
       "artists": [
+        "San Francisco Disco Band"
+      ],
+      "artist_display": "San Francisco Disco Band",
+      "url": "https://www.ticketmaster.com.mx/san-francisco-disco-band-la-mejor-mexico-18-12-2026/event/3D0064F88FF92A51",
+      "ticket_url": "https://www.ticketmaster.com.mx/san-francisco-disco-band-la-mejor-mexico-18-12-2026/event/3D0064F88FF92A51",
+      "venue": "Foro Red Access",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Dance/Electronic",
+        "Amapiano"
+      ]
+    },
+    {
+      "date": "2026-12-18",
+      "source": "ticketmaster",
+      "artists": [
         "Maelo Ruiz"
       ],
       "artist_display": "Maelo Ruiz",
@@ -8588,6 +8785,21 @@
       "tags": [
         "Rock",
         "Alternative Rock"
+      ]
+    },
+    {
+      "date": "2027-01-28",
+      "source": "ticketmaster",
+      "artists": [
+        "Rey Ruiz"
+      ],
+      "artist_display": "Rey Ruiz",
+      "url": "https://www.ticketmaster.com.mx/rey-ruiz-la-gira-del-rey-mexico-28-01-2027/event/3D0064F9963A3086",
+      "ticket_url": "https://www.ticketmaster.com.mx/rey-ruiz-la-gira-del-rey-mexico-28-01-2027/event/3D0064F9963A3086",
+      "venue": "La Maraka",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
       ]
     },
     {
@@ -8973,6 +9185,36 @@
       "url": "https://www.ticketmaster.com.mx/grupo-niche-niche-disco-tour-ciudad-de-mexico-18-04-2027/event/3D0064C8BF072F43",
       "ticket_url": "https://www.ticketmaster.com.mx/grupo-niche-niche-disco-tour-ciudad-de-mexico-18-04-2027/event/3D0064C8BF072F43",
       "venue": "Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2027-05-27",
+      "source": "ticketmaster",
+      "artists": [
+        "Carolina Ross"
+      ],
+      "artist_display": "Carolina Ross",
+      "url": "https://www.ticketmaster.com.mx/carolina-ross-oasis-rossa-meetgreet-ciudad-de-mexico-27-05-2027/event/3D0064F7B3D45018",
+      "ticket_url": "https://www.ticketmaster.com.mx/carolina-ross-oasis-rossa-meetgreet-ciudad-de-mexico-27-05-2027/event/3D0064F7B3D45018",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2027-05-27",
+      "source": "ticketmaster",
+      "artists": [
+        "Carolina Ross"
+      ],
+      "artist_display": "Carolina Ross",
+      "url": "https://www.ticketmaster.com.mx/carolina-ross-oasis-rossa-ciudad-de-mexico-27-05-2027/event/3D0064F7B1A44E00",
+      "ticket_url": "https://www.ticketmaster.com.mx/carolina-ross-oasis-rossa-ciudad-de-mexico-27-05-2027/event/3D0064F7B1A44E00",
+      "venue": "El Lunario del Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
