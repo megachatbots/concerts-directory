@@ -1,40 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-07-28T08:32:18.196347Z",
-  "total_concerts": 591,
+  "scraped_at": "2026-07-29T08:39:06.276749Z",
+  "total_concerts": 592,
   "concerts": [
-    {
-      "date": "2026-07-28",
-      "source": "ticketmaster",
-      "artists": [
-        "Sala Principal Bellas Artes"
-      ],
-      "artist_display": "Sala Principal Bellas Artes",
-      "url": "https://www.ticketmaster.com.mx/ceprodac-80-movimientos-coornd-6-ingreso-mexico-cdmx-28-07-2026/event/3D00646FD1B15496",
-      "ticket_url": "https://www.ticketmaster.com.mx/ceprodac-80-movimientos-coornd-6-ingreso-mexico-cdmx-28-07-2026/event/3D00646FD1B15496",
-      "venue": "Palacio de Bellas Artes",
-      "location": "México CDMX, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-07-28",
-      "source": "ticketmaster",
-      "artists": [
-        "Con cierto... Bolero"
-      ],
-      "artist_display": "Con cierto... Bolero",
-      "url": "https://www.ticketmaster.com.mx/con-cierto-bolero-mexico-28-07-2026/event/140064D7AC4E5BE4",
-      "ticket_url": "https://www.ticketmaster.com.mx/con-cierto-bolero-mexico-28-07-2026/event/140064D7AC4E5BE4",
-      "venue": "Teatro Royal Pedregal",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Classical",
-        "Classical/Vocal"
-      ]
-    },
     {
       "date": "2026-07-29",
       "source": "ticketmaster",
@@ -1448,6 +1417,21 @@
       "tags": [
         "Classical",
         "Classical/Vocal"
+      ]
+    },
+    {
+      "date": "2026-08-19",
+      "source": "ticketmaster",
+      "artists": [
+        "Tributo a la Diva con Jennely"
+      ],
+      "artist_display": "Tributo a la Diva con Jennely",
+      "url": "https://www.ticketmaster.com.mx/tributo-a-la-diva-celebrando-a-mexico-19-08-2026/event/140064FB884328DB",
+      "ticket_url": "https://www.ticketmaster.com.mx/tributo-a-la-diva-celebrando-a-mexico-19-08-2026/event/140064FB884328DB",
+      "venue": "Teatro Hidalgo",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
       ]
     },
     {
@@ -3530,6 +3514,21 @@
       ]
     },
     {
+      "date": "2026-09-11",
+      "source": "ticketmaster",
+      "artists": [
+        "Entre Ardidas"
+      ],
+      "artist_display": "Entre Ardidas",
+      "url": "https://www.ticketmaster.com.mx/entre-ardidas-mexico-11-09-2026/event/3D0064FBE54B56E9",
+      "ticket_url": "https://www.ticketmaster.com.mx/entre-ardidas-mexico-11-09-2026/event/3D0064FBE54B56E9",
+      "venue": "La Maraka",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
+      ]
+    },
+    {
       "date": "2026-09-12",
       "source": "ticketmaster",
       "artists": [
@@ -5108,15 +5107,16 @@
       "date": "2026-10-10",
       "source": "ticketmaster",
       "artists": [
-        "Entre Compas."
+        "Entre Compas"
       ],
-      "artist_display": "Entre Compas.",
+      "artist_display": "Entre Compas",
       "url": "https://www.ticketmaster.com.mx/entre-compas-mexico-10-10-2026/event/140064B0B74FE57A",
       "ticket_url": "https://www.ticketmaster.com.mx/entre-compas-mexico-10-10-2026/event/140064B0B74FE57A",
       "venue": "Pepsi Center",
       "location": "México, Ciudad de México, Mexico",
       "tags": [
-        "R&B"
+        "Rock",
+        "Alternative Rock"
       ]
     },
     {
@@ -8705,6 +8705,21 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Pop"
+      ]
+    },
+    {
+      "date": "2027-01-15",
+      "source": "ticketmaster",
+      "artists": [
+        "La Adictiva Banda San Jose De Mesillas"
+      ],
+      "artist_display": "La Adictiva Banda San Jose De Mesillas",
+      "url": "https://www.ticketmaster.com.mx/la-adictiva-haciendo-historia-tour-2027-ciudad-de-mexico-15-01-2027/event/3D0064F5D75B6D7D",
+      "ticket_url": "https://www.ticketmaster.com.mx/la-adictiva-haciendo-historia-tour-2027-ciudad-de-mexico-15-01-2027/event/3D0064F5D75B6D7D",
+      "venue": "Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
       ]
     },
     {
