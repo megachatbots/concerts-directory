@@ -1,55 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-07-29T08:39:06.276749Z",
-  "total_concerts": 592,
+  "scraped_at": "2026-07-31T08:48:38.200349Z",
+  "total_concerts": 593,
   "concerts": [
-    {
-      "date": "2026-07-29",
-      "source": "ticketmaster",
-      "artists": [
-        "La Renga"
-      ],
-      "artist_display": "La Renga",
-      "url": "https://www.ticketmaster.com.mx/la-renga-ciudad-de-mexico-29-07-2026/event/3D0064BA9F995138",
-      "ticket_url": "https://www.ticketmaster.com.mx/la-renga-ciudad-de-mexico-29-07-2026/event/3D0064BA9F995138",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Metal",
-        "Nu-Metal"
-      ]
-    },
-    {
-      "date": "2026-07-30",
-      "source": "ticketmaster",
-      "artists": [
-        "Sala Principal Bellas Artes"
-      ],
-      "artist_display": "Sala Principal Bellas Artes",
-      "url": "https://www.ticketmaster.com.mx/la-serpiente-80-movimientos-coornd-6-mexico-cdmx-30-07-2026/event/3D00646FD3F455D4",
-      "ticket_url": "https://www.ticketmaster.com.mx/la-serpiente-80-movimientos-coornd-6-mexico-cdmx-30-07-2026/event/3D00646FD3F455D4",
-      "venue": "Palacio de Bellas Artes",
-      "location": "México CDMX, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-07-30",
-      "source": "ticketmaster",
-      "artists": [
-        "Leyendas el show"
-      ],
-      "artist_display": "Leyendas el show",
-      "url": "https://www.ticketmaster.com.mx/leyendas-ciudad-de-mexico-30-07-2026/event/3D0064C2EA9082C0",
-      "ticket_url": "https://www.ticketmaster.com.mx/leyendas-ciudad-de-mexico-30-07-2026/event/3D0064C2EA9082C0",
-      "venue": "Foro Stelaris Fiesta Americana Reforma",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
-      ]
-    },
     {
       "date": "2026-07-31",
       "source": "ticketmaster",
@@ -1304,18 +1258,6 @@
       "date": "2026-08-16",
       "source": "ticketmaster",
       "artists": [
-        "Michael Cavanaugh"
-      ],
-      "artist_display": "Michael Cavanaugh",
-      "url": "https://www.ticketmaster.com.mx/the-music-of-billy-joel-and-ciudad-de-mexico-16-08-2026/event/3D0064AEBF62B746",
-      "ticket_url": "https://www.ticketmaster.com.mx/the-music-of-billy-joel-and-ciudad-de-mexico-16-08-2026/event/3D0064AEBF62B746",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico"
-    },
-    {
-      "date": "2026-08-16",
-      "source": "ticketmaster",
-      "artists": [
         "The Big Band Experience ¨Tributo a Ray Conniff y Gleen Miller¨"
       ],
       "artist_display": "The Big Band Experience ¨Tributo a Ray Conniff y Gleen Miller¨",
@@ -1326,6 +1268,18 @@
       "tags": [
         "Other"
       ]
+    },
+    {
+      "date": "2026-08-16",
+      "source": "ticketmaster",
+      "artists": [
+        "Michael Cavanaugh"
+      ],
+      "artist_display": "Michael Cavanaugh",
+      "url": "https://www.ticketmaster.com.mx/the-music-of-billy-joel-and-ciudad-de-mexico-16-08-2026/event/3D0064AEBF62B746",
+      "ticket_url": "https://www.ticketmaster.com.mx/the-music-of-billy-joel-and-ciudad-de-mexico-16-08-2026/event/3D0064AEBF62B746",
+      "venue": "Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico"
     },
     {
       "date": "2026-08-17",
@@ -1545,21 +1499,6 @@
       "date": "2026-08-21",
       "source": "ticketmaster",
       "artists": [
-        "Interestelar 12° Aniversario Movie Concert"
-      ],
-      "artist_display": "Interestelar 12° Aniversario Movie Concert",
-      "url": "https://www.ticketmaster.com.mx/interestelar-12-aniversario-movie-concert-mexico-21-08-2026/event/3D0064FB800E0C65",
-      "ticket_url": "https://www.ticketmaster.com.mx/interestelar-12-aniversario-movie-concert-mexico-21-08-2026/event/3D0064FB800E0C65",
-      "venue": "Teatro Xola Julio Prieto",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
-      ]
-    },
-    {
-      "date": "2026-08-21",
-      "source": "ticketmaster",
-      "artists": [
         "Festival Mundial del Bolero"
       ],
       "artist_display": "Festival Mundial del Bolero",
@@ -1600,21 +1539,6 @@
       "tags": [
         "Classical",
         "Classical/Vocal"
-      ]
-    },
-    {
-      "date": "2026-08-21",
-      "source": "ticketmaster",
-      "artists": [
-        "Interestelar 12° Aniversario Movie Concert"
-      ],
-      "artist_display": "Interestelar 12° Aniversario Movie Concert",
-      "url": "https://www.ticketmaster.com.mx/interestelar-12-aniversario-movie-concert-mexico-21-08-2026/event/3D0064FB81CC0D10",
-      "ticket_url": "https://www.ticketmaster.com.mx/interestelar-12-aniversario-movie-concert-mexico-21-08-2026/event/3D0064FB81CC0D10",
-      "venue": "Teatro Xola Julio Prieto",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
       ]
     },
     {
@@ -2201,6 +2125,21 @@
       ]
     },
     {
+      "date": "2026-08-28",
+      "source": "ticketmaster",
+      "artists": [
+        "Jorge Muñiz"
+      ],
+      "artist_display": "Jorge Muñiz",
+      "url": "https://www.ticketmaster.com.mx/cabaret-lunario-presentajorge-muniz-con-la-ciudad-de-mexico-28-08-2026/event/3D0064EAA3EB310D",
+      "ticket_url": "https://www.ticketmaster.com.mx/cabaret-lunario-presentajorge-muniz-con-la-ciudad-de-mexico-28-08-2026/event/3D0064EAA3EB310D",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
       "date": "2026-08-29",
       "source": "ticketmaster",
       "artists": [
@@ -2558,21 +2497,6 @@
       "date": "2026-09-04",
       "source": "ticketmaster",
       "artists": [
-        "Interestelar 12° Aniversario Movie Concert"
-      ],
-      "artist_display": "Interestelar 12° Aniversario Movie Concert",
-      "url": "https://www.ticketmaster.com.mx/interestelar-12-aniversario-movie-concert-mexico-04-09-2026/event/3D0064FB81CC0D1B",
-      "ticket_url": "https://www.ticketmaster.com.mx/interestelar-12-aniversario-movie-concert-mexico-04-09-2026/event/3D0064FB81CC0D1B",
-      "venue": "Teatro Xola Julio Prieto",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
-      ]
-    },
-    {
-      "date": "2026-09-04",
-      "source": "ticketmaster",
-      "artists": [
         "Morir Poquito"
       ],
       "artist_display": "Morir Poquito",
@@ -2589,6 +2513,21 @@
       "date": "2026-09-04",
       "source": "ticketmaster",
       "artists": [
+        "Los Dandys de Armando Navarro y La Esencia del Bolero"
+      ],
+      "artist_display": "Los Dandys de Armando Navarro y La Esencia del Bolero",
+      "url": "https://www.ticketmaster.com.mx/los-dandys-de-armando-navarro-y-mexico-04-09-2026/event/140064F4B95B6FB7",
+      "ticket_url": "https://www.ticketmaster.com.mx/los-dandys-de-armando-navarro-y-mexico-04-09-2026/event/140064F4B95B6FB7",
+      "venue": "Teatro Tepeyac",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "source": "ticketmaster",
+      "artists": [
         "Siddhartha"
       ],
       "artist_display": "Siddhartha",
@@ -2599,21 +2538,6 @@
       "tags": [
         "Rock",
         "Alternative Rock"
-      ]
-    },
-    {
-      "date": "2026-09-04",
-      "source": "ticketmaster",
-      "artists": [
-        "Interestelar 12° Aniversario Movie Concert"
-      ],
-      "artist_display": "Interestelar 12° Aniversario Movie Concert",
-      "url": "https://www.ticketmaster.com.mx/interestelar-12-aniversario-movie-concert-mexico-04-09-2026/event/3D0064FB81CE0D24",
-      "ticket_url": "https://www.ticketmaster.com.mx/interestelar-12-aniversario-movie-concert-mexico-04-09-2026/event/3D0064FB81CE0D24",
-      "venue": "Teatro Xola Julio Prieto",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
       ]
     },
     {
@@ -4297,6 +4221,21 @@
       "date": "2026-09-25",
       "source": "ticketmaster",
       "artists": [
+        "Bohemia 91"
+      ],
+      "artist_display": "Bohemia 91",
+      "url": "https://www.ticketmaster.com.mx/bohemia-93-humorcancionesgus-munguia-el-costeno-mexico-25-09-2026/event/3D0064F8A2233C64",
+      "ticket_url": "https://www.ticketmaster.com.mx/bohemia-93-humorcancionesgus-munguia-el-costeno-mexico-25-09-2026/event/3D0064F8A2233C64",
+      "venue": "El Cantoral ",
+      "location": "Mexico, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "source": "ticketmaster",
+      "artists": [
         "Nicho Hinojosa"
       ],
       "artist_display": "Nicho Hinojosa",
@@ -4719,15 +4658,16 @@
       "date": "2026-10-03",
       "source": "ticketmaster",
       "artists": [
-        "Cox Homenaje al Príncipe"
+        "COX"
       ],
-      "artist_display": "Cox Homenaje al Príncipe",
+      "artist_display": "COX",
       "url": "https://www.ticketmaster.com.mx/cox-homenaje-al-principe-ciudad-de-mexico-03-10-2026/event/3D0064E686630AB1",
       "ticket_url": "https://www.ticketmaster.com.mx/cox-homenaje-al-principe-ciudad-de-mexico-03-10-2026/event/3D0064E686630AB1",
       "venue": "Foro Stelaris Fiesta Americana Reforma",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Other"
+        "Dance/Electronic",
+        "Amapiano"
       ]
     },
     {
@@ -5710,6 +5650,22 @@
       ]
     },
     {
+      "date": "2026-10-16",
+      "source": "ticketmaster",
+      "artists": [
+        "Axel Muñiz"
+      ],
+      "artist_display": "Axel Muñiz",
+      "url": "https://www.ticketmaster.com.mx/noche-de-boleros-con-coque-muniz-mexico-16-10-2026/event/3D0064FCA1EB33BC",
+      "ticket_url": "https://www.ticketmaster.com.mx/noche-de-boleros-con-coque-muniz-mexico-16-10-2026/event/3D0064FCA1EB33BC",
+      "venue": "La Maraka",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
+      ]
+    },
+    {
       "date": "2026-10-17",
       "source": "ticketmaster",
       "artists": [
@@ -6116,6 +6072,21 @@
       "tags": [
         "Rock",
         "Pop"
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "source": "ticketmaster",
+      "artists": [
+        "Kurt"
+      ],
+      "artist_display": "Kurt",
+      "url": "https://www.ticketmaster.com.mx/kurt-mexico-22-10-2026/event/3D0064DD00E34090",
+      "ticket_url": "https://www.ticketmaster.com.mx/kurt-mexico-22-10-2026/event/3D0064DD00E34090",
+      "venue": "La Maraka",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Ballads/Romantic"
       ]
     },
     {
@@ -7461,6 +7432,22 @@
       "date": "2026-11-20",
       "source": "ticketmaster",
       "artists": [
+        "Dimash Qudaibergen"
+      ],
+      "artist_display": "Dimash Qudaibergen",
+      "url": "https://www.ticketmaster.com.mx/dimash-qudaibergen-ciudad-de-mexico-20-11-2026/event/140064C49B1F5DB4",
+      "ticket_url": "https://www.ticketmaster.com.mx/dimash-qudaibergen-ciudad-de-mexico-20-11-2026/event/140064C49B1F5DB4",
+      "venue": "Palacio de los Deportes",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "source": "ticketmaster",
+      "artists": [
         "Nuestros Boleros de Cantina. Carlos Carreira y Salvador Aponte."
       ],
       "artist_display": "Nuestros Boleros de Cantina. Carlos Carreira y Salvador Aponte.",
@@ -7643,6 +7630,22 @@
       "tags": [
         "Rock",
         "Pop"
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "source": "ticketmaster",
+      "artists": [
+        "Cuarteto de Nos"
+      ],
+      "artist_display": "Cuarteto de Nos",
+      "url": "https://www.ticketmaster.com.mx/cuarteto-de-nos-ciudad-de-mexico-21-11-2026/event/140064FCADEF9CF1",
+      "ticket_url": "https://www.ticketmaster.com.mx/cuarteto-de-nos-ciudad-de-mexico-21-11-2026/event/140064FCADEF9CF1",
+      "venue": "Palacio de los Deportes",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Alternative Rock"
       ]
     },
     {
@@ -8689,6 +8692,21 @@
       "tags": [
         "Rock",
         "Oldies & Classics"
+      ]
+    },
+    {
+      "date": "2026-12-20",
+      "source": "ticketmaster",
+      "artists": [
+        "Javiera Mena"
+      ],
+      "artist_display": "Javiera Mena",
+      "url": "https://www.ticketmaster.com.mx/javiera-mena-20-anos-esquemas-juveniles-ciudad-de-mexico-20-12-2026/event/3D0064F0ABE643C8",
+      "ticket_url": "https://www.ticketmaster.com.mx/javiera-mena-20-anos-esquemas-juveniles-ciudad-de-mexico-20-12-2026/event/3D0064F0ABE643C8",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
       ]
     },
     {
