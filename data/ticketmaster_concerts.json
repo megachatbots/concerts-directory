@@ -1,116 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-07-31T08:48:38.200349Z",
-  "total_concerts": 593,
+  "scraped_at": "2026-08-01T08:18:57.998085Z",
+  "total_concerts": 595,
   "concerts": [
-    {
-      "date": "2026-07-31",
-      "source": "ticketmaster",
-      "artists": [
-        "La Rondalla De Saltillo"
-      ],
-      "artist_display": "La Rondalla De Saltillo",
-      "url": "https://www.ticketmaster.com.mx/la-rondalla-del-amor-de-saltillo-mexico-31-07-2026/event/140064C5CD80F600",
-      "ticket_url": "https://www.ticketmaster.com.mx/la-rondalla-del-amor-de-saltillo-mexico-31-07-2026/event/140064C5CD80F600",
-      "venue": "Teatro Tepeyac",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Folk",
-        "Indie Folk"
-      ]
-    },
-    {
-      "date": "2026-07-31",
-      "source": "ticketmaster",
-      "artists": [
-        "Regina Orozco"
-      ],
-      "artist_display": "Regina Orozco",
-      "url": "https://www.ticketmaster.com.mx/regina-orozco-presenta-regina-eterna-mexico-31-07-2026/event/3D0064A8BF537A92",
-      "ticket_url": "https://www.ticketmaster.com.mx/regina-orozco-presenta-regina-eterna-mexico-31-07-2026/event/3D0064A8BF537A92",
-      "venue": "Teatro de la Ciudad Esperanza Iris",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-07-31",
-      "source": "ticketmaster",
-      "artists": [
-        "La Rondalla De Saltillo"
-      ],
-      "artist_display": "La Rondalla De Saltillo",
-      "url": "https://www.ticketmaster.com.mx/la-rondalla-del-amor-de-saltillo-mexico-31-07-2026/event/140064C5CF17FB01",
-      "ticket_url": "https://www.ticketmaster.com.mx/la-rondalla-del-amor-de-saltillo-mexico-31-07-2026/event/140064C5CF17FB01",
-      "venue": "Teatro Tepeyac",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Folk",
-        "Indie Folk"
-      ]
-    },
-    {
-      "date": "2026-07-31",
-      "source": "ticketmaster",
-      "artists": [
-        "Mijares"
-      ],
-      "artist_display": "Mijares",
-      "url": "https://www.ticketmaster.com.mx/mijares-sinfonico-ciudad-de-mexico-31-07-2026/event/3D006490E940BD0C",
-      "ticket_url": "https://www.ticketmaster.com.mx/mijares-sinfonico-ciudad-de-mexico-31-07-2026/event/3D006490E940BD0C",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-07-31",
-      "source": "ticketmaster",
-      "artists": [
-        "Gilberto Santa Rosa"
-      ],
-      "artist_display": "Gilberto Santa Rosa",
-      "url": "https://www.ticketmaster.com.mx/gilberto-santa-rosa-ciudad-de-mexico-31-07-2026/event/3D006324F8185C30",
-      "ticket_url": "https://www.ticketmaster.com.mx/gilberto-santa-rosa-ciudad-de-mexico-31-07-2026/event/3D006324F8185C30",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-07-31",
-      "source": "ticketmaster",
-      "artists": [
-        "Harry Styles"
-      ],
-      "artist_display": "Harry Styles",
-      "url": "https://www.ticketmaster.com.mx/harry-styles-together-together-ciudad-de-mexico-31-07-2026/event/1400642CF1D288DA",
-      "ticket_url": "https://www.ticketmaster.com.mx/harry-styles-together-together-ciudad-de-mexico-31-07-2026/event/1400642CF1D288DA",
-      "venue": "Estadio GNP Seguros",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop"
-      ]
-    },
-    {
-      "date": "2026-07-31",
-      "source": "ticketmaster",
-      "artists": [
-        "Homenaje a MADONNA"
-      ],
-      "artist_display": "Homenaje a MADONNA",
-      "url": "https://www.ticketmaster.com.mx/homenaje-a-madonna-san-francisco-coaxusco-31-07-2026/event/3D0064F495AA1492",
-      "ticket_url": "https://www.ticketmaster.com.mx/homenaje-a-madonna-san-francisco-coaxusco-31-07-2026/event/3D0064F495AA1492",
-      "venue": "Alboa Metepec",
-      "location": "San Francisco Coaxusco, Estado de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
-      ]
-    },
     {
       "date": "2026-07-31",
       "source": "ticketmaster",
@@ -578,6 +471,22 @@
         "Harry Styles"
       ],
       "artist_display": "Harry Styles",
+      "url": "https://www.ticketmaster.com.mx/zona-vibra-harry-styles-ciudad-de-mexico-07-08-2026/event/14006451E8D90A9F",
+      "ticket_url": "https://www.ticketmaster.com.mx/zona-vibra-harry-styles-ciudad-de-mexico-07-08-2026/event/14006451E8D90A9F",
+      "venue": "Estadio GNP Seguros",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
+      ]
+    },
+    {
+      "date": "2026-08-07",
+      "source": "ticketmaster",
+      "artists": [
+        "Harry Styles"
+      ],
+      "artist_display": "Harry Styles",
       "url": "https://www.ticketmaster.com.mx/harry-styles-together-together-ciudad-de-mexico-07-08-2026/event/1400642CF26E8951",
       "ticket_url": "https://www.ticketmaster.com.mx/harry-styles-together-together-ciudad-de-mexico-07-08-2026/event/1400642CF26E8951",
       "venue": "Estadio GNP Seguros",
@@ -615,6 +524,22 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2026-08-07",
+      "source": "ticketmaster",
+      "artists": [
+        "La Cantadera"
+      ],
+      "artist_display": "La Cantadera",
+      "url": "https://www.ticketmaster.com.mx/la-cantadera-ciudad-de-mexico-07-08-2026/event/3D0064E799B517E1",
+      "ticket_url": "https://www.ticketmaster.com.mx/la-cantadera-ciudad-de-mexico-07-08-2026/event/3D0064E799B517E1",
+      "venue": "Foro Stelaris Fiesta Americana Reforma",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Pop"
       ]
     },
     {
@@ -849,6 +774,22 @@
       "tags": [
         "Classical",
         "Classical/Vocal"
+      ]
+    },
+    {
+      "date": "2026-08-10",
+      "source": "ticketmaster",
+      "artists": [
+        "Harry Styles"
+      ],
+      "artist_display": "Harry Styles",
+      "url": "https://www.ticketmaster.com.mx/zona-vibra-harry-styles-ciudad-de-mexico-10-08-2026/event/14006451E8DA0AA6",
+      "ticket_url": "https://www.ticketmaster.com.mx/zona-vibra-harry-styles-ciudad-de-mexico-10-08-2026/event/14006451E8DA0AA6",
+      "venue": "Estadio GNP Seguros",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -1243,21 +1184,6 @@
       "date": "2026-08-16",
       "source": "ticketmaster",
       "artists": [
-        "Symphonic Tribute Coldplay"
-      ],
-      "artist_display": "Symphonic Tribute Coldplay",
-      "url": "https://www.ticketmaster.com.mx/symphonic-tribute-coldplay-mexico-16-08-2026/event/140064B7E8566CCE",
-      "ticket_url": "https://www.ticketmaster.com.mx/symphonic-tribute-coldplay-mexico-16-08-2026/event/140064B7E8566CCE",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
-      ]
-    },
-    {
-      "date": "2026-08-16",
-      "source": "ticketmaster",
-      "artists": [
         "The Big Band Experience ¨Tributo a Ray Conniff y Gleen Miller¨"
       ],
       "artist_display": "The Big Band Experience ¨Tributo a Ray Conniff y Gleen Miller¨",
@@ -1268,18 +1194,6 @@
       "tags": [
         "Other"
       ]
-    },
-    {
-      "date": "2026-08-16",
-      "source": "ticketmaster",
-      "artists": [
-        "Michael Cavanaugh"
-      ],
-      "artist_display": "Michael Cavanaugh",
-      "url": "https://www.ticketmaster.com.mx/the-music-of-billy-joel-and-ciudad-de-mexico-16-08-2026/event/3D0064AEBF62B746",
-      "ticket_url": "https://www.ticketmaster.com.mx/the-music-of-billy-joel-and-ciudad-de-mexico-16-08-2026/event/3D0064AEBF62B746",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico"
     },
     {
       "date": "2026-08-17",
@@ -1492,6 +1406,22 @@
       "venue": "Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
+        "Pop"
+      ]
+    },
+    {
+      "date": "2026-08-20",
+      "source": "ticketmaster",
+      "artists": [
+        "La Cantadera"
+      ],
+      "artist_display": "La Cantadera",
+      "url": "https://www.ticketmaster.com.mx/la-cantadera-ciudad-de-mexico-20-08-2026/event/3D0064E79C5A1A91",
+      "ticket_url": "https://www.ticketmaster.com.mx/la-cantadera-ciudad-de-mexico-20-08-2026/event/3D0064E79C5A1A91",
+      "venue": "Foro Stelaris Fiesta Americana Reforma",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
         "Pop"
       ]
     },
@@ -3831,6 +3761,21 @@
       "date": "2026-09-18",
       "source": "ticketmaster",
       "artists": [
+        "Majo Rivas"
+      ],
+      "artist_display": "Majo Rivas",
+      "url": "https://www.ticketmaster.com.mx/majo-rivas-en-cdmx-ciudad-de-mexico-18-09-2026/event/3D0064F297A2324F",
+      "ticket_url": "https://www.ticketmaster.com.mx/majo-rivas-en-cdmx-ciudad-de-mexico-18-09-2026/event/3D0064F297A2324F",
+      "venue": "Sala Pepsi Black",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "source": "ticketmaster",
+      "artists": [
         "Bratty"
       ],
       "artist_display": "Bratty",
@@ -4060,6 +4005,21 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Reggae"
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "source": "ticketmaster",
+      "artists": [
+        "La Leyenda"
+      ],
+      "artist_display": "La Leyenda",
+      "url": "https://www.ticketmaster.com.mx/la-leyenda-ciudad-de-mexico-23-09-2026/event/3D0064FE95512B67",
+      "ticket_url": "https://www.ticketmaster.com.mx/la-leyenda-ciudad-de-mexico-23-09-2026/event/3D0064FE95512B67",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
       ]
     },
     {
@@ -4533,6 +4493,21 @@
       "date": "2026-10-02",
       "source": "ticketmaster",
       "artists": [
+        "Jorge Muñiz"
+      ],
+      "artist_display": "Jorge Muñiz",
+      "url": "https://www.ticketmaster.com.mx/jorge-coque-muniz-mexico-02-10-2026/event/140064FEE88AB29D",
+      "ticket_url": "https://www.ticketmaster.com.mx/jorge-coque-muniz-mexico-02-10-2026/event/140064FEE88AB29D",
+      "venue": "Teatro Tepeyac",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "source": "ticketmaster",
+      "artists": [
         "Iron Maiden"
       ],
       "artist_display": "Iron Maiden",
@@ -4574,21 +4549,6 @@
       "tags": [
         "Pop",
         "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-10-02",
-      "source": "ticketmaster",
-      "artists": [
-        "Collage"
-      ],
-      "artist_display": "Collage",
-      "url": "https://www.ticketmaster.com.mx/collage-mexico-02-10-2026/event/3D0064F8951A2F9C",
-      "ticket_url": "https://www.ticketmaster.com.mx/collage-mexico-02-10-2026/event/3D0064F8951A2F9C",
-      "venue": "Foro Red Access",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
       ]
     },
     {
@@ -5653,9 +5613,10 @@
       "date": "2026-10-16",
       "source": "ticketmaster",
       "artists": [
-        "Axel Muñiz"
+        "Axel Muñiz",
+        "Jorge Muñiz"
       ],
-      "artist_display": "Axel Muñiz",
+      "artist_display": "Axel Muñiz, Jorge Muñiz",
       "url": "https://www.ticketmaster.com.mx/noche-de-boleros-con-coque-muniz-mexico-16-10-2026/event/3D0064FCA1EB33BC",
       "ticket_url": "https://www.ticketmaster.com.mx/noche-de-boleros-con-coque-muniz-mexico-16-10-2026/event/3D0064FCA1EB33BC",
       "venue": "La Maraka",
@@ -5777,6 +5738,22 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Ballads/Romantic"
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "source": "ticketmaster",
+      "artists": [
+        "BAND-MAID"
+      ],
+      "artist_display": "BAND-MAID",
+      "url": "https://www.ticketmaster.com.mx/bandmaid-world-tour-2026-mexico-17-10-2026/event/140064F69A193DBF",
+      "ticket_url": "https://www.ticketmaster.com.mx/bandmaid-world-tour-2026-mexico-17-10-2026/event/140064F69A193DBF",
+      "venue": "Pabellón del Palacio de los Deportes",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Pop"
       ]
     },
     {
@@ -7150,6 +7127,21 @@
       "date": "2026-11-14",
       "source": "ticketmaster",
       "artists": [
+        "La marimba teje un puente entre México y Japón"
+      ],
+      "artist_display": "La marimba teje un puente entre México y Japón",
+      "url": "https://www.ticketmaster.com.mx/la-marimba-teje-un-puente-entre-mexico-14-11-2026/event/3D0064FDF95185AB",
+      "ticket_url": "https://www.ticketmaster.com.mx/la-marimba-teje-un-puente-entre-mexico-14-11-2026/event/3D0064FDF95185AB",
+      "venue": "TEATRO SERGIO MAGAÑA",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "World"
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "source": "ticketmaster",
+      "artists": [
         "Little Jesus"
       ],
       "artist_display": "Little Jesus",
@@ -7176,6 +7168,22 @@
       "tags": [
         "Pop",
         "Electro Pop"
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "source": "ticketmaster",
+      "artists": [
+        "Fernando Delgadillo"
+      ],
+      "artist_display": "Fernando Delgadillo",
+      "url": "https://www.ticketmaster.com.mx/fernando-delgadillo-ciudad-de-mexico-14-11-2026/event/3D0064FDABAB4ECE",
+      "ticket_url": "https://www.ticketmaster.com.mx/fernando-delgadillo-ciudad-de-mexico-14-11-2026/event/3D0064FDABAB4ECE",
+      "venue": "Sala Pepsi Black",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "World",
+        "Trova"
       ]
     },
     {
@@ -7396,9 +7404,31 @@
       "date": "2026-11-20",
       "source": "ticketmaster",
       "artists": [
-        "Corona Capital"
+        "Corona Capital",
+        "Absolutely",
+        "Anna Luna",
+        "Chezile",
+        "CHVRCHES",
+        "CMAT",
+        "Daniel Caesar",
+        "Durand Jones & The Indications",
+        "Fcukers",
+        "Friko",
+        "Gorillaz",
+        "Grace Ives",
+        "Hot Milk",
+        "James Blake",
+        "JMSN",
+        "Mumford & Sons",
+        "Olive Jones",
+        "RIP Magic",
+        "SOFIA ISELLA",
+        "The Kooks",
+        "Thee Sinseers",
+        "Violet Grohl",
+        "Yung Lean"
       ],
-      "artist_display": "Corona Capital",
+      "artist_display": "Corona Capital, Absolutely, Anna Luna, Chezile, CHVRCHES, CMAT, Daniel Caesar, Durand Jones & The Indications, Fcukers, Friko, Gorillaz, Grace Ives, Hot Milk, James Blake, JMSN, Mumford & Sons, Olive Jones, RIP Magic, SOFIA ISELLA, The Kooks, Thee Sinseers, Violet Grohl, Yung Lean",
       "url": "https://www.ticketmaster.com.mx/individual-general-corona-capital-2026-mexico-20-11-2026/event/14006499FA57F0FC",
       "ticket_url": "https://www.ticketmaster.com.mx/individual-general-corona-capital-2026-mexico-20-11-2026/event/14006499FA57F0FC",
       "venue": "Autodromo Hnos. Rodriguez",
@@ -7408,9 +7438,31 @@
       "date": "2026-11-20",
       "source": "ticketmaster",
       "artists": [
-        "Corona Capital"
+        "Corona Capital",
+        "Absolutely",
+        "Anna Luna",
+        "Chezile",
+        "CHVRCHES",
+        "CMAT",
+        "Daniel Caesar",
+        "Durand Jones & The Indications",
+        "Fcukers",
+        "Friko",
+        "Gorillaz",
+        "Grace Ives",
+        "Hot Milk",
+        "James Blake",
+        "JMSN",
+        "Mumford & Sons",
+        "Olive Jones",
+        "RIP Magic",
+        "SOFIA ISELLA",
+        "The Kooks",
+        "Thee Sinseers",
+        "Violet Grohl",
+        "Yung Lean"
       ],
-      "artist_display": "Corona Capital",
+      "artist_display": "Corona Capital, Absolutely, Anna Luna, Chezile, CHVRCHES, CMAT, Daniel Caesar, Durand Jones & The Indications, Fcukers, Friko, Gorillaz, Grace Ives, Hot Milk, James Blake, JMSN, Mumford & Sons, Olive Jones, RIP Magic, SOFIA ISELLA, The Kooks, Thee Sinseers, Violet Grohl, Yung Lean",
       "url": "https://www.ticketmaster.com.mx/individual-comfort-pass-banamex-corona-capital-mexico-20-11-2026/event/14006499FAF2F21C",
       "ticket_url": "https://www.ticketmaster.com.mx/individual-comfort-pass-banamex-corona-capital-mexico-20-11-2026/event/14006499FAF2F21C",
       "venue": "Autodromo Hnos. Rodriguez",
@@ -7420,9 +7472,31 @@
       "date": "2026-11-20",
       "source": "ticketmaster",
       "artists": [
-        "Corona Capital"
+        "Corona Capital",
+        "Absolutely",
+        "Anna Luna",
+        "Chezile",
+        "CHVRCHES",
+        "CMAT",
+        "Daniel Caesar",
+        "Durand Jones & The Indications",
+        "Fcukers",
+        "Friko",
+        "Gorillaz",
+        "Grace Ives",
+        "Hot Milk",
+        "James Blake",
+        "JMSN",
+        "Mumford & Sons",
+        "Olive Jones",
+        "RIP Magic",
+        "SOFIA ISELLA",
+        "The Kooks",
+        "Thee Sinseers",
+        "Violet Grohl",
+        "Yung Lean"
       ],
-      "artist_display": "Corona Capital",
+      "artist_display": "Corona Capital, Absolutely, Anna Luna, Chezile, CHVRCHES, CMAT, Daniel Caesar, Durand Jones & The Indications, Fcukers, Friko, Gorillaz, Grace Ives, Hot Milk, James Blake, JMSN, Mumford & Sons, Olive Jones, RIP Magic, SOFIA ISELLA, The Kooks, Thee Sinseers, Violet Grohl, Yung Lean",
       "url": "https://www.ticketmaster.com.mx/individual-banamex-plus-corona-capital-2026-mexico-20-11-2026/event/14006499F22BE35A",
       "ticket_url": "https://www.ticketmaster.com.mx/individual-banamex-plus-corona-capital-2026-mexico-20-11-2026/event/14006499F22BE35A",
       "venue": "Autodromo Hnos. Rodriguez",
@@ -7493,9 +7567,76 @@
       "date": "2026-11-20",
       "source": "ticketmaster",
       "artists": [
-        "Corona Capital"
+        "Corona Capital",
+        "Absolutely",
+        "Anna Luna",
+        "Chezile",
+        "CHVRCHES",
+        "CMAT",
+        "Daniel Caesar",
+        "Durand Jones & The Indications",
+        "Fcukers",
+        "Friko",
+        "Gorillaz",
+        "Grace Ives",
+        "Hot Milk",
+        "James Blake",
+        "JMSN",
+        "Mumford & Sons",
+        "Olive Jones",
+        "RIP Magic",
+        "SOFIA ISELLA",
+        "The Kooks",
+        "Thee Sinseers",
+        "Violet Grohl",
+        "Yung Lean",
+        "Baby Queen",
+        "Balu Brigada",
+        "Børns",
+        "Dope Lemon",
+        "Jordana",
+        "Maisie Peters",
+        "Militarie Gun",
+        "Mother Mother",
+        "New Constellations",
+        "Peaches",
+        "Pierce The Veil",
+        "Princess Chelsea",
+        "Quarters",
+        "Rikas",
+        "Sawyer Hill",
+        "Strawberry Guy",
+        "The Hellp",
+        "The Offspring",
+        "Twenty One Pilots",
+        "Underworld",
+        "We Are Scientists",
+        "Σtella",
+        "Angine de Poitrine",
+        "Bad Suns",
+        "BUNT.",
+        "Ela Minus",
+        "Freak Slug",
+        "Good Kid",
+        "Johnny Marr",
+        "Lil Yachty",
+        "Lola Young",
+        "Loyle Carner",
+        "Manic Street Preachers",
+        "Moyka",
+        "Ninajirachi",
+        "PURITY RING",
+        "Ratboys",
+        "Rev Run",
+        "Roar",
+        "Santigold",
+        "The Black Crowes",
+        "The Strokes",
+        "The xx",
+        "Tipling Rock",
+        "Tricky"
       ],
-      "artist_display": "Corona Capital",
+      "artist_display": "Corona Capital, Absolutely, Anna Luna, Chezile, CHVRCHES, CMAT, Daniel Caesar, Durand Jones & The Indications, Fcukers, Friko, Gorillaz, Grace Ives, Hot Milk, James Blake, JMSN, Mumford & Sons, Olive Jones, RIP Magic, SOFIA ISELLA, The Kooks, Thee Sinseers, Violet Grohl, Yung Lean, Baby Queen, Balu Brigada, Børns, Dope Lemon, Jordana, Maisie Peters, Militarie Gun, Mother Mother, New Constellations, Peaches, Pierce The Veil, Princess Chelsea, Quarters, Rikas, Sawyer Hill, Strawberry Guy, The Hellp, The Offspring, Twenty One Pilots, Underworld, We Are Scientists, Σtella, Angine de Poitrine, Bad Suns, BUNT., Ela Minus, Freak Slug, Good Kid, Johnny Marr, Lil Yachty, Lola Young, Loyle Carner, Manic Street Preachers, Moyka, Ninajirachi, PURITY RING, Ratboys, Rev Run, Roar, Santigold, The Black Crowes, The Strokes, The xx, Tipling Rock, Tricky",
       "url": "https://www.ticketmaster.com.mx/abono-general-3-dias-corona-capital-mexico-20-11-2026/event/14006499D700B533",
       "ticket_url": "https://www.ticketmaster.com.mx/abono-general-3-dias-corona-capital-mexico-20-11-2026/event/14006499D700B533",
       "venue": "Autodromo Hnos. Rodriguez",
@@ -7553,9 +7694,31 @@
       "date": "2026-11-21",
       "source": "ticketmaster",
       "artists": [
-        "Corona Capital"
+        "Corona Capital",
+        "Baby Queen",
+        "Balu Brigada",
+        "Børns",
+        "Dope Lemon",
+        "Jordana",
+        "Maisie Peters",
+        "Militarie Gun",
+        "Mother Mother",
+        "New Constellations",
+        "Peaches",
+        "Pierce The Veil",
+        "Princess Chelsea",
+        "Quarters",
+        "Rikas",
+        "Sawyer Hill",
+        "Strawberry Guy",
+        "The Hellp",
+        "The Offspring",
+        "Twenty One Pilots",
+        "Underworld",
+        "We Are Scientists",
+        "Σtella"
       ],
-      "artist_display": "Corona Capital",
+      "artist_display": "Corona Capital, Baby Queen, Balu Brigada, Børns, Dope Lemon, Jordana, Maisie Peters, Militarie Gun, Mother Mother, New Constellations, Peaches, Pierce The Veil, Princess Chelsea, Quarters, Rikas, Sawyer Hill, Strawberry Guy, The Hellp, The Offspring, Twenty One Pilots, Underworld, We Are Scientists, Σtella",
       "url": "https://www.ticketmaster.com.mx/individual-general-corona-capital-2026-mexico-21-11-2026/event/14006499FB2DF28E",
       "ticket_url": "https://www.ticketmaster.com.mx/individual-general-corona-capital-2026-mexico-21-11-2026/event/14006499FB2DF28E",
       "venue": "Autodromo Hnos. Rodriguez",
@@ -7565,9 +7728,31 @@
       "date": "2026-11-21",
       "source": "ticketmaster",
       "artists": [
-        "Corona Capital"
+        "Corona Capital",
+        "Baby Queen",
+        "Balu Brigada",
+        "Børns",
+        "Dope Lemon",
+        "Jordana",
+        "Maisie Peters",
+        "Militarie Gun",
+        "Mother Mother",
+        "New Constellations",
+        "Peaches",
+        "Pierce The Veil",
+        "Princess Chelsea",
+        "Quarters",
+        "Rikas",
+        "Sawyer Hill",
+        "Strawberry Guy",
+        "The Hellp",
+        "The Offspring",
+        "Twenty One Pilots",
+        "Underworld",
+        "We Are Scientists",
+        "Σtella"
       ],
-      "artist_display": "Corona Capital",
+      "artist_display": "Corona Capital, Baby Queen, Balu Brigada, Børns, Dope Lemon, Jordana, Maisie Peters, Militarie Gun, Mother Mother, New Constellations, Peaches, Pierce The Veil, Princess Chelsea, Quarters, Rikas, Sawyer Hill, Strawberry Guy, The Hellp, The Offspring, Twenty One Pilots, Underworld, We Are Scientists, Σtella",
       "url": "https://www.ticketmaster.com.mx/individual-comfort-pass-banamex-corona-capital-mexico-21-11-2026/event/14006499FC7EF53A",
       "ticket_url": "https://www.ticketmaster.com.mx/individual-comfort-pass-banamex-corona-capital-mexico-21-11-2026/event/14006499FC7EF53A",
       "venue": "Autodromo Hnos. Rodriguez",
@@ -7577,13 +7762,50 @@
       "date": "2026-11-21",
       "source": "ticketmaster",
       "artists": [
-        "Corona Capital"
+        "Corona Capital",
+        "Baby Queen",
+        "Balu Brigada",
+        "Børns",
+        "Dope Lemon",
+        "Jordana",
+        "Maisie Peters",
+        "Militarie Gun",
+        "Mother Mother",
+        "New Constellations",
+        "Peaches",
+        "Pierce The Veil",
+        "Princess Chelsea",
+        "Quarters",
+        "Rikas",
+        "Sawyer Hill",
+        "Strawberry Guy",
+        "The Hellp",
+        "The Offspring",
+        "Twenty One Pilots",
+        "Underworld",
+        "We Are Scientists",
+        "Σtella"
       ],
-      "artist_display": "Corona Capital",
+      "artist_display": "Corona Capital, Baby Queen, Balu Brigada, Børns, Dope Lemon, Jordana, Maisie Peters, Militarie Gun, Mother Mother, New Constellations, Peaches, Pierce The Veil, Princess Chelsea, Quarters, Rikas, Sawyer Hill, Strawberry Guy, The Hellp, The Offspring, Twenty One Pilots, Underworld, We Are Scientists, Σtella",
       "url": "https://www.ticketmaster.com.mx/individual-banamex-plus-corona-capital-2026-mexico-21-11-2026/event/14006499F53FE84A",
       "ticket_url": "https://www.ticketmaster.com.mx/individual-banamex-plus-corona-capital-2026-mexico-21-11-2026/event/14006499F53FE84A",
       "venue": "Autodromo Hnos. Rodriguez",
       "location": "México, Ciudad de México, Mexico"
+    },
+    {
+      "date": "2026-11-21",
+      "source": "ticketmaster",
+      "artists": [
+        "La marimba teje un puente entre México y Japón"
+      ],
+      "artist_display": "La marimba teje un puente entre México y Japón",
+      "url": "https://www.ticketmaster.com.mx/la-marimba-teje-un-puente-entre-mexico-21-11-2026/event/3D0064FDFA588641",
+      "ticket_url": "https://www.ticketmaster.com.mx/la-marimba-teje-un-puente-entre-mexico-21-11-2026/event/3D0064FDFA588641",
+      "venue": "TEATRO SERGIO MAGAÑA",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "World"
+      ]
     },
     {
       "date": "2026-11-21",
@@ -7698,9 +7920,32 @@
       "date": "2026-11-22",
       "source": "ticketmaster",
       "artists": [
-        "Corona Capital"
+        "Corona Capital",
+        "Angine de Poitrine",
+        "Bad Suns",
+        "BUNT.",
+        "Ela Minus",
+        "Freak Slug",
+        "Good Kid",
+        "Johnny Marr",
+        "Lil Yachty",
+        "Lola Young",
+        "Loyle Carner",
+        "Manic Street Preachers",
+        "Moyka",
+        "Ninajirachi",
+        "PURITY RING",
+        "Ratboys",
+        "Rev Run",
+        "Roar",
+        "Santigold",
+        "The Black Crowes",
+        "The Strokes",
+        "The xx",
+        "Tipling Rock",
+        "Tricky"
       ],
-      "artist_display": "Corona Capital",
+      "artist_display": "Corona Capital, Angine de Poitrine, Bad Suns, BUNT., Ela Minus, Freak Slug, Good Kid, Johnny Marr, Lil Yachty, Lola Young, Loyle Carner, Manic Street Preachers, Moyka, Ninajirachi, PURITY RING, Ratboys, Rev Run, Roar, Santigold, The Black Crowes, The Strokes, The xx, Tipling Rock, Tricky",
       "url": "https://www.ticketmaster.com.mx/individual-general-corona-capital-2026-mexico-22-11-2026/event/14006499FB2EF290",
       "ticket_url": "https://www.ticketmaster.com.mx/individual-general-corona-capital-2026-mexico-22-11-2026/event/14006499FB2EF290",
       "venue": "Autodromo Hnos. Rodriguez",
@@ -7710,9 +7955,32 @@
       "date": "2026-11-22",
       "source": "ticketmaster",
       "artists": [
-        "Corona Capital"
+        "Corona Capital",
+        "Angine de Poitrine",
+        "Bad Suns",
+        "BUNT.",
+        "Ela Minus",
+        "Freak Slug",
+        "Good Kid",
+        "Johnny Marr",
+        "Lil Yachty",
+        "Lola Young",
+        "Loyle Carner",
+        "Manic Street Preachers",
+        "Moyka",
+        "Ninajirachi",
+        "PURITY RING",
+        "Ratboys",
+        "Rev Run",
+        "Roar",
+        "Santigold",
+        "The Black Crowes",
+        "The Strokes",
+        "The xx",
+        "Tipling Rock",
+        "Tricky"
       ],
-      "artist_display": "Corona Capital",
+      "artist_display": "Corona Capital, Angine de Poitrine, Bad Suns, BUNT., Ela Minus, Freak Slug, Good Kid, Johnny Marr, Lil Yachty, Lola Young, Loyle Carner, Manic Street Preachers, Moyka, Ninajirachi, PURITY RING, Ratboys, Rev Run, Roar, Santigold, The Black Crowes, The Strokes, The xx, Tipling Rock, Tricky",
       "url": "https://www.ticketmaster.com.mx/individual-comfort-pass-banamex-corona-capital-mexico-22-11-2026/event/14006499FC7FF53C",
       "ticket_url": "https://www.ticketmaster.com.mx/individual-comfort-pass-banamex-corona-capital-mexico-22-11-2026/event/14006499FC7FF53C",
       "venue": "Autodromo Hnos. Rodriguez",
@@ -7722,9 +7990,32 @@
       "date": "2026-11-22",
       "source": "ticketmaster",
       "artists": [
-        "Corona Capital"
+        "Corona Capital",
+        "Angine de Poitrine",
+        "Bad Suns",
+        "BUNT.",
+        "Ela Minus",
+        "Freak Slug",
+        "Good Kid",
+        "Johnny Marr",
+        "Lil Yachty",
+        "Lola Young",
+        "Loyle Carner",
+        "Manic Street Preachers",
+        "Moyka",
+        "Ninajirachi",
+        "PURITY RING",
+        "Ratboys",
+        "Rev Run",
+        "Roar",
+        "Santigold",
+        "The Black Crowes",
+        "The Strokes",
+        "The xx",
+        "Tipling Rock",
+        "Tricky"
       ],
-      "artist_display": "Corona Capital",
+      "artist_display": "Corona Capital, Angine de Poitrine, Bad Suns, BUNT., Ela Minus, Freak Slug, Good Kid, Johnny Marr, Lil Yachty, Lola Young, Loyle Carner, Manic Street Preachers, Moyka, Ninajirachi, PURITY RING, Ratboys, Rev Run, Roar, Santigold, The Black Crowes, The Strokes, The xx, Tipling Rock, Tricky",
       "url": "https://www.ticketmaster.com.mx/individual-banamex-plus-corona-capital-2026-mexico-22-11-2026/event/14006499F53FE84C",
       "ticket_url": "https://www.ticketmaster.com.mx/individual-banamex-plus-corona-capital-2026-mexico-22-11-2026/event/14006499F53FE84C",
       "venue": "Autodromo Hnos. Rodriguez",
@@ -8033,21 +8324,6 @@
       "date": "2026-11-27",
       "source": "ticketmaster",
       "artists": [
-        "Collage"
-      ],
-      "artist_display": "Collage",
-      "url": "https://www.ticketmaster.com.mx/collage-mexico-27-11-2026/event/3D0064F89612309A",
-      "ticket_url": "https://www.ticketmaster.com.mx/collage-mexico-27-11-2026/event/3D0064F89612309A",
-      "venue": "Foro Red Access",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
-      ]
-    },
-    {
-      "date": "2026-11-27",
-      "source": "ticketmaster",
-      "artists": [
         "Kudai",
         "Nikki Clan"
       ],
@@ -8065,9 +8341,29 @@
       "date": "2026-11-28",
       "source": "ticketmaster",
       "artists": [
-        "Flow Fest"
+        "Flow Fest",
+        "Anuel AA",
+        "Tito Double P",
+        "Chencho Corleone",
+        "Manuel Turizo",
+        "Ñengo Flow",
+        "Zion",
+        "El Bogueto",
+        "Tokischa",
+        "Kevin Roldan",
+        "Ken-Y",
+        "Clarent",
+        "Noriel",
+        "Uzielito Mix",
+        "C.R.O",
+        "Eme Malafe",
+        "legallyrxx",
+        "Six Sex",
+        "Alanis Yuki",
+        "DJ Ish",
+        "Grupo Frontera"
       ],
-      "artist_display": "Flow Fest",
+      "artist_display": "Flow Fest, Anuel AA, Tito Double P, Chencho Corleone, Manuel Turizo, Ñengo Flow, Zion, El Bogueto, Tokischa, Kevin Roldan, Ken-Y, Clarent, Noriel, Uzielito Mix, C.R.O, Eme Malafe, legallyrxx, Six Sex, Alanis Yuki, DJ Ish, Grupo Frontera",
       "url": "https://www.ticketmaster.com.mx/individual-comfort-pass-banamex-coca-flow-mexico-28-11-2026/event/140064AC98ED49F2",
       "ticket_url": "https://www.ticketmaster.com.mx/individual-comfort-pass-banamex-coca-flow-mexico-28-11-2026/event/140064AC98ED49F2",
       "venue": "Autodromo Hnos. Rodriguez",
@@ -8077,9 +8373,29 @@
       "date": "2026-11-28",
       "source": "ticketmaster",
       "artists": [
-        "Flow Fest"
+        "Flow Fest",
+        "Anuel AA",
+        "Tito Double P",
+        "Chencho Corleone",
+        "Manuel Turizo",
+        "Ñengo Flow",
+        "Zion",
+        "El Bogueto",
+        "Tokischa",
+        "Kevin Roldan",
+        "Ken-Y",
+        "Clarent",
+        "Noriel",
+        "Uzielito Mix",
+        "C.R.O",
+        "Eme Malafe",
+        "legallyrxx",
+        "Six Sex",
+        "Alanis Yuki",
+        "DJ Ish",
+        "Grupo Frontera"
       ],
-      "artist_display": "Flow Fest",
+      "artist_display": "Flow Fest, Anuel AA, Tito Double P, Chencho Corleone, Manuel Turizo, Ñengo Flow, Zion, El Bogueto, Tokischa, Kevin Roldan, Ken-Y, Clarent, Noriel, Uzielito Mix, C.R.O, Eme Malafe, legallyrxx, Six Sex, Alanis Yuki, DJ Ish, Grupo Frontera",
       "url": "https://www.ticketmaster.com.mx/individual-general-coca-flow-fest-2026-mexico-28-11-2026/event/140064ACAE967642",
       "ticket_url": "https://www.ticketmaster.com.mx/individual-general-coca-flow-fest-2026-mexico-28-11-2026/event/140064ACAE967642",
       "venue": "Autodromo Hnos. Rodriguez",
@@ -8089,13 +8405,48 @@
       "date": "2026-11-28",
       "source": "ticketmaster",
       "artists": [
-        "Flow Fest"
+        "Flow Fest",
+        "Anuel AA",
+        "Tito Double P",
+        "Chencho Corleone",
+        "Manuel Turizo",
+        "Ñengo Flow",
+        "Zion",
+        "El Bogueto",
+        "Tokischa",
+        "Kevin Roldan",
+        "Ken-Y",
+        "Clarent",
+        "Noriel",
+        "Uzielito Mix",
+        "C.R.O",
+        "Eme Malafe",
+        "legallyrxx",
+        "Six Sex",
+        "Alanis Yuki",
+        "DJ Ish",
+        "Grupo Frontera"
       ],
-      "artist_display": "Flow Fest",
+      "artist_display": "Flow Fest, Anuel AA, Tito Double P, Chencho Corleone, Manuel Turizo, Ñengo Flow, Zion, El Bogueto, Tokischa, Kevin Roldan, Ken-Y, Clarent, Noriel, Uzielito Mix, C.R.O, Eme Malafe, legallyrxx, Six Sex, Alanis Yuki, DJ Ish, Grupo Frontera",
       "url": "https://www.ticketmaster.com.mx/individual-banamex-plus-coca-flow-fest-mexico-28-11-2026/event/140064ACB1C07DC9",
       "ticket_url": "https://www.ticketmaster.com.mx/individual-banamex-plus-coca-flow-fest-mexico-28-11-2026/event/140064ACB1C07DC9",
       "venue": "Autodromo Hnos. Rodriguez",
       "location": "México, Ciudad de México, Mexico"
+    },
+    {
+      "date": "2026-11-28",
+      "source": "ticketmaster",
+      "artists": [
+        "La marimba teje un puente entre México y Japón"
+      ],
+      "artist_display": "La marimba teje un puente entre México y Japón",
+      "url": "https://www.ticketmaster.com.mx/la-marimba-teje-un-puente-entre-mexico-28-11-2026/event/3D0064FDFA588643",
+      "ticket_url": "https://www.ticketmaster.com.mx/la-marimba-teje-un-puente-entre-mexico-28-11-2026/event/3D0064FDFA588643",
+      "venue": "TEATRO SERGIO MAGAÑA",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "World"
+      ]
     },
     {
       "date": "2026-11-28",
@@ -8189,9 +8540,47 @@
       "date": "2026-11-28",
       "source": "ticketmaster",
       "artists": [
-        "Flow Fest"
+        "Flow Fest",
+        "Anuel AA",
+        "Tito Double P",
+        "Chencho Corleone",
+        "Manuel Turizo",
+        "Ñengo Flow",
+        "Zion",
+        "El Bogueto",
+        "Tokischa",
+        "Kevin Roldan",
+        "Ken-Y",
+        "Clarent",
+        "Noriel",
+        "Uzielito Mix",
+        "C.R.O",
+        "Eme Malafe",
+        "legallyrxx",
+        "Six Sex",
+        "Alanis Yuki",
+        "DJ Ish",
+        "Grupo Frontera",
+        "Ozuna",
+        "Kali Uchis",
+        "Yandel",
+        "Trueno",
+        "Tito El Bambino",
+        "Farruko",
+        "Dei V",
+        "Alleh",
+        "J Alvarez",
+        "FloyyMenor",
+        "Yan Block",
+        "Kybba",
+        "YSY A",
+        "Kidd Voodoo",
+        "Natt Calma",
+        "A.Chal",
+        "Doony Graff",
+        "Mila"
       ],
-      "artist_display": "Flow Fest",
+      "artist_display": "Flow Fest, Anuel AA, Tito Double P, Chencho Corleone, Manuel Turizo, Ñengo Flow, Zion, El Bogueto, Tokischa, Kevin Roldan, Ken-Y, Clarent, Noriel, Uzielito Mix, C.R.O, Eme Malafe, legallyrxx, Six Sex, Alanis Yuki, DJ Ish, Grupo Frontera, Ozuna, Kali Uchis, Yandel, Trueno, Tito El Bambino, Farruko, Dei V, Alleh, J Alvarez, FloyyMenor, Yan Block, Kybba, YSY A, Kidd Voodoo, Natt Calma, A.Chal, Doony Graff, Mila",
       "url": "https://www.ticketmaster.com.mx/abono-comfort-pass-banamex-pase-de-mexico-28-11-2026/event/140064ACA1705BED",
       "ticket_url": "https://www.ticketmaster.com.mx/abono-comfort-pass-banamex-pase-de-mexico-28-11-2026/event/140064ACA1705BED",
       "venue": "Autodromo Hnos. Rodriguez",
@@ -8201,9 +8590,47 @@
       "date": "2026-11-28",
       "source": "ticketmaster",
       "artists": [
-        "Flow Fest"
+        "Flow Fest",
+        "Anuel AA",
+        "Tito Double P",
+        "Chencho Corleone",
+        "Manuel Turizo",
+        "Ñengo Flow",
+        "Zion",
+        "El Bogueto",
+        "Tokischa",
+        "Kevin Roldan",
+        "Ken-Y",
+        "Clarent",
+        "Noriel",
+        "Uzielito Mix",
+        "C.R.O",
+        "Eme Malafe",
+        "legallyrxx",
+        "Six Sex",
+        "Alanis Yuki",
+        "DJ Ish",
+        "Grupo Frontera",
+        "Ozuna",
+        "Kali Uchis",
+        "Yandel",
+        "Trueno",
+        "Tito El Bambino",
+        "Farruko",
+        "Dei V",
+        "Alleh",
+        "J Alvarez",
+        "FloyyMenor",
+        "Yan Block",
+        "Kybba",
+        "YSY A",
+        "Kidd Voodoo",
+        "Natt Calma",
+        "A.Chal",
+        "Doony Graff",
+        "Mila"
       ],
-      "artist_display": "Flow Fest",
+      "artist_display": "Flow Fest, Anuel AA, Tito Double P, Chencho Corleone, Manuel Turizo, Ñengo Flow, Zion, El Bogueto, Tokischa, Kevin Roldan, Ken-Y, Clarent, Noriel, Uzielito Mix, C.R.O, Eme Malafe, legallyrxx, Six Sex, Alanis Yuki, DJ Ish, Grupo Frontera, Ozuna, Kali Uchis, Yandel, Trueno, Tito El Bambino, Farruko, Dei V, Alleh, J Alvarez, FloyyMenor, Yan Block, Kybba, YSY A, Kidd Voodoo, Natt Calma, A.Chal, Doony Graff, Mila",
       "url": "https://www.ticketmaster.com.mx/abono-general-pase-de-2-dias-mexico-28-11-2026/event/140064AC944D40CB",
       "ticket_url": "https://www.ticketmaster.com.mx/abono-general-pase-de-2-dias-mexico-28-11-2026/event/140064AC944D40CB",
       "venue": "Autodromo Hnos. Rodriguez",
@@ -8213,9 +8640,47 @@
       "date": "2026-11-28",
       "source": "ticketmaster",
       "artists": [
-        "Flow Fest"
+        "Flow Fest",
+        "Anuel AA",
+        "Tito Double P",
+        "Chencho Corleone",
+        "Manuel Turizo",
+        "Ñengo Flow",
+        "Zion",
+        "El Bogueto",
+        "Tokischa",
+        "Kevin Roldan",
+        "Ken-Y",
+        "Clarent",
+        "Noriel",
+        "Uzielito Mix",
+        "C.R.O",
+        "Eme Malafe",
+        "legallyrxx",
+        "Six Sex",
+        "Alanis Yuki",
+        "DJ Ish",
+        "Grupo Frontera",
+        "Ozuna",
+        "Kali Uchis",
+        "Yandel",
+        "Trueno",
+        "Tito El Bambino",
+        "Farruko",
+        "Dei V",
+        "Alleh",
+        "J Alvarez",
+        "FloyyMenor",
+        "Yan Block",
+        "Kybba",
+        "YSY A",
+        "Kidd Voodoo",
+        "Natt Calma",
+        "A.Chal",
+        "Doony Graff",
+        "Mila"
       ],
-      "artist_display": "Flow Fest",
+      "artist_display": "Flow Fest, Anuel AA, Tito Double P, Chencho Corleone, Manuel Turizo, Ñengo Flow, Zion, El Bogueto, Tokischa, Kevin Roldan, Ken-Y, Clarent, Noriel, Uzielito Mix, C.R.O, Eme Malafe, legallyrxx, Six Sex, Alanis Yuki, DJ Ish, Grupo Frontera, Ozuna, Kali Uchis, Yandel, Trueno, Tito El Bambino, Farruko, Dei V, Alleh, J Alvarez, FloyyMenor, Yan Block, Kybba, YSY A, Kidd Voodoo, Natt Calma, A.Chal, Doony Graff, Mila",
       "url": "https://www.ticketmaster.com.mx/abono-banamex-plus-2-dias-coca-mexico-28-11-2026/event/140064AC94BE42AD",
       "ticket_url": "https://www.ticketmaster.com.mx/abono-banamex-plus-2-dias-coca-mexico-28-11-2026/event/140064AC94BE42AD",
       "venue": "Autodromo Hnos. Rodriguez",
@@ -8225,9 +8690,27 @@
       "date": "2026-11-29",
       "source": "ticketmaster",
       "artists": [
-        "Flow Fest"
+        "Flow Fest",
+        "Ozuna",
+        "Kali Uchis",
+        "Yandel",
+        "Trueno",
+        "Tito El Bambino",
+        "Farruko",
+        "Dei V",
+        "Alleh",
+        "J Alvarez",
+        "FloyyMenor",
+        "Yan Block",
+        "Kybba",
+        "YSY A",
+        "Kidd Voodoo",
+        "Natt Calma",
+        "A.Chal",
+        "Doony Graff",
+        "Mila"
       ],
-      "artist_display": "Flow Fest",
+      "artist_display": "Flow Fest, Ozuna, Kali Uchis, Yandel, Trueno, Tito El Bambino, Farruko, Dei V, Alleh, J Alvarez, FloyyMenor, Yan Block, Kybba, YSY A, Kidd Voodoo, Natt Calma, A.Chal, Doony Graff, Mila",
       "url": "https://www.ticketmaster.com.mx/individual-comfort-pass-banamex-coca-flow-mexico-29-11-2026/event/140064AC9AAC4CE7",
       "ticket_url": "https://www.ticketmaster.com.mx/individual-comfort-pass-banamex-coca-flow-mexico-29-11-2026/event/140064AC9AAC4CE7",
       "venue": "Autodromo Hnos. Rodriguez",
@@ -8237,9 +8720,27 @@
       "date": "2026-11-29",
       "source": "ticketmaster",
       "artists": [
-        "Flow Fest"
+        "Flow Fest",
+        "Ozuna",
+        "Kali Uchis",
+        "Yandel",
+        "Trueno",
+        "Tito El Bambino",
+        "Farruko",
+        "Dei V",
+        "Alleh",
+        "J Alvarez",
+        "FloyyMenor",
+        "Yan Block",
+        "Kybba",
+        "YSY A",
+        "Kidd Voodoo",
+        "Natt Calma",
+        "A.Chal",
+        "Doony Graff",
+        "Mila"
       ],
-      "artist_display": "Flow Fest",
+      "artist_display": "Flow Fest, Ozuna, Kali Uchis, Yandel, Trueno, Tito El Bambino, Farruko, Dei V, Alleh, J Alvarez, FloyyMenor, Yan Block, Kybba, YSY A, Kidd Voodoo, Natt Calma, A.Chal, Doony Graff, Mila",
       "url": "https://www.ticketmaster.com.mx/individual-banamex-plus-coca-flow-fest-mexico-29-11-2026/event/140064ACB4B7828B",
       "ticket_url": "https://www.ticketmaster.com.mx/individual-banamex-plus-coca-flow-fest-mexico-29-11-2026/event/140064ACB4B7828B",
       "venue": "Autodromo Hnos. Rodriguez",
@@ -8249,9 +8750,27 @@
       "date": "2026-11-29",
       "source": "ticketmaster",
       "artists": [
-        "Flow Fest"
+        "Flow Fest",
+        "Ozuna",
+        "Kali Uchis",
+        "Yandel",
+        "Trueno",
+        "Tito El Bambino",
+        "Farruko",
+        "Dei V",
+        "Alleh",
+        "J Alvarez",
+        "FloyyMenor",
+        "Yan Block",
+        "Kybba",
+        "YSY A",
+        "Kidd Voodoo",
+        "Natt Calma",
+        "A.Chal",
+        "Doony Graff",
+        "Mila"
       ],
-      "artist_display": "Flow Fest",
+      "artist_display": "Flow Fest, Ozuna, Kali Uchis, Yandel, Trueno, Tito El Bambino, Farruko, Dei V, Alleh, J Alvarez, FloyyMenor, Yan Block, Kybba, YSY A, Kidd Voodoo, Natt Calma, A.Chal, Doony Graff, Mila",
       "url": "https://www.ticketmaster.com.mx/individual-general-coca-flow-fest-2026-mexico-29-11-2026/event/140064ACB5838443",
       "ticket_url": "https://www.ticketmaster.com.mx/individual-general-coca-flow-fest-2026-mexico-29-11-2026/event/140064ACB5838443",
       "venue": "Autodromo Hnos. Rodriguez",
@@ -8708,6 +9227,18 @@
       "tags": [
         "Latin"
       ]
+    },
+    {
+      "date": "2027-01-11",
+      "source": "ticketmaster",
+      "artists": [
+        "Michael Cavanaugh"
+      ],
+      "artist_display": "Michael Cavanaugh",
+      "url": "https://www.ticketmaster.com.mx/the-music-of-billy-joel-and-ciudad-de-mexico-11-01-2027/event/3D0064AEBF62B746",
+      "ticket_url": "https://www.ticketmaster.com.mx/the-music-of-billy-joel-and-ciudad-de-mexico-11-01-2027/event/3D0064AEBF62B746",
+      "venue": "Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico"
     },
     {
       "date": "2027-01-13",
