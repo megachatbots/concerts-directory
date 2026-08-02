@@ -1,131 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-08-01T08:18:57.998085Z",
-  "total_concerts": 595,
+  "scraped_at": "2026-08-02T08:22:46.734041Z",
+  "total_concerts": 588,
   "concerts": [
-    {
-      "date": "2026-07-31",
-      "source": "ticketmaster",
-      "artists": [
-        "Jorge Muñiz"
-      ],
-      "artist_display": "Jorge Muñiz",
-      "url": "https://www.ticketmaster.com.mx/cabaret-lunario-presenta-jorge-muniz-con-ciudad-de-mexico-31-07-2026/event/3D006493BBFA4354",
-      "ticket_url": "https://www.ticketmaster.com.mx/cabaret-lunario-presenta-jorge-muniz-con-ciudad-de-mexico-31-07-2026/event/3D006493BBFA4354",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-08-01",
-      "source": "ticketmaster",
-      "artists": [
-        "Yuri"
-      ],
-      "artist_display": "Yuri",
-      "url": "https://www.ticketmaster.com.mx/yuri-ciudad-de-mexico-01-08-2026/event/3D006490ED9AC34E",
-      "ticket_url": "https://www.ticketmaster.com.mx/yuri-ciudad-de-mexico-01-08-2026/event/3D006490ED9AC34E",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-08-01",
-      "source": "ticketmaster",
-      "artists": [
-        "Gilberto Santa Rosa"
-      ],
-      "artist_display": "Gilberto Santa Rosa",
-      "url": "https://www.ticketmaster.com.mx/gilberto-santa-rosa-ciudad-de-mexico-01-08-2026/event/3D006324FC175CD1",
-      "ticket_url": "https://www.ticketmaster.com.mx/gilberto-santa-rosa-ciudad-de-mexico-01-08-2026/event/3D006324FC175CD1",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-08-01",
-      "source": "ticketmaster",
-      "artists": [
-        "Sinfónica de Minería"
-      ],
-      "artist_display": "Sinfónica de Minería",
-      "url": "https://www.ticketmaster.com.mx/sinfonica-de-mineria-temporada-de-verano-mexico-01-08-2026/event/3D0064ACBCC8A406",
-      "ticket_url": "https://www.ticketmaster.com.mx/sinfonica-de-mineria-temporada-de-verano-mexico-01-08-2026/event/3D0064ACBCC8A406",
-      "venue": "Sala Silvestre Revueltas",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Classical",
-        "Classical/Vocal"
-      ]
-    },
-    {
-      "date": "2026-08-01",
-      "source": "ticketmaster",
-      "artists": [
-        "Harry Styles"
-      ],
-      "artist_display": "Harry Styles",
-      "url": "https://www.ticketmaster.com.mx/harry-styles-together-together-ciudad-de-mexico-01-08-2026/event/1400642CF26E894D",
-      "ticket_url": "https://www.ticketmaster.com.mx/harry-styles-together-together-ciudad-de-mexico-01-08-2026/event/1400642CF26E894D",
-      "venue": "Estadio GNP Seguros",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop"
-      ]
-    },
-    {
-      "date": "2026-08-01",
-      "source": "ticketmaster",
-      "artists": [
-        "Collage"
-      ],
-      "artist_display": "Collage",
-      "url": "https://www.ticketmaster.com.mx/collage-mexico-01-08-2026/event/3D00647F80AA15D0",
-      "ticket_url": "https://www.ticketmaster.com.mx/collage-mexico-01-08-2026/event/3D00647F80AA15D0",
-      "venue": "Foro Red Access",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
-      ]
-    },
-    {
-      "date": "2026-08-01",
-      "source": "ticketmaster",
-      "artists": [
-        "Ricardo Abud presenta Flashback Pop Show"
-      ],
-      "artist_display": "Ricardo Abud presenta Flashback Pop Show",
-      "url": "https://www.ticketmaster.com.mx/ricardo-abud-presenta-flashback-pop-show-ciudad-de-mexico-01-08-2026/event/3D0064D18DAD2B81",
-      "ticket_url": "https://www.ticketmaster.com.mx/ricardo-abud-presenta-flashback-pop-show-ciudad-de-mexico-01-08-2026/event/3D0064D18DAD2B81",
-      "venue": "Foro Stelaris Fiesta Americana Reforma",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
-      ]
-    },
-    {
-      "date": "2026-08-01",
-      "source": "ticketmaster",
-      "artists": [
-        "Raul Di Blasio"
-      ],
-      "artist_display": "Raul Di Blasio",
-      "url": "https://www.ticketmaster.com.mx/raul-di-blasio-el-piano-de-mexico-01-08-2026/event/3D006434C0AA3E86",
-      "ticket_url": "https://www.ticketmaster.com.mx/raul-di-blasio-el-piano-de-mexico-01-08-2026/event/3D006434C0AA3E86",
-      "venue": "La Maraka",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
     {
       "date": "2026-08-01",
       "source": "ticketmaster",
@@ -9070,6 +8948,22 @@
       "tags": [
         "Pop",
         "Electro Pop"
+      ]
+    },
+    {
+      "date": "2026-12-15",
+      "source": "ticketmaster",
+      "artists": [
+        "Edgar Oceransky"
+      ],
+      "artist_display": "Edgar Oceransky",
+      "url": "https://www.ticketmaster.com.mx/edgar-oceransky-origenes-2-mexico-15-12-2026/event/3D0064FFBEA8623A",
+      "ticket_url": "https://www.ticketmaster.com.mx/edgar-oceransky-origenes-2-mexico-15-12-2026/event/3D0064FFBEA8623A",
+      "venue": "El Cantoral ",
+      "location": "Mexico, Ciudad de México, Mexico",
+      "tags": [
+        "World",
+        "Trova"
       ]
     },
     {
