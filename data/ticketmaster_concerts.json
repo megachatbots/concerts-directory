@@ -1,133 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-08-02T08:22:46.734041Z",
-  "total_concerts": 588,
+  "scraped_at": "2026-08-03T09:42:09.097505Z",
+  "total_concerts": 583,
   "concerts": [
-    {
-      "date": "2026-08-01",
-      "source": "ticketmaster",
-      "artists": [
-        "Jaime Varela"
-      ],
-      "artist_display": "Jaime Varela",
-      "url": "https://www.ticketmaster.com.mx/cabaret-lunario-presentajaime-varela-el-divo-ciudad-de-mexico-01-08-2026/event/3D0064D8BEC42AEE",
-      "ticket_url": "https://www.ticketmaster.com.mx/cabaret-lunario-presentajaime-varela-el-divo-ciudad-de-mexico-01-08-2026/event/3D0064D8BEC42AEE",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
-      ]
-    },
-    {
-      "date": "2026-08-02",
-      "source": "ticketmaster",
-      "artists": [
-        "La Onda Vaselina"
-      ],
-      "artist_display": "La Onda Vaselina",
-      "url": "https://www.ticketmaster.com.mx/la-onda-vaselina-mexico-02-08-2026/event/3D00649D93F2376B",
-      "ticket_url": "https://www.ticketmaster.com.mx/la-onda-vaselina-mexico-02-08-2026/event/3D00649D93F2376B",
-      "venue": "Foro Red Access",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
-      ]
-    },
-    {
-      "date": "2026-08-02",
-      "source": "ticketmaster",
-      "artists": [
-        "Sala Principal Bellas Artes"
-      ],
-      "artist_display": "Sala Principal Bellas Artes",
-      "url": "https://www.ticketmaster.com.mx/orquesta-sinfonica-de-mineria-8-ingreso-mexico-cdmx-02-08-2026/event/3D006489B03251A4",
-      "ticket_url": "https://www.ticketmaster.com.mx/orquesta-sinfonica-de-mineria-8-ingreso-mexico-cdmx-02-08-2026/event/3D006489B03251A4",
-      "venue": "Palacio de Bellas Artes",
-      "location": "México CDMX, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-08-02",
-      "source": "ticketmaster",
-      "artists": [
-        "AOT The Last Concert"
-      ],
-      "artist_display": "AOT The Last Concert",
-      "url": "https://www.ticketmaster.com.mx/aot-the-last-concert-vol-2-mexico-02-08-2026/event/140064B78967483B",
-      "ticket_url": "https://www.ticketmaster.com.mx/aot-the-last-concert-vol-2-mexico-02-08-2026/event/140064B78967483B",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Alternative Rock"
-      ]
-    },
-    {
-      "date": "2026-08-02",
-      "source": "ticketmaster",
-      "artists": [
-        "Midnight Generation",
-        "Diablos Rojos Del Mexico"
-      ],
-      "artist_display": "Midnight Generation, Diablos Rojos Del Mexico",
-      "url": "https://www.ticketmaster.com.mx/experiencia-midnight-generation-ciudad-de-mexico-02-08-2026/event/3D0064ED81EF0BB8",
-      "ticket_url": "https://www.ticketmaster.com.mx/experiencia-midnight-generation-ciudad-de-mexico-02-08-2026/event/3D0064ED81EF0BB8",
-      "venue": "Estadio Alfredo Harp Helú",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Pop"
-      ]
-    },
-    {
-      "date": "2026-08-02",
-      "source": "ticketmaster",
-      "artists": [
-        "Charlie Zaa"
-      ],
-      "artist_display": "Charlie Zaa",
-      "url": "https://www.ticketmaster.com.mx/charlie-zaa-sinfonico-mexico-02-08-2026/event/3D0064C2C4956200",
-      "ticket_url": "https://www.ticketmaster.com.mx/charlie-zaa-sinfonico-mexico-02-08-2026/event/3D0064C2C4956200",
-      "venue": "La Maraka",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-08-02",
-      "source": "ticketmaster",
-      "artists": [
-        "Laura Y Brenda"
-      ],
-      "artist_display": "Laura Y Brenda",
-      "url": "https://www.ticketmaster.com.mx/laura-y-brenda-amigas-del-corazon-ciudad-de-mexico-02-08-2026/event/3D00644605726F59",
-      "ticket_url": "https://www.ticketmaster.com.mx/laura-y-brenda-amigas-del-corazon-ciudad-de-mexico-02-08-2026/event/3D00644605726F59",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-08-02",
-      "source": "ticketmaster",
-      "artists": [
-        "Laura Y Brenda"
-      ],
-      "artist_display": "Laura Y Brenda",
-      "url": "https://www.ticketmaster.com.mx/laura-y-brenda-amigas-del-corazon-ciudad-de-mexico-02-08-2026/event/3D00644606F0706B",
-      "ticket_url": "https://www.ticketmaster.com.mx/laura-y-brenda-amigas-del-corazon-ciudad-de-mexico-02-08-2026/event/3D00644606F0706B",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop"
-      ]
-    },
     {
       "date": "2026-08-04",
       "source": "ticketmaster",
@@ -4512,6 +4388,21 @@
       "date": "2026-10-04",
       "source": "ticketmaster",
       "artists": [
+        "Pasatono Orquesta"
+      ],
+      "artist_display": "Pasatono Orquesta",
+      "url": "https://www.ticketmaster.com.mx/pasatono-orquesta-musica-para-curar-la-mexico-04-10-2026/event/3D006501CF1E962D",
+      "ticket_url": "https://www.ticketmaster.com.mx/pasatono-orquesta-musica-para-curar-la-mexico-04-10-2026/event/3D006501CF1E962D",
+      "venue": "Teatro de la Ciudad Esperanza Iris",
+      "location": "Mexico, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-10-04",
+      "source": "ticketmaster",
+      "artists": [
         "Sonora Santanera"
       ],
       "artist_display": "Sonora Santanera",
@@ -6648,6 +6539,22 @@
       "date": "2026-11-07",
       "source": "ticketmaster",
       "artists": [
+        "Pedro y el Lobo"
+      ],
+      "artist_display": "Pedro y el Lobo",
+      "url": "https://www.ticketmaster.com.mx/pedro-y-el-lobo-mexico-07-11-2026/event/3D0064DDE86A394B",
+      "ticket_url": "https://www.ticketmaster.com.mx/pedro-y-el-lobo-mexico-07-11-2026/event/3D0064DDE86A394B",
+      "venue": "Teatro de la Ciudad Esperanza Iris",
+      "location": "Mexico, Ciudad de México, Mexico",
+      "tags": [
+        "Classical",
+        "Classical/Vocal"
+      ]
+    },
+    {
+      "date": "2026-11-07",
+      "source": "ticketmaster",
+      "artists": [
         "Coro Acardenchado"
       ],
       "artist_display": "Coro Acardenchado",
@@ -6736,6 +6643,22 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Ballads/Romantic"
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "source": "ticketmaster",
+      "artists": [
+        "Pedro y el Lobo"
+      ],
+      "artist_display": "Pedro y el Lobo",
+      "url": "https://www.ticketmaster.com.mx/pedro-y-el-lobo-mexico-08-11-2026/event/3D0064DDE95A398C",
+      "ticket_url": "https://www.ticketmaster.com.mx/pedro-y-el-lobo-mexico-08-11-2026/event/3D0064DDE95A398C",
+      "venue": "Teatro de la Ciudad Esperanza Iris",
+      "location": "Mexico, Ciudad de México, Mexico",
+      "tags": [
+        "Classical",
+        "Classical/Vocal"
       ]
     },
     {
