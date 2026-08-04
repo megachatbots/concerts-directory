@@ -1,8 +1,8 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-08-03T09:42:09.097505Z",
-  "total_concerts": 583,
+  "scraped_at": "2026-08-04T08:34:26.208098Z",
+  "total_concerts": 588,
   "concerts": [
     {
       "date": "2026-08-04",
@@ -4527,6 +4527,22 @@
       "date": "2026-10-08",
       "source": "ticketmaster",
       "artists": [
+        "LTD Rock"
+      ],
+      "artist_display": "LTD Rock",
+      "url": "https://www.ticketmaster.com.mx/ltd-rock-mexico-08-10-2026/event/140064FD812E4077",
+      "ticket_url": "https://www.ticketmaster.com.mx/ltd-rock-mexico-08-10-2026/event/140064FD812E4077",
+      "venue": "Teatro Metropolitan",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "source": "ticketmaster",
+      "artists": [
         "Pablo Alboran"
       ],
       "artist_display": "Pablo Alboran",
@@ -5792,6 +5808,22 @@
       "date": "2026-10-22",
       "source": "ticketmaster",
       "artists": [
+        "The Vaccines"
+      ],
+      "artist_display": "The Vaccines",
+      "url": "https://www.ticketmaster.com.mx/the-vaccines-mexico-22-10-2026/event/140064F99D504B31",
+      "ticket_url": "https://www.ticketmaster.com.mx/the-vaccines-mexico-22-10-2026/event/140064F99D504B31",
+      "venue": "Pabellón del Palacio de los Deportes",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "source": "ticketmaster",
+      "artists": [
         "Edith Marquez"
       ],
       "artist_display": "Edith Marquez",
@@ -6272,6 +6304,22 @@
       "date": "2026-10-30",
       "source": "ticketmaster",
       "artists": [
+        "La Tremenda Korte"
+      ],
+      "artist_display": "La Tremenda Korte",
+      "url": "https://www.ticketmaster.com.mx/la-tremenda-korte-mexico-30-10-2026/event/3D0064FDEEE97FC1",
+      "ticket_url": "https://www.ticketmaster.com.mx/la-tremenda-korte-mexico-30-10-2026/event/3D0064FDEEE97FC1",
+      "venue": "Foro Puebla",
+      "location": "Mexico, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Alternative Rock"
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "source": "ticketmaster",
+      "artists": [
         "LNG/SHT"
       ],
       "artist_display": "LNG/SHT",
@@ -6439,6 +6487,22 @@
       "tags": [
         "Dance/Electronic",
         "Amapiano"
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "source": "ticketmaster",
+      "artists": [
+        "Aitana"
+      ],
+      "artist_display": "Aitana",
+      "url": "https://www.ticketmaster.com.mx/aitana-ciudad-de-mexico-05-11-2026/event/3D0064FA9D133590",
+      "ticket_url": "https://www.ticketmaster.com.mx/aitana-ciudad-de-mexico-05-11-2026/event/3D0064FA9D133590",
+      "venue": "Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -7447,9 +7511,76 @@
       "date": "2026-11-20",
       "source": "ticketmaster",
       "artists": [
-        "Corona Capital"
+        "Corona Capital",
+        "Absolutely",
+        "Anna Luna",
+        "Chezile",
+        "CHVRCHES",
+        "CMAT",
+        "Daniel Caesar",
+        "Durand Jones & The Indications",
+        "Fcukers",
+        "Friko",
+        "Gorillaz",
+        "Grace Ives",
+        "Hot Milk",
+        "James Blake",
+        "JMSN",
+        "Mumford & Sons",
+        "Olive Jones",
+        "RIP Magic",
+        "SOFIA ISELLA",
+        "The Kooks",
+        "Thee Sinseers",
+        "Violet Grohl",
+        "Yung Lean",
+        "Baby Queen",
+        "Balu Brigada",
+        "Børns",
+        "Dope Lemon",
+        "Jordana",
+        "Maisie Peters",
+        "Militarie Gun",
+        "Mother Mother",
+        "New Constellations",
+        "Peaches",
+        "Pierce The Veil",
+        "Princess Chelsea",
+        "Quarters",
+        "Rikas",
+        "Sawyer Hill",
+        "Strawberry Guy",
+        "The Hellp",
+        "The Offspring",
+        "Twenty One Pilots",
+        "Underworld",
+        "We Are Scientists",
+        "Σtella",
+        "Angine de Poitrine",
+        "Bad Suns",
+        "BUNT.",
+        "Ela Minus",
+        "Freak Slug",
+        "Good Kid",
+        "Johnny Marr",
+        "Lil Yachty",
+        "Lola Young",
+        "Loyle Carner",
+        "Manic Street Preachers",
+        "Moyka",
+        "Ninajirachi",
+        "PURITY RING",
+        "Ratboys",
+        "Rev Run",
+        "Roar",
+        "Santigold",
+        "The Black Crowes",
+        "The Strokes",
+        "The xx",
+        "Tipling Rock",
+        "Tricky"
       ],
-      "artist_display": "Corona Capital",
+      "artist_display": "Corona Capital, Absolutely, Anna Luna, Chezile, CHVRCHES, CMAT, Daniel Caesar, Durand Jones & The Indications, Fcukers, Friko, Gorillaz, Grace Ives, Hot Milk, James Blake, JMSN, Mumford & Sons, Olive Jones, RIP Magic, SOFIA ISELLA, The Kooks, Thee Sinseers, Violet Grohl, Yung Lean, Baby Queen, Balu Brigada, Børns, Dope Lemon, Jordana, Maisie Peters, Militarie Gun, Mother Mother, New Constellations, Peaches, Pierce The Veil, Princess Chelsea, Quarters, Rikas, Sawyer Hill, Strawberry Guy, The Hellp, The Offspring, Twenty One Pilots, Underworld, We Are Scientists, Σtella, Angine de Poitrine, Bad Suns, BUNT., Ela Minus, Freak Slug, Good Kid, Johnny Marr, Lil Yachty, Lola Young, Loyle Carner, Manic Street Preachers, Moyka, Ninajirachi, PURITY RING, Ratboys, Rev Run, Roar, Santigold, The Black Crowes, The Strokes, The xx, Tipling Rock, Tricky",
       "url": "https://www.ticketmaster.com.mx/abono-comfort-pass-banamex-corona-capital-mexico-20-11-2026/event/14006499D8B1B7DC",
       "ticket_url": "https://www.ticketmaster.com.mx/abono-comfort-pass-banamex-corona-capital-mexico-20-11-2026/event/14006499D8B1B7DC",
       "venue": "Autodromo Hnos. Rodriguez",
@@ -7459,9 +7590,76 @@
       "date": "2026-11-20",
       "source": "ticketmaster",
       "artists": [
-        "Corona Capital"
+        "Corona Capital",
+        "Absolutely",
+        "Anna Luna",
+        "Chezile",
+        "CHVRCHES",
+        "CMAT",
+        "Daniel Caesar",
+        "Durand Jones & The Indications",
+        "Fcukers",
+        "Friko",
+        "Gorillaz",
+        "Grace Ives",
+        "Hot Milk",
+        "James Blake",
+        "JMSN",
+        "Mumford & Sons",
+        "Olive Jones",
+        "RIP Magic",
+        "SOFIA ISELLA",
+        "The Kooks",
+        "Thee Sinseers",
+        "Violet Grohl",
+        "Yung Lean",
+        "Baby Queen",
+        "Balu Brigada",
+        "Børns",
+        "Dope Lemon",
+        "Jordana",
+        "Maisie Peters",
+        "Militarie Gun",
+        "Mother Mother",
+        "New Constellations",
+        "Peaches",
+        "Pierce The Veil",
+        "Princess Chelsea",
+        "Quarters",
+        "Rikas",
+        "Sawyer Hill",
+        "Strawberry Guy",
+        "The Hellp",
+        "The Offspring",
+        "Twenty One Pilots",
+        "Underworld",
+        "We Are Scientists",
+        "Σtella",
+        "Angine de Poitrine",
+        "Bad Suns",
+        "BUNT.",
+        "Ela Minus",
+        "Freak Slug",
+        "Good Kid",
+        "Johnny Marr",
+        "Lil Yachty",
+        "Lola Young",
+        "Loyle Carner",
+        "Manic Street Preachers",
+        "Moyka",
+        "Ninajirachi",
+        "PURITY RING",
+        "Ratboys",
+        "Rev Run",
+        "Roar",
+        "Santigold",
+        "The Black Crowes",
+        "The Strokes",
+        "The xx",
+        "Tipling Rock",
+        "Tricky"
       ],
-      "artist_display": "Corona Capital",
+      "artist_display": "Corona Capital, Absolutely, Anna Luna, Chezile, CHVRCHES, CMAT, Daniel Caesar, Durand Jones & The Indications, Fcukers, Friko, Gorillaz, Grace Ives, Hot Milk, James Blake, JMSN, Mumford & Sons, Olive Jones, RIP Magic, SOFIA ISELLA, The Kooks, Thee Sinseers, Violet Grohl, Yung Lean, Baby Queen, Balu Brigada, Børns, Dope Lemon, Jordana, Maisie Peters, Militarie Gun, Mother Mother, New Constellations, Peaches, Pierce The Veil, Princess Chelsea, Quarters, Rikas, Sawyer Hill, Strawberry Guy, The Hellp, The Offspring, Twenty One Pilots, Underworld, We Are Scientists, Σtella, Angine de Poitrine, Bad Suns, BUNT., Ela Minus, Freak Slug, Good Kid, Johnny Marr, Lil Yachty, Lola Young, Loyle Carner, Manic Street Preachers, Moyka, Ninajirachi, PURITY RING, Ratboys, Rev Run, Roar, Santigold, The Black Crowes, The Strokes, The xx, Tipling Rock, Tricky",
       "url": "https://www.ticketmaster.com.mx/abono-banamex-plus-corona-capital-2026-mexico-20-11-2026/event/14006499E967D4F2",
       "ticket_url": "https://www.ticketmaster.com.mx/abono-banamex-plus-corona-capital-2026-mexico-20-11-2026/event/14006499E967D4F2",
       "venue": "Autodromo Hnos. Rodriguez",
@@ -8668,6 +8866,22 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2026-12-04",
+      "source": "ticketmaster",
+      "artists": [
+        "LIT Killah"
+      ],
+      "artist_display": "LIT Killah",
+      "url": "https://www.ticketmaster.com.mx/tour-lit-killah-mexico-04-12-2026/event/3D0064F995572FA9",
+      "ticket_url": "https://www.ticketmaster.com.mx/tour-lit-killah-mexico-04-12-2026/event/3D0064F995572FA9",
+      "venue": "Foro Puebla",
+      "location": "Mexico, Ciudad de México, Mexico",
+      "tags": [
+        "Hip-Hop/Rap",
+        "Trap"
       ]
     },
     {
