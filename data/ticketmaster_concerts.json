@@ -1,56 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-08-04T08:34:26.208098Z",
-  "total_concerts": 588,
+  "scraped_at": "2026-08-05T08:34:09.698314Z",
+  "total_concerts": 585,
   "concerts": [
-    {
-      "date": "2026-08-04",
-      "source": "ticketmaster",
-      "artists": [
-        "Antonio Vivaldi"
-      ],
-      "artist_display": "Antonio Vivaldi",
-      "url": "https://www.ticketmaster.com.mx/le-quattro-stagioni-antonio-vivaldi-mexico-04-08-2026/event/3D0064D8B9532826",
-      "ticket_url": "https://www.ticketmaster.com.mx/le-quattro-stagioni-antonio-vivaldi-mexico-04-08-2026/event/3D0064D8B9532826",
-      "venue": "Capilla Gótica",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Classical",
-        "Classical/Vocal"
-      ]
-    },
-    {
-      "date": "2026-08-04",
-      "source": "ticketmaster",
-      "artists": [
-        "Con cierto... Bolero"
-      ],
-      "artist_display": "Con cierto... Bolero",
-      "url": "https://www.ticketmaster.com.mx/con-cierto-bolero-mexico-04-08-2026/event/140064D7E974BEB5",
-      "ticket_url": "https://www.ticketmaster.com.mx/con-cierto-bolero-mexico-04-08-2026/event/140064D7E974BEB5",
-      "venue": "Teatro Royal Pedregal",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Classical",
-        "Classical/Vocal"
-      ]
-    },
-    {
-      "date": "2026-08-04",
-      "source": "ticketmaster",
-      "artists": [
-        "Harry Styles"
-      ],
-      "artist_display": "Harry Styles",
-      "url": "https://www.ticketmaster.com.mx/harry-styles-together-together-ciudad-de-mexico-04-08-2026/event/1400642CF26E894F",
-      "ticket_url": "https://www.ticketmaster.com.mx/harry-styles-together-together-ciudad-de-mexico-04-08-2026/event/1400642CF26E894F",
-      "venue": "Estadio GNP Seguros",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop"
-      ]
-    },
     {
       "date": "2026-08-06",
       "source": "ticketmaster",
@@ -1511,13 +1464,10 @@
         "Metawin Opas-iamkajorn"
       ],
       "artist_display": "Metawin Opas-iamkajorn",
-      "url": "https://www.ticketmaster.com.mx/just-you-and-win-1st-solo-mexico-25-08-2026/event/140064BD981A68C7",
-      "ticket_url": "https://www.ticketmaster.com.mx/just-you-and-win-1st-solo-mexico-25-08-2026/event/140064BD981A68C7",
+      "url": "https://www.ticketmaster.com.mx/photo-11-hitouch-win-metawin-boleto-mexico-25-08-2026/event/140064FDFE4BFBC9",
+      "ticket_url": "https://www.ticketmaster.com.mx/photo-11-hitouch-win-metawin-boleto-mexico-25-08-2026/event/140064FDFE4BFBC9",
       "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop"
-      ]
+      "location": "México, Ciudad de México, Mexico"
     },
     {
       "date": "2026-08-25",
@@ -1526,10 +1476,25 @@
         "Metawin Opas-iamkajorn"
       ],
       "artist_display": "Metawin Opas-iamkajorn",
-      "url": "https://www.ticketmaster.com.mx/presigned-polaroid-win-metawin-boleto-de-mexico-25-08-2026/event/140064C1F3422FF2",
-      "ticket_url": "https://www.ticketmaster.com.mx/presigned-polaroid-win-metawin-boleto-de-mexico-25-08-2026/event/140064C1F3422FF2",
+      "url": "https://www.ticketmaster.com.mx/poster-firmado-hitouch-win-metawin-boleto-mexico-25-08-2026/event/140064FDFE65FC10",
+      "ticket_url": "https://www.ticketmaster.com.mx/poster-firmado-hitouch-win-metawin-boleto-mexico-25-08-2026/event/140064FDFE65FC10",
       "venue": "Teatro Metropolitan",
       "location": "México, Ciudad de México, Mexico"
+    },
+    {
+      "date": "2026-08-25",
+      "source": "ticketmaster",
+      "artists": [
+        "Metawin Opas-iamkajorn"
+      ],
+      "artist_display": "Metawin Opas-iamkajorn",
+      "url": "https://www.ticketmaster.com.mx/just-you-and-win-1st-solo-mexico-25-08-2026/event/140064BD981A68C7",
+      "ticket_url": "https://www.ticketmaster.com.mx/just-you-and-win-1st-solo-mexico-25-08-2026/event/140064BD981A68C7",
+      "venue": "Teatro Metropolitan",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop"
+      ]
     },
     {
       "date": "2026-08-25",
@@ -1552,18 +1517,6 @@
       "artist_display": "Metawin Opas-iamkajorn",
       "url": "https://www.ticketmaster.com.mx/fan-sign-win-metawin-boleto-de-mexico-25-08-2026/event/140064C1D9B6E9FC",
       "ticket_url": "https://www.ticketmaster.com.mx/fan-sign-win-metawin-boleto-de-mexico-25-08-2026/event/140064C1D9B6E9FC",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico"
-    },
-    {
-      "date": "2026-08-25",
-      "source": "ticketmaster",
-      "artists": [
-        "Metawin Opas-iamkajorn"
-      ],
-      "artist_display": "Metawin Opas-iamkajorn",
-      "url": "https://www.ticketmaster.com.mx/photo-15-win-metawin-boleto-de-mexico-25-08-2026/event/140064C1DC0FEDE3",
-      "ticket_url": "https://www.ticketmaster.com.mx/photo-15-win-metawin-boleto-de-mexico-25-08-2026/event/140064C1DC0FEDE3",
       "venue": "Teatro Metropolitan",
       "location": "México, Ciudad de México, Mexico"
     },
@@ -3262,22 +3215,6 @@
       "date": "2026-09-12",
       "source": "ticketmaster",
       "artists": [
-        "Alive, una fiesta en el tiempo"
-      ],
-      "artist_display": "Alive, una fiesta en el tiempo",
-      "url": "https://www.ticketmaster.com.mx/alive-ciudad-de-mexico-12-09-2026/event/3D0064E7B1FE2E19",
-      "ticket_url": "https://www.ticketmaster.com.mx/alive-ciudad-de-mexico-12-09-2026/event/3D0064E7B1FE2E19",
-      "venue": "Foro Stelaris Fiesta Americana Reforma",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-09-12",
-      "source": "ticketmaster",
-      "artists": [
         "Angelo Diep"
       ],
       "artist_display": "Angelo Diep",
@@ -3418,22 +3355,6 @@
       "tags": [
         "Metal",
         "Nu-Metal"
-      ]
-    },
-    {
-      "date": "2026-09-15",
-      "source": "ticketmaster",
-      "artists": [
-        "Orquesta Típica García Blanco presenta: ¡Esto es México!"
-      ],
-      "artist_display": "Orquesta Típica García Blanco presenta: ¡Esto es México!",
-      "url": "https://www.ticketmaster.com.mx/orquesta-tipica-garcia-blanco-presenta-esto-mexico-15-09-2026/event/3D0064C8E83442F2",
-      "ticket_url": "https://www.ticketmaster.com.mx/orquesta-tipica-garcia-blanco-presenta-esto-mexico-15-09-2026/event/3D0064C8E83442F2",
-      "venue": "Teatro de la Ciudad Esperanza Iris",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Hip-Hop/Rap",
-        "Reggaeton"
       ]
     },
     {
@@ -4868,15 +4789,15 @@
       "date": "2026-10-11",
       "source": "ticketmaster",
       "artists": [
-        "Leon Chavez Teixeiro"
+        "León Chávez Teixeiro"
       ],
-      "artist_display": "Leon Chavez Teixeiro",
+      "artist_display": "León Chávez Teixeiro",
       "url": "https://www.ticketmaster.com.mx/leon-chavez-teixeiro-mexico-11-10-2026/event/3D006497F0F5C5DA",
       "ticket_url": "https://www.ticketmaster.com.mx/leon-chavez-teixeiro-mexico-11-10-2026/event/3D006497F0F5C5DA",
       "venue": "Teatro de la Ciudad Esperanza Iris",
       "location": "Mexico, Ciudad de México, Mexico",
       "tags": [
-        "R&B"
+        "Latin"
       ]
     },
     {
@@ -6915,6 +6836,22 @@
       "date": "2026-11-13",
       "source": "ticketmaster",
       "artists": [
+        "Andrés Calamaro"
+      ],
+      "artist_display": "Andrés Calamaro",
+      "url": "https://www.ticketmaster.com.mx/andres-calamaro-mexico-13-11-2026/event/140064EFAA6A6B85",
+      "ticket_url": "https://www.ticketmaster.com.mx/andres-calamaro-mexico-13-11-2026/event/140064EFAA6A6B85",
+      "venue": "Pepsi Center",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "source": "ticketmaster",
+      "artists": [
         "Majo Aguilar"
       ],
       "artist_display": "Majo Aguilar",
@@ -7160,6 +7097,22 @@
       "date": "2026-11-18",
       "source": "ticketmaster",
       "artists": [
+        "Nina Pastori"
+      ],
+      "artist_display": "Nina Pastori",
+      "url": "https://www.ticketmaster.com.mx/nina-pastori-mexico-18-11-2026/event/140064F2880B35A3",
+      "ticket_url": "https://www.ticketmaster.com.mx/nina-pastori-mexico-18-11-2026/event/140064F2880B35A3",
+      "venue": "Teatro Metropolitan",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "World",
+        "Flamenco"
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "source": "ticketmaster",
+      "artists": [
         "RaiNao"
       ],
       "artist_display": "RaiNao",
@@ -7291,9 +7244,10 @@
         "The Kooks",
         "Thee Sinseers",
         "Violet Grohl",
-        "Yung Lean"
+        "Yung Lean",
+        "Darianna Everett"
       ],
-      "artist_display": "Corona Capital, Absolutely, Anna Luna, Chezile, CHVRCHES, CMAT, Daniel Caesar, Durand Jones & The Indications, Fcukers, Friko, Gorillaz, Grace Ives, Hot Milk, James Blake, JMSN, Mumford & Sons, Olive Jones, RIP Magic, SOFIA ISELLA, The Kooks, Thee Sinseers, Violet Grohl, Yung Lean",
+      "artist_display": "Corona Capital, Absolutely, Anna Luna, Chezile, CHVRCHES, CMAT, Daniel Caesar, Durand Jones & The Indications, Fcukers, Friko, Gorillaz, Grace Ives, Hot Milk, James Blake, JMSN, Mumford & Sons, Olive Jones, RIP Magic, SOFIA ISELLA, The Kooks, Thee Sinseers, Violet Grohl, Yung Lean, Darianna Everett",
       "url": "https://www.ticketmaster.com.mx/individual-general-corona-capital-2026-mexico-20-11-2026/event/14006499FA57F0FC",
       "ticket_url": "https://www.ticketmaster.com.mx/individual-general-corona-capital-2026-mexico-20-11-2026/event/14006499FA57F0FC",
       "venue": "Autodromo Hnos. Rodriguez",
@@ -7325,9 +7279,10 @@
         "The Kooks",
         "Thee Sinseers",
         "Violet Grohl",
-        "Yung Lean"
+        "Yung Lean",
+        "Darianna Everett"
       ],
-      "artist_display": "Corona Capital, Absolutely, Anna Luna, Chezile, CHVRCHES, CMAT, Daniel Caesar, Durand Jones & The Indications, Fcukers, Friko, Gorillaz, Grace Ives, Hot Milk, James Blake, JMSN, Mumford & Sons, Olive Jones, RIP Magic, SOFIA ISELLA, The Kooks, Thee Sinseers, Violet Grohl, Yung Lean",
+      "artist_display": "Corona Capital, Absolutely, Anna Luna, Chezile, CHVRCHES, CMAT, Daniel Caesar, Durand Jones & The Indications, Fcukers, Friko, Gorillaz, Grace Ives, Hot Milk, James Blake, JMSN, Mumford & Sons, Olive Jones, RIP Magic, SOFIA ISELLA, The Kooks, Thee Sinseers, Violet Grohl, Yung Lean, Darianna Everett",
       "url": "https://www.ticketmaster.com.mx/individual-comfort-pass-banamex-corona-capital-mexico-20-11-2026/event/14006499FAF2F21C",
       "ticket_url": "https://www.ticketmaster.com.mx/individual-comfort-pass-banamex-corona-capital-mexico-20-11-2026/event/14006499FAF2F21C",
       "venue": "Autodromo Hnos. Rodriguez",
@@ -7359,9 +7314,10 @@
         "The Kooks",
         "Thee Sinseers",
         "Violet Grohl",
-        "Yung Lean"
+        "Yung Lean",
+        "Darianna Everett"
       ],
-      "artist_display": "Corona Capital, Absolutely, Anna Luna, Chezile, CHVRCHES, CMAT, Daniel Caesar, Durand Jones & The Indications, Fcukers, Friko, Gorillaz, Grace Ives, Hot Milk, James Blake, JMSN, Mumford & Sons, Olive Jones, RIP Magic, SOFIA ISELLA, The Kooks, Thee Sinseers, Violet Grohl, Yung Lean",
+      "artist_display": "Corona Capital, Absolutely, Anna Luna, Chezile, CHVRCHES, CMAT, Daniel Caesar, Durand Jones & The Indications, Fcukers, Friko, Gorillaz, Grace Ives, Hot Milk, James Blake, JMSN, Mumford & Sons, Olive Jones, RIP Magic, SOFIA ISELLA, The Kooks, Thee Sinseers, Violet Grohl, Yung Lean, Darianna Everett",
       "url": "https://www.ticketmaster.com.mx/individual-banamex-plus-corona-capital-2026-mexico-20-11-2026/event/14006499F22BE35A",
       "ticket_url": "https://www.ticketmaster.com.mx/individual-banamex-plus-corona-capital-2026-mexico-20-11-2026/event/14006499F22BE35A",
       "venue": "Autodromo Hnos. Rodriguez",
@@ -7499,9 +7455,12 @@
         "The Strokes",
         "The xx",
         "Tipling Rock",
-        "Tricky"
+        "Tricky",
+        "Darianna Everett",
+        "MS*Gloom",
+        "Céline Dessberg"
       ],
-      "artist_display": "Corona Capital, Absolutely, Anna Luna, Chezile, CHVRCHES, CMAT, Daniel Caesar, Durand Jones & The Indications, Fcukers, Friko, Gorillaz, Grace Ives, Hot Milk, James Blake, JMSN, Mumford & Sons, Olive Jones, RIP Magic, SOFIA ISELLA, The Kooks, Thee Sinseers, Violet Grohl, Yung Lean, Baby Queen, Balu Brigada, Børns, Dope Lemon, Jordana, Maisie Peters, Militarie Gun, Mother Mother, New Constellations, Peaches, Pierce The Veil, Princess Chelsea, Quarters, Rikas, Sawyer Hill, Strawberry Guy, The Hellp, The Offspring, Twenty One Pilots, Underworld, We Are Scientists, Σtella, Angine de Poitrine, Bad Suns, BUNT., Ela Minus, Freak Slug, Good Kid, Johnny Marr, Lil Yachty, Lola Young, Loyle Carner, Manic Street Preachers, Moyka, Ninajirachi, PURITY RING, Ratboys, Rev Run, Roar, Santigold, The Black Crowes, The Strokes, The xx, Tipling Rock, Tricky",
+      "artist_display": "Corona Capital, Absolutely, Anna Luna, Chezile, CHVRCHES, CMAT, Daniel Caesar, Durand Jones & The Indications, Fcukers, Friko, Gorillaz, Grace Ives, Hot Milk, James Blake, JMSN, Mumford & Sons, Olive Jones, RIP Magic, SOFIA ISELLA, The Kooks, Thee Sinseers, Violet Grohl, Yung Lean, Baby Queen, Balu Brigada, Børns, Dope Lemon, Jordana, Maisie Peters, Militarie Gun, Mother Mother, New Constellations, Peaches, Pierce The Veil, Princess Chelsea, Quarters, Rikas, Sawyer Hill, Strawberry Guy, The Hellp, The Offspring, Twenty One Pilots, Underworld, We Are Scientists, Σtella, Angine de Poitrine, Bad Suns, BUNT., Ela Minus, Freak Slug, Good Kid, Johnny Marr, Lil Yachty, Lola Young, Loyle Carner, Manic Street Preachers, Moyka, Ninajirachi, PURITY RING, Ratboys, Rev Run, Roar, Santigold, The Black Crowes, The Strokes, The xx, Tipling Rock, Tricky, Darianna Everett, MS*Gloom, Céline Dessberg",
       "url": "https://www.ticketmaster.com.mx/abono-general-3-dias-corona-capital-mexico-20-11-2026/event/14006499D700B533",
       "ticket_url": "https://www.ticketmaster.com.mx/abono-general-3-dias-corona-capital-mexico-20-11-2026/event/14006499D700B533",
       "venue": "Autodromo Hnos. Rodriguez",
@@ -7578,9 +7537,12 @@
         "The Strokes",
         "The xx",
         "Tipling Rock",
-        "Tricky"
+        "Tricky",
+        "Darianna Everett",
+        "MS*Gloom",
+        "Céline Dessberg"
       ],
-      "artist_display": "Corona Capital, Absolutely, Anna Luna, Chezile, CHVRCHES, CMAT, Daniel Caesar, Durand Jones & The Indications, Fcukers, Friko, Gorillaz, Grace Ives, Hot Milk, James Blake, JMSN, Mumford & Sons, Olive Jones, RIP Magic, SOFIA ISELLA, The Kooks, Thee Sinseers, Violet Grohl, Yung Lean, Baby Queen, Balu Brigada, Børns, Dope Lemon, Jordana, Maisie Peters, Militarie Gun, Mother Mother, New Constellations, Peaches, Pierce The Veil, Princess Chelsea, Quarters, Rikas, Sawyer Hill, Strawberry Guy, The Hellp, The Offspring, Twenty One Pilots, Underworld, We Are Scientists, Σtella, Angine de Poitrine, Bad Suns, BUNT., Ela Minus, Freak Slug, Good Kid, Johnny Marr, Lil Yachty, Lola Young, Loyle Carner, Manic Street Preachers, Moyka, Ninajirachi, PURITY RING, Ratboys, Rev Run, Roar, Santigold, The Black Crowes, The Strokes, The xx, Tipling Rock, Tricky",
+      "artist_display": "Corona Capital, Absolutely, Anna Luna, Chezile, CHVRCHES, CMAT, Daniel Caesar, Durand Jones & The Indications, Fcukers, Friko, Gorillaz, Grace Ives, Hot Milk, James Blake, JMSN, Mumford & Sons, Olive Jones, RIP Magic, SOFIA ISELLA, The Kooks, Thee Sinseers, Violet Grohl, Yung Lean, Baby Queen, Balu Brigada, Børns, Dope Lemon, Jordana, Maisie Peters, Militarie Gun, Mother Mother, New Constellations, Peaches, Pierce The Veil, Princess Chelsea, Quarters, Rikas, Sawyer Hill, Strawberry Guy, The Hellp, The Offspring, Twenty One Pilots, Underworld, We Are Scientists, Σtella, Angine de Poitrine, Bad Suns, BUNT., Ela Minus, Freak Slug, Good Kid, Johnny Marr, Lil Yachty, Lola Young, Loyle Carner, Manic Street Preachers, Moyka, Ninajirachi, PURITY RING, Ratboys, Rev Run, Roar, Santigold, The Black Crowes, The Strokes, The xx, Tipling Rock, Tricky, Darianna Everett, MS*Gloom, Céline Dessberg",
       "url": "https://www.ticketmaster.com.mx/abono-comfort-pass-banamex-corona-capital-mexico-20-11-2026/event/14006499D8B1B7DC",
       "ticket_url": "https://www.ticketmaster.com.mx/abono-comfort-pass-banamex-corona-capital-mexico-20-11-2026/event/14006499D8B1B7DC",
       "venue": "Autodromo Hnos. Rodriguez",
@@ -7657,9 +7619,12 @@
         "The Strokes",
         "The xx",
         "Tipling Rock",
-        "Tricky"
+        "Tricky",
+        "Darianna Everett",
+        "MS*Gloom",
+        "Céline Dessberg"
       ],
-      "artist_display": "Corona Capital, Absolutely, Anna Luna, Chezile, CHVRCHES, CMAT, Daniel Caesar, Durand Jones & The Indications, Fcukers, Friko, Gorillaz, Grace Ives, Hot Milk, James Blake, JMSN, Mumford & Sons, Olive Jones, RIP Magic, SOFIA ISELLA, The Kooks, Thee Sinseers, Violet Grohl, Yung Lean, Baby Queen, Balu Brigada, Børns, Dope Lemon, Jordana, Maisie Peters, Militarie Gun, Mother Mother, New Constellations, Peaches, Pierce The Veil, Princess Chelsea, Quarters, Rikas, Sawyer Hill, Strawberry Guy, The Hellp, The Offspring, Twenty One Pilots, Underworld, We Are Scientists, Σtella, Angine de Poitrine, Bad Suns, BUNT., Ela Minus, Freak Slug, Good Kid, Johnny Marr, Lil Yachty, Lola Young, Loyle Carner, Manic Street Preachers, Moyka, Ninajirachi, PURITY RING, Ratboys, Rev Run, Roar, Santigold, The Black Crowes, The Strokes, The xx, Tipling Rock, Tricky",
+      "artist_display": "Corona Capital, Absolutely, Anna Luna, Chezile, CHVRCHES, CMAT, Daniel Caesar, Durand Jones & The Indications, Fcukers, Friko, Gorillaz, Grace Ives, Hot Milk, James Blake, JMSN, Mumford & Sons, Olive Jones, RIP Magic, SOFIA ISELLA, The Kooks, Thee Sinseers, Violet Grohl, Yung Lean, Baby Queen, Balu Brigada, Børns, Dope Lemon, Jordana, Maisie Peters, Militarie Gun, Mother Mother, New Constellations, Peaches, Pierce The Veil, Princess Chelsea, Quarters, Rikas, Sawyer Hill, Strawberry Guy, The Hellp, The Offspring, Twenty One Pilots, Underworld, We Are Scientists, Σtella, Angine de Poitrine, Bad Suns, BUNT., Ela Minus, Freak Slug, Good Kid, Johnny Marr, Lil Yachty, Lola Young, Loyle Carner, Manic Street Preachers, Moyka, Ninajirachi, PURITY RING, Ratboys, Rev Run, Roar, Santigold, The Black Crowes, The Strokes, The xx, Tipling Rock, Tricky, Darianna Everett, MS*Gloom, Céline Dessberg",
       "url": "https://www.ticketmaster.com.mx/abono-banamex-plus-corona-capital-2026-mexico-20-11-2026/event/14006499E967D4F2",
       "ticket_url": "https://www.ticketmaster.com.mx/abono-banamex-plus-corona-capital-2026-mexico-20-11-2026/event/14006499E967D4F2",
       "venue": "Autodromo Hnos. Rodriguez",
@@ -7715,9 +7680,10 @@
         "Twenty One Pilots",
         "Underworld",
         "We Are Scientists",
-        "Σtella"
+        "Σtella",
+        "MS*Gloom"
       ],
-      "artist_display": "Corona Capital, Baby Queen, Balu Brigada, Børns, Dope Lemon, Jordana, Maisie Peters, Militarie Gun, Mother Mother, New Constellations, Peaches, Pierce The Veil, Princess Chelsea, Quarters, Rikas, Sawyer Hill, Strawberry Guy, The Hellp, The Offspring, Twenty One Pilots, Underworld, We Are Scientists, Σtella",
+      "artist_display": "Corona Capital, Baby Queen, Balu Brigada, Børns, Dope Lemon, Jordana, Maisie Peters, Militarie Gun, Mother Mother, New Constellations, Peaches, Pierce The Veil, Princess Chelsea, Quarters, Rikas, Sawyer Hill, Strawberry Guy, The Hellp, The Offspring, Twenty One Pilots, Underworld, We Are Scientists, Σtella, MS*Gloom",
       "url": "https://www.ticketmaster.com.mx/individual-general-corona-capital-2026-mexico-21-11-2026/event/14006499FB2DF28E",
       "ticket_url": "https://www.ticketmaster.com.mx/individual-general-corona-capital-2026-mexico-21-11-2026/event/14006499FB2DF28E",
       "venue": "Autodromo Hnos. Rodriguez",
@@ -7749,9 +7715,10 @@
         "Twenty One Pilots",
         "Underworld",
         "We Are Scientists",
-        "Σtella"
+        "Σtella",
+        "MS*Gloom"
       ],
-      "artist_display": "Corona Capital, Baby Queen, Balu Brigada, Børns, Dope Lemon, Jordana, Maisie Peters, Militarie Gun, Mother Mother, New Constellations, Peaches, Pierce The Veil, Princess Chelsea, Quarters, Rikas, Sawyer Hill, Strawberry Guy, The Hellp, The Offspring, Twenty One Pilots, Underworld, We Are Scientists, Σtella",
+      "artist_display": "Corona Capital, Baby Queen, Balu Brigada, Børns, Dope Lemon, Jordana, Maisie Peters, Militarie Gun, Mother Mother, New Constellations, Peaches, Pierce The Veil, Princess Chelsea, Quarters, Rikas, Sawyer Hill, Strawberry Guy, The Hellp, The Offspring, Twenty One Pilots, Underworld, We Are Scientists, Σtella, MS*Gloom",
       "url": "https://www.ticketmaster.com.mx/individual-comfort-pass-banamex-corona-capital-mexico-21-11-2026/event/14006499FC7EF53A",
       "ticket_url": "https://www.ticketmaster.com.mx/individual-comfort-pass-banamex-corona-capital-mexico-21-11-2026/event/14006499FC7EF53A",
       "venue": "Autodromo Hnos. Rodriguez",
@@ -7783,9 +7750,10 @@
         "Twenty One Pilots",
         "Underworld",
         "We Are Scientists",
-        "Σtella"
+        "Σtella",
+        "MS*Gloom"
       ],
-      "artist_display": "Corona Capital, Baby Queen, Balu Brigada, Børns, Dope Lemon, Jordana, Maisie Peters, Militarie Gun, Mother Mother, New Constellations, Peaches, Pierce The Veil, Princess Chelsea, Quarters, Rikas, Sawyer Hill, Strawberry Guy, The Hellp, The Offspring, Twenty One Pilots, Underworld, We Are Scientists, Σtella",
+      "artist_display": "Corona Capital, Baby Queen, Balu Brigada, Børns, Dope Lemon, Jordana, Maisie Peters, Militarie Gun, Mother Mother, New Constellations, Peaches, Pierce The Veil, Princess Chelsea, Quarters, Rikas, Sawyer Hill, Strawberry Guy, The Hellp, The Offspring, Twenty One Pilots, Underworld, We Are Scientists, Σtella, MS*Gloom",
       "url": "https://www.ticketmaster.com.mx/individual-banamex-plus-corona-capital-2026-mexico-21-11-2026/event/14006499F53FE84A",
       "ticket_url": "https://www.ticketmaster.com.mx/individual-banamex-plus-corona-capital-2026-mexico-21-11-2026/event/14006499F53FE84A",
       "venue": "Autodromo Hnos. Rodriguez",
@@ -7942,9 +7910,10 @@
         "The Strokes",
         "The xx",
         "Tipling Rock",
-        "Tricky"
+        "Tricky",
+        "Céline Dessberg"
       ],
-      "artist_display": "Corona Capital, Angine de Poitrine, Bad Suns, BUNT., Ela Minus, Freak Slug, Good Kid, Johnny Marr, Lil Yachty, Lola Young, Loyle Carner, Manic Street Preachers, Moyka, Ninajirachi, PURITY RING, Ratboys, Rev Run, Roar, Santigold, The Black Crowes, The Strokes, The xx, Tipling Rock, Tricky",
+      "artist_display": "Corona Capital, Angine de Poitrine, Bad Suns, BUNT., Ela Minus, Freak Slug, Good Kid, Johnny Marr, Lil Yachty, Lola Young, Loyle Carner, Manic Street Preachers, Moyka, Ninajirachi, PURITY RING, Ratboys, Rev Run, Roar, Santigold, The Black Crowes, The Strokes, The xx, Tipling Rock, Tricky, Céline Dessberg",
       "url": "https://www.ticketmaster.com.mx/individual-general-corona-capital-2026-mexico-22-11-2026/event/14006499FB2EF290",
       "ticket_url": "https://www.ticketmaster.com.mx/individual-general-corona-capital-2026-mexico-22-11-2026/event/14006499FB2EF290",
       "venue": "Autodromo Hnos. Rodriguez",
@@ -7977,9 +7946,10 @@
         "The Strokes",
         "The xx",
         "Tipling Rock",
-        "Tricky"
+        "Tricky",
+        "Céline Dessberg"
       ],
-      "artist_display": "Corona Capital, Angine de Poitrine, Bad Suns, BUNT., Ela Minus, Freak Slug, Good Kid, Johnny Marr, Lil Yachty, Lola Young, Loyle Carner, Manic Street Preachers, Moyka, Ninajirachi, PURITY RING, Ratboys, Rev Run, Roar, Santigold, The Black Crowes, The Strokes, The xx, Tipling Rock, Tricky",
+      "artist_display": "Corona Capital, Angine de Poitrine, Bad Suns, BUNT., Ela Minus, Freak Slug, Good Kid, Johnny Marr, Lil Yachty, Lola Young, Loyle Carner, Manic Street Preachers, Moyka, Ninajirachi, PURITY RING, Ratboys, Rev Run, Roar, Santigold, The Black Crowes, The Strokes, The xx, Tipling Rock, Tricky, Céline Dessberg",
       "url": "https://www.ticketmaster.com.mx/individual-comfort-pass-banamex-corona-capital-mexico-22-11-2026/event/14006499FC7FF53C",
       "ticket_url": "https://www.ticketmaster.com.mx/individual-comfort-pass-banamex-corona-capital-mexico-22-11-2026/event/14006499FC7FF53C",
       "venue": "Autodromo Hnos. Rodriguez",
@@ -8012,9 +7982,10 @@
         "The Strokes",
         "The xx",
         "Tipling Rock",
-        "Tricky"
+        "Tricky",
+        "Céline Dessberg"
       ],
-      "artist_display": "Corona Capital, Angine de Poitrine, Bad Suns, BUNT., Ela Minus, Freak Slug, Good Kid, Johnny Marr, Lil Yachty, Lola Young, Loyle Carner, Manic Street Preachers, Moyka, Ninajirachi, PURITY RING, Ratboys, Rev Run, Roar, Santigold, The Black Crowes, The Strokes, The xx, Tipling Rock, Tricky",
+      "artist_display": "Corona Capital, Angine de Poitrine, Bad Suns, BUNT., Ela Minus, Freak Slug, Good Kid, Johnny Marr, Lil Yachty, Lola Young, Loyle Carner, Manic Street Preachers, Moyka, Ninajirachi, PURITY RING, Ratboys, Rev Run, Roar, Santigold, The Black Crowes, The Strokes, The xx, Tipling Rock, Tricky, Céline Dessberg",
       "url": "https://www.ticketmaster.com.mx/individual-banamex-plus-corona-capital-2026-mexico-22-11-2026/event/14006499F53FE84C",
       "ticket_url": "https://www.ticketmaster.com.mx/individual-banamex-plus-corona-capital-2026-mexico-22-11-2026/event/14006499F53FE84C",
       "venue": "Autodromo Hnos. Rodriguez",
