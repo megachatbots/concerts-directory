@@ -1,8 +1,8 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-08-05T08:34:09.698314Z",
-  "total_concerts": 585,
+  "scraped_at": "2026-08-06T08:34:27.849982Z",
+  "total_concerts": 584,
   "concerts": [
     {
       "date": "2026-08-06",
@@ -707,8 +707,8 @@
         "Beach Weather"
       ],
       "artist_display": "Beach Weather",
-      "url": "https://www.ticketmaster.com.mx/beach-weather-ciudad-de-mexico-14-08-2026/event/3D00648BC8665539",
-      "ticket_url": "https://www.ticketmaster.com.mx/beach-weather-ciudad-de-mexico-14-08-2026/event/3D00648BC8665539",
+      "url": "https://www.ticketmaster.com.mx/beach-weather-te-vi-en-un-ciudad-de-mexico-14-08-2026/event/3D00648BC8665539",
+      "ticket_url": "https://www.ticketmaster.com.mx/beach-weather-te-vi-en-un-ciudad-de-mexico-14-08-2026/event/3D00648BC8665539",
       "venue": "El Lunario del Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
@@ -1113,22 +1113,6 @@
       "venue": "Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
-      ]
-    },
-    {
-      "date": "2026-08-20",
-      "source": "ticketmaster",
-      "artists": [
-        "La Cantadera"
-      ],
-      "artist_display": "La Cantadera",
-      "url": "https://www.ticketmaster.com.mx/la-cantadera-ciudad-de-mexico-20-08-2026/event/3D0064E79C5A1A91",
-      "ticket_url": "https://www.ticketmaster.com.mx/la-cantadera-ciudad-de-mexico-20-08-2026/event/3D0064E79C5A1A91",
-      "venue": "Foro Stelaris Fiesta Americana Reforma",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
         "Pop"
       ]
     },
@@ -2720,7 +2704,8 @@
       "venue": "El Lunario del Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -3602,6 +3587,21 @@
       "tags": [
         "Rock",
         "Pop"
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "source": "ticketmaster",
+      "artists": [
+        "Natanael Cano"
+      ],
+      "artist_display": "Natanael Cano",
+      "url": "https://www.ticketmaster.com.mx/natanael-cano-vol-1-tour-ciudad-de-mexico-19-09-2026/event/140064E7A9094A5C",
+      "ticket_url": "https://www.ticketmaster.com.mx/natanael-cano-vol-1-tour-ciudad-de-mexico-19-09-2026/event/140064E7A9094A5C",
+      "venue": "Estadio GNP Seguros",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
       ]
     },
     {
@@ -5336,9 +5336,23 @@
       "date": "2026-10-17",
       "source": "ticketmaster",
       "artists": [
-        "Festival Nescafé Vaivén 2026"
+        "Festival Nescafé Vaivén 2026",
+        "ZHU",
+        "Bob Moses",
+        "Madeon",
+        "Ralphie Choo",
+        "DRAMA",
+        "Joji",
+        "Max Styler",
+        "The Midnight",
+        "Clubz",
+        "OMRI.",
+        "Rafael",
+        "L.T.D.",
+        "Juana Aguirre",
+        "Adam Ten"
       ],
-      "artist_display": "Festival Nescafé Vaivén 2026",
+      "artist_display": "Festival Nescafé Vaivén 2026, ZHU, Bob Moses, Madeon, Ralphie Choo, DRAMA, Joji, Max Styler, The Midnight, Clubz, OMRI., Rafael, L.T.D., Juana Aguirre, Adam Ten",
       "url": "https://www.ticketmaster.com.mx/festival-nescafe-vaiven-2026-general-tehuixtla-17-10-2026/event/1400649CE183E00A",
       "ticket_url": "https://www.ticketmaster.com.mx/festival-nescafe-vaiven-2026-general-tehuixtla-17-10-2026/event/1400649CE183E00A",
       "venue": "Jardines de México",
@@ -5348,9 +5362,23 @@
       "date": "2026-10-17",
       "source": "ticketmaster",
       "artists": [
-        "Festival Nescafé Vaivén 2026"
+        "Festival Nescafé Vaivén 2026",
+        "ZHU",
+        "Bob Moses",
+        "Madeon",
+        "Ralphie Choo",
+        "DRAMA",
+        "Joji",
+        "Max Styler",
+        "The Midnight",
+        "Clubz",
+        "OMRI.",
+        "Rafael",
+        "L.T.D.",
+        "Juana Aguirre",
+        "Adam Ten"
       ],
-      "artist_display": "Festival Nescafé Vaivén 2026",
+      "artist_display": "Festival Nescafé Vaivén 2026, ZHU, Bob Moses, Madeon, Ralphie Choo, DRAMA, Joji, Max Styler, The Midnight, Clubz, OMRI., Rafael, L.T.D., Juana Aguirre, Adam Ten",
       "url": "https://www.ticketmaster.com.mx/festival-nescafe-vaiven-2026-banamex-vip-tehuixtla-17-10-2026/event/1400649CE2D7E337",
       "ticket_url": "https://www.ticketmaster.com.mx/festival-nescafe-vaiven-2026-banamex-vip-tehuixtla-17-10-2026/event/1400649CE2D7E337",
       "venue": "Jardines de México",
@@ -5360,9 +5388,23 @@
       "date": "2026-10-17",
       "source": "ticketmaster",
       "artists": [
-        "Festival Nescafé Vaivén 2026"
+        "Festival Nescafé Vaivén 2026",
+        "ZHU",
+        "Bob Moses",
+        "Madeon",
+        "Ralphie Choo",
+        "DRAMA",
+        "Joji",
+        "Max Styler",
+        "The Midnight",
+        "Clubz",
+        "OMRI.",
+        "Rafael",
+        "L.T.D.",
+        "Juana Aguirre",
+        "Adam Ten"
       ],
-      "artist_display": "Festival Nescafé Vaivén 2026",
+      "artist_display": "Festival Nescafé Vaivén 2026, ZHU, Bob Moses, Madeon, Ralphie Choo, DRAMA, Joji, Max Styler, The Midnight, Clubz, OMRI., Rafael, L.T.D., Juana Aguirre, Adam Ten",
       "url": "https://www.ticketmaster.com.mx/festival-nescafe-vaiven-2026-comfort-tehuixtla-17-10-2026/event/1400649CBEBA9FF1",
       "ticket_url": "https://www.ticketmaster.com.mx/festival-nescafe-vaiven-2026-comfort-tehuixtla-17-10-2026/event/1400649CBEBA9FF1",
       "venue": "Jardines de México",
@@ -6414,22 +6456,6 @@
       "date": "2026-11-05",
       "source": "ticketmaster",
       "artists": [
-        "Aitana"
-      ],
-      "artist_display": "Aitana",
-      "url": "https://www.ticketmaster.com.mx/aitana-ciudad-de-mexico-05-11-2026/event/3D0064FA9D133590",
-      "ticket_url": "https://www.ticketmaster.com.mx/aitana-ciudad-de-mexico-05-11-2026/event/3D0064FA9D133590",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-11-05",
-      "source": "ticketmaster",
-      "artists": [
         "Puma Blue"
       ],
       "artist_display": "Puma Blue",
@@ -7091,22 +7117,6 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
-      ]
-    },
-    {
-      "date": "2026-11-18",
-      "source": "ticketmaster",
-      "artists": [
-        "Nina Pastori"
-      ],
-      "artist_display": "Nina Pastori",
-      "url": "https://www.ticketmaster.com.mx/nina-pastori-mexico-18-11-2026/event/140064F2880B35A3",
-      "ticket_url": "https://www.ticketmaster.com.mx/nina-pastori-mexico-18-11-2026/event/140064F2880B35A3",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "World",
-        "Flamenco"
       ]
     },
     {
@@ -9284,6 +9294,22 @@
       "ticket_url": "https://www.ticketmaster.com.mx/apocalyptica-ciudad-de-mexico-16-01-2027/event/3D0064AFB5B2A8A1",
       "venue": "Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
+      "date": "2027-01-16",
+      "source": "ticketmaster",
+      "artists": [
+        "El Haragan"
+      ],
+      "artist_display": "El Haragan",
+      "url": "https://www.ticketmaster.com.mx/el-haragan-y-cia-mexico-16-01-2027/event/3D0064F8015DA6D4",
+      "ticket_url": "https://www.ticketmaster.com.mx/el-haragan-y-cia-mexico-16-01-2027/event/3D0064F8015DA6D4",
+      "venue": "La Maraka",
+      "location": "México, Ciudad de México, Mexico",
       "tags": [
         "Rock",
         "Pop"
