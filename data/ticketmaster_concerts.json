@@ -1,100 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-08-07T07:13:41.313004Z",
-  "total_concerts": 583,
+  "scraped_at": "2026-08-08T06:51:13.630137Z",
+  "total_concerts": 579,
   "concerts": [
-    {
-      "date": "2026-08-07",
-      "source": "ticketmaster",
-      "artists": [
-        "El Gran Showman (The Greatest Showman) Movie Concert"
-      ],
-      "artist_display": "El Gran Showman (The Greatest Showman) Movie Concert",
-      "url": "https://www.ticketmaster.com.mx/el-gran-showman-the-greatest-showman-mexico-07-08-2026/event/3D0064D28F241FA1",
-      "ticket_url": "https://www.ticketmaster.com.mx/el-gran-showman-the-greatest-showman-mexico-07-08-2026/event/3D0064D28F241FA1",
-      "venue": "Teatro Xola Julio Prieto",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
-      ]
-    },
-    {
-      "date": "2026-08-07",
-      "source": "ticketmaster",
-      "artists": [
-        "CA7RIEL & Paco Amoroso"
-      ],
-      "artist_display": "CA7RIEL & Paco Amoroso",
-      "url": "https://www.ticketmaster.com.mx/ca7riel-paco-amoroso-ciudad-de-mexico-07-08-2026/event/14006471E48BF708",
-      "ticket_url": "https://www.ticketmaster.com.mx/ca7riel-paco-amoroso-ciudad-de-mexico-07-08-2026/event/14006471E48BF708",
-      "venue": "Palacio de los Deportes",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-08-07",
-      "source": "ticketmaster",
-      "artists": [
-        "AOT The Last Concert"
-      ],
-      "artist_display": "AOT The Last Concert",
-      "url": "https://www.ticketmaster.com.mx/aot-the-last-concert-vol-2-mexico-07-08-2026/event/1400648E9C2D87A9",
-      "ticket_url": "https://www.ticketmaster.com.mx/aot-the-last-concert-vol-2-mexico-07-08-2026/event/1400648E9C2D87A9",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Alternative Rock"
-      ]
-    },
-    {
-      "date": "2026-08-07",
-      "source": "ticketmaster",
-      "artists": [
-        "ROA"
-      ],
-      "artist_display": "ROA",
-      "url": "https://www.ticketmaster.com.mx/roa-mexico-07-08-2026/event/3D0064C9C07036BF",
-      "ticket_url": "https://www.ticketmaster.com.mx/roa-mexico-07-08-2026/event/3D0064C9C07036BF",
-      "venue": "Foro Puebla",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-08-07",
-      "source": "ticketmaster",
-      "artists": [
-        "El Gran Showman (The Greatest Showman) Movie Concert"
-      ],
-      "artist_display": "El Gran Showman (The Greatest Showman) Movie Concert",
-      "url": "https://www.ticketmaster.com.mx/el-gran-showman-the-greatest-showman-mexico-07-08-2026/event/3D0064D290A8214E",
-      "ticket_url": "https://www.ticketmaster.com.mx/el-gran-showman-the-greatest-showman-mexico-07-08-2026/event/3D0064D290A8214E",
-      "venue": "Teatro Xola Julio Prieto",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
-      ]
-    },
-    {
-      "date": "2026-08-07",
-      "source": "ticketmaster",
-      "artists": [
-        "Maria Jose"
-      ],
-      "artist_display": "Maria Jose",
-      "url": "https://www.ticketmaster.com.mx/maria-jose-ciudad-de-mexico-07-08-2026/event/3D006497A3076259",
-      "ticket_url": "https://www.ticketmaster.com.mx/maria-jose-ciudad-de-mexico-07-08-2026/event/3D006497A3076259",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
     {
       "date": "2026-08-07",
       "source": "ticketmaster",
@@ -3339,6 +3248,22 @@
       "location": "México, Ciudad de México, Mexico",
       "tags": [
         "Ballads/Romantic"
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "source": "ticketmaster",
+      "artists": [
+        "La 33 Orquesta"
+      ],
+      "artist_display": "La 33 Orquesta",
+      "url": "https://www.ticketmaster.com.mx/la-33-orquesta-tlalnepantla-de-baz-17-09-2026/event/1400650586D13731",
+      "ticket_url": "https://www.ticketmaster.com.mx/la-33-orquesta-tlalnepantla-de-baz-17-09-2026/event/1400650586D13731",
+      "venue": "Grand Mambo Cafe Tlalnepantla",
+      "location": "Tlalnepantla de Baz, Estado de México, Mexico",
+      "tags": [
+        "Rock",
+        "Alternative Rock"
       ]
     },
     {
@@ -9960,6 +9885,21 @@
       "url": "https://www.ticketmaster.com.mx/carolina-ross-oasis-rossa-ciudad-de-mexico-27-05-2027/event/3D0064F7B1A44E00",
       "ticket_url": "https://www.ticketmaster.com.mx/carolina-ross-oasis-rossa-ciudad-de-mexico-27-05-2027/event/3D0064F7B1A44E00",
       "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2027-06-16",
+      "source": "ticketmaster",
+      "artists": [
+        "Edwin Luna y La Trakalosa de Monterrey"
+      ],
+      "artist_display": "Edwin Luna y La Trakalosa de Monterrey",
+      "url": "https://www.ticketmaster.com.mx/edwin-luna-y-la-trakalosa-de-ciudad-de-mexico-16-06-2027/event/3D0064FEFB98A6F3",
+      "ticket_url": "https://www.ticketmaster.com.mx/edwin-luna-y-la-trakalosa-de-ciudad-de-mexico-16-06-2027/event/3D0064FEFB98A6F3",
+      "venue": "Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
