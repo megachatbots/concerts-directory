@@ -1,212 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-08-08T06:51:13.630137Z",
-  "total_concerts": 579,
+  "scraped_at": "2026-08-09T06:54:27.355550Z",
+  "total_concerts": 567,
   "concerts": [
-    {
-      "date": "2026-08-07",
-      "source": "ticketmaster",
-      "artists": [
-        "Harry Styles"
-      ],
-      "artist_display": "Harry Styles",
-      "url": "https://www.ticketmaster.com.mx/zona-vibra-harry-styles-ciudad-de-mexico-07-08-2026/event/14006451E8D90A9F",
-      "ticket_url": "https://www.ticketmaster.com.mx/zona-vibra-harry-styles-ciudad-de-mexico-07-08-2026/event/14006451E8D90A9F",
-      "venue": "Estadio GNP Seguros",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-08-07",
-      "source": "ticketmaster",
-      "artists": [
-        "Harry Styles"
-      ],
-      "artist_display": "Harry Styles",
-      "url": "https://www.ticketmaster.com.mx/harry-styles-together-together-ciudad-de-mexico-07-08-2026/event/1400642CF26E8951",
-      "ticket_url": "https://www.ticketmaster.com.mx/harry-styles-together-together-ciudad-de-mexico-07-08-2026/event/1400642CF26E8951",
-      "venue": "Estadio GNP Seguros",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop"
-      ]
-    },
-    {
-      "date": "2026-08-07",
-      "source": "ticketmaster",
-      "artists": [
-        "DPR CREAM & DPR ARTIC"
-      ],
-      "artist_display": "DPR CREAM & DPR ARTIC",
-      "url": "https://www.ticketmaster.com.mx/dpr-cream-dpr-artic-dpr-cream-mexico-07-08-2026/event/1400644FC4E37375",
-      "ticket_url": "https://www.ticketmaster.com.mx/dpr-cream-dpr-artic-dpr-cream-mexico-07-08-2026/event/1400644FC4E37375",
-      "venue": "Pepsi Center",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-08-07",
-      "source": "ticketmaster",
-      "artists": [
-        "Junior Klan"
-      ],
-      "artist_display": "Junior Klan",
-      "url": "https://www.ticketmaster.com.mx/junior-klan-en-pleno-vuelo-ciudad-de-mexico-07-08-2026/event/3D0064A9811B23D3",
-      "ticket_url": "https://www.ticketmaster.com.mx/junior-klan-en-pleno-vuelo-ciudad-de-mexico-07-08-2026/event/3D0064A9811B23D3",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-08-07",
-      "source": "ticketmaster",
-      "artists": [
-        "La Cantadera"
-      ],
-      "artist_display": "La Cantadera",
-      "url": "https://www.ticketmaster.com.mx/la-cantadera-ciudad-de-mexico-07-08-2026/event/3D0064E799B517E1",
-      "ticket_url": "https://www.ticketmaster.com.mx/la-cantadera-ciudad-de-mexico-07-08-2026/event/3D0064E799B517E1",
-      "venue": "Foro Stelaris Fiesta Americana Reforma",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Pop"
-      ]
-    },
-    {
-      "date": "2026-08-08",
-      "source": "ticketmaster",
-      "artists": [
-        "La Calandria"
-      ],
-      "artist_display": "La Calandria",
-      "url": "https://www.ticketmaster.com.mx/la-calandria-ensamble-de-los-grandes-mexico-08-08-2026/event/3D00647F8A5D1CE4",
-      "ticket_url": "https://www.ticketmaster.com.mx/la-calandria-ensamble-de-los-grandes-mexico-08-08-2026/event/3D00647F8A5D1CE4",
-      "venue": "Teatro de la Ciudad Esperanza Iris",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
-      ]
-    },
-    {
-      "date": "2026-08-08",
-      "source": "ticketmaster",
-      "artists": [
-        "Melanie Martinez",
-        "Isabel LaRosa"
-      ],
-      "artist_display": "Melanie Martinez, Isabel LaRosa",
-      "url": "https://www.ticketmaster.com.mx/melanie-martinez-hades-the-sacrifice-ciudad-de-mexico-08-08-2026/event/1400648FA581D3AC",
-      "ticket_url": "https://www.ticketmaster.com.mx/melanie-martinez-hades-the-sacrifice-ciudad-de-mexico-08-08-2026/event/1400648FA581D3AC",
-      "venue": "Palacio de los Deportes",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Pop"
-      ]
-    },
-    {
-      "date": "2026-08-08",
-      "source": "ticketmaster",
-      "artists": [
-        "Yoon San Ha"
-      ],
-      "artist_display": "Yoon San Ha",
-      "url": "https://www.ticketmaster.com.mx/2026-yoon-sanha-fancon-just-no-mexico-08-08-2026/event/140064D99D1A4597",
-      "ticket_url": "https://www.ticketmaster.com.mx/2026-yoon-sanha-fancon-just-no-mexico-08-08-2026/event/140064D99D1A4597",
-      "venue": "Pepsi Center",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "K-Pop"
-      ]
-    },
-    {
-      "date": "2026-08-08",
-      "source": "ticketmaster",
-      "artists": [
-        "Charles Ans"
-      ],
-      "artist_display": "Charles Ans",
-      "url": "https://www.ticketmaster.com.mx/charles-ans-ciudad-de-mexico-08-08-2026/event/3D0063928B3B20DA",
-      "ticket_url": "https://www.ticketmaster.com.mx/charles-ans-ciudad-de-mexico-08-08-2026/event/3D0063928B3B20DA",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Hip-Hop/Rap",
-        "Trap"
-      ]
-    },
-    {
-      "date": "2026-08-08",
-      "source": "ticketmaster",
-      "artists": [
-        "Historias de canciones. Manuel Coe, Erik Canales, Luis Jiménez"
-      ],
-      "artist_display": "Historias de canciones. Manuel Coe, Erik Canales, Luis Jiménez",
-      "url": "https://www.ticketmaster.com.mx/historias-de-canciones-manuel-coe-erik-mexico-08-08-2026/event/3D0064D38C001D86",
-      "ticket_url": "https://www.ticketmaster.com.mx/historias-de-canciones-manuel-coe-erik-mexico-08-08-2026/event/3D0064D38C001D86",
-      "venue": "El Cantoral ",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
-      ]
-    },
-    {
-      "date": "2026-08-08",
-      "source": "ticketmaster",
-      "artists": [
-        "Sinfónica de Minería"
-      ],
-      "artist_display": "Sinfónica de Minería",
-      "url": "https://www.ticketmaster.com.mx/sinfonica-de-mineria-temporada-de-verano-mexico-08-08-2026/event/3D0064ACBCC9A40B",
-      "ticket_url": "https://www.ticketmaster.com.mx/sinfonica-de-mineria-temporada-de-verano-mexico-08-08-2026/event/3D0064ACBCC9A40B",
-      "venue": "Sala Silvestre Revueltas",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Classical",
-        "Classical/Vocal"
-      ]
-    },
-    {
-      "date": "2026-08-08",
-      "source": "ticketmaster",
-      "artists": [
-        "ROA"
-      ],
-      "artist_display": "ROA",
-      "url": "https://www.ticketmaster.com.mx/roa-mexico-08-08-2026/event/3D0064DA85C30EAA",
-      "ticket_url": "https://www.ticketmaster.com.mx/roa-mexico-08-08-2026/event/3D0064DA85C30EAA",
-      "venue": "Foro Puebla",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-08-08",
-      "source": "ticketmaster",
-      "artists": [
-        "Shey Band"
-      ],
-      "artist_display": "Shey Band",
-      "url": "https://www.ticketmaster.com.mx/sheyband-de-norte-a-sur-ciudad-de-mexico-08-08-2026/event/3D0064CAE4435326",
-      "ticket_url": "https://www.ticketmaster.com.mx/sheyband-de-norte-a-sur-ciudad-de-mexico-08-08-2026/event/3D0064CAE4435326",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
     {
       "date": "2026-08-08",
       "source": "ticketmaster",
@@ -5521,6 +5318,21 @@
       "tags": [
         "Rock",
         "Pop"
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "source": "ticketmaster",
+      "artists": [
+        "Sofia Rei"
+      ],
+      "artist_display": "Sofia Rei",
+      "url": "https://www.ticketmaster.com.mx/sofia-rei-fest-cervantino-en-cdmx-ciudad-de-mexico-19-10-2026/event/3D0064FDE66F7A69",
+      "ticket_url": "https://www.ticketmaster.com.mx/sofia-rei-fest-cervantino-en-cdmx-ciudad-de-mexico-19-10-2026/event/3D0064FDE66F7A69",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Jazz"
       ]
     },
     {
