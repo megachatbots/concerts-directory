@@ -5,41 +5,9 @@
     "ticketmaster"
   ],
   "metro_area": "Mexico City",
-  "scraped_at": "2026-08-10T07:38:31.415446Z",
-  "total_concerts": 857,
+  "scraped_at": "2026-08-11T07:05:11.407922Z",
+  "total_concerts": 856,
   "concerts": [
-    {
-      "date": "2026-08-10",
-      "source": "ticketmaster",
-      "artists": [
-        "Antonio Vivaldi"
-      ],
-      "artist_display": "Antonio Vivaldi",
-      "url": "https://www.ticketmaster.com.mx/le-quattro-stagioni-antonio-vivaldi-mexico-10-08-2026/event/3D0064D8B9682840",
-      "ticket_url": "https://www.ticketmaster.com.mx/le-quattro-stagioni-antonio-vivaldi-mexico-10-08-2026/event/3D0064D8B9682840",
-      "venue": "Capilla Gótica",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Classical",
-        "Classical/Vocal"
-      ]
-    },
-    {
-      "date": "2026-08-10",
-      "source": "ticketmaster",
-      "artists": [
-        "Harry Styles"
-      ],
-      "artist_display": "Harry Styles",
-      "url": "https://www.ticketmaster.com.mx/zona-vibra-harry-styles-ciudad-de-mexico-10-08-2026/event/14006451E8DA0AA6",
-      "ticket_url": "https://www.ticketmaster.com.mx/zona-vibra-harry-styles-ciudad-de-mexico-10-08-2026/event/14006451E8DA0AA6",
-      "venue": "Estadio GNP Seguros",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Electro Pop",
-        "Pop"
-      ]
-    },
     {
       "date": "2026-08-11",
       "source": "ticketmaster",
@@ -489,54 +457,6 @@
       "tags": [
         "Latin"
       ]
-    },
-    {
-      "date": "2026-08-20",
-      "source": "songkick",
-      "artists": [
-        "Chingadazo de Kung FuMASAPPAN and smash-o"
-      ],
-      "artist_display": "Chingadazo de Kung FuMASAPPAN and smash-o",
-      "url": "https://www.songkick.com/concerts/43163694-chingadazo-de-kung-fu-at-lunario-del-auditorio-nacional",
-      "venue": "Lunario Del Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional",
-      "location": "Lunario Del Auditorio Nacional,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-08-20",
-      "source": "songkick",
-      "artists": [
-        "Gengibre13 anclas and Todosantos"
-      ],
-      "artist_display": "Gengibre13 anclas and Todosantos",
-      "url": "https://www.songkick.com/concerts/43231684-gengibre-at-fuck-off-room",
-      "venue": "FÜCK OFF ROOM",
-      "venue_url": "https://www.songkick.com/venues/4540201-fuck-off-room",
-      "location": "FÜCK OFF ROOM,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-08-20",
-      "source": "songkick",
-      "artists": [
-        "Woo York"
-      ],
-      "artist_display": "Woo York",
-      "url": "https://www.songkick.com/concerts/43360099-woo-york-at-looloo",
-      "venue": "LooLoo",
-      "venue_url": "https://www.songkick.com/venues/3769259-looloo",
-      "location": "LooLoo,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-08-20",
-      "source": "songkick",
-      "artists": [
-        "“La Cantadera” 2026"
-      ],
-      "artist_display": "“La Cantadera” 2026",
-      "url": "https://www.songkick.com/festivals/3796683-la-cantadera/id/43328591-la-cantadera-2026",
-      "venue": "Stelaris Foro Reforma",
-      "venue_url": "https://www.songkick.com/venues/4658156-stelaris-foro-reforma",
-      "location": "Stelaris Foro Reforma,Mexico City, Mexico"
     },
     {
       "date": "2026-08-20",
@@ -3083,6 +3003,18 @@
       "date": "2026-09-12",
       "source": "ticketmaster",
       "artists": [
+        "Vans Warped Tour"
+      ],
+      "artist_display": "Vans Warped Tour",
+      "url": "https://www.ticketmaster.com.mx/individual-banamex-plus-vans-warped-tour-mexico-12-09-2026/event/140064D3A6C06491",
+      "ticket_url": "https://www.ticketmaster.com.mx/individual-banamex-plus-vans-warped-tour-mexico-12-09-2026/event/140064D3A6C06491",
+      "venue": "Autodromo Hnos. Rodriguez",
+      "location": "México, Ciudad de México, Mexico"
+    },
+    {
+      "date": "2026-09-12",
+      "source": "ticketmaster",
+      "artists": [
         "El amante de Gardel"
       ],
       "artist_display": "El amante de Gardel",
@@ -3170,18 +3102,6 @@
       "tags": [
         "Ballads/Romantic"
       ]
-    },
-    {
-      "date": "2026-09-12",
-      "source": "ticketmaster",
-      "artists": [
-        "Vans Warped Tour"
-      ],
-      "artist_display": "Vans Warped Tour",
-      "url": "https://www.ticketmaster.com.mx/abono-general-2-dias-vans-warped-mexico-12-09-2026/event/14006376AC9625F8",
-      "ticket_url": "https://www.ticketmaster.com.mx/abono-general-2-dias-vans-warped-mexico-12-09-2026/event/14006376AC9625F8",
-      "venue": "Autodromo Hnos. Rodriguez",
-      "location": "México, Ciudad de México, Mexico"
     },
     {
       "date": "2026-09-13",
@@ -3292,6 +3212,18 @@
       "venue": "Foro Cultural Hilvana",
       "venue_url": "https://www.songkick.com/venues/4071029-foro-cultural-hilvana",
       "location": "Foro Cultural Hilvana,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-13",
+      "source": "ticketmaster",
+      "artists": [
+        "Vans Warped Tour"
+      ],
+      "artist_display": "Vans Warped Tour",
+      "url": "https://www.ticketmaster.com.mx/individual-banamex-plus-vans-warped-tour-mexico-13-09-2026/event/140064D3AC777039",
+      "ticket_url": "https://www.ticketmaster.com.mx/individual-banamex-plus-vans-warped-tour-mexico-13-09-2026/event/140064D3AC777039",
+      "venue": "Autodromo Hnos. Rodriguez",
+      "location": "México, Ciudad de México, Mexico"
     },
     {
       "date": "2026-09-13",
@@ -3799,6 +3731,18 @@
     },
     {
       "date": "2026-09-19",
+      "source": "songkick",
+      "artists": [
+        "Festival Flotante 2026Asia Menor, Policromía, and Policromía (ARG)"
+      ],
+      "artist_display": "Festival Flotante 2026Asia Menor, Policromía, and Policromía (ARG)",
+      "url": "https://www.songkick.com/festivals/3438879-flotante/id/43361346-festival-flotante-2026",
+      "venue": "TBA",
+      "venue_url": "https://www.songkick.com/venues/4452421-tba",
+      "location": "TBA,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-19",
       "source": "ticketmaster",
       "artists": [
         "Robyn",
@@ -4095,6 +4039,18 @@
       "location": "Mexico City Festival,Mexico City, Mexico"
     },
     {
+      "date": "2026-09-24",
+      "source": "songkick",
+      "artists": [
+        "Love Ghost, jota moore, SMOK3, and Nadie Escucha"
+      ],
+      "artist_display": "Love Ghost, jota moore, SMOK3, and Nadie Escucha",
+      "url": "https://www.songkick.com/concerts/43361373-love-ghost-at-fuck-off-room",
+      "venue": "FÜCK OFF ROOM",
+      "venue_url": "https://www.songkick.com/venues/4540201-fuck-off-room",
+      "location": "FÜCK OFF ROOM,Mexico City, Mexico"
+    },
+    {
       "date": "2026-09-25",
       "source": "songkick",
       "artists": [
@@ -4127,18 +4083,6 @@
       "date": "2026-09-25",
       "source": "songkick",
       "artists": [
-        "The Knocks"
-      ],
-      "artist_display": "The Knocks",
-      "url": "https://www.songkick.com/concerts/43256167-knocks-at-foro-niebla",
-      "venue": "Foro Niebla",
-      "venue_url": "https://www.songkick.com/venues/4379084-foro-niebla",
-      "location": "Foro Niebla,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-09-25",
-      "source": "songkick",
-      "artists": [
         "R3HAB"
       ],
       "artist_display": "R3HAB",
@@ -4146,6 +4090,18 @@
       "venue": "Sala Urbana",
       "venue_url": "https://www.songkick.com/venues/4453196-sala-urbana",
       "location": "Sala Urbana,Naucalpan, Mexico"
+    },
+    {
+      "date": "2026-09-25",
+      "source": "songkick",
+      "artists": [
+        "The Knocks"
+      ],
+      "artist_display": "The Knocks",
+      "url": "https://www.songkick.com/concerts/43256167-knocks-at-foro-niebla",
+      "venue": "Foro Niebla",
+      "venue_url": "https://www.songkick.com/venues/4379084-foro-niebla",
+      "location": "Foro Niebla,Mexico City, Mexico"
     },
     {
       "date": "2026-09-25",
@@ -4843,6 +4799,18 @@
       "date": "2026-10-02",
       "source": "songkick",
       "artists": [
+        "A Flock of Seagulls"
+      ],
+      "artist_display": "A Flock of Seagulls",
+      "url": "https://www.songkick.com/concerts/43313831-a-flock-of-seagulls-at-sala-urbana",
+      "venue": "Sala Urbana",
+      "venue_url": "https://www.songkick.com/venues/4453196-sala-urbana",
+      "location": "Sala Urbana,Naucalpan, Mexico"
+    },
+    {
+      "date": "2026-10-02",
+      "source": "songkick",
+      "artists": [
         "Cultura Profetica"
       ],
       "artist_display": "Cultura Profetica",
@@ -4854,18 +4822,6 @@
       "tags": [
         "Reggae"
       ]
-    },
-    {
-      "date": "2026-10-02",
-      "source": "songkick",
-      "artists": [
-        "A Flock of Seagulls"
-      ],
-      "artist_display": "A Flock of Seagulls",
-      "url": "https://www.songkick.com/concerts/43313831-a-flock-of-seagulls-at-sala-urbana",
-      "venue": "Sala Urbana",
-      "venue_url": "https://www.songkick.com/venues/4453196-sala-urbana",
-      "location": "Sala Urbana,Naucalpan, Mexico"
     },
     {
       "date": "2026-10-02",
@@ -6665,18 +6621,6 @@
       "date": "2026-10-17",
       "source": "songkick",
       "artists": [
-        "Dirty Sound Magnet"
-      ],
-      "artist_display": "Dirty Sound Magnet",
-      "url": "https://www.songkick.com/concerts/43224307-dirty-sound-magnet-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks!",
-      "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks!,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-17",
-      "source": "songkick",
-      "artists": [
         "Forever GreyCalaverx, Rituel for Two, Grizz CLL, and Vick Vapors"
       ],
       "artist_display": "Forever GreyCalaverx, Rituel for Two, Grizz CLL, and Vick Vapors",
@@ -6684,6 +6628,18 @@
       "venue": "Supremo",
       "venue_url": "https://www.songkick.com/venues/890321-supremo",
       "location": "Supremo,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-10-17",
+      "source": "songkick",
+      "artists": [
+        "Dirty Sound Magnet"
+      ],
+      "artist_display": "Dirty Sound Magnet",
+      "url": "https://www.songkick.com/concerts/43224307-dirty-sound-magnet-at-foro-indie-rocks",
+      "venue": "Foro Indie Rocks!",
+      "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
     },
     {
       "date": "2026-10-17",
@@ -7994,6 +7950,30 @@
       ]
     },
     {
+      "date": "2026-10-30",
+      "source": "songkick",
+      "artists": [
+        "Mark Foggo's SkastersMark Foggo"
+      ],
+      "artist_display": "Mark Foggo's SkastersMark Foggo",
+      "url": "https://www.songkick.com/concerts/43361327-mark-foggos-skasters-at-gato-calavera",
+      "venue": "Gato Calavera",
+      "venue_url": "https://www.songkick.com/venues/1385981-gato-calavera",
+      "location": "Gato Calavera,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-10-30",
+      "source": "songkick",
+      "artists": [
+        "Saramalacara"
+      ],
+      "artist_display": "Saramalacara",
+      "url": "https://www.songkick.com/concerts/43361333-saramalacara-at-house-of-vans",
+      "venue": "House of Vans",
+      "venue_url": "https://www.songkick.com/venues/3083404-house-of-vans",
+      "location": "House of Vans,Mexico City, Mexico"
+    },
+    {
       "date": "2026-10-31",
       "source": "songkick",
       "artists": [
@@ -8934,10 +8914,10 @@
         "Andrés Calamaro"
       ],
       "artist_display": "Andrés Calamaro",
-      "url": "https://www.songkick.com/concerts/43353372-andres-calamaro-at-pepsi-center",
-      "venue": "Pepsi Center",
-      "venue_url": "https://www.songkick.com/venues/4642353-pepsi-center",
-      "location": "Pepsi Center,Mexico City, Mexico",
+      "url": "https://www.songkick.com/concerts/43353372-andres-calamaro-at-pepsi-center-wtc",
+      "venue": "Pepsi Center WTC",
+      "venue_url": "https://www.songkick.com/venues/1774303-pepsi-center-wtc",
+      "location": "Pepsi Center WTC,Mexico City, Mexico",
       "ticket_url": "https://www.ticketmaster.com.mx/andres-calamaro-mexico-13-11-2026/event/140064EFAA6A6B85",
       "tags": [
         "Pop",

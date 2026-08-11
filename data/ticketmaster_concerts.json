@@ -1,56 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-08-10T07:38:31.384863Z",
-  "total_concerts": 561,
+  "scraped_at": "2026-08-11T07:05:11.384603Z",
+  "total_concerts": 562,
   "concerts": [
-    {
-      "date": "2026-08-10",
-      "source": "ticketmaster",
-      "artists": [
-        "Antonio Vivaldi"
-      ],
-      "artist_display": "Antonio Vivaldi",
-      "url": "https://www.ticketmaster.com.mx/le-quattro-stagioni-antonio-vivaldi-mexico-10-08-2026/event/3D0064D8B9682840",
-      "ticket_url": "https://www.ticketmaster.com.mx/le-quattro-stagioni-antonio-vivaldi-mexico-10-08-2026/event/3D0064D8B9682840",
-      "venue": "Capilla Gótica",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Classical",
-        "Classical/Vocal"
-      ]
-    },
-    {
-      "date": "2026-08-10",
-      "source": "ticketmaster",
-      "artists": [
-        "Harry Styles"
-      ],
-      "artist_display": "Harry Styles",
-      "url": "https://www.ticketmaster.com.mx/zona-vibra-harry-styles-ciudad-de-mexico-10-08-2026/event/14006451E8DA0AA6",
-      "ticket_url": "https://www.ticketmaster.com.mx/zona-vibra-harry-styles-ciudad-de-mexico-10-08-2026/event/14006451E8DA0AA6",
-      "venue": "Estadio GNP Seguros",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-08-10",
-      "source": "ticketmaster",
-      "artists": [
-        "Harry Styles"
-      ],
-      "artist_display": "Harry Styles",
-      "url": "https://www.ticketmaster.com.mx/harry-styles-together-together-ciudad-de-mexico-10-08-2026/event/1400643D8ABA6E2C",
-      "ticket_url": "https://www.ticketmaster.com.mx/harry-styles-together-together-ciudad-de-mexico-10-08-2026/event/1400643D8ABA6E2C",
-      "venue": "Estadio GNP Seguros",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop"
-      ]
-    },
     {
       "date": "2026-08-11",
       "source": "ticketmaster",
@@ -2615,6 +2568,30 @@
       "date": "2026-09-12",
       "source": "ticketmaster",
       "artists": [
+        "Vans Warped Tour"
+      ],
+      "artist_display": "Vans Warped Tour",
+      "url": "https://www.ticketmaster.com.mx/individual-banamex-plus-vans-warped-tour-mexico-12-09-2026/event/140064D3A6C06491",
+      "ticket_url": "https://www.ticketmaster.com.mx/individual-banamex-plus-vans-warped-tour-mexico-12-09-2026/event/140064D3A6C06491",
+      "venue": "Autodromo Hnos. Rodriguez",
+      "location": "México, Ciudad de México, Mexico"
+    },
+    {
+      "date": "2026-09-12",
+      "source": "ticketmaster",
+      "artists": [
+        "Vans Warped Tour"
+      ],
+      "artist_display": "Vans Warped Tour",
+      "url": "https://www.ticketmaster.com.mx/individual-general-vans-warped-tour-2026-mexico-12-09-2026/event/140064D0011634E6",
+      "ticket_url": "https://www.ticketmaster.com.mx/individual-general-vans-warped-tour-2026-mexico-12-09-2026/event/140064D0011634E6",
+      "venue": "Autodromo Hnos. Rodriguez",
+      "location": "México, Ciudad de México, Mexico"
+    },
+    {
+      "date": "2026-09-12",
+      "source": "ticketmaster",
+      "artists": [
         "El amante de Gardel"
       ],
       "artist_display": "El amante de Gardel",
@@ -2769,6 +2746,30 @@
       "artist_display": "Vans Warped Tour",
       "url": "https://www.ticketmaster.com.mx/abono-banamex-plus-2-dias-vans-mexico-12-09-2026/event/14006376AE803D1F",
       "ticket_url": "https://www.ticketmaster.com.mx/abono-banamex-plus-2-dias-vans-mexico-12-09-2026/event/14006376AE803D1F",
+      "venue": "Autodromo Hnos. Rodriguez",
+      "location": "México, Ciudad de México, Mexico"
+    },
+    {
+      "date": "2026-09-13",
+      "source": "ticketmaster",
+      "artists": [
+        "Vans Warped Tour"
+      ],
+      "artist_display": "Vans Warped Tour",
+      "url": "https://www.ticketmaster.com.mx/individual-banamex-plus-vans-warped-tour-mexico-13-09-2026/event/140064D3AC777039",
+      "ticket_url": "https://www.ticketmaster.com.mx/individual-banamex-plus-vans-warped-tour-mexico-13-09-2026/event/140064D3AC777039",
+      "venue": "Autodromo Hnos. Rodriguez",
+      "location": "México, Ciudad de México, Mexico"
+    },
+    {
+      "date": "2026-09-13",
+      "source": "ticketmaster",
+      "artists": [
+        "Vans Warped Tour"
+      ],
+      "artist_display": "Vans Warped Tour",
+      "url": "https://www.ticketmaster.com.mx/individual-general-vans-warped-tour-2026-mexico-13-09-2026/event/140064D009FE4EFB",
+      "ticket_url": "https://www.ticketmaster.com.mx/individual-general-vans-warped-tour-2026-mexico-13-09-2026/event/140064D009FE4EFB",
       "venue": "Autodromo Hnos. Rodriguez",
       "location": "México, Ciudad de México, Mexico"
     },
