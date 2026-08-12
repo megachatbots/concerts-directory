@@ -1,25 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-08-11T07:05:11.384603Z",
-  "total_concerts": 562,
+  "scraped_at": "2026-08-12T07:22:49.943197Z",
+  "total_concerts": 566,
   "concerts": [
-    {
-      "date": "2026-08-11",
-      "source": "ticketmaster",
-      "artists": [
-        "Antonio Vivaldi"
-      ],
-      "artist_display": "Antonio Vivaldi",
-      "url": "https://www.ticketmaster.com.mx/le-quattro-stagioni-antonio-vivaldi-mexico-11-08-2026/event/3D0064D8B9682844",
-      "ticket_url": "https://www.ticketmaster.com.mx/le-quattro-stagioni-antonio-vivaldi-mexico-11-08-2026/event/3D0064D8B9682844",
-      "venue": "Capilla Gótica",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Classical",
-        "Classical/Vocal"
-      ]
-    },
     {
       "date": "2026-08-12",
       "source": "ticketmaster",
@@ -2623,9 +2607,10 @@
       "date": "2026-09-12",
       "source": "ticketmaster",
       "artists": [
-        "Laufey"
+        "Laufey",
+        "Amie Blu"
       ],
-      "artist_display": "Laufey",
+      "artist_display": "Laufey, Amie Blu",
       "url": "https://www.ticketmaster.com.mx/laufey-a-matter-of-time-tour-ciudad-de-mexico-12-09-2026/event/14006459B1DC85F4",
       "ticket_url": "https://www.ticketmaster.com.mx/laufey-a-matter-of-time-tour-ciudad-de-mexico-12-09-2026/event/14006459B1DC85F4",
       "venue": "Palacio de los Deportes",
@@ -2969,6 +2954,21 @@
       "tags": [
         "Rock",
         "Alternative Rock"
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "source": "ticketmaster",
+      "artists": [
+        "El Haragán A Capela"
+      ],
+      "artist_display": "El Haragán A Capela",
+      "url": "https://www.ticketmaster.com.mx/el-haragan-a-capela-mexico-18-09-2026/event/1400650A89014972",
+      "ticket_url": "https://www.ticketmaster.com.mx/el-haragan-a-capela-mexico-18-09-2026/event/1400650A89014972",
+      "venue": "Teatro Tepeyac",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
       ]
     },
     {
@@ -4080,6 +4080,21 @@
       "date": "2026-10-09",
       "source": "ticketmaster",
       "artists": [
+        "Sole Giménez"
+      ],
+      "artist_display": "Sole Giménez",
+      "url": "https://www.ticketmaster.com.mx/sole-gimenez-mexico-09-10-2026/event/3D0064FFD79C85A9",
+      "ticket_url": "https://www.ticketmaster.com.mx/sole-gimenez-mexico-09-10-2026/event/3D0064FFD79C85A9",
+      "venue": "Teatro de la Ciudad Esperanza Iris",
+      "location": "Mexico, Ciudad de México, Mexico",
+      "tags": [
+        "Ballads/Romantic"
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "source": "ticketmaster",
+      "artists": [
         "Alvaro Diaz"
       ],
       "artist_display": "Alvaro Diaz",
@@ -4199,6 +4214,21 @@
       "tags": [
         "Dance/Electronic",
         "Amapiano"
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "source": "ticketmaster",
+      "artists": [
+        "Carlos Macías"
+      ],
+      "artist_display": "Carlos Macías",
+      "url": "https://www.ticketmaster.com.mx/carlos-macias-mexico-es-a-todo-ciudad-de-mexico-09-10-2026/event/3D00650BBA1E3D73",
+      "ticket_url": "https://www.ticketmaster.com.mx/carlos-macias-mexico-es-a-todo-ciudad-de-mexico-09-10-2026/event/3D00650BBA1E3D73",
+      "venue": "Foro Stelaris Fiesta Americana Reforma",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
       ]
     },
     {
@@ -5695,6 +5725,21 @@
       "date": "2026-10-26",
       "source": "ticketmaster",
       "artists": [
+        "TunaEspaña: concierto a beneficio de la Casa del Actor"
+      ],
+      "artist_display": "TunaEspaña: concierto a beneficio de la Casa del Actor",
+      "url": "https://www.ticketmaster.com.mx/tunaespana-concierto-a-beneficio-de-la-mexico-26-10-2026/event/3D006508B3614A8C",
+      "ticket_url": "https://www.ticketmaster.com.mx/tunaespana-concierto-a-beneficio-de-la-mexico-26-10-2026/event/3D006508B3614A8C",
+      "venue": "Teatro de la Ciudad Esperanza Iris",
+      "location": "Mexico, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "source": "ticketmaster",
+      "artists": [
         "Romeo Santos",
         "Prince Royce"
       ],
@@ -6035,6 +6080,22 @@
       "tags": [
         "Dance/Electronic",
         "Amapiano"
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "source": "ticketmaster",
+      "artists": [
+        "Aitana"
+      ],
+      "artist_display": "Aitana",
+      "url": "https://www.ticketmaster.com.mx/aitana-ciudad-de-mexico-05-11-2026/event/3D0064FA9D133590",
+      "ticket_url": "https://www.ticketmaster.com.mx/aitana-ciudad-de-mexico-05-11-2026/event/3D0064FA9D133590",
+      "venue": "Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
