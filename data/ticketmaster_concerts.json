@@ -1,40 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-08-12T07:22:49.943197Z",
-  "total_concerts": 566,
+  "scraped_at": "2026-08-13T07:25:20.963571Z",
+  "total_concerts": 573,
   "concerts": [
-    {
-      "date": "2026-08-12",
-      "source": "ticketmaster",
-      "artists": [
-        "Antonio Vivaldi"
-      ],
-      "artist_display": "Antonio Vivaldi",
-      "url": "https://www.ticketmaster.com.mx/le-quattro-stagioni-antonio-vivaldi-mexico-12-08-2026/event/3D0064D8B96A2846",
-      "ticket_url": "https://www.ticketmaster.com.mx/le-quattro-stagioni-antonio-vivaldi-mexico-12-08-2026/event/3D0064D8B96A2846",
-      "venue": "Capilla Gótica",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Classical",
-        "Classical/Vocal"
-      ]
-    },
-    {
-      "date": "2026-08-12",
-      "source": "ticketmaster",
-      "artists": [
-        "Sentidos Opuestos"
-      ],
-      "artist_display": "Sentidos Opuestos",
-      "url": "https://www.ticketmaster.com.mx/sentidos-opuestos-ciudad-de-mexico-12-08-2026/event/3D0064B0AF249A38",
-      "ticket_url": "https://www.ticketmaster.com.mx/sentidos-opuestos-ciudad-de-mexico-12-08-2026/event/3D0064B0AF249A38",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
     {
       "date": "2026-08-13",
       "source": "ticketmaster",
@@ -224,16 +193,15 @@
       "date": "2026-08-15",
       "source": "ticketmaster",
       "artists": [
-        "Nunca Jamás"
+        "Nunca Jamas"
       ],
-      "artist_display": "Nunca Jamás",
+      "artist_display": "Nunca Jamas",
       "url": "https://www.ticketmaster.com.mx/nunca-jamas-ciudad-de-mexico-15-08-2026/event/3D00644CE32E7B2F",
       "ticket_url": "https://www.ticketmaster.com.mx/nunca-jamas-ciudad-de-mexico-15-08-2026/event/3D00644CE32E7B2F",
       "venue": "El Lunario del Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Rock",
-        "Alternative Rock"
+        "Latin"
       ]
     },
     {
@@ -2914,6 +2882,22 @@
       "date": "2026-09-17",
       "source": "ticketmaster",
       "artists": [
+        "Sotomayor"
+      ],
+      "artist_display": "Sotomayor",
+      "url": "https://www.ticketmaster.com.mx/sotomayor-ciudad-de-mexico-17-09-2026/event/3D00650BE2335A1E",
+      "ticket_url": "https://www.ticketmaster.com.mx/sotomayor-ciudad-de-mexico-17-09-2026/event/3D00650BE2335A1E",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Alternative Rock"
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "source": "ticketmaster",
+      "artists": [
         "La Fanfarria del Capitan"
       ],
       "artist_display": "La Fanfarria del Capitan",
@@ -3440,15 +3424,16 @@
       "date": "2026-09-25",
       "source": "ticketmaster",
       "artists": [
-        "Los Revenants 'El Sueño Renace'"
+        "Los Revenants"
       ],
-      "artist_display": "Los Revenants 'El Sueño Renace'",
+      "artist_display": "Los Revenants",
       "url": "https://www.ticketmaster.com.mx/los-revenants-el-sueno-renace-mexico-25-09-2026/event/3D0064DBBD9D2BEF",
       "ticket_url": "https://www.ticketmaster.com.mx/los-revenants-el-sueno-renace-mexico-25-09-2026/event/3D0064DBBD9D2BEF",
       "venue": "La Maraka",
       "location": "México, Ciudad de México, Mexico",
       "tags": [
-        "Ballads/Romantic"
+        "Rock",
+        "Pop"
       ]
     },
     {
@@ -3863,6 +3848,21 @@
       "date": "2026-10-04",
       "source": "ticketmaster",
       "artists": [
+        "Sala Principal Bellas Artes"
+      ],
+      "artist_display": "Sala Principal Bellas Artes",
+      "url": "https://www.ticketmaster.com.mx/comp-nal-opera-tosca-de-giacomo-mexico-cdmx-04-10-2026/event/3D0064F290C62ADD",
+      "ticket_url": "https://www.ticketmaster.com.mx/comp-nal-opera-tosca-de-giacomo-mexico-cdmx-04-10-2026/event/3D0064F290C62ADD",
+      "venue": "Palacio de Bellas Artes",
+      "location": "México CDMX, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-10-04",
+      "source": "ticketmaster",
+      "artists": [
         "Pasatono Orquesta"
       ],
       "artist_display": "Pasatono Orquesta",
@@ -3918,6 +3918,21 @@
       "tags": [
         "Rock",
         "Alternative Rock"
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "source": "ticketmaster",
+      "artists": [
+        "Sala Principal Bellas Artes"
+      ],
+      "artist_display": "Sala Principal Bellas Artes",
+      "url": "https://www.ticketmaster.com.mx/comp-nal-opera-tosca-de-giacomo-mexico-cdmx-06-10-2026/event/3D0064F291A92B71",
+      "ticket_url": "https://www.ticketmaster.com.mx/comp-nal-opera-tosca-de-giacomo-mexico-cdmx-06-10-2026/event/3D0064F291A92B71",
+      "venue": "Palacio de Bellas Artes",
+      "location": "México CDMX, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
       ]
     },
     {
@@ -3980,6 +3995,21 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Pop"
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "source": "ticketmaster",
+      "artists": [
+        "Sala Principal Bellas Artes"
+      ],
+      "artist_display": "Sala Principal Bellas Artes",
+      "url": "https://www.ticketmaster.com.mx/comp-nal-opera-tosca-de-giacomo-mexico-cdmx-08-10-2026/event/3D0064F291A92B73",
+      "ticket_url": "https://www.ticketmaster.com.mx/comp-nal-opera-tosca-de-giacomo-mexico-cdmx-08-10-2026/event/3D0064F291A92B73",
+      "venue": "Palacio de Bellas Artes",
+      "location": "México CDMX, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
       ]
     },
     {
@@ -4373,6 +4403,21 @@
       "date": "2026-10-11",
       "source": "ticketmaster",
       "artists": [
+        "Sala Principal Bellas Artes"
+      ],
+      "artist_display": "Sala Principal Bellas Artes",
+      "url": "https://www.ticketmaster.com.mx/comp-nal-opera-tosca-de-giacomo-mexico-cdmx-11-10-2026/event/3D0064F291AA2B75",
+      "ticket_url": "https://www.ticketmaster.com.mx/comp-nal-opera-tosca-de-giacomo-mexico-cdmx-11-10-2026/event/3D0064F291AA2B75",
+      "venue": "Palacio de Bellas Artes",
+      "location": "México CDMX, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "source": "ticketmaster",
+      "artists": [
         "León Chávez Teixeiro"
       ],
       "artist_display": "León Chávez Teixeiro",
@@ -4568,6 +4613,21 @@
       "ticket_url": "https://www.ticketmaster.com.mx/enrique-bunbury-ciudad-de-mexico-12-10-2026/event/3D0064449FBA24A0",
       "venue": "Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "source": "ticketmaster",
+      "artists": [
+        "Sala Principal Bellas Artes"
+      ],
+      "artist_display": "Sala Principal Bellas Artes",
+      "url": "https://www.ticketmaster.com.mx/comp-nal-opera-tosca-de-giacomo-mexico-cdmx-13-10-2026/event/3D0064F291AA2B7C",
+      "ticket_url": "https://www.ticketmaster.com.mx/comp-nal-opera-tosca-de-giacomo-mexico-cdmx-13-10-2026/event/3D0064F291AA2B7C",
+      "venue": "Palacio de Bellas Artes",
+      "location": "México CDMX, Ciudad de México, Mexico",
       "tags": [
         "Latin"
       ]
@@ -6999,6 +7059,21 @@
       "date": "2026-11-20",
       "source": "ticketmaster",
       "artists": [
+        "Los Angeles Azules"
+      ],
+      "artist_display": "Los Angeles Azules",
+      "url": "https://www.ticketmaster.com.mx/los-angeles-azules-ciudad-de-mexico-20-11-2026/event/3D0064F28ED428E3",
+      "ticket_url": "https://www.ticketmaster.com.mx/los-angeles-azules-ciudad-de-mexico-20-11-2026/event/3D0064F28ED428E3",
+      "venue": "Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "source": "ticketmaster",
+      "artists": [
         "Nuestros Boleros de Cantina. Carlos Carreira y Salvador Aponte."
       ],
       "artist_display": "Nuestros Boleros de Cantina. Carlos Carreira y Salvador Aponte.",
@@ -7491,6 +7566,21 @@
       "tags": [
         "Rock",
         "Alternative Rock"
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "source": "ticketmaster",
+      "artists": [
+        "Los Angeles Azules"
+      ],
+      "artist_display": "Los Angeles Azules",
+      "url": "https://www.ticketmaster.com.mx/los-angeles-azules-ciudad-de-mexico-21-11-2026/event/3D0064F28F9D2986",
+      "ticket_url": "https://www.ticketmaster.com.mx/los-angeles-azules-ciudad-de-mexico-21-11-2026/event/3D0064F28F9D2986",
+      "venue": "Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
       ]
     },
     {
@@ -8941,6 +9031,22 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2026-12-17",
+      "source": "ticketmaster",
+      "artists": [
+        "Kaia Lana"
+      ],
+      "artist_display": "Kaia Lana",
+      "url": "https://www.ticketmaster.com.mx/kaia-lana-ciudad-de-mexico-17-12-2026/event/3D00650C96B223AF",
+      "ticket_url": "https://www.ticketmaster.com.mx/kaia-lana-ciudad-de-mexico-17-12-2026/event/3D00650C96B223AF",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
