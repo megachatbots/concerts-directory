@@ -1,72 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-08-13T07:25:20.963571Z",
-  "total_concerts": 573,
+  "scraped_at": "2026-08-14T07:22:49.628146Z",
+  "total_concerts": 571,
   "concerts": [
-    {
-      "date": "2026-08-13",
-      "source": "ticketmaster",
-      "artists": [
-        "Antonio Vivaldi"
-      ],
-      "artist_display": "Antonio Vivaldi",
-      "url": "https://www.ticketmaster.com.mx/le-quattro-stagioni-antonio-vivaldi-mexico-13-08-2026/event/3D0064D8B96B2848",
-      "ticket_url": "https://www.ticketmaster.com.mx/le-quattro-stagioni-antonio-vivaldi-mexico-13-08-2026/event/3D0064D8B96B2848",
-      "venue": "Capilla Gótica",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Classical",
-        "Classical/Vocal"
-      ]
-    },
-    {
-      "date": "2026-08-13",
-      "source": "ticketmaster",
-      "artists": [
-        "Arcángel"
-      ],
-      "artist_display": "Arcángel",
-      "url": "https://www.ticketmaster.com.mx/arcangel-ciudad-de-mexico-13-08-2026/event/140064469FEC6790",
-      "ticket_url": "https://www.ticketmaster.com.mx/arcangel-ciudad-de-mexico-13-08-2026/event/140064469FEC6790",
-      "venue": "Palacio de los Deportes",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Hip-Hop/Rap",
-        "Reggaeton"
-      ]
-    },
-    {
-      "date": "2026-08-13",
-      "source": "ticketmaster",
-      "artists": [
-        "Leyendas el show"
-      ],
-      "artist_display": "Leyendas el show",
-      "url": "https://www.ticketmaster.com.mx/leyendas-ciudad-de-mexico-13-08-2026/event/3D0064C2EB89832B",
-      "ticket_url": "https://www.ticketmaster.com.mx/leyendas-ciudad-de-mexico-13-08-2026/event/3D0064C2EB89832B",
-      "venue": "Foro Stelaris Fiesta Americana Reforma",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
-      ]
-    },
-    {
-      "date": "2026-08-13",
-      "source": "ticketmaster",
-      "artists": [
-        "La Joaqui"
-      ],
-      "artist_display": "La Joaqui",
-      "url": "https://www.ticketmaster.com.mx/la-joaqui-ciudad-de-mexico-13-08-2026/event/3D0064BAAFC66A08",
-      "ticket_url": "https://www.ticketmaster.com.mx/la-joaqui-ciudad-de-mexico-13-08-2026/event/3D0064BAAFC66A08",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Hip-Hop/Rap",
-        "Reggaeton"
-      ]
-    },
     {
       "date": "2026-08-13",
       "source": "ticketmaster",
@@ -1019,6 +956,18 @@
         "Pop",
         "Electro Pop"
       ]
+    },
+    {
+      "date": "2026-08-27",
+      "source": "ticketmaster",
+      "artists": [
+        "Natanael Cano"
+      ],
+      "artist_display": "Natanael Cano",
+      "url": "https://www.ticketmaster.com.mx/la-experiencia-mas-tumbada-listening-party-mexico-27-08-2026/event/140064F8AEDF7BBA",
+      "ticket_url": "https://www.ticketmaster.com.mx/la-experiencia-mas-tumbada-listening-party-mexico-27-08-2026/event/140064F8AEDF7BBA",
+      "venue": "Pepsi Center",
+      "location": "México, Ciudad de México, Mexico"
     },
     {
       "date": "2026-08-27",
@@ -2944,21 +2893,6 @@
       "date": "2026-09-18",
       "source": "ticketmaster",
       "artists": [
-        "El Haragán A Capela"
-      ],
-      "artist_display": "El Haragán A Capela",
-      "url": "https://www.ticketmaster.com.mx/el-haragan-a-capela-mexico-18-09-2026/event/1400650A89014972",
-      "ticket_url": "https://www.ticketmaster.com.mx/el-haragan-a-capela-mexico-18-09-2026/event/1400650A89014972",
-      "venue": "Teatro Tepeyac",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
-      ]
-    },
-    {
-      "date": "2026-09-18",
-      "source": "ticketmaster",
-      "artists": [
         "Majo Rivas"
       ],
       "artist_display": "Majo Rivas",
@@ -3954,9 +3888,10 @@
       "date": "2026-10-06",
       "source": "ticketmaster",
       "artists": [
-        "Geese"
+        "Geese",
+        "Mariachi Oro de América"
       ],
-      "artist_display": "Geese",
+      "artist_display": "Geese, Mariachi Oro de América",
       "url": "https://www.ticketmaster.com.mx/geese-getting-killed-again-tour-mexico-06-10-2026/event/14006491D75811D7",
       "ticket_url": "https://www.ticketmaster.com.mx/geese-getting-killed-again-tour-mexico-06-10-2026/event/14006491D75811D7",
       "venue": "Teatro Metropolitan",
@@ -3995,6 +3930,22 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Pop"
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "source": "ticketmaster",
+      "artists": [
+        "Presentación del álbum DEVOTOS: TRIBUTO A SANTA SABINA"
+      ],
+      "artist_display": "Presentación del álbum DEVOTOS: TRIBUTO A SANTA SABINA",
+      "url": "https://www.ticketmaster.com.mx/presentacion-del-album-devotos-tributo-a-mexico-08-10-2026/event/3D00650C92732025",
+      "ticket_url": "https://www.ticketmaster.com.mx/presentacion-del-album-devotos-tributo-a-mexico-08-10-2026/event/3D00650C92732025",
+      "venue": "Teatro de la Ciudad Esperanza Iris",
+      "location": "Mexico, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Alternative Rock"
       ]
     },
     {
@@ -5785,21 +5736,6 @@
       "date": "2026-10-26",
       "source": "ticketmaster",
       "artists": [
-        "TunaEspaña: concierto a beneficio de la Casa del Actor"
-      ],
-      "artist_display": "TunaEspaña: concierto a beneficio de la Casa del Actor",
-      "url": "https://www.ticketmaster.com.mx/tunaespana-concierto-a-beneficio-de-la-mexico-26-10-2026/event/3D006508B3614A8C",
-      "ticket_url": "https://www.ticketmaster.com.mx/tunaespana-concierto-a-beneficio-de-la-mexico-26-10-2026/event/3D006508B3614A8C",
-      "venue": "Teatro de la Ciudad Esperanza Iris",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
-      ]
-    },
-    {
-      "date": "2026-10-26",
-      "source": "ticketmaster",
-      "artists": [
         "Romeo Santos",
         "Prince Royce"
       ],
@@ -6108,6 +6044,22 @@
       "tags": [
         "Folk",
         "Indie Folk"
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "source": "ticketmaster",
+      "artists": [
+        "ROCK-TONY-TLÁN la noche del rock mexicano"
+      ],
+      "artist_display": "ROCK-TONY-TLÁN la noche del rock mexicano",
+      "url": "https://www.ticketmaster.com.mx/rocktonytlan-la-noche-del-rock-mexicano-mexico-05-11-2026/event/3D00650CAC5E39AA",
+      "ticket_url": "https://www.ticketmaster.com.mx/rocktonytlan-la-noche-del-rock-mexicano-mexico-05-11-2026/event/3D00650CAC5E39AA",
+      "venue": "Teatro de la Ciudad Esperanza Iris",
+      "location": "Mexico, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Alternative Rock"
       ]
     },
     {
@@ -6514,6 +6466,21 @@
       "tags": [
         "Rock",
         "Alternative Rock"
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "source": "ticketmaster",
+      "artists": [
+        "Congreso Mundial del Mariachi"
+      ],
+      "artist_display": "Congreso Mundial del Mariachi",
+      "url": "https://www.ticketmaster.com.mx/magno-concierto-sinfonico-congreso-mundial-del-mexico-13-11-2026/event/3D0064FFD1687E92",
+      "ticket_url": "https://www.ticketmaster.com.mx/magno-concierto-sinfonico-congreso-mundial-del-mexico-13-11-2026/event/3D0064FFD1687E92",
+      "venue": "Teatro de la Ciudad Esperanza Iris",
+      "location": "Mexico, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
       ]
     },
     {
