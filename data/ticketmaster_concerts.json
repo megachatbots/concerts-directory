@@ -1,101 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-08-14T07:22:49.628146Z",
-  "total_concerts": 571,
+  "scraped_at": "2026-08-15T06:35:36.896299Z",
+  "total_concerts": 566,
   "concerts": [
-    {
-      "date": "2026-08-13",
-      "source": "ticketmaster",
-      "artists": [
-        "Le Quattro Stagioni Antonio Vivaldi"
-      ],
-      "artist_display": "Le Quattro Stagioni Antonio Vivaldi",
-      "url": "https://www.ticketmaster.com.mx/le-quattro-stagioni-antonio-vivaldi-mexico-13-08-2026/event/3D0064D8B96D284C",
-      "ticket_url": "https://www.ticketmaster.com.mx/le-quattro-stagioni-antonio-vivaldi-mexico-13-08-2026/event/3D0064D8B96D284C",
-      "venue": "Capilla Gótica",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Jazz"
-      ]
-    },
-    {
-      "date": "2026-08-14",
-      "source": "ticketmaster",
-      "artists": [
-        "El Señor de los Anillos Concierto Tributo Audiovisual"
-      ],
-      "artist_display": "El Señor de los Anillos Concierto Tributo Audiovisual",
-      "url": "https://www.ticketmaster.com.mx/el-senor-de-los-anillos-tributo-mexico-14-08-2026/event/3D0064ED86A00FA0",
-      "ticket_url": "https://www.ticketmaster.com.mx/el-senor-de-los-anillos-tributo-mexico-14-08-2026/event/3D0064ED86A00FA0",
-      "venue": "Teatro Xola Julio Prieto",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
-      ]
-    },
-    {
-      "date": "2026-08-14",
-      "source": "ticketmaster",
-      "artists": [
-        "Arcángel"
-      ],
-      "artist_display": "Arcángel",
-      "url": "https://www.ticketmaster.com.mx/arcangel-ciudad-de-mexico-14-08-2026/event/14006446A1F56F31",
-      "ticket_url": "https://www.ticketmaster.com.mx/arcangel-ciudad-de-mexico-14-08-2026/event/14006446A1F56F31",
-      "venue": "Palacio de los Deportes",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Hip-Hop/Rap",
-        "Reggaeton"
-      ]
-    },
-    {
-      "date": "2026-08-14",
-      "source": "ticketmaster",
-      "artists": [
-        "Odissea Music Presenta Progresivo Concierto Sinfonico"
-      ],
-      "artist_display": "Odissea Music Presenta Progresivo Concierto Sinfonico",
-      "url": "https://www.ticketmaster.com.mx/odissea-music-presenta-progresivo-concierto-sinfonico-mexico-14-08-2026/event/140064D890F1360C",
-      "ticket_url": "https://www.ticketmaster.com.mx/odissea-music-presenta-progresivo-concierto-sinfonico-mexico-14-08-2026/event/140064D890F1360C",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
-      ]
-    },
-    {
-      "date": "2026-08-14",
-      "source": "ticketmaster",
-      "artists": [
-        "El Señor de los Anillos Concierto Tributo Audiovisual"
-      ],
-      "artist_display": "El Señor de los Anillos Concierto Tributo Audiovisual",
-      "url": "https://www.ticketmaster.com.mx/el-senor-de-los-anillos-tributo-mexico-14-08-2026/event/3D0064ED87B1102B",
-      "ticket_url": "https://www.ticketmaster.com.mx/el-senor-de-los-anillos-tributo-mexico-14-08-2026/event/3D0064ED87B1102B",
-      "venue": "Teatro Xola Julio Prieto",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
-      ]
-    },
-    {
-      "date": "2026-08-14",
-      "source": "ticketmaster",
-      "artists": [
-        "Beach Weather"
-      ],
-      "artist_display": "Beach Weather",
-      "url": "https://www.ticketmaster.com.mx/beach-weather-te-vi-en-un-ciudad-de-mexico-14-08-2026/event/3D00648BC8665539",
-      "ticket_url": "https://www.ticketmaster.com.mx/beach-weather-te-vi-en-un-ciudad-de-mexico-14-08-2026/event/3D00648BC8665539",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Dance/Electronic",
-        "Amapiano"
-      ]
-    },
     {
       "date": "2026-08-14",
       "source": "ticketmaster",
@@ -964,8 +872,8 @@
         "Natanael Cano"
       ],
       "artist_display": "Natanael Cano",
-      "url": "https://www.ticketmaster.com.mx/la-experiencia-mas-tumbada-listening-party-mexico-27-08-2026/event/140064F8AEDF7BBA",
-      "ticket_url": "https://www.ticketmaster.com.mx/la-experiencia-mas-tumbada-listening-party-mexico-27-08-2026/event/140064F8AEDF7BBA",
+      "url": "https://www.ticketmaster.com.mx/la-experiencia-mas-tumbada-listening-party-mexico-27-08-2026/event/140064F8AC237574",
+      "ticket_url": "https://www.ticketmaster.com.mx/la-experiencia-mas-tumbada-listening-party-mexico-27-08-2026/event/140064F8AC237574",
       "venue": "Pepsi Center",
       "location": "México, Ciudad de México, Mexico"
     },
@@ -8998,6 +8906,22 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2026-12-16",
+      "source": "ticketmaster",
+      "artists": [
+        "Paulina Goto"
+      ],
+      "artist_display": "Paulina Goto",
+      "url": "https://www.ticketmaster.com.mx/paulina-goto-en-cdmx-ciudad-de-mexico-16-12-2026/event/3D0065070623936F",
+      "ticket_url": "https://www.ticketmaster.com.mx/paulina-goto-en-cdmx-ciudad-de-mexico-16-12-2026/event/3D0065070623936F",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
