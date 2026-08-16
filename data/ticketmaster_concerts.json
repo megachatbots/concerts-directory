@@ -1,54 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-08-15T06:35:36.896299Z",
-  "total_concerts": 566,
+  "scraped_at": "2026-08-16T06:37:20.509556Z",
+  "total_concerts": 563,
   "concerts": [
-    {
-      "date": "2026-08-14",
-      "source": "ticketmaster",
-      "artists": [
-        "Bohemia 91"
-      ],
-      "artist_display": "Bohemia 91",
-      "url": "https://www.ticketmaster.com.mx/bohemia-92-rock-sal-moreno-pascual-mexico-14-08-2026/event/3D0064CF85E01144",
-      "ticket_url": "https://www.ticketmaster.com.mx/bohemia-92-rock-sal-moreno-pascual-mexico-14-08-2026/event/3D0064CF85E01144",
-      "venue": "El Cantoral ",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-08-14",
-      "source": "ticketmaster",
-      "artists": [
-        "Paty Cantu"
-      ],
-      "artist_display": "Paty Cantu",
-      "url": "https://www.ticketmaster.com.mx/paty-cantu-residencia-mexico-14-08-2026/event/3D00636EA67D632A",
-      "ticket_url": "https://www.ticketmaster.com.mx/paty-cantu-residencia-mexico-14-08-2026/event/3D00636EA67D632A",
-      "venue": "La Maraka",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
-      ]
-    },
-    {
-      "date": "2026-08-15",
-      "source": "ticketmaster",
-      "artists": [
-        "Nunca Jamas"
-      ],
-      "artist_display": "Nunca Jamas",
-      "url": "https://www.ticketmaster.com.mx/nunca-jamas-ciudad-de-mexico-15-08-2026/event/3D00644CE32E7B2F",
-      "ticket_url": "https://www.ticketmaster.com.mx/nunca-jamas-ciudad-de-mexico-15-08-2026/event/3D00644CE32E7B2F",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
     {
       "date": "2026-08-15",
       "source": "ticketmaster",
