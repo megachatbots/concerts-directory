@@ -1,25 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-08-17T06:52:43.649893Z",
-  "total_concerts": 554,
+  "scraped_at": "2026-08-18T06:40:33.716937Z",
+  "total_concerts": 557,
   "concerts": [
-    {
-      "date": "2026-08-17",
-      "source": "ticketmaster",
-      "artists": [
-        "Antonio Vivaldi"
-      ],
-      "artist_display": "Antonio Vivaldi",
-      "url": "https://www.ticketmaster.com.mx/le-quattro-stagioni-antonio-vivaldi-mexico-17-08-2026/event/3D0064D8B971284E",
-      "ticket_url": "https://www.ticketmaster.com.mx/le-quattro-stagioni-antonio-vivaldi-mexico-17-08-2026/event/3D0064D8B971284E",
-      "venue": "Capilla Gótica",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Classical",
-        "Classical/Vocal"
-      ]
-    },
     {
       "date": "2026-08-17",
       "source": "ticketmaster",
@@ -417,6 +401,22 @@
       "date": "2026-08-22",
       "source": "ticketmaster",
       "artists": [
+        "Anyma"
+      ],
+      "artist_display": "Anyma",
+      "url": "https://www.ticketmaster.com.mx/anyma-stage-ciudad-de-mexico-22-08-2026/event/140065109DA14010",
+      "ticket_url": "https://www.ticketmaster.com.mx/anyma-stage-ciudad-de-mexico-22-08-2026/event/140065109DA14010",
+      "venue": "Estadio GNP Seguros",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Dance/Electronic",
+        "Amapiano"
+      ]
+    },
+    {
+      "date": "2026-08-22",
+      "source": "ticketmaster",
+      "artists": [
         "Los Terricolas de Freddy Fuentes"
       ],
       "artist_display": "Los Terricolas de Freddy Fuentes",
@@ -668,22 +668,6 @@
       "date": "2026-08-27",
       "source": "ticketmaster",
       "artists": [
-        "Morir Poquito"
-      ],
-      "artist_display": "Morir Poquito",
-      "url": "https://www.ticketmaster.com.mx/morir-poquito-mexico-27-08-2026/event/3D0064A4C35E6358",
-      "ticket_url": "https://www.ticketmaster.com.mx/morir-poquito-mexico-27-08-2026/event/3D0064A4C35E6358",
-      "venue": "TEATRO SERGIO MAGAÑA",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-08-27",
-      "source": "ticketmaster",
-      "artists": [
         "Natanael Cano"
       ],
       "artist_display": "Natanael Cano",
@@ -766,22 +750,6 @@
       "location": "México CDMX, Ciudad de México, Mexico",
       "tags": [
         "Latin"
-      ]
-    },
-    {
-      "date": "2026-08-28",
-      "source": "ticketmaster",
-      "artists": [
-        "Morir Poquito"
-      ],
-      "artist_display": "Morir Poquito",
-      "url": "https://www.ticketmaster.com.mx/morir-poquito-mexico-28-08-2026/event/3D0064A4C4BA64EE",
-      "ticket_url": "https://www.ticketmaster.com.mx/morir-poquito-mexico-28-08-2026/event/3D0064A4C4BA64EE",
-      "venue": "TEATRO SERGIO MAGAÑA",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
       ]
     },
     {
@@ -7459,6 +7427,21 @@
       ]
     },
     {
+      "date": "2026-11-22",
+      "source": "ticketmaster",
+      "artists": [
+        "Grupo G"
+      ],
+      "artist_display": "Grupo G",
+      "url": "https://www.ticketmaster.com.mx/grupo-g-permanencia-tour-mexico-22-11-2026/event/3D00650DE7AC94F0",
+      "ticket_url": "https://www.ticketmaster.com.mx/grupo-g-permanencia-tour-mexico-22-11-2026/event/3D00650DE7AC94F0",
+      "venue": "El Cantoral ",
+      "location": "Mexico, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
       "date": "2026-11-23",
       "source": "ticketmaster",
       "artists": [
@@ -8398,6 +8381,22 @@
       ]
     },
     {
+      "date": "2026-12-01",
+      "source": "ticketmaster",
+      "artists": [
+        "Yuri"
+      ],
+      "artist_display": "Yuri",
+      "url": "https://www.ticketmaster.com.mx/yuri-ciudad-de-mexico-01-12-2026/event/3D00650DBC7A62D4",
+      "ticket_url": "https://www.ticketmaster.com.mx/yuri-ciudad-de-mexico-01-12-2026/event/3D00650DBC7A62D4",
+      "venue": "Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
+      ]
+    },
+    {
       "date": "2026-12-03",
       "source": "ticketmaster",
       "artists": [
@@ -8504,6 +8503,51 @@
       "location": "México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2026-12-05",
+      "source": "ticketmaster",
+      "artists": [
+        "Dr. Simi"
+      ],
+      "artist_display": "Dr. Simi",
+      "url": "https://www.ticketmaster.com.mx/simifest-by-bbva-2026-zona-preferente-mexico-05-12-2026/event/1400650DE7DC24BD",
+      "ticket_url": "https://www.ticketmaster.com.mx/simifest-by-bbva-2026-zona-preferente-mexico-05-12-2026/event/1400650DE7DC24BD",
+      "venue": "Autodromo Hnos. Rodriguez",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
+      ]
+    },
+    {
+      "date": "2026-12-05",
+      "source": "ticketmaster",
+      "artists": [
+        "Dr. Simi"
+      ],
+      "artist_display": "Dr. Simi",
+      "url": "https://www.ticketmaster.com.mx/simifest-by-bbva-2026-vip-mexico-05-12-2026/event/1400650DA0F85F87",
+      "ticket_url": "https://www.ticketmaster.com.mx/simifest-by-bbva-2026-vip-mexico-05-12-2026/event/1400650DA0F85F87",
+      "venue": "Autodromo Hnos. Rodriguez",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
+      ]
+    },
+    {
+      "date": "2026-12-05",
+      "source": "ticketmaster",
+      "artists": [
+        "Dr. Simi"
+      ],
+      "artist_display": "Dr. Simi",
+      "url": "https://www.ticketmaster.com.mx/simifest-by-bbva-2026-general-mexico-05-12-2026/event/1400650DAC8A846B",
+      "ticket_url": "https://www.ticketmaster.com.mx/simifest-by-bbva-2026-general-mexico-05-12-2026/event/1400650DAC8A846B",
+      "venue": "Autodromo Hnos. Rodriguez",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
       ]
     },
     {
