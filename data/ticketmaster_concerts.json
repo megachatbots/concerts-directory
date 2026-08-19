@@ -1,39 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-08-18T06:40:33.716937Z",
-  "total_concerts": 557,
+  "scraped_at": "2026-08-19T06:40:55.092734Z",
+  "total_concerts": 560,
   "concerts": [
-    {
-      "date": "2026-08-17",
-      "source": "ticketmaster",
-      "artists": [
-        "Sam Smith"
-      ],
-      "artist_display": "Sam Smith",
-      "url": "https://www.ticketmaster.com.mx/sam-smith-to-be-free-mexico-ciudad-de-mexico-17-08-2026/event/3D00646A9F002D3F",
-      "ticket_url": "https://www.ticketmaster.com.mx/sam-smith-to-be-free-mexico-ciudad-de-mexico-17-08-2026/event/3D00646A9F002D3F",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop"
-      ]
-    },
-    {
-      "date": "2026-08-17",
-      "source": "ticketmaster",
-      "artists": [
-        "Sam Smith"
-      ],
-      "artist_display": "Sam Smith",
-      "url": "https://www.ticketmaster.com.mx/sam-smith-to-be-free-mexico-ciudad-de-mexico-17-08-2026/event/3D00646AA2043072",
-      "ticket_url": "https://www.ticketmaster.com.mx/sam-smith-to-be-free-mexico-ciudad-de-mexico-17-08-2026/event/3D00646AA2043072",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop"
-      ]
-    },
     {
       "date": "2026-08-18",
       "source": "ticketmaster",
@@ -831,9 +801,10 @@
       "date": "2026-08-28",
       "source": "ticketmaster",
       "artists": [
-        "Jorge Muñiz"
+        "Jorge Muñiz",
+        "Cabaret Lunario"
       ],
-      "artist_display": "Jorge Muñiz",
+      "artist_display": "Jorge Muñiz, Cabaret Lunario",
       "url": "https://www.ticketmaster.com.mx/cabaret-lunario-presentajorge-muniz-con-la-ciudad-de-mexico-28-08-2026/event/3D0064EAA3EB310D",
       "ticket_url": "https://www.ticketmaster.com.mx/cabaret-lunario-presentajorge-muniz-con-la-ciudad-de-mexico-28-08-2026/event/3D0064EAA3EB310D",
       "venue": "El Lunario del Auditorio Nacional",
@@ -2115,6 +2086,21 @@
       "date": "2026-09-11",
       "source": "ticketmaster",
       "artists": [
+        "Willie González"
+      ],
+      "artist_display": "Willie González",
+      "url": "https://www.ticketmaster.com.mx/maelo-ruiz-willie-gonzalez-mexico-11-09-2026/event/3D00650CC4B952DE",
+      "ticket_url": "https://www.ticketmaster.com.mx/maelo-ruiz-willie-gonzalez-mexico-11-09-2026/event/3D00650CC4B952DE",
+      "venue": "Mambo Cafe Insurgentes",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "source": "ticketmaster",
+      "artists": [
         "TrendLine"
       ],
       "artist_display": "TrendLine",
@@ -2756,6 +2742,21 @@
       "date": "2026-09-19",
       "source": "ticketmaster",
       "artists": [
+        "Piano Bar El Concierto"
+      ],
+      "artist_display": "Piano Bar El Concierto",
+      "url": "https://www.ticketmaster.com.mx/piano-bar-el-concierto-ciudad-de-mexico-19-09-2026/event/3D00651182EC12B5",
+      "ticket_url": "https://www.ticketmaster.com.mx/piano-bar-el-concierto-ciudad-de-mexico-19-09-2026/event/3D00651182EC12B5",
+      "venue": "Foro Stelaris Fiesta Americana Reforma",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "source": "ticketmaster",
+      "artists": [
         "Natanael Cano"
       ],
       "artist_display": "Natanael Cano",
@@ -3191,9 +3192,10 @@
       "date": "2026-09-26",
       "source": "ticketmaster",
       "artists": [
-        "Estela Nunez"
+        "Estela Nunez",
+        "Cabaret Lunario"
       ],
-      "artist_display": "Estela Nunez",
+      "artist_display": "Estela Nunez, Cabaret Lunario",
       "url": "https://www.ticketmaster.com.mx/cabaret-lunario-presentaestela-nunez-con-mariachi-ciudad-de-mexico-26-09-2026/event/3D0064D80D5047C7",
       "ticket_url": "https://www.ticketmaster.com.mx/cabaret-lunario-presentaestela-nunez-con-mariachi-ciudad-de-mexico-26-09-2026/event/3D0064D80D5047C7",
       "venue": "El Lunario del Auditorio Nacional",
@@ -3580,9 +3582,9 @@
       "source": "ticketmaster",
       "artists": [
         "Geese",
-        "Mariachi Oro de América"
+        "Mariachi De America"
       ],
-      "artist_display": "Geese, Mariachi Oro de América",
+      "artist_display": "Geese, Mariachi De America",
       "url": "https://www.ticketmaster.com.mx/geese-getting-killed-again-tour-mexico-06-10-2026/event/14006491D75811D7",
       "ticket_url": "https://www.ticketmaster.com.mx/geese-getting-killed-again-tour-mexico-06-10-2026/event/14006491D75811D7",
       "venue": "Teatro Metropolitan",
@@ -3737,9 +3739,10 @@
       "date": "2026-10-08",
       "source": "ticketmaster",
       "artists": [
-        "Grupo Galé"
+        "Grupo Galé",
+        "Diego Morán"
       ],
-      "artist_display": "Grupo Galé",
+      "artist_display": "Grupo Galé, Diego Morán",
       "url": "https://www.ticketmaster.com.mx/grupo-gale-y-diego-moran-mexico-08-10-2026/event/3D0064D084571544",
       "ticket_url": "https://www.ticketmaster.com.mx/grupo-gale-y-diego-moran-mexico-08-10-2026/event/3D0064D084571544",
       "venue": "La Maraka",
@@ -3907,9 +3910,10 @@
       "date": "2026-10-09",
       "source": "ticketmaster",
       "artists": [
-        "Grupo Galé"
+        "Grupo Galé",
+        "Diego Morán"
       ],
-      "artist_display": "Grupo Galé",
+      "artist_display": "Grupo Galé, Diego Morán",
       "url": "https://www.ticketmaster.com.mx/grupo-gale-y-diego-moran-mexico-09-10-2026/event/3D0064D08217129F",
       "ticket_url": "https://www.ticketmaster.com.mx/grupo-gale-y-diego-moran-mexico-09-10-2026/event/3D0064D08217129F",
       "venue": "La Maraka",
@@ -4335,6 +4339,22 @@
       "tags": [
         "Pop",
         "Electro Pop"
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "source": "ticketmaster",
+      "artists": [
+        "Jane Remover"
+      ],
+      "artist_display": "Jane Remover",
+      "url": "https://www.ticketmaster.com.mx/jane-remover-mexico-13-10-2026/event/3D00650EE9DD8479",
+      "ticket_url": "https://www.ticketmaster.com.mx/jane-remover-mexico-13-10-2026/event/3D00650EE9DD8479",
+      "venue": "Foro Puebla",
+      "location": "Mexico, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Alternative Rock"
       ]
     },
     {
@@ -7458,6 +7478,22 @@
       ]
     },
     {
+      "date": "2026-11-24",
+      "source": "ticketmaster",
+      "artists": [
+        "Love of Lesbian"
+      ],
+      "artist_display": "Love of Lesbian",
+      "url": "https://www.ticketmaster.com.mx/love-of-lesbian-mexico-24-11-2026/event/14006505C153BCC6",
+      "ticket_url": "https://www.ticketmaster.com.mx/love-of-lesbian-mexico-24-11-2026/event/14006505C153BCC6",
+      "venue": "Teatro Metropolitan",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
+      ]
+    },
+    {
       "date": "2026-11-25",
       "source": "ticketmaster",
       "artists": [
@@ -8400,6 +8436,21 @@
       "date": "2026-12-03",
       "source": "ticketmaster",
       "artists": [
+        "Emmanuel"
+      ],
+      "artist_display": "Emmanuel",
+      "url": "https://www.ticketmaster.com.mx/emmanuel-sinfonico-ciudad-de-mexico-03-12-2026/event/3D00650FD6DE9600",
+      "ticket_url": "https://www.ticketmaster.com.mx/emmanuel-sinfonico-ciudad-de-mexico-03-12-2026/event/3D00650FD6DE9600",
+      "venue": "Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-12-03",
+      "source": "ticketmaster",
+      "artists": [
         "Bruno Mars",
         "DJ Pee .Wee"
       ],
@@ -8564,6 +8615,18 @@
       "tags": [
         "Latin"
       ]
+    },
+    {
+      "date": "2026-12-05",
+      "source": "ticketmaster",
+      "artists": [
+        "I Love Dance"
+      ],
+      "artist_display": "I Love Dance",
+      "url": "https://www.ticketmaster.com.mx/i-love-dance-cdmx-ciudad-de-mexico-05-12-2026/event/3D0065128FE12400",
+      "ticket_url": "https://www.ticketmaster.com.mx/i-love-dance-cdmx-ciudad-de-mexico-05-12-2026/event/3D0065128FE12400",
+      "venue": "Estadio Alfredo Harp Helú",
+      "location": "Ciudad de México, Ciudad de México, Mexico"
     },
     {
       "date": "2026-12-05",
@@ -8776,22 +8839,6 @@
       "artist_display": "Paulina Goto",
       "url": "https://www.ticketmaster.com.mx/paulina-goto-en-cdmx-ciudad-de-mexico-16-12-2026/event/3D0065070623936F",
       "ticket_url": "https://www.ticketmaster.com.mx/paulina-goto-en-cdmx-ciudad-de-mexico-16-12-2026/event/3D0065070623936F",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-12-17",
-      "source": "ticketmaster",
-      "artists": [
-        "Kaia Lana"
-      ],
-      "artist_display": "Kaia Lana",
-      "url": "https://www.ticketmaster.com.mx/kaia-lana-ciudad-de-mexico-17-12-2026/event/3D00650C96B223AF",
-      "ticket_url": "https://www.ticketmaster.com.mx/kaia-lana-ciudad-de-mexico-17-12-2026/event/3D00650C96B223AF",
       "venue": "El Lunario del Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
