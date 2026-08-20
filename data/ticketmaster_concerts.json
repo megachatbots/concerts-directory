@@ -1,70 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-08-19T06:40:55.092734Z",
-  "total_concerts": 560,
+  "scraped_at": "2026-08-20T06:42:44.891529Z",
+  "total_concerts": 555,
   "concerts": [
-    {
-      "date": "2026-08-18",
-      "source": "ticketmaster",
-      "artists": [
-        "Sam Smith"
-      ],
-      "artist_display": "Sam Smith",
-      "url": "https://www.ticketmaster.com.mx/sam-smith-to-be-free-mexico-ciudad-de-mexico-18-08-2026/event/3D00646AA35A3212",
-      "ticket_url": "https://www.ticketmaster.com.mx/sam-smith-to-be-free-mexico-ciudad-de-mexico-18-08-2026/event/3D00646AA35A3212",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop"
-      ]
-    },
-    {
-      "date": "2026-08-18",
-      "source": "ticketmaster",
-      "artists": [
-        "Sam Smith"
-      ],
-      "artist_display": "Sam Smith",
-      "url": "https://www.ticketmaster.com.mx/sam-smith-to-be-free-mexico-ciudad-de-mexico-18-08-2026/event/3D00646AA06C2ED0",
-      "ticket_url": "https://www.ticketmaster.com.mx/sam-smith-to-be-free-mexico-ciudad-de-mexico-18-08-2026/event/3D00646AA06C2ED0",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop"
-      ]
-    },
-    {
-      "date": "2026-08-19",
-      "source": "ticketmaster",
-      "artists": [
-        "Antonio Vivaldi"
-      ],
-      "artist_display": "Antonio Vivaldi",
-      "url": "https://www.ticketmaster.com.mx/le-quattro-stagioni-antonio-vivaldi-mexico-19-08-2026/event/3D0064D8B9712850",
-      "ticket_url": "https://www.ticketmaster.com.mx/le-quattro-stagioni-antonio-vivaldi-mexico-19-08-2026/event/3D0064D8B9712850",
-      "venue": "Capilla Gótica",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Classical",
-        "Classical/Vocal"
-      ]
-    },
-    {
-      "date": "2026-08-19",
-      "source": "ticketmaster",
-      "artists": [
-        "Tributo a la Diva con Jennely"
-      ],
-      "artist_display": "Tributo a la Diva con Jennely",
-      "url": "https://www.ticketmaster.com.mx/tributo-a-la-diva-celebrando-a-mexico-19-08-2026/event/140064FB884328DB",
-      "ticket_url": "https://www.ticketmaster.com.mx/tributo-a-la-diva-celebrando-a-mexico-19-08-2026/event/140064FB884328DB",
-      "venue": "Teatro Hidalgo",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
     {
       "date": "2026-08-20",
       "source": "ticketmaster",
@@ -1743,6 +1682,21 @@
       "location": "Ciudad de Mexico, Ciudad de México, Mexico",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "source": "ticketmaster",
+      "artists": [
+        "Tributo a Los Bee Gees Feel the Fever"
+      ],
+      "artist_display": "Tributo a Los Bee Gees Feel the Fever",
+      "url": "https://www.ticketmaster.com.mx/tributo-a-los-bee-gees-feel-mexico-06-09-2026/event/3D00650E8235174C",
+      "ticket_url": "https://www.ticketmaster.com.mx/tributo-a-los-bee-gees-feel-mexico-06-09-2026/event/3D00650E8235174C",
+      "venue": "La Maraka",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Ballads/Romantic"
       ]
     },
     {
@@ -4348,8 +4302,8 @@
         "Jane Remover"
       ],
       "artist_display": "Jane Remover",
-      "url": "https://www.ticketmaster.com.mx/jane-remover-mexico-13-10-2026/event/3D00650EE9DD8479",
-      "ticket_url": "https://www.ticketmaster.com.mx/jane-remover-mexico-13-10-2026/event/3D00650EE9DD8479",
+      "url": "https://www.ticketmaster.com.mx/jane-remover-live-exhibit-mexico-13-10-2026/event/3D00650EE9DD8479",
+      "ticket_url": "https://www.ticketmaster.com.mx/jane-remover-live-exhibit-mexico-13-10-2026/event/3D00650EE9DD8479",
       "venue": "Foro Puebla",
       "location": "Mexico, Ciudad de México, Mexico",
       "tags": [
@@ -9539,36 +9493,6 @@
       "url": "https://www.ticketmaster.com.mx/grupo-niche-niche-disco-tour-ciudad-de-mexico-18-04-2027/event/3D0064C8BF072F43",
       "ticket_url": "https://www.ticketmaster.com.mx/grupo-niche-niche-disco-tour-ciudad-de-mexico-18-04-2027/event/3D0064C8BF072F43",
       "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2027-05-27",
-      "source": "ticketmaster",
-      "artists": [
-        "Carolina Ross"
-      ],
-      "artist_display": "Carolina Ross",
-      "url": "https://www.ticketmaster.com.mx/carolina-ross-oasis-rossa-meetgreet-ciudad-de-mexico-27-05-2027/event/3D0064F7B3D45018",
-      "ticket_url": "https://www.ticketmaster.com.mx/carolina-ross-oasis-rossa-meetgreet-ciudad-de-mexico-27-05-2027/event/3D0064F7B3D45018",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2027-05-27",
-      "source": "ticketmaster",
-      "artists": [
-        "Carolina Ross"
-      ],
-      "artist_display": "Carolina Ross",
-      "url": "https://www.ticketmaster.com.mx/carolina-ross-oasis-rossa-ciudad-de-mexico-27-05-2027/event/3D0064F7B1A44E00",
-      "ticket_url": "https://www.ticketmaster.com.mx/carolina-ross-oasis-rossa-ciudad-de-mexico-27-05-2027/event/3D0064F7B1A44E00",
-      "venue": "El Lunario del Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
