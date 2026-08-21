@@ -1,86 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-08-20T06:42:44.891529Z",
-  "total_concerts": 555,
+  "scraped_at": "2026-08-21T06:43:16.459412Z",
+  "total_concerts": 551,
   "concerts": [
-    {
-      "date": "2026-08-20",
-      "source": "ticketmaster",
-      "artists": [
-        "Antonio Vivaldi"
-      ],
-      "artist_display": "Antonio Vivaldi",
-      "url": "https://www.ticketmaster.com.mx/le-quattro-stagioni-antonio-vivaldi-mexico-20-08-2026/event/3D0064D8B9722852",
-      "ticket_url": "https://www.ticketmaster.com.mx/le-quattro-stagioni-antonio-vivaldi-mexico-20-08-2026/event/3D0064D8B9722852",
-      "venue": "Capilla Gótica",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Classical",
-        "Classical/Vocal"
-      ]
-    },
-    {
-      "date": "2026-08-20",
-      "source": "ticketmaster",
-      "artists": [
-        "Mercedes Sosa"
-      ],
-      "artist_display": "Mercedes Sosa",
-      "url": "https://www.ticketmaster.com.mx/homenaje-a-mercedes-sosa-con-la-mexico-20-08-2026/event/3D0064DDE2F837A1",
-      "ticket_url": "https://www.ticketmaster.com.mx/homenaje-a-mercedes-sosa-con-la-mexico-20-08-2026/event/3D0064DDE2F837A1",
-      "venue": "Teatro de la Ciudad Esperanza Iris",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-08-20",
-      "source": "ticketmaster",
-      "artists": [
-        "Emilia Borlone"
-      ],
-      "artist_display": "Emilia Borlone",
-      "url": "https://www.ticketmaster.com.mx/emilia-borlone-presenta-la-joya-en-mexico-20-08-2026/event/3D0064B788493C5E",
-      "ticket_url": "https://www.ticketmaster.com.mx/emilia-borlone-presenta-la-joya-en-mexico-20-08-2026/event/3D0064B788493C5E",
-      "venue": "Teatro Benito Juárez",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop"
-      ]
-    },
-    {
-      "date": "2026-08-20",
-      "source": "ticketmaster",
-      "artists": [
-        "Silvia Pérez Cruz"
-      ],
-      "artist_display": "Silvia Pérez Cruz",
-      "url": "https://www.ticketmaster.com.mx/silvia-perez-cruz-mexico-20-08-2026/event/14006489956C5848",
-      "ticket_url": "https://www.ticketmaster.com.mx/silvia-perez-cruz-mexico-20-08-2026/event/14006489956C5848",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "date": "2026-08-20",
-      "source": "ticketmaster",
-      "artists": [
-        "Chingadazo de Kung Fu"
-      ],
-      "artist_display": "Chingadazo de Kung Fu",
-      "url": "https://www.ticketmaster.com.mx/chingadazo-de-kung-fu-el-fin-ciudad-de-mexico-20-08-2026/event/3D006487F389569D",
-      "ticket_url": "https://www.ticketmaster.com.mx/chingadazo-de-kung-fu-el-fin-ciudad-de-mexico-20-08-2026/event/3D006487F389569D",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Alternative Rock"
-      ]
-    },
     {
       "date": "2026-08-20",
       "source": "ticketmaster",
@@ -5968,6 +5891,21 @@
       "date": "2026-11-07",
       "source": "ticketmaster",
       "artists": [
+        "Collage"
+      ],
+      "artist_display": "Collage",
+      "url": "https://www.ticketmaster.com.mx/collage-mexico-07-11-2026/event/3D00651482591E41",
+      "ticket_url": "https://www.ticketmaster.com.mx/collage-mexico-07-11-2026/event/3D00651482591E41",
+      "venue": "Foro Red Access",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
+      ]
+    },
+    {
+      "date": "2026-11-07",
+      "source": "ticketmaster",
+      "artists": [
         "José María"
       ],
       "artist_display": "José María",
@@ -8559,6 +8497,18 @@
       "date": "2026-12-05",
       "source": "ticketmaster",
       "artists": [
+        "I Love Dance"
+      ],
+      "artist_display": "I Love Dance",
+      "url": "https://www.ticketmaster.com.mx/i-love-dance-cdmx-ciudad-de-mexico-05-12-2026/event/3D0065128FE12400",
+      "ticket_url": "https://www.ticketmaster.com.mx/i-love-dance-cdmx-ciudad-de-mexico-05-12-2026/event/3D0065128FE12400",
+      "venue": "Estadio Alfredo Harp Helú",
+      "location": "Ciudad de México, Ciudad de México, Mexico"
+    },
+    {
+      "date": "2026-12-05",
+      "source": "ticketmaster",
+      "artists": [
         "Caifanes"
       ],
       "artist_display": "Caifanes",
@@ -8569,18 +8519,6 @@
       "tags": [
         "Latin"
       ]
-    },
-    {
-      "date": "2026-12-05",
-      "source": "ticketmaster",
-      "artists": [
-        "I Love Dance"
-      ],
-      "artist_display": "I Love Dance",
-      "url": "https://www.ticketmaster.com.mx/i-love-dance-cdmx-ciudad-de-mexico-05-12-2026/event/3D0065128FE12400",
-      "ticket_url": "https://www.ticketmaster.com.mx/i-love-dance-cdmx-ciudad-de-mexico-05-12-2026/event/3D0065128FE12400",
-      "venue": "Estadio Alfredo Harp Helú",
-      "location": "Ciudad de México, Ciudad de México, Mexico"
     },
     {
       "date": "2026-12-05",
