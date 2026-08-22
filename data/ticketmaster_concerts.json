@@ -1,85 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-08-21T06:43:16.459412Z",
-  "total_concerts": 551,
+  "scraped_at": "2026-08-22T06:37:21.693970Z",
+  "total_concerts": 546,
   "concerts": [
-    {
-      "date": "2026-08-20",
-      "source": "ticketmaster",
-      "artists": [
-        "Sam Smith"
-      ],
-      "artist_display": "Sam Smith",
-      "url": "https://www.ticketmaster.com.mx/sam-smith-to-be-free-mexico-ciudad-de-mexico-20-08-2026/event/3D00646AA35A3216",
-      "ticket_url": "https://www.ticketmaster.com.mx/sam-smith-to-be-free-mexico-ciudad-de-mexico-20-08-2026/event/3D00646AA35A3216",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop"
-      ]
-    },
-    {
-      "date": "2026-08-20",
-      "source": "ticketmaster",
-      "artists": [
-        "Sam Smith"
-      ],
-      "artist_display": "Sam Smith",
-      "url": "https://www.ticketmaster.com.mx/sam-smith-to-be-free-mexico-ciudad-de-mexico-20-08-2026/event/3D00646AA06C2ED4",
-      "ticket_url": "https://www.ticketmaster.com.mx/sam-smith-to-be-free-mexico-ciudad-de-mexico-20-08-2026/event/3D00646AA06C2ED4",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop"
-      ]
-    },
-    {
-      "date": "2026-08-21",
-      "source": "ticketmaster",
-      "artists": [
-        "Festival Mundial del Bolero"
-      ],
-      "artist_display": "Festival Mundial del Bolero",
-      "url": "https://www.ticketmaster.com.mx/xi-festival-mundial-del-bolero-mexico-21-08-2026/event/3D0064D3C3E355E5",
-      "ticket_url": "https://www.ticketmaster.com.mx/xi-festival-mundial-del-bolero-mexico-21-08-2026/event/3D0064D3C3E355E5",
-      "venue": "Teatro de la Ciudad Esperanza Iris",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
-      ]
-    },
-    {
-      "date": "2026-08-21",
-      "source": "ticketmaster",
-      "artists": [
-        "Macuiles"
-      ],
-      "artist_display": "Macuiles",
-      "url": "https://www.ticketmaster.com.mx/macuiles-mexico-21-08-2026/event/3D0064B681B52C29",
-      "ticket_url": "https://www.ticketmaster.com.mx/macuiles-mexico-21-08-2026/event/3D0064B681B52C29",
-      "venue": "Teatro Benito Juárez",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-08-21",
-      "source": "ticketmaster",
-      "artists": [
-        "Sinfónica de Minería"
-      ],
-      "artist_display": "Sinfónica de Minería",
-      "url": "https://www.ticketmaster.com.mx/la-sinfonia-de-colaborar-mexico-21-08-2026/event/3D0064E9B9AC433D",
-      "ticket_url": "https://www.ticketmaster.com.mx/la-sinfonia-de-colaborar-mexico-21-08-2026/event/3D0064E9B9AC433D",
-      "venue": "Sala Silvestre Revueltas",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Classical",
-        "Classical/Vocal"
-      ]
-    },
     {
       "date": "2026-08-21",
       "source": "ticketmaster",
@@ -4222,9 +4146,10 @@
       "date": "2026-10-13",
       "source": "ticketmaster",
       "artists": [
-        "Jane Remover"
+        "Jane Remover",
+        "Dazegxd"
       ],
-      "artist_display": "Jane Remover",
+      "artist_display": "Jane Remover, Dazegxd",
       "url": "https://www.ticketmaster.com.mx/jane-remover-live-exhibit-mexico-13-10-2026/event/3D00650EE9DD8479",
       "ticket_url": "https://www.ticketmaster.com.mx/jane-remover-live-exhibit-mexico-13-10-2026/event/3D00650EE9DD8479",
       "venue": "Foro Puebla",
