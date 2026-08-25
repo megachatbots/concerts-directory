@@ -1,57 +1,9 @@
 {
   "source": "songkick",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-08-24T06:55:48.439365Z",
-  "total_concerts": 588,
+  "scraped_at": "2026-08-25T06:43:35.535763Z",
+  "total_concerts": 583,
   "concerts": [
-    {
-      "date": "2026-09-04",
-      "source": "songkick",
-      "artists": [
-        "Siddhartha"
-      ],
-      "artist_display": "Siddhartha",
-      "url": "https://www.songkick.com/concerts/42941662-siddhartha-at-palacio-de-los-deportes",
-      "venue": "Palacio de los Deportes",
-      "venue_url": "https://www.songkick.com/venues/31907-palacio-de-los-deportes",
-      "location": "Palacio de los Deportes,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-09-04",
-      "source": "songkick",
-      "artists": [
-        "Yuridia"
-      ],
-      "artist_display": "Yuridia",
-      "url": "https://www.songkick.com/concerts/43186937-yuridia-at-estadio-gnp-seguros",
-      "venue": "Estadio GNP Seguros",
-      "venue_url": "https://www.songkick.com/venues/33578-estadio-gnp-seguros",
-      "location": "Estadio GNP Seguros,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-09-04",
-      "source": "songkick",
-      "artists": [
-        "TINI"
-      ],
-      "artist_display": "TINI",
-      "url": "https://www.songkick.com/concerts/43233280-tini-at-arena-cdmx",
-      "venue": "Arena CDMX",
-      "venue_url": "https://www.songkick.com/venues/1649258-arena-cdmx",
-      "location": "Arena CDMX,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-09-04",
-      "source": "songkick",
-      "artists": [
-        "MadballUno A Uno and uno a uno hardcore"
-      ],
-      "artist_display": "MadballUno A Uno and uno a uno hardcore",
-      "url": "https://www.songkick.com/concerts/43111276-madball-at-foro-1869",
-      "venue": "Foro 1869",
-      "venue_url": "https://www.songkick.com/venues/3826719-foro-1869",
-      "location": "Foro 1869,Mexico City, Mexico"
-    },
     {
       "date": "2026-09-04",
       "source": "songkick",
@@ -87,18 +39,6 @@
       "venue": "Doppler",
       "venue_url": "https://www.songkick.com/venues/2928958-doppler",
       "location": "Doppler,Texcoco, Mexico"
-    },
-    {
-      "date": "2026-09-04",
-      "source": "songkick",
-      "artists": [
-        "Cosmic GateFher"
-      ],
-      "artist_display": "Cosmic GateFher",
-      "url": "https://www.songkick.com/concerts/43373652-cosmic-gate-at-looloo",
-      "venue": "LooLoo",
-      "venue_url": "https://www.songkick.com/venues/3769259-looloo",
-      "location": "LooLoo,Mexico City, Mexico"
     },
     {
       "date": "2026-09-05",
@@ -428,9 +368,9 @@
       "date": "2026-09-11",
       "source": "songkick",
       "artists": [
-        "Psychedelic Porn Crumpets"
+        "Psychedelic Porn CrumpetsMirror Revelations"
       ],
-      "artist_display": "Psychedelic Porn Crumpets",
+      "artist_display": "Psychedelic Porn CrumpetsMirror Revelations",
       "url": "https://www.songkick.com/concerts/43263980-psychedelic-porn-crumpets-at-orbe",
       "venue": "Orbe",
       "venue_url": "https://www.songkick.com/venues/1396323-orbe",
@@ -5634,6 +5574,18 @@
       "date": "2026-11-28",
       "source": "songkick",
       "artists": [
+        "Menudo"
+      ],
+      "artist_display": "Menudo",
+      "url": "https://www.songkick.com/concerts/43275004-menudo-at-teatro-metropolitan",
+      "venue": "Teatro Metropólitan",
+      "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
+      "location": "Teatro Metropólitan,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-11-28",
+      "source": "songkick",
+      "artists": [
         "Nicho Hinojosa"
       ],
       "artist_display": "Nicho Hinojosa",
@@ -5653,18 +5605,6 @@
       "venue": "Arena CDMX",
       "venue_url": "https://www.songkick.com/venues/1649258-arena-cdmx",
       "location": "Arena CDMX,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-28",
-      "source": "songkick",
-      "artists": [
-        "Menudo"
-      ],
-      "artist_display": "Menudo",
-      "url": "https://www.songkick.com/concerts/43275004-menudo-at-teatro-metropolitan",
-      "venue": "Teatro Metropólitan",
-      "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
-      "location": "Teatro Metropólitan,Mexico City, Mexico"
     },
     {
       "date": "2026-11-28",

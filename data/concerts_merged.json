@@ -5,40 +5,9 @@
     "ticketmaster"
   ],
   "metro_area": "Mexico City",
-  "scraped_at": "2026-08-24T06:55:53.041017Z",
-  "total_concerts": 817,
+  "scraped_at": "2026-08-25T06:43:39.811353Z",
+  "total_concerts": 825,
   "concerts": [
-    {
-      "date": "2026-08-24",
-      "source": "ticketmaster",
-      "artists": [
-        "Antonio Vivaldi"
-      ],
-      "artist_display": "Antonio Vivaldi",
-      "url": "https://www.ticketmaster.com.mx/le-quattro-stagioni-antonio-vivaldi-mexico-24-08-2026/event/3D0064D8B9752857",
-      "ticket_url": "https://www.ticketmaster.com.mx/le-quattro-stagioni-antonio-vivaldi-mexico-24-08-2026/event/3D0064D8B9752857",
-      "venue": "Capilla Gótica",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Classical",
-        "Classical/Vocal"
-      ]
-    },
-    {
-      "date": "2026-08-24",
-      "source": "ticketmaster",
-      "artists": [
-        "ROSALÍA"
-      ],
-      "artist_display": "ROSALÍA",
-      "url": "https://www.ticketmaster.com.mx/rosalia-lux-tour-2026-ciudad-de-mexico-24-08-2026/event/1400636DFBA285C0",
-      "ticket_url": "https://www.ticketmaster.com.mx/rosalia-lux-tour-2026-ciudad-de-mexico-24-08-2026/event/1400636DFBA285C0",
-      "venue": "Palacio de los Deportes",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
     {
       "date": "2026-08-25",
       "source": "ticketmaster",
@@ -637,63 +606,6 @@
       "date": "2026-09-04",
       "source": "songkick",
       "artists": [
-        "Siddhartha"
-      ],
-      "artist_display": "Siddhartha",
-      "url": "https://www.songkick.com/concerts/42941662-siddhartha-at-palacio-de-los-deportes",
-      "venue": "Palacio de los Deportes",
-      "venue_url": "https://www.songkick.com/venues/31907-palacio-de-los-deportes",
-      "location": "Palacio de los Deportes,Mexico City, Mexico",
-      "ticket_url": "https://www.ticketmaster.com.mx/siddhartha-ciudad-de-mexico-04-09-2026/event/14006389D0F9D895",
-      "tags": [
-        "Alternative Rock",
-        "Rock"
-      ]
-    },
-    {
-      "date": "2026-09-04",
-      "source": "songkick",
-      "artists": [
-        "Yuridia"
-      ],
-      "artist_display": "Yuridia",
-      "url": "https://www.songkick.com/concerts/43186937-yuridia-at-estadio-gnp-seguros",
-      "venue": "Estadio GNP Seguros",
-      "venue_url": "https://www.songkick.com/venues/33578-estadio-gnp-seguros",
-      "location": "Estadio GNP Seguros,Mexico City, Mexico",
-      "ticket_url": "https://www.ticketmaster.com.mx/yuridia-las-cartas-sobre-la-mesa-ciudad-de-mexico-04-09-2026/event/14006497E66626E7",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-09-04",
-      "source": "songkick",
-      "artists": [
-        "TINI"
-      ],
-      "artist_display": "TINI",
-      "url": "https://www.songkick.com/concerts/43233280-tini-at-arena-cdmx",
-      "venue": "Arena CDMX",
-      "venue_url": "https://www.songkick.com/venues/1649258-arena-cdmx",
-      "location": "Arena CDMX,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-09-04",
-      "source": "songkick",
-      "artists": [
-        "MadballUno A Uno and uno a uno hardcore"
-      ],
-      "artist_display": "MadballUno A Uno and uno a uno hardcore",
-      "url": "https://www.songkick.com/concerts/43111276-madball-at-foro-1869",
-      "venue": "Foro 1869",
-      "venue_url": "https://www.songkick.com/venues/3826719-foro-1869",
-      "location": "Foro 1869,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-09-04",
-      "source": "songkick",
-      "artists": [
         "Paul Alone"
       ],
       "artist_display": "Paul Alone",
@@ -725,18 +637,6 @@
       "venue": "Doppler",
       "venue_url": "https://www.songkick.com/venues/2928958-doppler",
       "location": "Doppler,Texcoco, Mexico"
-    },
-    {
-      "date": "2026-09-04",
-      "source": "songkick",
-      "artists": [
-        "Cosmic GateFher"
-      ],
-      "artist_display": "Cosmic GateFher",
-      "url": "https://www.songkick.com/concerts/43373652-cosmic-gate-at-looloo",
-      "venue": "LooLoo",
-      "venue_url": "https://www.songkick.com/venues/3769259-looloo",
-      "location": "LooLoo,Mexico City, Mexico"
     },
     {
       "date": "2026-09-04",
@@ -773,6 +673,22 @@
       "date": "2026-09-04",
       "source": "ticketmaster",
       "artists": [
+        "Siddhartha"
+      ],
+      "artist_display": "Siddhartha",
+      "url": "https://www.ticketmaster.com.mx/siddhartha-ciudad-de-mexico-04-09-2026/event/14006389D0F9D895",
+      "ticket_url": "https://www.ticketmaster.com.mx/siddhartha-ciudad-de-mexico-04-09-2026/event/14006389D0F9D895",
+      "venue": "Palacio de los Deportes",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Alternative Rock"
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "source": "ticketmaster",
+      "artists": [
         "David Byrne"
       ],
       "artist_display": "David Byrne",
@@ -783,6 +699,37 @@
       "tags": [
         "Rock",
         "Alternative Rock"
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "source": "ticketmaster",
+      "artists": [
+        "Yuridia"
+      ],
+      "artist_display": "Yuridia",
+      "url": "https://www.ticketmaster.com.mx/yuridia-las-cartas-sobre-la-mesa-ciudad-de-mexico-04-09-2026/event/14006497E66626E7",
+      "ticket_url": "https://www.ticketmaster.com.mx/yuridia-las-cartas-sobre-la-mesa-ciudad-de-mexico-04-09-2026/event/14006497E66626E7",
+      "venue": "Estadio GNP Seguros",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "source": "ticketmaster",
+      "artists": [
+        "La Cantadera"
+      ],
+      "artist_display": "La Cantadera",
+      "url": "https://www.ticketmaster.com.mx/la-cantadera-ciudad-de-mexico-04-09-2026/event/3D006514C03D5FB0",
+      "ticket_url": "https://www.ticketmaster.com.mx/la-cantadera-ciudad-de-mexico-04-09-2026/event/3D006514C03D5FB0",
+      "venue": "Foro Stelaris Fiesta Americana Reforma",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Pop"
       ]
     },
     {
@@ -1442,9 +1389,9 @@
       "date": "2026-09-11",
       "source": "songkick",
       "artists": [
-        "Psychedelic Porn Crumpets"
+        "Psychedelic Porn CrumpetsMirror Revelations"
       ],
-      "artist_display": "Psychedelic Porn Crumpets",
+      "artist_display": "Psychedelic Porn CrumpetsMirror Revelations",
       "url": "https://www.songkick.com/concerts/43263980-psychedelic-porn-crumpets-at-orbe",
       "venue": "Orbe",
       "venue_url": "https://www.songkick.com/venues/1396323-orbe",
@@ -2425,6 +2372,22 @@
       ]
     },
     {
+      "date": "2026-09-18",
+      "source": "ticketmaster",
+      "artists": [
+        "La Cantadera"
+      ],
+      "artist_display": "La Cantadera",
+      "url": "https://www.ticketmaster.com.mx/la-cantadera-ciudad-de-mexico-18-09-2026/event/3D006514C2BE626A",
+      "ticket_url": "https://www.ticketmaster.com.mx/la-cantadera-ciudad-de-mexico-18-09-2026/event/3D006514C2BE626A",
+      "venue": "Foro Stelaris Fiesta Americana Reforma",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
       "date": "2026-09-19",
       "source": "songkick",
       "artists": [
@@ -2842,6 +2805,21 @@
       "tags": [
         "Rock",
         "Pop"
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "source": "ticketmaster",
+      "artists": [
+        "Leyendas el show"
+      ],
+      "artist_display": "Leyendas el show",
+      "url": "https://www.ticketmaster.com.mx/leyendas-ciudad-de-mexico-24-09-2026/event/3D0064C2EB8B8335",
+      "ticket_url": "https://www.ticketmaster.com.mx/leyendas-ciudad-de-mexico-24-09-2026/event/3D0064C2EB8B8335",
+      "venue": "Foro Stelaris Fiesta Americana Reforma",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Ballads/Romantic"
       ]
     },
     {
@@ -3552,6 +3530,21 @@
       "location": "México, Ciudad de México, Mexico",
       "tags": [
         "Pop"
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "source": "ticketmaster",
+      "artists": [
+        "Entre Ardidas El Show"
+      ],
+      "artist_display": "Entre Ardidas El Show",
+      "url": "https://www.ticketmaster.com.mx/entre-ardidas-el-show-ciudad-de-mexico-01-10-2026/event/3D00651889701154",
+      "ticket_url": "https://www.ticketmaster.com.mx/entre-ardidas-el-show-ciudad-de-mexico-01-10-2026/event/3D00651889701154",
+      "venue": "Foro Stelaris Fiesta Americana Reforma",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
       ]
     },
     {
@@ -5286,6 +5279,21 @@
       "date": "2026-10-15",
       "source": "ticketmaster",
       "artists": [
+        "Leyendas el show"
+      ],
+      "artist_display": "Leyendas el show",
+      "url": "https://www.ticketmaster.com.mx/leyendas-ciudad-de-mexico-15-10-2026/event/3D00651482A91E95",
+      "ticket_url": "https://www.ticketmaster.com.mx/leyendas-ciudad-de-mexico-15-10-2026/event/3D00651482A91E95",
+      "venue": "Foro Stelaris Fiesta Americana Reforma",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Ballads/Romantic"
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "source": "ticketmaster",
+      "artists": [
         "Two Door Cinema Club"
       ],
       "artist_display": "Two Door Cinema Club",
@@ -5496,6 +5504,22 @@
       "location": "México, Ciudad de México, Mexico",
       "tags": [
         "Ballads/Romantic"
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "source": "ticketmaster",
+      "artists": [
+        "La Cantadera"
+      ],
+      "artist_display": "La Cantadera",
+      "url": "https://www.ticketmaster.com.mx/la-cantadera-ciudad-de-mexico-16-10-2026/event/3D006514C2BE626C",
+      "ticket_url": "https://www.ticketmaster.com.mx/la-cantadera-ciudad-de-mexico-16-10-2026/event/3D006514C2BE626C",
+      "venue": "Foro Stelaris Fiesta Americana Reforma",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Pop"
       ]
     },
     {
@@ -6478,6 +6502,22 @@
       ]
     },
     {
+      "date": "2026-10-24",
+      "source": "ticketmaster",
+      "artists": [
+        "Alive, una fiesta en el tiempo"
+      ],
+      "artist_display": "Alive, una fiesta en el tiempo",
+      "url": "https://www.ticketmaster.com.mx/alive-ciudad-de-mexico-24-10-2026/event/3D006514BD065D0E",
+      "ticket_url": "https://www.ticketmaster.com.mx/alive-ciudad-de-mexico-24-10-2026/event/3D006514BD065D0E",
+      "venue": "Foro Stelaris Fiesta Americana Reforma",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
+      ]
+    },
+    {
       "date": "2026-10-25",
       "source": "songkick",
       "artists": [
@@ -6729,6 +6769,22 @@
       "date": "2026-10-28",
       "source": "ticketmaster",
       "artists": [
+        "Omar Courtz"
+      ],
+      "artist_display": "Omar Courtz",
+      "url": "https://www.ticketmaster.com.mx/omar-courtz-ciudad-de-mexico-28-10-2026/event/140064DEC19B99D4",
+      "ticket_url": "https://www.ticketmaster.com.mx/omar-courtz-ciudad-de-mexico-28-10-2026/event/140064DEC19B99D4",
+      "venue": "Palacio de los Deportes",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Hip-Hop/Rap",
+        "Trap"
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "source": "ticketmaster",
+      "artists": [
         "Jimmy Sea"
       ],
       "artist_display": "Jimmy Sea",
@@ -6826,6 +6882,21 @@
       "location": "México, Ciudad de México, Mexico",
       "tags": [
         "Other"
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "source": "ticketmaster",
+      "artists": [
+        "Leyendas el show"
+      ],
+      "artist_display": "Leyendas el show",
+      "url": "https://www.ticketmaster.com.mx/leyendas-ciudad-de-mexico-29-10-2026/event/3D006514838A1F76",
+      "ticket_url": "https://www.ticketmaster.com.mx/leyendas-ciudad-de-mexico-29-10-2026/event/3D006514838A1F76",
+      "venue": "Foro Stelaris Fiesta Americana Reforma",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Ballads/Romantic"
       ]
     },
     {
@@ -8192,6 +8263,22 @@
       ]
     },
     {
+      "date": "2026-11-13",
+      "source": "ticketmaster",
+      "artists": [
+        "La Cantadera"
+      ],
+      "artist_display": "La Cantadera",
+      "url": "https://www.ticketmaster.com.mx/la-cantadera-ciudad-de-mexico-13-11-2026/event/3D006514C2BF6272",
+      "ticket_url": "https://www.ticketmaster.com.mx/la-cantadera-ciudad-de-mexico-13-11-2026/event/3D006514C2BF6272",
+      "venue": "Foro Stelaris Fiesta Americana Reforma",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
       "date": "2026-11-14",
       "source": "songkick",
       "artists": [
@@ -8627,6 +8714,21 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Pop"
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "source": "ticketmaster",
+      "artists": [
+        "Entre Ardidas El Show"
+      ],
+      "artist_display": "Entre Ardidas El Show",
+      "url": "https://www.ticketmaster.com.mx/entre-ardidas-el-show-ciudad-de-mexico-19-11-2026/event/3D0065188ADB12E7",
+      "ticket_url": "https://www.ticketmaster.com.mx/entre-ardidas-el-show-ciudad-de-mexico-19-11-2026/event/3D0065188ADB12E7",
+      "venue": "Foro Stelaris Fiesta Americana Reforma",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
       ]
     },
     {
@@ -9654,6 +9756,22 @@
       "date": "2026-11-28",
       "source": "songkick",
       "artists": [
+        "Menudo"
+      ],
+      "artist_display": "Menudo",
+      "url": "https://www.songkick.com/concerts/43275004-menudo-at-teatro-metropolitan",
+      "venue": "Teatro Metropólitan",
+      "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
+      "location": "Teatro Metropólitan,Mexico City, Mexico",
+      "ticket_url": "https://www.ticketmaster.com.mx/claridad-vip-mg-upgrade-boleto-de-mexico-28-11-2026/event/140064F8A65B684A",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "source": "songkick",
+      "artists": [
         "Nicho Hinojosa"
       ],
       "artist_display": "Nicho Hinojosa",
@@ -9677,22 +9795,6 @@
       "venue": "Arena CDMX",
       "venue_url": "https://www.songkick.com/venues/1649258-arena-cdmx",
       "location": "Arena CDMX,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-28",
-      "source": "songkick",
-      "artists": [
-        "Menudo"
-      ],
-      "artist_display": "Menudo",
-      "url": "https://www.songkick.com/concerts/43275004-menudo-at-teatro-metropolitan",
-      "venue": "Teatro Metropólitan",
-      "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
-      "location": "Teatro Metropólitan,Mexico City, Mexico",
-      "ticket_url": "https://www.ticketmaster.com.mx/claridad-vip-mg-upgrade-boleto-de-mexico-28-11-2026/event/140064F8A65B684A",
-      "tags": [
-        "Latin"
-      ]
     },
     {
       "date": "2026-11-28",
@@ -9829,6 +9931,22 @@
       "tags": [
         "Rock",
         "Alternative Rock"
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "source": "ticketmaster",
+      "artists": [
+        "Alive, una fiesta en el tiempo"
+      ],
+      "artist_display": "Alive, una fiesta en el tiempo",
+      "url": "https://www.ticketmaster.com.mx/alive-ciudad-de-mexico-28-11-2026/event/3D006514BFA15F35",
+      "ticket_url": "https://www.ticketmaster.com.mx/alive-ciudad-de-mexico-28-11-2026/event/3D006514BFA15F35",
+      "venue": "Foro Stelaris Fiesta Americana Reforma",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -10320,6 +10438,22 @@
       "ticket_url": "https://www.ticketmaster.com.mx/i-love-dance-cdmx-ciudad-de-mexico-05-12-2026/event/3D0065128FE12400",
       "venue": "Estadio Alfredo Harp Helú",
       "location": "Ciudad de México, Ciudad de México, Mexico"
+    },
+    {
+      "date": "2026-12-05",
+      "source": "ticketmaster",
+      "artists": [
+        "La Esfinge"
+      ],
+      "artist_display": "La Esfinge",
+      "url": "https://www.ticketmaster.com.mx/la-esfinge-mexico-05-12-2026/event/14006516EE5086C0",
+      "ticket_url": "https://www.ticketmaster.com.mx/la-esfinge-mexico-05-12-2026/event/14006516EE5086C0",
+      "venue": "Pabellón del Palacio de los Deportes",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Pop"
+      ]
     },
     {
       "date": "2026-12-06",
