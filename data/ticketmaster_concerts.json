@@ -1,24 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-08-25T06:43:39.783469Z",
-  "total_concerts": 540,
+  "scraped_at": "2026-08-26T06:46:24.178160Z",
+  "total_concerts": 542,
   "concerts": [
-    {
-      "date": "2026-08-25",
-      "source": "ticketmaster",
-      "artists": [
-        "Flamenco Festival"
-      ],
-      "artist_display": "Flamenco Festival",
-      "url": "https://www.ticketmaster.com.mx/gala-de-cierre-festival-internacional-flamenco-mexico-25-08-2026/event/3D0064C58F6C3778",
-      "ticket_url": "https://www.ticketmaster.com.mx/gala-de-cierre-festival-internacional-flamenco-mexico-25-08-2026/event/3D0064C58F6C3778",
-      "venue": "Teatro de la Ciudad Esperanza Iris",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
     {
       "date": "2026-08-25",
       "source": "ticketmaster",
@@ -2631,6 +2616,22 @@
       ]
     },
     {
+      "date": "2026-09-25",
+      "source": "ticketmaster",
+      "artists": [
+        "Jorge Muñiz",
+        "Cabaret Lunario"
+      ],
+      "artist_display": "Jorge Muñiz, Cabaret Lunario",
+      "url": "https://www.ticketmaster.com.mx/cabaret-lunario-presentajorge-muniz-con-la-ciudad-de-mexico-25-09-2026/event/3D0064D8C1A82C0D",
+      "ticket_url": "https://www.ticketmaster.com.mx/cabaret-lunario-presentajorge-muniz-con-la-ciudad-de-mexico-25-09-2026/event/3D0064D8C1A82C0D",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
       "date": "2026-09-26",
       "source": "ticketmaster",
       "artists": [
@@ -2754,6 +2755,22 @@
       "location": "México, Ciudad de México, Mexico",
       "tags": [
         "Ballads/Romantic"
+      ]
+    },
+    {
+      "date": "2026-09-26",
+      "source": "ticketmaster",
+      "artists": [
+        "WhoMadeWho"
+      ],
+      "artist_display": "WhoMadeWho",
+      "url": "https://www.ticketmaster.com.mx/whomadewho-pres-the-moment-live-mexico-26-09-2026/event/140064FC934B5946",
+      "ticket_url": "https://www.ticketmaster.com.mx/whomadewho-pres-the-moment-live-mexico-26-09-2026/event/140064FC934B5946",
+      "venue": "Foro Polanco Moliere",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Alternative Rock"
       ]
     },
     {
@@ -8231,6 +8248,22 @@
       "tags": [
         "Hip-Hop/Rap",
         "Trap"
+      ]
+    },
+    {
+      "date": "2026-12-04",
+      "source": "ticketmaster",
+      "artists": [
+        "La Esfinge"
+      ],
+      "artist_display": "La Esfinge",
+      "url": "https://www.ticketmaster.com.mx/la-esfinge-mexico-04-12-2026/event/14006519AABA6B22",
+      "ticket_url": "https://www.ticketmaster.com.mx/la-esfinge-mexico-04-12-2026/event/14006519AABA6B22",
+      "venue": "Pabellón del Palacio de los Deportes",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Pop"
       ]
     },
     {
