@@ -1,82 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-08-27T17:21:13.021259Z",
-  "total_concerts": 558,
+  "scraped_at": "2026-08-28T18:13:54.184116Z",
+  "total_concerts": 559,
   "concerts": [
-    {
-      "date": "2026-08-27",
-      "source": "ticketmaster",
-      "artists": [
-        "Natanael Cano"
-      ],
-      "artist_display": "Natanael Cano",
-      "url": "https://www.ticketmaster.com.mx/la-experiencia-mas-tumbada-listening-party-mexico-27-08-2026/event/140064F8AC237574",
-      "ticket_url": "https://www.ticketmaster.com.mx/la-experiencia-mas-tumbada-listening-party-mexico-27-08-2026/event/140064F8AC237574",
-      "venue": "Pepsi Center",
-      "location": "México, Ciudad de México, Mexico"
-    },
-    {
-      "date": "2026-08-27",
-      "source": "ticketmaster",
-      "artists": [
-        "Madreperla"
-      ],
-      "artist_display": "Madreperla",
-      "url": "https://www.ticketmaster.com.mx/madreperla-mexico-27-08-2026/event/140064B3A52F7EC5",
-      "ticket_url": "https://www.ticketmaster.com.mx/madreperla-mexico-27-08-2026/event/140064B3A52F7EC5",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
-      ]
-    },
-    {
-      "date": "2026-08-27",
-      "source": "ticketmaster",
-      "artists": [
-        "Leyendas el show"
-      ],
-      "artist_display": "Leyendas el show",
-      "url": "https://www.ticketmaster.com.mx/leyendas-ciudad-de-mexico-27-08-2026/event/3D0064C2EB89832D",
-      "ticket_url": "https://www.ticketmaster.com.mx/leyendas-ciudad-de-mexico-27-08-2026/event/3D0064C2EB89832D",
-      "venue": "Foro Stelaris Fiesta Americana Reforma",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
-      ]
-    },
-    {
-      "date": "2026-08-27",
-      "source": "ticketmaster",
-      "artists": [
-        "Victor Garcia"
-      ],
-      "artist_display": "Victor Garcia",
-      "url": "https://www.ticketmaster.com.mx/victor-garcia-mi-regreso-tour-ciudad-de-mexico-27-08-2026/event/3D00631292361CD5",
-      "ticket_url": "https://www.ticketmaster.com.mx/victor-garcia-mi-regreso-tour-ciudad-de-mexico-27-08-2026/event/3D00631292361CD5",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-08-27",
-      "source": "ticketmaster",
-      "artists": [
-        "Antonio Vivaldi"
-      ],
-      "artist_display": "Antonio Vivaldi",
-      "url": "https://www.ticketmaster.com.mx/le-quattro-stagioni-antonio-vivaldi-mexico-27-08-2026/event/3D0064D8B9782860",
-      "ticket_url": "https://www.ticketmaster.com.mx/le-quattro-stagioni-antonio-vivaldi-mexico-27-08-2026/event/3D0064D8B9782860",
-      "venue": "Capilla Gótica",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Classical",
-        "Classical/Vocal"
-      ]
-    },
     {
       "date": "2026-08-28",
       "source": "ticketmaster",
@@ -3348,8 +3275,8 @@
       "venue": "Pabellón del Palacio de los Deportes",
       "location": "México, Ciudad de México, Mexico",
       "tags": [
-        "Pop",
-        "Electro Pop"
+        "Dance/Electronic",
+        "Amapiano"
       ]
     },
     {
@@ -4159,21 +4086,6 @@
       "location": "México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
-      ]
-    },
-    {
-      "date": "2026-10-16",
-      "source": "ticketmaster",
-      "artists": [
-        "TrendLine"
-      ],
-      "artist_display": "TrendLine",
-      "url": "https://www.ticketmaster.com.mx/trendline-mexico-16-10-2026/event/3D00649B84A00ED7",
-      "ticket_url": "https://www.ticketmaster.com.mx/trendline-mexico-16-10-2026/event/3D00649B84A00ED7",
-      "venue": "Foro Red Access",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
       ]
     },
     {
@@ -6154,6 +6066,22 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "source": "ticketmaster",
+      "artists": [
+        "DLD"
+      ],
+      "artist_display": "DLD",
+      "url": "https://www.ticketmaster.com.mx/dld-mexico-14-11-2026/event/3D0064B5B0F8B778",
+      "ticket_url": "https://www.ticketmaster.com.mx/dld-mexico-14-11-2026/event/3D0064B5B0F8B778",
+      "venue": "La Maraka",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Pop"
       ]
     },
     {
@@ -8519,6 +8447,21 @@
       "date": "2026-12-05",
       "source": "ticketmaster",
       "artists": [
+        "Banda Machos"
+      ],
+      "artist_display": "Banda Machos",
+      "url": "https://www.ticketmaster.com.mx/banda-machos-mexico-05-12-2026/event/3D00651A85A02338",
+      "ticket_url": "https://www.ticketmaster.com.mx/banda-machos-mexico-05-12-2026/event/3D00651A85A02338",
+      "venue": "Monumental Plaza De Toros México",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-12-05",
+      "source": "ticketmaster",
+      "artists": [
         "La Esfinge"
       ],
       "artist_display": "La Esfinge",
@@ -8636,6 +8579,21 @@
       "url": "https://www.ticketmaster.com.mx/adolescentes-orquesta-y-tony-vega-mexico-09-12-2026/event/3D0064D6E75F449F",
       "ticket_url": "https://www.ticketmaster.com.mx/adolescentes-orquesta-y-tony-vega-mexico-09-12-2026/event/3D0064D6E75F449F",
       "venue": "La Maraka",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-12-10",
+      "source": "ticketmaster",
+      "artists": [
+        "Aterciopelados"
+      ],
+      "artist_display": "Aterciopelados",
+      "url": "https://www.ticketmaster.com.mx/aterciopelados-mexico-10-12-2026/event/140064FEB50C143B",
+      "ticket_url": "https://www.ticketmaster.com.mx/aterciopelados-mexico-10-12-2026/event/140064FEB50C143B",
+      "venue": "Teatro Metropolitan",
       "location": "México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
@@ -8923,6 +8881,22 @@
       ]
     },
     {
+      "date": "2026-12-27",
+      "source": "ticketmaster",
+      "artists": [
+        "Evento Demo Platinum Privilegios"
+      ],
+      "artist_display": "Evento Demo Platinum Privilegios",
+      "url": "https://www.ticketmaster.com.mx/evento-demo-platinum-privilegios-iztacalco-27-12-2026/event/3D00651AEB1BCD30",
+      "ticket_url": "https://www.ticketmaster.com.mx/evento-demo-platinum-privilegios-iztacalco-27-12-2026/event/3D00651AEB1BCD30",
+      "venue": "Estadio Ticketmaster México",
+      "location": "Iztacalco, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Punk"
+      ]
+    },
+    {
       "date": "2026-12-31",
       "source": "ticketmaster",
       "artists": [
@@ -9128,6 +9102,21 @@
       "date": "2027-01-30",
       "source": "ticketmaster",
       "artists": [
+        "Liran' Roll"
+      ],
+      "artist_display": "Liran' Roll",
+      "url": "https://www.ticketmaster.com.mx/liran-roll-ciudad-de-mexico-30-01-2027/event/14006516833A3895",
+      "ticket_url": "https://www.ticketmaster.com.mx/liran-roll-ciudad-de-mexico-30-01-2027/event/14006516833A3895",
+      "venue": "Palacio de los Deportes",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2027-01-30",
+      "source": "ticketmaster",
+      "artists": [
         "Sombr",
         "King Princess"
       ],
@@ -9139,6 +9128,21 @@
       "tags": [
         "Rock",
         "Alternative Rock"
+      ]
+    },
+    {
+      "date": "2027-01-30",
+      "source": "ticketmaster",
+      "artists": [
+        "TrendLine"
+      ],
+      "artist_display": "TrendLine",
+      "url": "https://www.ticketmaster.com.mx/trendline-mexico-30-01-2027/event/3D00649B84A00ED7",
+      "ticket_url": "https://www.ticketmaster.com.mx/trendline-mexico-30-01-2027/event/3D00649B84A00ED7",
+      "venue": "Foro Red Access",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Ballads/Romantic"
       ]
     },
     {
@@ -9578,6 +9582,21 @@
       "artist_display": "Edwin Luna y La Trakalosa de Monterrey",
       "url": "https://www.ticketmaster.com.mx/edwin-luna-y-la-trakalosa-de-ciudad-de-mexico-16-06-2027/event/3D0064FEFB98A6F3",
       "ticket_url": "https://www.ticketmaster.com.mx/edwin-luna-y-la-trakalosa-de-ciudad-de-mexico-16-06-2027/event/3D0064FEFB98A6F3",
+      "venue": "Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2027-07-24",
+      "source": "ticketmaster",
+      "artists": [
+        "Victor Garcia"
+      ],
+      "artist_display": "Victor Garcia",
+      "url": "https://www.ticketmaster.com.mx/victor-garcia-con-todos-tour-ciudad-de-mexico-24-07-2027/event/3D006519EA509A9B",
+      "ticket_url": "https://www.ticketmaster.com.mx/victor-garcia-con-todos-tour-ciudad-de-mexico-24-07-2027/event/3D006519EA509A9B",
       "venue": "Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
