@@ -1,115 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-08-28T18:13:54.184116Z",
-  "total_concerts": 559,
+  "scraped_at": "2026-08-29T12:20:09.491305Z",
+  "total_concerts": 555,
   "concerts": [
-    {
-      "date": "2026-08-28",
-      "source": "ticketmaster",
-      "artists": [
-        "Sala Principal Bellas Artes"
-      ],
-      "artist_display": "Sala Principal Bellas Artes",
-      "url": "https://www.ticketmaster.com.mx/grafias-gala-coreografos-contemporaneos-cnd10-ingreso-mexico-cdmx-28-08-2026/event/3D0064E1BEAE3BF9",
-      "ticket_url": "https://www.ticketmaster.com.mx/grafias-gala-coreografos-contemporaneos-cnd10-ingreso-mexico-cdmx-28-08-2026/event/3D0064E1BEAE3BF9",
-      "venue": "Palacio de Bellas Artes",
-      "location": "México CDMX, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-08-28",
-      "source": "ticketmaster",
-      "artists": [
-        "ROSALÍA"
-      ],
-      "artist_display": "ROSALÍA",
-      "url": "https://www.ticketmaster.com.mx/rosalia-lux-tour-2026-ciudad-de-mexico-28-08-2026/event/1400636DFDB191EA",
-      "ticket_url": "https://www.ticketmaster.com.mx/rosalia-lux-tour-2026-ciudad-de-mexico-28-08-2026/event/1400636DFDB191EA",
-      "venue": "Palacio de los Deportes",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-08-28",
-      "source": "ticketmaster",
-      "artists": [
-        "Sinfónica de Minería"
-      ],
-      "artist_display": "Sinfónica de Minería",
-      "url": "https://www.ticketmaster.com.mx/sinfonica-de-mineria-gala-de-clausura-mexico-28-08-2026/event/3D0064ACC327B275",
-      "ticket_url": "https://www.ticketmaster.com.mx/sinfonica-de-mineria-gala-de-clausura-mexico-28-08-2026/event/3D0064ACC327B275",
-      "venue": "Sala Silvestre Revueltas",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Classical",
-        "Classical/Vocal"
-      ]
-    },
-    {
-      "date": "2026-08-28",
-      "source": "ticketmaster",
-      "artists": [
-        "Surfistas del Sistema"
-      ],
-      "artist_display": "Surfistas del Sistema",
-      "url": "https://www.ticketmaster.com.mx/surfistas-del-sistema-mexico-28-08-2026/event/140064ADF3DF114D",
-      "ticket_url": "https://www.ticketmaster.com.mx/surfistas-del-sistema-mexico-28-08-2026/event/140064ADF3DF114D",
-      "venue": "Pepsi Center",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Pop"
-      ]
-    },
-    {
-      "date": "2026-08-28",
-      "source": "ticketmaster",
-      "artists": [
-        "El Príncipe y el Divo"
-      ],
-      "artist_display": "El Príncipe y el Divo",
-      "url": "https://www.ticketmaster.com.mx/el-principe-y-el-divo-pablo-ciudad-de-mexico-28-08-2026/event/3D0064D1859D2305",
-      "ticket_url": "https://www.ticketmaster.com.mx/el-principe-y-el-divo-pablo-ciudad-de-mexico-28-08-2026/event/3D0064D1859D2305",
-      "venue": "Foro Stelaris Fiesta Americana Reforma",
-      "location": "Ciudad de México, Ciudad de México, Mexico"
-    },
-    {
-      "date": "2026-08-28",
-      "source": "ticketmaster",
-      "artists": [
-        "Laureano Brizuela"
-      ],
-      "artist_display": "Laureano Brizuela",
-      "url": "https://www.ticketmaster.com.mx/laureano-brizuela-mexico-28-08-2026/event/3D006389CC9B6750",
-      "ticket_url": "https://www.ticketmaster.com.mx/laureano-brizuela-mexico-28-08-2026/event/3D006389CC9B6750",
-      "venue": "La Maraka",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Alternative Rock"
-      ]
-    },
-    {
-      "date": "2026-08-28",
-      "source": "ticketmaster",
-      "artists": [
-        "Jorge Muñiz",
-        "Cabaret Lunario"
-      ],
-      "artist_display": "Jorge Muñiz, Cabaret Lunario",
-      "url": "https://www.ticketmaster.com.mx/cabaret-lunario-presentajorge-muniz-con-la-ciudad-de-mexico-28-08-2026/event/3D0064EAA3EB310D",
-      "ticket_url": "https://www.ticketmaster.com.mx/cabaret-lunario-presentajorge-muniz-con-la-ciudad-de-mexico-28-08-2026/event/3D0064EAA3EB310D",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
     {
       "date": "2026-08-29",
       "source": "ticketmaster",
@@ -1071,22 +965,6 @@
       "location": "México, Ciudad de México, Mexico",
       "tags": [
         "Ballads/Romantic"
-      ]
-    },
-    {
-      "date": "2026-09-06",
-      "source": "ticketmaster",
-      "artists": [
-        "Ana Sofi W"
-      ],
-      "artist_display": "Ana Sofi W",
-      "url": "https://www.ticketmaster.com.mx/todos-vuelven-tour-ana-sofi-w-ciudad-de-mexico-06-09-2026/event/3D0064C3110DA729",
-      "ticket_url": "https://www.ticketmaster.com.mx/todos-vuelven-tour-ana-sofi-w-ciudad-de-mexico-06-09-2026/event/3D0064C3110DA729",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
       ]
     },
     {
@@ -5354,6 +5232,22 @@
       "date": "2026-11-03",
       "source": "ticketmaster",
       "artists": [
+        "Omar Courtz"
+      ],
+      "artist_display": "Omar Courtz",
+      "url": "https://www.ticketmaster.com.mx/omar-courtz-ciudad-de-mexico-03-11-2026/event/1400651CAB4CA615",
+      "ticket_url": "https://www.ticketmaster.com.mx/omar-courtz-ciudad-de-mexico-03-11-2026/event/1400651CAB4CA615",
+      "venue": "Palacio de los Deportes",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Hip-Hop/Rap",
+        "Trap"
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "source": "ticketmaster",
+      "artists": [
         "Leire Martínez"
       ],
       "artist_display": "Leire Martínez",
@@ -6164,11 +6058,42 @@
       "date": "2026-11-17",
       "source": "ticketmaster",
       "artists": [
+        "Morat"
+      ],
+      "artist_display": "Morat",
+      "url": "https://www.ticketmaster.com.mx/morat-ciudad-de-mexico-17-11-2026/event/14006482BBA77DC1",
+      "ticket_url": "https://www.ticketmaster.com.mx/morat-ciudad-de-mexico-17-11-2026/event/14006482BBA77DC1",
+      "venue": "Palacio de los Deportes",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "source": "ticketmaster",
+      "artists": [
         "Jerry Rivera"
       ],
       "artist_display": "Jerry Rivera",
       "url": "https://www.ticketmaster.com.mx/jerry-rivera-ciudad-de-mexico-17-11-2026/event/3D006491A0255192",
       "ticket_url": "https://www.ticketmaster.com.mx/jerry-rivera-ciudad-de-mexico-17-11-2026/event/3D006491A0255192",
+      "venue": "Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "source": "ticketmaster",
+      "artists": [
+        "Emmanuel & Mijares"
+      ],
+      "artist_display": "Emmanuel & Mijares",
+      "url": "https://www.ticketmaster.com.mx/emmanuel-mijares-ciudad-de-mexico-18-11-2026/event/3D00650DB4FE5BBC",
+      "ticket_url": "https://www.ticketmaster.com.mx/emmanuel-mijares-ciudad-de-mexico-18-11-2026/event/3D00650DB4FE5BBC",
       "venue": "Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
@@ -9216,6 +9141,22 @@
       "url": "https://www.ticketmaster.com.mx/carlos-sadness-ciudad-de-mexico-05-02-2027/event/3D00647587532DA4",
       "ticket_url": "https://www.ticketmaster.com.mx/carlos-sadness-ciudad-de-mexico-05-02-2027/event/3D00647587532DA4",
       "venue": "Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
+      ]
+    },
+    {
+      "date": "2027-02-05",
+      "source": "ticketmaster",
+      "artists": [
+        "Ana Sofi W"
+      ],
+      "artist_display": "Ana Sofi W",
+      "url": "https://www.ticketmaster.com.mx/todos-vuelven-tour-ana-sofi-w-ciudad-de-mexico-05-02-2027/event/3D0064C3110DA729",
+      "ticket_url": "https://www.ticketmaster.com.mx/todos-vuelven-tour-ana-sofi-w-ciudad-de-mexico-05-02-2027/event/3D0064C3110DA729",
+      "venue": "El Lunario del Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Pop",
