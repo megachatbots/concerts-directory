@@ -1,57 +1,9 @@
 {
   "source": "songkick",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-08-30T11:18:43.879864Z",
-  "total_concerts": 578,
+  "scraped_at": "2026-08-31T12:46:38.612020Z",
+  "total_concerts": 576,
   "concerts": [
-    {
-      "date": "2026-09-11",
-      "source": "songkick",
-      "artists": [
-        "Psychedelic Porn CrumpetsMirror Revelations"
-      ],
-      "artist_display": "Psychedelic Porn CrumpetsMirror Revelations",
-      "url": "https://www.songkick.com/concerts/43263980-psychedelic-porn-crumpets-at-orbe",
-      "venue": "Orbe",
-      "venue_url": "https://www.songkick.com/venues/1396323-orbe",
-      "location": "Orbe,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-09-11",
-      "source": "songkick",
-      "artists": [
-        "maye"
-      ],
-      "artist_display": "maye",
-      "url": "https://www.songkick.com/concerts/43349121-maye-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks!",
-      "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks!,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-09-11",
-      "source": "songkick",
-      "artists": [
-        "Nach"
-      ],
-      "artist_display": "Nach",
-      "url": "https://www.songkick.com/concerts/43205852-nach-at-pepsi-center-wtc",
-      "venue": "Pepsi Center WTC",
-      "venue_url": "https://www.songkick.com/venues/1774303-pepsi-center-wtc",
-      "location": "Pepsi Center WTC,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-09-11",
-      "source": "songkick",
-      "artists": [
-        "Willie Gonzalez"
-      ],
-      "artist_display": "Willie Gonzalez",
-      "url": "https://www.songkick.com/concerts/43374409-willie-gonzalez-at-mambo-cafe-insurgentes",
-      "venue": "Mambo Cafe Insurgentes",
-      "venue_url": "https://www.songkick.com/venues/4440843-mambo-cafe-insurgentes",
-      "location": "Mambo Cafe Insurgentes,Mexico City, Mexico"
-    },
     {
       "date": "2026-09-11",
       "source": "songkick",
@@ -1338,13 +1290,13 @@
       "date": "2026-10-01",
       "source": "songkick",
       "artists": [
-        "Nunca Jamás"
+        "Baxaxaxa"
       ],
-      "artist_display": "Nunca Jamás",
-      "url": "https://www.songkick.com/concerts/43166249-nunca-jamas-at-serpentino-caffe-rock",
-      "venue": "Serpentino Caffe Rock",
-      "venue_url": "https://www.songkick.com/venues/3065424-serpentino-caffe-rock",
-      "location": "Serpentino Caffe Rock,Coacalco, Mexico"
+      "artist_display": "Baxaxaxa",
+      "url": "https://www.songkick.com/concerts/43390455-baxaxaxa-at-fuck-off-room",
+      "venue": "FÜCK OFF ROOM",
+      "venue_url": "https://www.songkick.com/venues/4540201-fuck-off-room",
+      "location": "FÜCK OFF ROOM,Mexico City, Mexico"
     },
     {
       "date": "2026-10-02",
@@ -2185,6 +2137,18 @@
       "venue": "Lunario Del Auditorio Nacional",
       "venue_url": "https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional",
       "location": "Lunario Del Auditorio Nacional,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-10-11",
+      "source": "songkick",
+      "artists": [
+        "Skoone"
+      ],
+      "artist_display": "Skoone",
+      "url": "https://www.songkick.com/concerts/43390457-skoone-at-fuck-off-room",
+      "venue": "FÜCK OFF ROOM",
+      "venue_url": "https://www.songkick.com/venues/4540201-fuck-off-room",
+      "location": "FÜCK OFF ROOM,Mexico City, Mexico"
     },
     {
       "date": "2026-10-12",
@@ -3879,6 +3843,18 @@
       "location": "Pabellón del Palacio de los Deportes,Mexico City, Mexico"
     },
     {
+      "date": "2026-11-05",
+      "source": "songkick",
+      "artists": [
+        "Bronze Nazareth"
+      ],
+      "artist_display": "Bronze Nazareth",
+      "url": "https://www.songkick.com/concerts/43390469-bronze-nazareth-at-fuck-off-room",
+      "venue": "FÜCK OFF ROOM",
+      "venue_url": "https://www.songkick.com/venues/4540201-fuck-off-room",
+      "location": "FÜCK OFF ROOM,Mexico City, Mexico"
+    },
+    {
       "date": "2026-11-06",
       "source": "songkick",
       "artists": [
@@ -4062,18 +4038,6 @@
       "date": "2026-11-07",
       "source": "songkick",
       "artists": [
-        "Pedro y el Lobo"
-      ],
-      "artist_display": "Pedro y el Lobo",
-      "url": "https://www.songkick.com/concerts/43350166-pedro-y-el-lobo-at-teatro-de-la-ciudad-esperanza-iris",
-      "venue": "Teatro de la Ciudad Esperanza Iris",
-      "venue_url": "https://www.songkick.com/venues/2182854-teatro-de-la-ciudad-esperanza-iris",
-      "location": "Teatro de la Ciudad Esperanza Iris,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-07",
-      "source": "songkick",
-      "artists": [
         "Collage"
       ],
       "artist_display": "Collage",
@@ -4081,6 +4045,18 @@
       "venue": "Foro Red Access",
       "venue_url": "https://www.songkick.com/venues/4604435-foro-red-access",
       "location": "Foro Red Access,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-11-07",
+      "source": "songkick",
+      "artists": [
+        "OminessVinnum Sabbathi, In Shame, and Mirror Revelations"
+      ],
+      "artist_display": "OminessVinnum Sabbathi, In Shame, and Mirror Revelations",
+      "url": "https://www.songkick.com/concerts/43390557-ominess-at-ruido-extraterrestre",
+      "venue": "Ruido Extraterrestre",
+      "venue_url": "https://www.songkick.com/venues/4663047-ruido-extraterrestre",
+      "location": "Ruido Extraterrestre,Mexico City, Mexico"
     },
     {
       "date": "2026-11-07",
@@ -4482,6 +4458,18 @@
       "date": "2026-11-14",
       "source": "songkick",
       "artists": [
+        "DLD"
+      ],
+      "artist_display": "DLD",
+      "url": "https://www.songkick.com/concerts/43387314-dld-at-la-maraka",
+      "venue": "La Maraka",
+      "venue_url": "https://www.songkick.com/venues/1076291-la-maraka",
+      "location": "La Maraka,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-11-14",
+      "source": "songkick",
+      "artists": [
         "Fernando Delgadillo"
       ],
       "artist_display": "Fernando Delgadillo",
@@ -4525,18 +4513,6 @@
       "venue": "House of Vans",
       "venue_url": "https://www.songkick.com/venues/3083404-house-of-vans",
       "location": "House of Vans,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-14",
-      "source": "songkick",
-      "artists": [
-        "DLD"
-      ],
-      "artist_display": "DLD",
-      "url": "https://www.songkick.com/concerts/43387314-dld-at-la-maraka",
-      "venue": "La Maraka",
-      "venue_url": "https://www.songkick.com/venues/1076291-la-maraka",
-      "location": "La Maraka,Mexico City, Mexico"
     },
     {
       "date": "2026-11-15",

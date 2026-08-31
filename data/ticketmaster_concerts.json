@@ -1,116 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-08-30T11:18:48.118541Z",
-  "total_concerts": 545,
+  "scraped_at": "2026-08-31T12:46:42.797067Z",
+  "total_concerts": 538,
   "concerts": [
-    {
-      "date": "2026-08-30",
-      "source": "ticketmaster",
-      "artists": [
-        "Sinfónica de Minería"
-      ],
-      "artist_display": "Sinfónica de Minería",
-      "url": "https://www.ticketmaster.com.mx/sinfonica-de-mineria-gala-de-clausura-mexico-30-08-2026/event/3D0064ACC40DB3DE",
-      "ticket_url": "https://www.ticketmaster.com.mx/sinfonica-de-mineria-gala-de-clausura-mexico-30-08-2026/event/3D0064ACC40DB3DE",
-      "venue": "Sala Silvestre Revueltas",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Classical",
-        "Classical/Vocal"
-      ]
-    },
-    {
-      "date": "2026-08-30",
-      "source": "ticketmaster",
-      "artists": [
-        "Sala Principal Bellas Artes"
-      ],
-      "artist_display": "Sala Principal Bellas Artes",
-      "url": "https://www.ticketmaster.com.mx/grafias-gala-coreografos-contemporaneos-cnd10-ingreso-mexico-cdmx-30-08-2026/event/3D0064E1BFC03C4B",
-      "ticket_url": "https://www.ticketmaster.com.mx/grafias-gala-coreografos-contemporaneos-cnd10-ingreso-mexico-cdmx-30-08-2026/event/3D0064E1BFC03C4B",
-      "venue": "Palacio de Bellas Artes",
-      "location": "México CDMX, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-08-30",
-      "source": "ticketmaster",
-      "artists": [
-        "Héctor Ortiz"
-      ],
-      "artist_display": "Héctor Ortiz",
-      "url": "https://www.ticketmaster.com.mx/elvis-epic-experience-by-hector-ortiz-mexico-30-08-2026/event/140064C4E2335C7A",
-      "ticket_url": "https://www.ticketmaster.com.mx/elvis-epic-experience-by-hector-ortiz-mexico-30-08-2026/event/140064C4E2335C7A",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-08-30",
-      "source": "ticketmaster",
-      "artists": [
-        "Héctor Infanzón"
-      ],
-      "artist_display": "Héctor Infanzón",
-      "url": "https://www.ticketmaster.com.mx/hector-infanzon-50-aniversario-andando-mexico-30-08-2026/event/3D0064C8B85A2A60",
-      "ticket_url": "https://www.ticketmaster.com.mx/hector-infanzon-50-aniversario-andando-mexico-30-08-2026/event/3D0064C8B85A2A60",
-      "venue": "Teatro de la Ciudad Esperanza Iris",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Jazz"
-      ]
-    },
-    {
-      "date": "2026-08-30",
-      "source": "ticketmaster",
-      "artists": [
-        "Fey"
-      ],
-      "artist_display": "Fey",
-      "url": "https://www.ticketmaster.com.mx/fey-ciudad-de-mexico-30-08-2026/event/3D00649DDD8FCEBA",
-      "ticket_url": "https://www.ticketmaster.com.mx/fey-ciudad-de-mexico-30-08-2026/event/3D00649DDD8FCEBA",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-08-30",
-      "source": "ticketmaster",
-      "artists": [
-        "Nanpa Básico"
-      ],
-      "artist_display": "Nanpa Básico",
-      "url": "https://www.ticketmaster.com.mx/nanpa-basico-ciudad-de-mexico-30-08-2026/event/1400647B83104D1E",
-      "ticket_url": "https://www.ticketmaster.com.mx/nanpa-basico-ciudad-de-mexico-30-08-2026/event/1400647B83104D1E",
-      "venue": "Palacio de los Deportes",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Hip-Hop/Rap",
-        "Trap"
-      ]
-    },
-    {
-      "date": "2026-08-30",
-      "source": "ticketmaster",
-      "artists": [
-        "Enjambre"
-      ],
-      "artist_display": "Enjambre",
-      "url": "https://www.ticketmaster.com.mx/enjambre-ciudad-de-mexico-30-08-2026/event/14006491FA0E84A7",
-      "ticket_url": "https://www.ticketmaster.com.mx/enjambre-ciudad-de-mexico-30-08-2026/event/14006491FA0E84A7",
-      "venue": "Estadio GNP Seguros",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
     {
       "date": "2026-09-01",
       "source": "ticketmaster",
@@ -7199,7 +7092,8 @@
       "venue": "Palacio de los Deportes",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
