@@ -1,8 +1,8 @@
 {
   "source": "songkick",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-08-31T12:46:38.612020Z",
-  "total_concerts": 576,
+  "scraped_at": "2026-09-01T11:09:08.034396Z",
+  "total_concerts": 573,
   "concerts": [
     {
       "date": "2026-09-11",
@@ -603,18 +603,6 @@
       "venue": "Teatro Metropólitan",
       "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
       "location": "Teatro Metropólitan,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-09-19",
-      "source": "songkick",
-      "artists": [
-        "Dimitri y las brujas"
-      ],
-      "artist_display": "Dimitri y las brujas",
-      "url": "https://www.songkick.com/concerts/43292162-dimitri-y-las-brujas-at-sala-black-pepsi-center-wtc",
-      "venue": "Sala Black Pepsi Center WTC",
-      "venue_url": "https://www.songkick.com/venues/4569973-sala-black-pepsi-center-wtc",
-      "location": "Sala Black Pepsi Center WTC,Mexico City, Mexico"
     },
     {
       "date": "2026-09-19",
@@ -1801,18 +1789,6 @@
       "venue": "Lunario Del Auditorio Nacional",
       "venue_url": "https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional",
       "location": "Lunario Del Auditorio Nacional,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-08",
-      "source": "songkick",
-      "artists": [
-        "End ItLos Viejos and Caronte"
-      ],
-      "artist_display": "End ItLos Viejos and Caronte",
-      "url": "https://www.songkick.com/concerts/43356826-end-it-at-gato-calavera",
-      "venue": "Gato Calavera",
-      "venue_url": "https://www.songkick.com/venues/1385981-gato-calavera",
-      "location": "Gato Calavera,Mexico City, Mexico"
     },
     {
       "date": "2026-10-08",
@@ -3606,18 +3582,6 @@
       "date": "2026-10-31",
       "source": "songkick",
       "artists": [
-        "Julianno Sosa"
-      ],
-      "artist_display": "Julianno Sosa",
-      "url": "https://www.songkick.com/concerts/43075883-julianno-sosa-at-foro-san-rafael",
-      "venue": "Foro San Rafael",
-      "venue_url": "https://www.songkick.com/venues/4370524-foro-san-rafael",
-      "location": "Foro San Rafael,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-31",
-      "source": "songkick",
-      "artists": [
         "Antidoping"
       ],
       "artist_display": "Antidoping",
@@ -3822,6 +3786,18 @@
       "date": "2026-11-05",
       "source": "songkick",
       "artists": [
+        "Bronze Nazareth"
+      ],
+      "artist_display": "Bronze Nazareth",
+      "url": "https://www.songkick.com/concerts/43390469-bronze-nazareth-at-fuck-off-room",
+      "venue": "FÜCK OFF ROOM",
+      "venue_url": "https://www.songkick.com/venues/4540201-fuck-off-room",
+      "location": "FÜCK OFF ROOM,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-11-05",
+      "source": "songkick",
+      "artists": [
         "DISTEST"
       ],
       "artist_display": "DISTEST",
@@ -3841,18 +3817,6 @@
       "venue": "Pabellón del Palacio de los Deportes",
       "venue_url": "https://www.songkick.com/venues/1551083-pabellon-del-palacio-de-los-deportes",
       "location": "Pabellón del Palacio de los Deportes,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-05",
-      "source": "songkick",
-      "artists": [
-        "Bronze Nazareth"
-      ],
-      "artist_display": "Bronze Nazareth",
-      "url": "https://www.songkick.com/concerts/43390469-bronze-nazareth-at-fuck-off-room",
-      "venue": "FÜCK OFF ROOM",
-      "venue_url": "https://www.songkick.com/venues/4540201-fuck-off-room",
-      "location": "FÜCK OFF ROOM,Mexico City, Mexico"
     },
     {
       "date": "2026-11-06",

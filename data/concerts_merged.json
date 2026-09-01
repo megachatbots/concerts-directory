@@ -5,8 +5,8 @@
     "ticketmaster"
   ],
   "metro_area": "Mexico City",
-  "scraped_at": "2026-08-31T12:46:42.821701Z",
-  "total_concerts": 812,
+  "scraped_at": "2026-09-01T11:09:12.411820Z",
+  "total_concerts": 809,
   "concerts": [
     {
       "date": "2026-09-01",
@@ -1705,18 +1705,6 @@
       "tags": [
         "Latin"
       ]
-    },
-    {
-      "date": "2026-09-19",
-      "source": "songkick",
-      "artists": [
-        "Dimitri y las brujas"
-      ],
-      "artist_display": "Dimitri y las brujas",
-      "url": "https://www.songkick.com/concerts/43292162-dimitri-y-las-brujas-at-sala-black-pepsi-center-wtc",
-      "venue": "Sala Black Pepsi Center WTC",
-      "venue_url": "https://www.songkick.com/venues/4569973-sala-black-pepsi-center-wtc",
-      "location": "Sala Black Pepsi Center WTC,Mexico City, Mexico"
     },
     {
       "date": "2026-09-19",
@@ -3528,18 +3516,6 @@
         "Alternative Rock",
         "Rock"
       ]
-    },
-    {
-      "date": "2026-10-08",
-      "source": "songkick",
-      "artists": [
-        "End ItLos Viejos and Caronte"
-      ],
-      "artist_display": "End ItLos Viejos and Caronte",
-      "url": "https://www.songkick.com/concerts/43356826-end-it-at-gato-calavera",
-      "venue": "Gato Calavera",
-      "venue_url": "https://www.songkick.com/venues/1385981-gato-calavera",
-      "location": "Gato Calavera,Mexico City, Mexico"
     },
     {
       "date": "2026-10-08",
@@ -6533,18 +6509,6 @@
       "date": "2026-10-31",
       "source": "songkick",
       "artists": [
-        "Julianno Sosa"
-      ],
-      "artist_display": "Julianno Sosa",
-      "url": "https://www.songkick.com/concerts/43075883-julianno-sosa-at-foro-san-rafael",
-      "venue": "Foro San Rafael",
-      "venue_url": "https://www.songkick.com/venues/4370524-foro-san-rafael",
-      "location": "Foro San Rafael,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-31",
-      "source": "songkick",
-      "artists": [
         "Antidoping"
       ],
       "artist_display": "Antidoping",
@@ -6865,6 +6829,18 @@
       "date": "2026-11-05",
       "source": "songkick",
       "artists": [
+        "Bronze Nazareth"
+      ],
+      "artist_display": "Bronze Nazareth",
+      "url": "https://www.songkick.com/concerts/43390469-bronze-nazareth-at-fuck-off-room",
+      "venue": "FÜCK OFF ROOM",
+      "venue_url": "https://www.songkick.com/venues/4540201-fuck-off-room",
+      "location": "FÜCK OFF ROOM,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-11-05",
+      "source": "songkick",
+      "artists": [
         "DISTEST"
       ],
       "artist_display": "DISTEST",
@@ -6889,18 +6865,6 @@
         "Amapiano",
         "Dance/Electronic"
       ]
-    },
-    {
-      "date": "2026-11-05",
-      "source": "songkick",
-      "artists": [
-        "Bronze Nazareth"
-      ],
-      "artist_display": "Bronze Nazareth",
-      "url": "https://www.songkick.com/concerts/43390469-bronze-nazareth-at-fuck-off-room",
-      "venue": "FÜCK OFF ROOM",
-      "venue_url": "https://www.songkick.com/venues/4540201-fuck-off-room",
-      "location": "FÜCK OFF ROOM,Mexico City, Mexico"
     },
     {
       "date": "2026-11-05",
@@ -7373,7 +7337,7 @@
       "venue": "Teatro de la Ciudad Esperanza Iris",
       "venue_url": "https://www.songkick.com/venues/2182854-teatro-de-la-ciudad-esperanza-iris",
       "location": "Teatro de la Ciudad Esperanza Iris,Mexico City, Mexico",
-      "ticket_url": "https://www.ticketmaster.com.mx/pedro-y-el-lobo-mexico-08-11-2026/event/3D0064DDE95A398C",
+      "ticket_url": "https://www.ticketmaster.com.mx/peter-and-the-wolf-mexico-08-11-2026/event/3D0064DDE95A398C",
       "tags": [
         "Classical",
         "Classical/Vocal"
@@ -11034,10 +10998,9 @@
       "date": "2027-01-29",
       "source": "ticketmaster",
       "artists": [
-        "Sombr",
-        "King Princess"
+        "Sombr"
       ],
-      "artist_display": "Sombr, King Princess",
+      "artist_display": "Sombr",
       "url": "https://www.ticketmaster.com.mx/sombr-mexico-29-01-2027/event/1400645A87A630E8",
       "ticket_url": "https://www.ticketmaster.com.mx/sombr-mexico-29-01-2027/event/1400645A87A630E8",
       "venue": "Pepsi Center",
@@ -11103,10 +11066,9 @@
       "date": "2027-01-30",
       "source": "ticketmaster",
       "artists": [
-        "Sombr",
-        "King Princess"
+        "Sombr"
       ],
-      "artist_display": "Sombr, King Princess",
+      "artist_display": "Sombr",
       "url": "https://www.ticketmaster.com.mx/sombr-mexico-30-01-2027/event/1400645A85802DA2",
       "ticket_url": "https://www.ticketmaster.com.mx/sombr-mexico-30-01-2027/event/1400645A85802DA2",
       "venue": "Pepsi Center",
