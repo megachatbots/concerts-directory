@@ -1,24 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-09-01T11:09:12.383282Z",
-  "total_concerts": 538,
+  "scraped_at": "2026-09-02T10:41:28.963185Z",
+  "total_concerts": 544,
   "concerts": [
-    {
-      "date": "2026-09-01",
-      "source": "ticketmaster",
-      "artists": [
-        "Mario Aguilar"
-      ],
-      "artist_display": "Mario Aguilar",
-      "url": "https://www.ticketmaster.com.mx/mario-aguilar-10-aniversario-ciudad-de-mexico-01-09-2026/event/3D00638B89791FC1",
-      "ticket_url": "https://www.ticketmaster.com.mx/mario-aguilar-10-aniversario-ciudad-de-mexico-01-09-2026/event/3D00638B89791FC1",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
-      ]
-    },
     {
       "date": "2026-09-02",
       "source": "ticketmaster",
@@ -5096,6 +5081,22 @@
       ]
     },
     {
+      "date": "2026-11-05",
+      "source": "ticketmaster",
+      "artists": [
+        "Dillom"
+      ],
+      "artist_display": "Dillom",
+      "url": "https://www.ticketmaster.com.mx/dillom-mexico-05-11-2026/event/3D00651A907D2DD3",
+      "ticket_url": "https://www.ticketmaster.com.mx/dillom-mexico-05-11-2026/event/3D00651A907D2DD3",
+      "venue": "Foro Puebla",
+      "location": "Mexico, Ciudad de México, Mexico",
+      "tags": [
+        "Hip-Hop/Rap",
+        "Trap"
+      ]
+    },
+    {
       "date": "2026-11-06",
       "source": "ticketmaster",
       "artists": [
@@ -5837,6 +5838,22 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "source": "ticketmaster",
+      "artists": [
+        "MARO"
+      ],
+      "artist_display": "MARO",
+      "url": "https://www.ticketmaster.com.mx/maro-mexico-18-11-2026/event/3D00651D940D2696",
+      "ticket_url": "https://www.ticketmaster.com.mx/maro-mexico-18-11-2026/event/3D00651D940D2696",
+      "venue": "Foro Puebla",
+      "location": "Mexico, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Adult Contemporary"
       ]
     },
     {
@@ -8127,6 +8144,21 @@
       "date": "2026-12-05",
       "source": "ticketmaster",
       "artists": [
+        "Natalia Lacunza"
+      ],
+      "artist_display": "Natalia Lacunza",
+      "url": "https://www.ticketmaster.com.mx/natalia-lacunza-mexico-05-12-2026/event/1400651584CF2A66",
+      "ticket_url": "https://www.ticketmaster.com.mx/natalia-lacunza-mexico-05-12-2026/event/1400651584CF2A66",
+      "venue": "Auditorio BB",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Ballads/Romantic"
+      ]
+    },
+    {
+      "date": "2026-12-05",
+      "source": "ticketmaster",
+      "artists": [
         "La Esfinge"
       ],
       "artist_display": "La Esfinge",
@@ -8716,6 +8748,21 @@
       ]
     },
     {
+      "date": "2027-01-24",
+      "source": "ticketmaster",
+      "artists": [
+        "Eugenia Leon"
+      ],
+      "artist_display": "Eugenia Leon",
+      "url": "https://www.ticketmaster.com.mx/las-tres-grandes-guadalupe-pineda-eugenia-mexico-24-01-2027/event/3D00651CC6B46D09",
+      "ticket_url": "https://www.ticketmaster.com.mx/las-tres-grandes-guadalupe-pineda-eugenia-mexico-24-01-2027/event/3D00651CC6B46D09",
+      "venue": "La Maraka",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Ballads/Romantic"
+      ]
+    },
+    {
       "date": "2027-01-28",
       "source": "ticketmaster",
       "artists": [
@@ -8902,6 +8949,23 @@
       ]
     },
     {
+      "date": "2027-02-05",
+      "source": "ticketmaster",
+      "artists": [
+        "The Warning",
+        "The Linda Lindas"
+      ],
+      "artist_display": "The Warning, The Linda Lindas",
+      "url": "https://www.ticketmaster.com.mx/the-warning-everythings-falling-world-tour-ciudad-de-mexico-05-02-2027/event/14006515AA456ED7",
+      "ticket_url": "https://www.ticketmaster.com.mx/the-warning-everythings-falling-world-tour-ciudad-de-mexico-05-02-2027/event/14006515AA456ED7",
+      "venue": "Estadio GNP Seguros",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Alternative Rock"
+      ]
+    },
+    {
       "date": "2027-02-06",
       "source": "ticketmaster",
       "artists": [
@@ -9041,6 +9105,22 @@
       "date": "2027-02-20",
       "source": "ticketmaster",
       "artists": [
+        "Percance"
+      ],
+      "artist_display": "Percance",
+      "url": "https://www.ticketmaster.com.mx/percance-mexico-20-02-2027/event/1400651D907D5A9F",
+      "ticket_url": "https://www.ticketmaster.com.mx/percance-mexico-20-02-2027/event/1400651D907D5A9F",
+      "venue": "Teatro Metropolitan",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
+      "date": "2027-02-20",
+      "source": "ticketmaster",
+      "artists": [
         "Jorge Drexler"
       ],
       "artist_display": "Jorge Drexler",
@@ -9096,6 +9176,21 @@
       "location": "México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2027-03-06",
+      "source": "ticketmaster",
+      "artists": [
+        "Tai Sosa"
+      ],
+      "artist_display": "Tai Sosa",
+      "url": "https://www.ticketmaster.com.mx/tai-sosa-y-la-sosa-band-ciudad-de-mexico-06-03-2027/event/3D00651BAC75660D",
+      "ticket_url": "https://www.ticketmaster.com.mx/tai-sosa-y-la-sosa-band-ciudad-de-mexico-06-03-2027/event/3D00651BAC75660D",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Ballads/Romantic"
       ]
     },
     {
