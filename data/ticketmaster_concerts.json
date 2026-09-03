@@ -1,24 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-09-02T10:41:28.963185Z",
-  "total_concerts": 544,
+  "scraped_at": "2026-09-03T10:43:15.807945Z",
+  "total_concerts": 551,
   "concerts": [
-    {
-      "date": "2026-09-02",
-      "source": "ticketmaster",
-      "artists": [
-        "Majo Cornejo"
-      ],
-      "artist_display": "Majo Cornejo",
-      "url": "https://www.ticketmaster.com.mx/majo-cornejo-presenta-gallo-drito-mexico-02-09-2026/event/3D0064899B973B4E",
-      "ticket_url": "https://www.ticketmaster.com.mx/majo-cornejo-presenta-gallo-drito-mexico-02-09-2026/event/3D0064899B973B4E",
-      "venue": "Teatro de la Ciudad Esperanza Iris",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
     {
       "date": "2026-09-03",
       "source": "ticketmaster",
@@ -76,6 +61,21 @@
       "artist_display": "Yuridia",
       "url": "https://www.ticketmaster.com.mx/yuridia-las-cartas-sobre-la-mesa-ciudad-de-mexico-03-09-2026/event/140064A6B6A0CA17",
       "ticket_url": "https://www.ticketmaster.com.mx/yuridia-las-cartas-sobre-la-mesa-ciudad-de-mexico-03-09-2026/event/140064A6B6A0CA17",
+      "venue": "Estadio GNP Seguros",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "source": "ticketmaster",
+      "artists": [
+        "Yuridia"
+      ],
+      "artist_display": "Yuridia",
+      "url": "https://www.ticketmaster.com.mx/yuridia-zona-de-discapacidad-auditiva-ciudad-de-mexico-03-09-2026/event/140064A78FA69082",
+      "ticket_url": "https://www.ticketmaster.com.mx/yuridia-zona-de-discapacidad-auditiva-ciudad-de-mexico-03-09-2026/event/140064A78FA69082",
       "venue": "Estadio GNP Seguros",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
@@ -143,6 +143,21 @@
       "tags": [
         "Rock",
         "Alternative Rock"
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "source": "ticketmaster",
+      "artists": [
+        "Yuridia"
+      ],
+      "artist_display": "Yuridia",
+      "url": "https://www.ticketmaster.com.mx/yuridia-zona-de-discapacidad-auditiva-ciudad-de-mexico-04-09-2026/event/14006497E8A32CE3",
+      "ticket_url": "https://www.ticketmaster.com.mx/yuridia-zona-de-discapacidad-auditiva-ciudad-de-mexico-04-09-2026/event/14006497E8A32CE3",
+      "venue": "Estadio GNP Seguros",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
       ]
     },
     {
@@ -5163,6 +5178,22 @@
       "date": "2026-11-06",
       "source": "ticketmaster",
       "artists": [
+        "Dillom"
+      ],
+      "artist_display": "Dillom",
+      "url": "https://www.ticketmaster.com.mx/dillom-mexico-06-11-2026/event/3D00651AA0895641",
+      "ticket_url": "https://www.ticketmaster.com.mx/dillom-mexico-06-11-2026/event/3D00651AA0895641",
+      "venue": "Foro Puebla",
+      "location": "Mexico, Ciudad de México, Mexico",
+      "tags": [
+        "Hip-Hop/Rap",
+        "Trap"
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "source": "ticketmaster",
+      "artists": [
         "Los De Aguilera"
       ],
       "artist_display": "Los De Aguilera",
@@ -5181,8 +5212,8 @@
         "Pedro y el Lobo"
       ],
       "artist_display": "Pedro y el Lobo",
-      "url": "https://www.ticketmaster.com.mx/pedro-y-el-lobo-mexico-07-11-2026/event/3D0064DDE86A394B",
-      "ticket_url": "https://www.ticketmaster.com.mx/pedro-y-el-lobo-mexico-07-11-2026/event/3D0064DDE86A394B",
+      "url": "https://www.ticketmaster.com.mx/peter-and-the-wolf-mexico-07-11-2026/event/3D0064DDE86A394B",
+      "ticket_url": "https://www.ticketmaster.com.mx/peter-and-the-wolf-mexico-07-11-2026/event/3D0064DDE86A394B",
       "venue": "Teatro de la Ciudad Esperanza Iris",
       "location": "Mexico, Ciudad de México, Mexico",
       "tags": [
@@ -5700,6 +5731,21 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "source": "ticketmaster",
+      "artists": [
+        "Julio Ponze"
+      ],
+      "artist_display": "Julio Ponze",
+      "url": "https://www.ticketmaster.com.mx/julio-ponze-tributo-juan-gabriel-mexico-14-11-2026/event/3D00651F881D15B6",
+      "ticket_url": "https://www.ticketmaster.com.mx/julio-ponze-tributo-juan-gabriel-mexico-14-11-2026/event/3D00651F881D15B6",
+      "venue": "Foro Red Access",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Ballads/Romantic"
       ]
     },
     {
@@ -8375,6 +8421,21 @@
       ]
     },
     {
+      "date": "2026-12-13",
+      "source": "ticketmaster",
+      "artists": [
+        "Los Panchos"
+      ],
+      "artist_display": "Los Panchos",
+      "url": "https://www.ticketmaster.com.mx/los-panchos-sinfonico-mexico-13-12-2026/event/3D00651AE2ECC2B0",
+      "ticket_url": "https://www.ticketmaster.com.mx/los-panchos-sinfonico-mexico-13-12-2026/event/3D00651AE2ECC2B0",
+      "venue": "La Maraka",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
       "date": "2026-12-15",
       "source": "ticketmaster",
       "artists": [
@@ -8751,9 +8812,11 @@
       "date": "2027-01-24",
       "source": "ticketmaster",
       "artists": [
-        "Eugenia Leon"
+        "Eugenia Leon",
+        "Guadalupe Pineda",
+        "Tania Libertad"
       ],
-      "artist_display": "Eugenia Leon",
+      "artist_display": "Eugenia Leon, Guadalupe Pineda, Tania Libertad",
       "url": "https://www.ticketmaster.com.mx/las-tres-grandes-guadalupe-pineda-eugenia-mexico-24-01-2027/event/3D00651CC6B46D09",
       "ticket_url": "https://www.ticketmaster.com.mx/las-tres-grandes-guadalupe-pineda-eugenia-mexico-24-01-2027/event/3D00651CC6B46D09",
       "venue": "La Maraka",
@@ -8822,6 +8885,22 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2027-01-30",
+      "source": "ticketmaster",
+      "artists": [
+        "Chucho Rivas"
+      ],
+      "artist_display": "Chucho Rivas",
+      "url": "https://www.ticketmaster.com.mx/chucho-rivas-mexico-30-01-2027/event/1400651AC1F26539",
+      "ticket_url": "https://www.ticketmaster.com.mx/chucho-rivas-mexico-30-01-2027/event/1400651AC1F26539",
+      "venue": "Pabellón del Palacio de los Deportes",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -9179,6 +9258,22 @@
       ]
     },
     {
+      "date": "2027-03-05",
+      "source": "ticketmaster",
+      "artists": [
+        "Peter Hook and the Light"
+      ],
+      "artist_display": "Peter Hook and the Light",
+      "url": "https://www.ticketmaster.com.mx/peter-hook-and-the-light-mexico-05-03-2027/event/14006514F9B332CA",
+      "ticket_url": "https://www.ticketmaster.com.mx/peter-hook-and-the-light-mexico-05-03-2027/event/14006514F9B332CA",
+      "venue": "Pabellón del Palacio de los Deportes",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
       "date": "2027-03-06",
       "source": "ticketmaster",
       "artists": [
@@ -9238,6 +9333,22 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2027-03-25",
+      "source": "ticketmaster",
+      "artists": [
+        "Lola Índigo"
+      ],
+      "artist_display": "Lola Índigo",
+      "url": "https://www.ticketmaster.com.mx/lola-ndigo-mexico-25-03-2027/event/1400651985F52730",
+      "ticket_url": "https://www.ticketmaster.com.mx/lola-ndigo-mexico-25-03-2027/event/1400651985F52730",
+      "venue": "Teatro Metropolitan",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
