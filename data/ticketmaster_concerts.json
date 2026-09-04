@@ -1,87 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-09-03T10:43:15.807945Z",
+  "scraped_at": "2026-09-04T10:38:56.029881Z",
   "total_concerts": 551,
   "concerts": [
-    {
-      "date": "2026-09-03",
-      "source": "ticketmaster",
-      "artists": [
-        "Morir Poquito"
-      ],
-      "artist_display": "Morir Poquito",
-      "url": "https://www.ticketmaster.com.mx/morir-poquito-mexico-03-09-2026/event/3D0064A4C4BA64F0",
-      "ticket_url": "https://www.ticketmaster.com.mx/morir-poquito-mexico-03-09-2026/event/3D0064A4C4BA64F0",
-      "venue": "TEATRO SERGIO MAGAÑA",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-09-03",
-      "source": "ticketmaster",
-      "artists": [
-        "Siddhartha"
-      ],
-      "artist_display": "Siddhartha",
-      "url": "https://www.ticketmaster.com.mx/siddhartha-ciudad-de-mexico-03-09-2026/event/1400638CA031D1FF",
-      "ticket_url": "https://www.ticketmaster.com.mx/siddhartha-ciudad-de-mexico-03-09-2026/event/1400638CA031D1FF",
-      "venue": "Palacio de los Deportes",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Alternative Rock"
-      ]
-    },
-    {
-      "date": "2026-09-03",
-      "source": "ticketmaster",
-      "artists": [
-        "Iván Ferreiro"
-      ],
-      "artist_display": "Iván Ferreiro",
-      "url": "https://www.ticketmaster.com.mx/ivan-ferreiro-mexico-03-09-2026/event/1400645B86895029",
-      "ticket_url": "https://www.ticketmaster.com.mx/ivan-ferreiro-mexico-03-09-2026/event/1400645B86895029",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Pop"
-      ]
-    },
-    {
-      "date": "2026-09-03",
-      "source": "ticketmaster",
-      "artists": [
-        "Yuridia"
-      ],
-      "artist_display": "Yuridia",
-      "url": "https://www.ticketmaster.com.mx/yuridia-las-cartas-sobre-la-mesa-ciudad-de-mexico-03-09-2026/event/140064A6B6A0CA17",
-      "ticket_url": "https://www.ticketmaster.com.mx/yuridia-las-cartas-sobre-la-mesa-ciudad-de-mexico-03-09-2026/event/140064A6B6A0CA17",
-      "venue": "Estadio GNP Seguros",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-09-03",
-      "source": "ticketmaster",
-      "artists": [
-        "Yuridia"
-      ],
-      "artist_display": "Yuridia",
-      "url": "https://www.ticketmaster.com.mx/yuridia-zona-de-discapacidad-auditiva-ciudad-de-mexico-03-09-2026/event/140064A78FA69082",
-      "ticket_url": "https://www.ticketmaster.com.mx/yuridia-zona-de-discapacidad-auditiva-ciudad-de-mexico-03-09-2026/event/140064A78FA69082",
-      "venue": "Estadio GNP Seguros",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
     {
       "date": "2026-09-04",
       "source": "ticketmaster",
@@ -811,22 +733,6 @@
       "location": "México, Ciudad de México, Mexico",
       "tags": [
         "Other"
-      ]
-    },
-    {
-      "date": "2026-09-10",
-      "source": "ticketmaster",
-      "artists": [
-        "Scorpions"
-      ],
-      "artist_display": "Scorpions",
-      "url": "https://www.ticketmaster.com.mx/scorpions-ciudad-de-mexico-10-09-2026/event/1400649893654C1A",
-      "ticket_url": "https://www.ticketmaster.com.mx/scorpions-ciudad-de-mexico-10-09-2026/event/1400649893654C1A",
-      "venue": "Palacio de los Deportes",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Pop"
       ]
     },
     {
@@ -1940,8 +1846,8 @@
       "venue": "El Lunario del Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Rock",
-        "Alternative Rock"
+        "Hip-Hop/Rap",
+        "Reggaeton"
       ]
     },
     {
@@ -4737,6 +4643,21 @@
       "date": "2026-10-29",
       "source": "ticketmaster",
       "artists": [
+        "Cumbia Ciudad"
+      ],
+      "artist_display": "Cumbia Ciudad",
+      "url": "https://www.ticketmaster.com.mx/cumbia-ciudad-mexico-29-10-2026/event/3D00651FBC4B3EF3",
+      "ticket_url": "https://www.ticketmaster.com.mx/cumbia-ciudad-mexico-29-10-2026/event/3D00651FBC4B3EF3",
+      "venue": "Teatro de la Ciudad Esperanza Iris",
+      "location": "Mexico, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "source": "ticketmaster",
+      "artists": [
         "Omar Courtz"
       ],
       "artist_display": "Omar Courtz",
@@ -4809,6 +4730,21 @@
       "tags": [
         "Pop",
         "Electro Pop"
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "source": "ticketmaster",
+      "artists": [
+        "Cumbia Ciudad"
+      ],
+      "artist_display": "Cumbia Ciudad",
+      "url": "https://www.ticketmaster.com.mx/cumbia-ciudad-mexico-30-10-2026/event/3D00651FBEF040DC",
+      "ticket_url": "https://www.ticketmaster.com.mx/cumbia-ciudad-mexico-30-10-2026/event/3D00651FBEF040DC",
+      "venue": "Teatro de la Ciudad Esperanza Iris",
+      "location": "Mexico, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
       ]
     },
     {
@@ -5744,6 +5680,21 @@
       "ticket_url": "https://www.ticketmaster.com.mx/julio-ponze-tributo-juan-gabriel-mexico-14-11-2026/event/3D00651F881D15B6",
       "venue": "Foro Red Access",
       "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Ballads/Romantic"
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "source": "ticketmaster",
+      "artists": [
+        "Aranza"
+      ],
+      "artist_display": "Aranza",
+      "url": "https://www.ticketmaster.com.mx/aranza-en-concierto-ciudad-de-mexico-14-11-2026/event/3D006522C1124B94",
+      "ticket_url": "https://www.ticketmaster.com.mx/aranza-en-concierto-ciudad-de-mexico-14-11-2026/event/3D006522C1124B94",
+      "venue": "Foro Stelaris Fiesta Americana Reforma",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Ballads/Romantic"
       ]
@@ -9264,6 +9215,18 @@
         "Peter Hook and the Light"
       ],
       "artist_display": "Peter Hook and the Light",
+      "url": "https://www.ticketmaster.com.mx/peter-hook-the-light-ee-merch-mexico-05-03-2027/event/14006523D0DE5495",
+      "ticket_url": "https://www.ticketmaster.com.mx/peter-hook-the-light-ee-merch-mexico-05-03-2027/event/14006523D0DE5495",
+      "venue": "Pabellón del Palacio de los Deportes",
+      "location": "México, Ciudad de México, Mexico"
+    },
+    {
+      "date": "2027-03-05",
+      "source": "ticketmaster",
+      "artists": [
+        "Peter Hook and the Light"
+      ],
+      "artist_display": "Peter Hook and the Light",
       "url": "https://www.ticketmaster.com.mx/peter-hook-and-the-light-mexico-05-03-2027/event/14006514F9B332CA",
       "ticket_url": "https://www.ticketmaster.com.mx/peter-hook-and-the-light-mexico-05-03-2027/event/14006514F9B332CA",
       "venue": "Pabellón del Palacio de los Deportes",
@@ -9342,8 +9305,8 @@
         "Lola Índigo"
       ],
       "artist_display": "Lola Índigo",
-      "url": "https://www.ticketmaster.com.mx/lola-ndigo-mexico-25-03-2027/event/1400651985F52730",
-      "ticket_url": "https://www.ticketmaster.com.mx/lola-ndigo-mexico-25-03-2027/event/1400651985F52730",
+      "url": "https://www.ticketmaster.com.mx/lola-indigo-mexico-25-03-2027/event/1400651985F52730",
+      "ticket_url": "https://www.ticketmaster.com.mx/lola-indigo-mexico-25-03-2027/event/1400651985F52730",
       "venue": "Teatro Metropolitan",
       "location": "México, Ciudad de México, Mexico",
       "tags": [
@@ -9429,6 +9392,22 @@
       ]
     },
     {
+      "date": "2027-05-12",
+      "source": "ticketmaster",
+      "artists": [
+        "Soen"
+      ],
+      "artist_display": "Soen",
+      "url": "https://www.ticketmaster.com.mx/soen-mexico-12-05-2027/event/14006506885340F4",
+      "ticket_url": "https://www.ticketmaster.com.mx/soen-mexico-12-05-2027/event/14006506885340F4",
+      "venue": "Teatro Metropolitan",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Metal",
+        "Nu-Metal"
+      ]
+    },
+    {
       "date": "2027-05-27",
       "source": "ticketmaster",
       "artists": [
@@ -9486,6 +9465,22 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2027-08-30",
+      "source": "ticketmaster",
+      "artists": [
+        "Scorpions"
+      ],
+      "artist_display": "Scorpions",
+      "url": "https://www.ticketmaster.com.mx/scorpions-ciudad-de-mexico-30-08-2027/event/1400649893654C1A",
+      "ticket_url": "https://www.ticketmaster.com.mx/scorpions-ciudad-de-mexico-30-08-2027/event/1400649893654C1A",
+      "venue": "Palacio de los Deportes",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Pop"
       ]
     }
   ]
