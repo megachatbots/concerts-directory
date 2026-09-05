@@ -1,134 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-09-04T10:38:56.029881Z",
-  "total_concerts": 551,
+  "scraped_at": "2026-09-05T10:00:08.661815Z",
+  "total_concerts": 544,
   "concerts": [
-    {
-      "date": "2026-09-04",
-      "source": "ticketmaster",
-      "artists": [
-        "Morir Poquito"
-      ],
-      "artist_display": "Morir Poquito",
-      "url": "https://www.ticketmaster.com.mx/morir-poquito-mexico-04-09-2026/event/3D0064A4C4BB64F3",
-      "ticket_url": "https://www.ticketmaster.com.mx/morir-poquito-mexico-04-09-2026/event/3D0064A4C4BB64F3",
-      "venue": "TEATRO SERGIO MAGAÑA",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-09-04",
-      "source": "ticketmaster",
-      "artists": [
-        "Los Dandys de Armando Navarro y La Esencia del Bolero"
-      ],
-      "artist_display": "Los Dandys de Armando Navarro y La Esencia del Bolero",
-      "url": "https://www.ticketmaster.com.mx/los-dandys-de-armando-navarro-y-mexico-04-09-2026/event/140064F4B95B6FB7",
-      "ticket_url": "https://www.ticketmaster.com.mx/los-dandys-de-armando-navarro-y-mexico-04-09-2026/event/140064F4B95B6FB7",
-      "venue": "Teatro Tepeyac",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
-      ]
-    },
-    {
-      "date": "2026-09-04",
-      "source": "ticketmaster",
-      "artists": [
-        "Siddhartha"
-      ],
-      "artist_display": "Siddhartha",
-      "url": "https://www.ticketmaster.com.mx/siddhartha-ciudad-de-mexico-04-09-2026/event/14006389D0F9D895",
-      "ticket_url": "https://www.ticketmaster.com.mx/siddhartha-ciudad-de-mexico-04-09-2026/event/14006389D0F9D895",
-      "venue": "Palacio de los Deportes",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Alternative Rock"
-      ]
-    },
-    {
-      "date": "2026-09-04",
-      "source": "ticketmaster",
-      "artists": [
-        "David Byrne"
-      ],
-      "artist_display": "David Byrne",
-      "url": "https://www.ticketmaster.com.mx/david-byrne-who-is-the-sky-mexico-04-09-2026/event/1400649885C4361A",
-      "ticket_url": "https://www.ticketmaster.com.mx/david-byrne-who-is-the-sky-mexico-04-09-2026/event/1400649885C4361A",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Alternative Rock"
-      ]
-    },
-    {
-      "date": "2026-09-04",
-      "source": "ticketmaster",
-      "artists": [
-        "Yuridia"
-      ],
-      "artist_display": "Yuridia",
-      "url": "https://www.ticketmaster.com.mx/yuridia-zona-de-discapacidad-auditiva-ciudad-de-mexico-04-09-2026/event/14006497E8A32CE3",
-      "ticket_url": "https://www.ticketmaster.com.mx/yuridia-zona-de-discapacidad-auditiva-ciudad-de-mexico-04-09-2026/event/14006497E8A32CE3",
-      "venue": "Estadio GNP Seguros",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-09-04",
-      "source": "ticketmaster",
-      "artists": [
-        "Yuridia"
-      ],
-      "artist_display": "Yuridia",
-      "url": "https://www.ticketmaster.com.mx/yuridia-las-cartas-sobre-la-mesa-ciudad-de-mexico-04-09-2026/event/14006497E66626E7",
-      "ticket_url": "https://www.ticketmaster.com.mx/yuridia-las-cartas-sobre-la-mesa-ciudad-de-mexico-04-09-2026/event/14006497E66626E7",
-      "venue": "Estadio GNP Seguros",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-09-04",
-      "source": "ticketmaster",
-      "artists": [
-        "La Cantadera"
-      ],
-      "artist_display": "La Cantadera",
-      "url": "https://www.ticketmaster.com.mx/la-cantadera-ciudad-de-mexico-04-09-2026/event/3D006514C03D5FB0",
-      "ticket_url": "https://www.ticketmaster.com.mx/la-cantadera-ciudad-de-mexico-04-09-2026/event/3D006514C03D5FB0",
-      "venue": "Foro Stelaris Fiesta Americana Reforma",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Pop"
-      ]
-    },
-    {
-      "date": "2026-09-04",
-      "source": "ticketmaster",
-      "artists": [
-        "Alexander Acha"
-      ],
-      "artist_display": "Alexander Acha",
-      "url": "https://www.ticketmaster.com.mx/alexander-acha-mexico-04-09-2026/event/3D0064539D622C57",
-      "ticket_url": "https://www.ticketmaster.com.mx/alexander-acha-mexico-04-09-2026/event/3D0064539D622C57",
-      "venue": "La Maraka",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
     {
       "date": "2026-09-05",
       "source": "ticketmaster",
@@ -9405,6 +9280,21 @@
       "tags": [
         "Metal",
         "Nu-Metal"
+      ]
+    },
+    {
+      "date": "2027-05-27",
+      "source": "ticketmaster",
+      "artists": [
+        "Ara Malikian"
+      ],
+      "artist_display": "Ara Malikian",
+      "url": "https://www.ticketmaster.com.mx/ara-malikian-mexico-27-05-2027/event/1400651D88FC4907",
+      "ticket_url": "https://www.ticketmaster.com.mx/ara-malikian-mexico-27-05-2027/event/1400651D88FC4907",
+      "venue": "Teatro Metropolitan",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
       ]
     },
     {
