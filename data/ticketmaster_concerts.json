@@ -1,24 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-09-07T11:39:19.056945Z",
-  "total_concerts": 525,
+  "scraped_at": "2026-09-08T10:38:18.637038Z",
+  "total_concerts": 526,
   "concerts": [
-    {
-      "date": "2026-09-07",
-      "source": "ticketmaster",
-      "artists": [
-        "Alberto Barros"
-      ],
-      "artist_display": "Alberto Barros",
-      "url": "https://www.ticketmaster.com.mx/alberto-barros-el-titan-de-la-ciudad-de-mexico-07-09-2026/event/3D006438B48735C6",
-      "ticket_url": "https://www.ticketmaster.com.mx/alberto-barros-el-titan-de-la-ciudad-de-mexico-07-09-2026/event/3D006438B48735C6",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
     {
       "date": "2026-09-08",
       "source": "ticketmaster",
@@ -4408,6 +4393,21 @@
       ]
     },
     {
+      "date": "2026-11-05",
+      "source": "ticketmaster",
+      "artists": [
+        "Amantes del Amor \"Pasión por Luis Miguel\""
+      ],
+      "artist_display": "Amantes del Amor \"Pasión por Luis Miguel\"",
+      "url": "https://www.ticketmaster.com.mx/amantes-del-amor-pasion-por-luis-ciudad-de-mexico-05-11-2026/event/3D0065228736166E",
+      "ticket_url": "https://www.ticketmaster.com.mx/amantes-del-amor-pasion-por-luis-ciudad-de-mexico-05-11-2026/event/3D0065228736166E",
+      "venue": "Foro Stelaris Fiesta Americana Reforma",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
+      ]
+    },
+    {
       "date": "2026-11-06",
       "source": "ticketmaster",
       "artists": [
@@ -4499,22 +4499,6 @@
       "location": "México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
-      ]
-    },
-    {
-      "date": "2026-11-07",
-      "source": "ticketmaster",
-      "artists": [
-        "Pedro y el Lobo"
-      ],
-      "artist_display": "Pedro y el Lobo",
-      "url": "https://www.ticketmaster.com.mx/peter-and-the-wolf-mexico-07-11-2026/event/3D0064DDE86A394B",
-      "ticket_url": "https://www.ticketmaster.com.mx/peter-and-the-wolf-mexico-07-11-2026/event/3D0064DDE86A394B",
-      "venue": "Teatro de la Ciudad Esperanza Iris",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Classical",
-        "Classical/Vocal"
       ]
     },
     {
@@ -4624,22 +4608,6 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Ballads/Romantic"
-      ]
-    },
-    {
-      "date": "2026-11-08",
-      "source": "ticketmaster",
-      "artists": [
-        "Pedro y el Lobo"
-      ],
-      "artist_display": "Pedro y el Lobo",
-      "url": "https://www.ticketmaster.com.mx/peter-and-the-wolf-mexico-08-11-2026/event/3D0064DDE95A398C",
-      "ticket_url": "https://www.ticketmaster.com.mx/peter-and-the-wolf-mexico-08-11-2026/event/3D0064DDE95A398C",
-      "venue": "Teatro de la Ciudad Esperanza Iris",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Classical",
-        "Classical/Vocal"
       ]
     },
     {
@@ -5226,6 +5194,21 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "R&B"
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "source": "ticketmaster",
+      "artists": [
+        "Baile anual UAM"
+      ],
+      "artist_display": "Baile anual UAM",
+      "url": "https://www.ticketmaster.com.mx/baile-anual-de-la-fundacion-casa-coyoacan-19-11-2026/event/3D0064FDE1847613",
+      "ticket_url": "https://www.ticketmaster.com.mx/baile-anual-de-la-fundacion-casa-coyoacan-19-11-2026/event/3D0064FDE1847613",
+      "venue": "Grand Forum Taxqueña Salón Zafiro",
+      "location": "Coyoacán, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
       ]
     },
     {
@@ -6264,6 +6247,21 @@
       "tags": [
         "Rock",
         "Pop"
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "source": "ticketmaster",
+      "artists": [
+        "Taburete"
+      ],
+      "artist_display": "Taburete",
+      "url": "https://www.ticketmaster.com.mx/taburete-mexico-23-11-2026/event/14006524A02E9742",
+      "ticket_url": "https://www.ticketmaster.com.mx/taburete-mexico-23-11-2026/event/14006524A02E9742",
+      "venue": "Teatro Metropolitan",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
       ]
     },
     {
@@ -7541,6 +7539,22 @@
       "location": "México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2026-12-06",
+      "source": "ticketmaster",
+      "artists": [
+        "Insulini y Los Espantasuegras"
+      ],
+      "artist_display": "Insulini y Los Espantasuegras",
+      "url": "https://www.ticketmaster.com.mx/insulini-y-los-espantasuegras-ciudad-de-mexico-06-12-2026/event/3D006523B94E4A85",
+      "ticket_url": "https://www.ticketmaster.com.mx/insulini-y-los-espantasuegras-ciudad-de-mexico-06-12-2026/event/3D006523B94E4A85",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Alternative Rock"
       ]
     },
     {
