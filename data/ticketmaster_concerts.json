@@ -1,24 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-09-08T10:38:18.637038Z",
-  "total_concerts": 526,
+  "scraped_at": "2026-09-09T10:48:13.202863Z",
+  "total_concerts": 532,
   "concerts": [
-    {
-      "date": "2026-09-08",
-      "source": "ticketmaster",
-      "artists": [
-        "Jorge Medina y Josi Cuen - JUNTOS"
-      ],
-      "artist_display": "Jorge Medina y Josi Cuen - JUNTOS",
-      "url": "https://www.ticketmaster.com.mx/juntos-ciudad-de-mexico-08-09-2026/event/3D006451208A72D4",
-      "ticket_url": "https://www.ticketmaster.com.mx/juntos-ciudad-de-mexico-08-09-2026/event/3D006451208A72D4",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
     {
       "date": "2026-09-09",
       "source": "ticketmaster",
@@ -747,22 +732,6 @@
       ]
     },
     {
-      "date": "2026-09-17",
-      "source": "ticketmaster",
-      "artists": [
-        "La 33 Orquesta"
-      ],
-      "artist_display": "La 33 Orquesta",
-      "url": "https://www.ticketmaster.com.mx/la-33-orquesta-tlalnepantla-de-baz-17-09-2026/event/1400650586D13731",
-      "ticket_url": "https://www.ticketmaster.com.mx/la-33-orquesta-tlalnepantla-de-baz-17-09-2026/event/1400650586D13731",
-      "venue": "Grand Mambo Cafe Tlalnepantla",
-      "location": "Tlalnepantla de Baz, Estado de México, Mexico",
-      "tags": [
-        "Rock",
-        "Alternative Rock"
-      ]
-    },
-    {
       "date": "2026-09-18",
       "source": "ticketmaster",
       "artists": [
@@ -1379,6 +1348,21 @@
       "tags": [
         "Pop",
         "K-Pop"
+      ]
+    },
+    {
+      "date": "2026-09-26",
+      "source": "ticketmaster",
+      "artists": [
+        "RDO LE CANTA A MEXICO, en beneficio de Daniel Luna Flores"
+      ],
+      "artist_display": "RDO LE CANTA A MEXICO, en beneficio de Daniel Luna Flores",
+      "url": "https://www.ticketmaster.com.mx/rdo-le-canta-a-mexico-en-mexico-26-09-2026/event/3D006528DFED750C",
+      "ticket_url": "https://www.ticketmaster.com.mx/rdo-le-canta-a-mexico-en-mexico-26-09-2026/event/3D006528DFED750C",
+      "venue": "El Cantoral ",
+      "location": "Mexico, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
       ]
     },
     {
@@ -5077,6 +5061,21 @@
       "date": "2026-11-15",
       "source": "ticketmaster",
       "artists": [
+        "Congreso Mundial del Mariachi"
+      ],
+      "artist_display": "Congreso Mundial del Mariachi",
+      "url": "https://www.ticketmaster.com.mx/magno-concierto-3er-congreso-mundial-del-mexico-15-11-2026/event/3D0065238D8D2263",
+      "ticket_url": "https://www.ticketmaster.com.mx/magno-concierto-3er-congreso-mundial-del-mexico-15-11-2026/event/3D0065238D8D2263",
+      "venue": "El Cantoral ",
+      "location": "Mexico, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "source": "ticketmaster",
+      "artists": [
         "Morat"
       ],
       "artist_display": "Morat",
@@ -6708,6 +6707,22 @@
       "date": "2026-11-28",
       "source": "ticketmaster",
       "artists": [
+        "La Bruja De Texcoco En Concierto"
+      ],
+      "artist_display": "La Bruja De Texcoco En Concierto",
+      "url": "https://www.ticketmaster.com.mx/la-bruja-de-texcoco-en-concierto-mexico-28-11-2026/event/3D006525865D1CD4",
+      "ticket_url": "https://www.ticketmaster.com.mx/la-bruja-de-texcoco-en-concierto-mexico-28-11-2026/event/3D006525865D1CD4",
+      "venue": "Teatro de la Ciudad Esperanza Iris",
+      "location": "Mexico, Ciudad de México, Mexico",
+      "tags": [
+        "Hip-Hop/Rap",
+        "Reggaeton"
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "source": "ticketmaster",
+      "artists": [
         "La marimba teje un puente entre México y Japón"
       ],
       "artist_display": "La marimba teje un puente entre México y Japón",
@@ -7980,6 +7995,21 @@
       ]
     },
     {
+      "date": "2026-12-27",
+      "source": "ticketmaster",
+      "artists": [
+        "Evento Demo Platinum HSBC"
+      ],
+      "artist_display": "Evento Demo Platinum HSBC",
+      "url": "https://www.ticketmaster.com.mx/evento-demo-platinum-hsbc-iztacalco-27-12-2026/event/3D006521A8F131C4",
+      "ticket_url": "https://www.ticketmaster.com.mx/evento-demo-platinum-hsbc-iztacalco-27-12-2026/event/3D006521A8F131C4",
+      "venue": "Estadio Ticketmaster México",
+      "location": "Iztacalco, Ciudad de México, Mexico",
+      "tags": [
+        "Ballads/Romantic"
+      ]
+    },
+    {
       "date": "2026-12-31",
       "source": "ticketmaster",
       "artists": [
@@ -8571,6 +8601,22 @@
       "date": "2027-02-26",
       "source": "ticketmaster",
       "artists": [
+        "Crush 40"
+      ],
+      "artist_display": "Crush 40",
+      "url": "https://www.ticketmaster.com.mx/crush40-speed-of-sound-world-tour-ciudad-de-mexico-26-02-2027/event/3D00652583951A51",
+      "ticket_url": "https://www.ticketmaster.com.mx/crush40-speed-of-sound-world-tour-ciudad-de-mexico-26-02-2027/event/3D00652583951A51",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
+      "date": "2027-02-26",
+      "source": "ticketmaster",
+      "artists": [
         "Raul Di Blasio"
       ],
       "artist_display": "Raul Di Blasio",
@@ -8580,6 +8626,22 @@
       "location": "México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2027-02-28",
+      "source": "ticketmaster",
+      "artists": [
+        "MexFloyd"
+      ],
+      "artist_display": "MexFloyd",
+      "url": "https://www.ticketmaster.com.mx/mexfloyd-mexico-28-02-2027/event/1400651FF1DBF878",
+      "ticket_url": "https://www.ticketmaster.com.mx/mexfloyd-mexico-28-02-2027/event/1400651FF1DBF878",
+      "venue": "Teatro Metropolitan",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Pop"
       ]
     },
     {
@@ -8608,6 +8670,22 @@
       "tags": [
         "Rock",
         "Pop"
+      ]
+    },
+    {
+      "date": "2027-03-06",
+      "source": "ticketmaster",
+      "artists": [
+        "SYML"
+      ],
+      "artist_display": "SYML",
+      "url": "https://www.ticketmaster.com.mx/syml-mexico-06-03-2027/event/140064FEF120E54A",
+      "ticket_url": "https://www.ticketmaster.com.mx/syml-mexico-06-03-2027/event/140064FEF120E54A",
+      "venue": "Teatro Metropolitan",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Alternative Rock"
       ]
     },
     {
@@ -8655,6 +8733,22 @@
       "tags": [
         "R&B",
         "Soul"
+      ]
+    },
+    {
+      "date": "2027-03-21",
+      "source": "ticketmaster",
+      "artists": [
+        "Kid Francescoli"
+      ],
+      "artist_display": "Kid Francescoli",
+      "url": "https://www.ticketmaster.com.mx/kid-francescoli-a-kind-wave-tour-mexico-21-03-2027/event/3D006497BA5F837D",
+      "ticket_url": "https://www.ticketmaster.com.mx/kid-francescoli-a-kind-wave-tour-mexico-21-03-2027/event/3D006497BA5F837D",
+      "venue": "Foro Puebla",
+      "location": "Mexico, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
