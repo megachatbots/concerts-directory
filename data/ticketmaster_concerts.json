@@ -1,55 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-09-09T10:48:13.202863Z",
-  "total_concerts": 532,
+  "scraped_at": "2026-09-10T10:40:52.426703Z",
+  "total_concerts": 530,
   "concerts": [
-    {
-      "date": "2026-09-09",
-      "source": "ticketmaster",
-      "artists": [
-        "5 Seconds of Summer"
-      ],
-      "artist_display": "5 Seconds of Summer",
-      "url": "https://www.ticketmaster.com.mx/5-seconds-of-summer-ciudad-de-mexico-09-09-2026/event/14006386D5C1E06E",
-      "ticket_url": "https://www.ticketmaster.com.mx/5-seconds-of-summer-ciudad-de-mexico-09-09-2026/event/14006386D5C1E06E",
-      "venue": "Palacio de los Deportes",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-09-09",
-      "source": "ticketmaster",
-      "artists": [
-        "5 Seconds of Summer"
-      ],
-      "artist_display": "5 Seconds of Summer",
-      "url": "https://www.ticketmaster.com.mx/5sos-bite-the-apple-upgrade-boleto-ciudad-de-mexico-09-09-2026/event/140063890E94FC18",
-      "ticket_url": "https://www.ticketmaster.com.mx/5sos-bite-the-apple-upgrade-boleto-ciudad-de-mexico-09-09-2026/event/140063890E94FC18",
-      "venue": "Palacio de los Deportes",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop"
-      ]
-    },
-    {
-      "date": "2026-09-09",
-      "source": "ticketmaster",
-      "artists": [
-        "Jorge Medina y Josi Cuen - JUNTOS"
-      ],
-      "artist_display": "Jorge Medina y Josi Cuen - JUNTOS",
-      "url": "https://www.ticketmaster.com.mx/juntos-ciudad-de-mexico-09-09-2026/event/3D00645121F17372",
-      "ticket_url": "https://www.ticketmaster.com.mx/juntos-ciudad-de-mexico-09-09-2026/event/3D00645121F17372",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
     {
       "date": "2026-09-10",
       "source": "ticketmaster",
@@ -852,22 +806,6 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
-      ]
-    },
-    {
-      "date": "2026-09-18",
-      "source": "ticketmaster",
-      "artists": [
-        "La Cantadera"
-      ],
-      "artist_display": "La Cantadera",
-      "url": "https://www.ticketmaster.com.mx/la-cantadera-ciudad-de-mexico-18-09-2026/event/3D006514C2BE626A",
-      "ticket_url": "https://www.ticketmaster.com.mx/la-cantadera-ciudad-de-mexico-18-09-2026/event/3D006514C2BE626A",
-      "venue": "Foro Stelaris Fiesta Americana Reforma",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Pop"
       ]
     },
     {
@@ -3325,6 +3263,22 @@
       "ticket_url": "https://www.ticketmaster.com.mx/hombres-g-ciudad-de-mexico-18-10-2026/event/3D00643784EE1AEC",
       "venue": "Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "source": "ticketmaster",
+      "artists": [
+        "The Midnight"
+      ],
+      "artist_display": "The Midnight",
+      "url": "https://www.ticketmaster.com.mx/the-midnight-mexico-18-10-2026/event/3D0064AEBF49B71A",
+      "ticket_url": "https://www.ticketmaster.com.mx/the-midnight-mexico-18-10-2026/event/3D0064AEBF49B71A",
+      "venue": "Foro Puebla",
+      "location": "Mexico, Ciudad de México, Mexico",
       "tags": [
         "Pop",
         "Electro Pop"
@@ -6811,6 +6765,21 @@
       "date": "2026-11-28",
       "source": "ticketmaster",
       "artists": [
+        "Gloria Trevi"
+      ],
+      "artist_display": "Gloria Trevi",
+      "url": "https://www.ticketmaster.com.mx/gloria-trevi-celebration-ciudad-de-mexico-28-11-2026/event/3D006528D9B57097",
+      "ticket_url": "https://www.ticketmaster.com.mx/gloria-trevi-celebration-ciudad-de-mexico-28-11-2026/event/3D006528D9B57097",
+      "venue": "Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "source": "ticketmaster",
+      "artists": [
         "Alive, una fiesta en el tiempo"
       ],
       "artist_display": "Alive, una fiesta en el tiempo",
@@ -7560,16 +7529,16 @@
       "date": "2026-12-06",
       "source": "ticketmaster",
       "artists": [
-        "Insulini y Los Espantasuegras"
+        "Insulini"
       ],
-      "artist_display": "Insulini y Los Espantasuegras",
+      "artist_display": "Insulini",
       "url": "https://www.ticketmaster.com.mx/insulini-y-los-espantasuegras-ciudad-de-mexico-06-12-2026/event/3D006523B94E4A85",
       "ticket_url": "https://www.ticketmaster.com.mx/insulini-y-los-espantasuegras-ciudad-de-mexico-06-12-2026/event/3D006523B94E4A85",
       "venue": "El Lunario del Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Rock",
-        "Alternative Rock"
+        "Hip-Hop/Rap",
+        "Trap"
       ]
     },
     {
@@ -8486,8 +8455,8 @@
       "venue": "Autodromo Hnos. Rodriguez",
       "location": "México, Ciudad de México, Mexico",
       "tags": [
-        "Pop",
-        "Electro Pop"
+        "Dance/Electronic",
+        "Amapiano"
       ]
     },
     {
@@ -8502,8 +8471,8 @@
       "venue": "Autodromo Hnos. Rodriguez",
       "location": "México, Ciudad de México, Mexico",
       "tags": [
-        "Pop",
-        "Electro Pop"
+        "Dance/Electronic",
+        "Amapiano"
       ]
     },
     {
