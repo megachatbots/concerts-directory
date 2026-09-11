@@ -1,102 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-09-10T10:40:52.426703Z",
-  "total_concerts": 530,
+  "scraped_at": "2026-09-11T10:39:50.926749Z",
+  "total_concerts": 521,
   "concerts": [
-    {
-      "date": "2026-09-10",
-      "source": "ticketmaster",
-      "artists": [
-        "ERAUSO o la última increíble aventura de la monja Alférez."
-      ],
-      "artist_display": "ERAUSO o la última increíble aventura de la monja Alférez.",
-      "url": "https://www.ticketmaster.com.mx/erauso-o-la-ultima-increible-aventura-mexico-10-09-2026/event/3D0064A4A74A4977",
-      "ticket_url": "https://www.ticketmaster.com.mx/erauso-o-la-ultima-increible-aventura-mexico-10-09-2026/event/3D0064A4A74A4977",
-      "venue": "TEATRO SERGIO MAGAÑA",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
-      ]
-    },
-    {
-      "date": "2026-09-10",
-      "source": "ticketmaster",
-      "artists": [
-        "Tan Biónica"
-      ],
-      "artist_display": "Tan Biónica",
-      "url": "https://www.ticketmaster.com.mx/tan-bionica-mexico-10-09-2026/event/14006452AEAAA4AB",
-      "ticket_url": "https://www.ticketmaster.com.mx/tan-bionica-mexico-10-09-2026/event/14006452AEAAA4AB",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Pop"
-      ]
-    },
-    {
-      "date": "2026-09-10",
-      "source": "ticketmaster",
-      "artists": [
-        "Leyendas el show"
-      ],
-      "artist_display": "Leyendas el show",
-      "url": "https://www.ticketmaster.com.mx/leyendas-ciudad-de-mexico-10-09-2026/event/3D0064C2EB8A8332",
-      "ticket_url": "https://www.ticketmaster.com.mx/leyendas-ciudad-de-mexico-10-09-2026/event/3D0064C2EB8A8332",
-      "venue": "Foro Stelaris Fiesta Americana Reforma",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
-      ]
-    },
-    {
-      "date": "2026-09-10",
-      "source": "ticketmaster",
-      "artists": [
-        "La bande-son imaginaire"
-      ],
-      "artist_display": "La bande-son imaginaire",
-      "url": "https://www.ticketmaster.com.mx/la-bandeson-imaginaire-mexico-10-09-2026/event/1400643CD4A473C1",
-      "ticket_url": "https://www.ticketmaster.com.mx/la-bandeson-imaginaire-mexico-10-09-2026/event/1400643CD4A473C1",
-      "venue": "Pepsi Center",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Metal",
-        "Nu-Metal"
-      ]
-    },
-    {
-      "date": "2026-09-10",
-      "source": "ticketmaster",
-      "artists": [
-        "Jorge Medina y Josi Cuen - JUNTOS"
-      ],
-      "artist_display": "Jorge Medina y Josi Cuen - JUNTOS",
-      "url": "https://www.ticketmaster.com.mx/juntos-ciudad-de-mexico-10-09-2026/event/3D00645121F17376",
-      "ticket_url": "https://www.ticketmaster.com.mx/juntos-ciudad-de-mexico-10-09-2026/event/3D00645121F17376",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-09-10",
-      "source": "ticketmaster",
-      "artists": [
-        "Willie González",
-        "Maelo Ruiz"
-      ],
-      "artist_display": "Willie González, Maelo Ruiz",
-      "url": "https://www.ticketmaster.com.mx/maelo-ruiz-willie-gonzalez-mexico-10-09-2026/event/3D0064C38EE12BC7",
-      "ticket_url": "https://www.ticketmaster.com.mx/maelo-ruiz-willie-gonzalez-mexico-10-09-2026/event/3D0064C38EE12BC7",
-      "venue": "Mambo Cafe Insurgentes",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
     {
       "date": "2026-09-11",
       "source": "ticketmaster",
@@ -689,21 +596,6 @@
       "date": "2026-09-18",
       "source": "ticketmaster",
       "artists": [
-        "Despecho Mexicanísimo Sinfónico"
-      ],
-      "artist_display": "Despecho Mexicanísimo Sinfónico",
-      "url": "https://www.ticketmaster.com.mx/despecho-mexicanisimo-sinfonico-mexico-18-09-2026/event/3D00651ABE5A994D",
-      "ticket_url": "https://www.ticketmaster.com.mx/despecho-mexicanisimo-sinfonico-mexico-18-09-2026/event/3D00651ABE5A994D",
-      "venue": "Teatro Xola Julio Prieto",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
-      ]
-    },
-    {
-      "date": "2026-09-18",
-      "source": "ticketmaster",
-      "artists": [
         "Majo Rivas"
       ],
       "artist_display": "Majo Rivas",
@@ -729,21 +621,6 @@
       "tags": [
         "Pop",
         "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-09-18",
-      "source": "ticketmaster",
-      "artists": [
-        "Despecho Mexicanísimo Sinfónico"
-      ],
-      "artist_display": "Despecho Mexicanísimo Sinfónico",
-      "url": "https://www.ticketmaster.com.mx/despecho-mexicanisimo-sinfonico-mexico-18-09-2026/event/3D00651ABEF99A06",
-      "ticket_url": "https://www.ticketmaster.com.mx/despecho-mexicanisimo-sinfonico-mexico-18-09-2026/event/3D00651ABEF99A06",
-      "venue": "Teatro Xola Julio Prieto",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
       ]
     },
     {
@@ -1106,21 +983,6 @@
       "date": "2026-09-25",
       "source": "ticketmaster",
       "artists": [
-        "Despecho Mexicanísimo Sinfónico"
-      ],
-      "artist_display": "Despecho Mexicanísimo Sinfónico",
-      "url": "https://www.ticketmaster.com.mx/despecho-mexicanisimo-sinfonico-mexico-25-09-2026/event/3D00651ABEF99A08",
-      "ticket_url": "https://www.ticketmaster.com.mx/despecho-mexicanisimo-sinfonico-mexico-25-09-2026/event/3D00651ABEF99A08",
-      "venue": "Teatro Xola Julio Prieto",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
-      ]
-    },
-    {
-      "date": "2026-09-25",
-      "source": "ticketmaster",
-      "artists": [
         "Stray Kids"
       ],
       "artist_display": "Stray Kids",
@@ -1147,21 +1009,6 @@
       "tags": [
         "Rock",
         "Pop"
-      ]
-    },
-    {
-      "date": "2026-09-25",
-      "source": "ticketmaster",
-      "artists": [
-        "Despecho Mexicanísimo Sinfónico"
-      ],
-      "artist_display": "Despecho Mexicanísimo Sinfónico",
-      "url": "https://www.ticketmaster.com.mx/despecho-mexicanisimo-sinfonico-mexico-25-09-2026/event/3D00651ABEFB9A0B",
-      "ticket_url": "https://www.ticketmaster.com.mx/despecho-mexicanisimo-sinfonico-mexico-25-09-2026/event/3D00651ABEFB9A0B",
-      "venue": "Teatro Xola Julio Prieto",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
       ]
     },
     {
@@ -1214,9 +1061,9 @@
       "date": "2026-09-25",
       "source": "ticketmaster",
       "artists": [
-        "Bohemia 91"
+        "Bohemia"
       ],
-      "artist_display": "Bohemia 91",
+      "artist_display": "Bohemia",
       "url": "https://www.ticketmaster.com.mx/bohemia-93-humorcancionesgus-munguia-el-costeno-mexico-25-09-2026/event/3D0064F8A2233C64",
       "ticket_url": "https://www.ticketmaster.com.mx/bohemia-93-humorcancionesgus-munguia-el-costeno-mexico-25-09-2026/event/3D0064F8A2233C64",
       "venue": "El Cantoral ",
@@ -3382,16 +3229,15 @@
       "date": "2026-10-22",
       "source": "ticketmaster",
       "artists": [
-        "JAROCHO SON. Concierto de Apertura de la 19a BICM."
+        "Jarocho SON"
       ],
-      "artist_display": "JAROCHO SON. Concierto de Apertura de la 19a BICM.",
+      "artist_display": "Jarocho SON",
       "url": "https://www.ticketmaster.com.mx/jarocho-son-concierto-de-apertura-de-mexico-22-10-2026/event/3D006518BA223822",
       "ticket_url": "https://www.ticketmaster.com.mx/jarocho-son-concierto-de-apertura-de-mexico-22-10-2026/event/3D006518BA223822",
       "venue": "Teatro de la Ciudad Esperanza Iris",
       "location": "Mexico, Ciudad de México, Mexico",
       "tags": [
-        "Hip-Hop/Rap",
-        "Reggaeton"
+        "Latin"
       ]
     },
     {
@@ -6661,16 +6507,15 @@
       "date": "2026-11-28",
       "source": "ticketmaster",
       "artists": [
-        "La Bruja De Texcoco En Concierto"
+        "La Bruja de Texcoco"
       ],
-      "artist_display": "La Bruja De Texcoco En Concierto",
+      "artist_display": "La Bruja de Texcoco",
       "url": "https://www.ticketmaster.com.mx/la-bruja-de-texcoco-en-concierto-mexico-28-11-2026/event/3D006525865D1CD4",
       "ticket_url": "https://www.ticketmaster.com.mx/la-bruja-de-texcoco-en-concierto-mexico-28-11-2026/event/3D006525865D1CD4",
       "venue": "Teatro de la Ciudad Esperanza Iris",
       "location": "Mexico, Ciudad de México, Mexico",
       "tags": [
-        "Hip-Hop/Rap",
-        "Reggaeton"
+        "Latin"
       ]
     },
     {
@@ -8887,6 +8732,21 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2027-05-28",
+      "source": "ticketmaster",
+      "artists": [
+        "Una noche de gala con Agustín Lara y sus invitados"
+      ],
+      "artist_display": "Una noche de gala con Agustín Lara y sus invitados",
+      "url": "https://www.ticketmaster.com.mx/una-noche-de-gala-con-agustin-mexico-28-05-2027/event/3D00651CA86B53FB",
+      "ticket_url": "https://www.ticketmaster.com.mx/una-noche-de-gala-con-agustin-mexico-28-05-2027/event/3D00651CA86B53FB",
+      "venue": "El Cantoral ",
+      "location": "Mexico, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
       ]
     },
     {
