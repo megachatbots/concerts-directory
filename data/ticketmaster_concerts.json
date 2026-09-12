@@ -1,189 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-09-11T10:39:50.926749Z",
-  "total_concerts": 521,
+  "scraped_at": "2026-09-12T10:09:07.548140Z",
+  "total_concerts": 509,
   "concerts": [
-    {
-      "date": "2026-09-11",
-      "source": "ticketmaster",
-      "artists": [
-        "El amante de Gardel"
-      ],
-      "artist_display": "El amante de Gardel",
-      "url": "https://www.ticketmaster.com.mx/el-amante-de-gardel-tango-queer-mexico-11-09-2026/event/3D0064C8AD8322FE",
-      "ticket_url": "https://www.ticketmaster.com.mx/el-amante-de-gardel-tango-queer-mexico-11-09-2026/event/3D0064C8AD8322FE",
-      "venue": "Teatro Benito Juárez",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Music",
-        "Chamber Music"
-      ]
-    },
-    {
-      "date": "2026-09-11",
-      "source": "ticketmaster",
-      "artists": [
-        "ERAUSO o la última increíble aventura de la monja Alférez."
-      ],
-      "artist_display": "ERAUSO o la última increíble aventura de la monja Alférez.",
-      "url": "https://www.ticketmaster.com.mx/erauso-o-la-ultima-increible-aventura-mexico-11-09-2026/event/3D0064A4B46F57E0",
-      "ticket_url": "https://www.ticketmaster.com.mx/erauso-o-la-ultima-increible-aventura-mexico-11-09-2026/event/3D0064A4B46F57E0",
-      "venue": "TEATRO SERGIO MAGAÑA",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
-      ]
-    },
-    {
-      "date": "2026-09-11",
-      "source": "ticketmaster",
-      "artists": [
-        "aespa"
-      ],
-      "artist_display": "aespa",
-      "url": "https://www.ticketmaster.com.mx/aespa-hibye-package-upgrade-boleto-de-ciudad-de-mexico-11-09-2026/event/140064F6BBE378B7",
-      "ticket_url": "https://www.ticketmaster.com.mx/aespa-hibye-package-upgrade-boleto-de-ciudad-de-mexico-11-09-2026/event/140064F6BBE378B7",
-      "venue": "Palacio de los Deportes",
-      "location": "Ciudad de México, Ciudad de México, Mexico"
-    },
-    {
-      "date": "2026-09-11",
-      "source": "ticketmaster",
-      "artists": [
-        "aespa"
-      ],
-      "artist_display": "aespa",
-      "url": "https://www.ticketmaster.com.mx/aespa-live-tour-synk-complxity-in-ciudad-de-mexico-11-09-2026/event/14006472E8BAE4C3",
-      "ticket_url": "https://www.ticketmaster.com.mx/aespa-live-tour-synk-complxity-in-ciudad-de-mexico-11-09-2026/event/14006472E8BAE4C3",
-      "venue": "Palacio de los Deportes",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "K-Pop"
-      ]
-    },
-    {
-      "date": "2026-09-11",
-      "source": "ticketmaster",
-      "artists": [
-        "Rosy Arango"
-      ],
-      "artist_display": "Rosy Arango",
-      "url": "https://www.ticketmaster.com.mx/rosy-arango-por-primera-vez-en-mexico-11-09-2026/event/1400647CB20AB527",
-      "ticket_url": "https://www.ticketmaster.com.mx/rosy-arango-por-primera-vez-en-mexico-11-09-2026/event/1400647CB20AB527",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-09-11",
-      "source": "ticketmaster",
-      "artists": [
-        "Nach"
-      ],
-      "artist_display": "Nach",
-      "url": "https://www.ticketmaster.com.mx/nach-mexico-11-09-2026/event/140064A1B6F2B5FE",
-      "ticket_url": "https://www.ticketmaster.com.mx/nach-mexico-11-09-2026/event/140064A1B6F2B5FE",
-      "venue": "Pepsi Center",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Hip-Hop/Rap",
-        "Trap"
-      ]
-    },
-    {
-      "date": "2026-09-11",
-      "source": "ticketmaster",
-      "artists": [
-        "Jorge Medina y Josi Cuen - JUNTOS"
-      ],
-      "artist_display": "Jorge Medina y Josi Cuen - JUNTOS",
-      "url": "https://www.ticketmaster.com.mx/juntos-ciudad-de-mexico-11-09-2026/event/3D00645121F37378",
-      "ticket_url": "https://www.ticketmaster.com.mx/juntos-ciudad-de-mexico-11-09-2026/event/3D00645121F37378",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-09-11",
-      "source": "ticketmaster",
-      "artists": [
-        "Carlos Macías"
-      ],
-      "artist_display": "Carlos Macías",
-      "url": "https://www.ticketmaster.com.mx/carlos-macias-ciudad-de-mexico-11-09-2026/event/3D0064EC931C437C",
-      "ticket_url": "https://www.ticketmaster.com.mx/carlos-macias-ciudad-de-mexico-11-09-2026/event/3D0064EC931C437C",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-09-11",
-      "source": "ticketmaster",
-      "artists": [
-        "Willie González"
-      ],
-      "artist_display": "Willie González",
-      "url": "https://www.ticketmaster.com.mx/maelo-ruiz-willie-gonzalez-mexico-11-09-2026/event/3D00650CC4B952DE",
-      "ticket_url": "https://www.ticketmaster.com.mx/maelo-ruiz-willie-gonzalez-mexico-11-09-2026/event/3D00650CC4B952DE",
-      "venue": "Mambo Cafe Insurgentes",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-09-11",
-      "source": "ticketmaster",
-      "artists": [
-        "TrendLine"
-      ],
-      "artist_display": "TrendLine",
-      "url": "https://www.ticketmaster.com.mx/trendline-mexico-11-09-2026/event/3D00649B84A00ED5",
-      "ticket_url": "https://www.ticketmaster.com.mx/trendline-mexico-11-09-2026/event/3D00649B84A00ED5",
-      "venue": "Foro Red Access",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
-      ]
-    },
-    {
-      "date": "2026-09-11",
-      "source": "ticketmaster",
-      "artists": [
-        "Claudia Sierra"
-      ],
-      "artist_display": "Claudia Sierra",
-      "url": "https://www.ticketmaster.com.mx/claudia-sierra-presenta-de-despecho-y-ciudad-de-mexico-11-09-2026/event/3D0064C1B44E49CA",
-      "ticket_url": "https://www.ticketmaster.com.mx/claudia-sierra-presenta-de-despecho-y-ciudad-de-mexico-11-09-2026/event/3D0064C1B44E49CA",
-      "venue": "Foro Stelaris Fiesta Americana Reforma",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
-      ]
-    },
-    {
-      "date": "2026-09-11",
-      "source": "ticketmaster",
-      "artists": [
-        "Entre Ardidas"
-      ],
-      "artist_display": "Entre Ardidas",
-      "url": "https://www.ticketmaster.com.mx/entre-ardidas-mexico-11-09-2026/event/3D0064FBE54B56E9",
-      "ticket_url": "https://www.ticketmaster.com.mx/entre-ardidas-mexico-11-09-2026/event/3D0064FBE54B56E9",
-      "venue": "La Maraka",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
-      ]
-    },
     {
       "date": "2026-09-12",
       "source": "ticketmaster",
@@ -621,22 +441,6 @@
       "tags": [
         "Pop",
         "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-09-18",
-      "source": "ticketmaster",
-      "artists": [
-        "I Am Hardstyle"
-      ],
-      "artist_display": "I Am Hardstyle",
-      "url": "https://www.ticketmaster.com.mx/i-am-hardstyle-mexico-18-09-2026/event/1400649EB893D735",
-      "ticket_url": "https://www.ticketmaster.com.mx/i-am-hardstyle-mexico-18-09-2026/event/1400649EB893D735",
-      "venue": "Pabellón del Palacio de los Deportes",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Dance/Electronic",
-        "Amapiano"
       ]
     },
     {
@@ -7095,6 +6899,21 @@
       "tags": [
         "Pop",
         "Electro Pop"
+      ]
+    },
+    {
+      "date": "2026-12-02",
+      "source": "ticketmaster",
+      "artists": [
+        "Eslabon Armado"
+      ],
+      "artist_display": "Eslabon Armado",
+      "url": "https://www.ticketmaster.com.mx/eslabon-armado-mexico-02-12-2026/event/140064D6AB3A5467",
+      "ticket_url": "https://www.ticketmaster.com.mx/eslabon-armado-mexico-02-12-2026/event/140064D6AB3A5467",
+      "venue": "Teatro Metropolitan",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
       ]
     },
     {
