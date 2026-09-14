@@ -1,129 +1,9 @@
 {
   "source": "songkick",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-09-13T11:08:10.719149Z",
-  "total_concerts": 570,
+  "scraped_at": "2026-09-14T11:53:17.861304Z",
+  "total_concerts": 561,
   "concerts": [
-    {
-      "date": "2026-09-22",
-      "source": "songkick",
-      "artists": [
-        "Young Miko"
-      ],
-      "artist_display": "Young Miko",
-      "url": "https://www.songkick.com/concerts/43143960-young-miko-at-palacio-de-los-deportes",
-      "venue": "Palacio de los Deportes",
-      "venue_url": "https://www.songkick.com/venues/31907-palacio-de-los-deportes",
-      "location": "Palacio de los Deportes,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-09-22",
-      "source": "songkick",
-      "artists": [
-        "Gondwana and Quique Neira"
-      ],
-      "artist_display": "Gondwana and Quique Neira",
-      "url": "https://www.songkick.com/concerts/43219214-gondwana-at-auditorio-nacional",
-      "venue": "Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/34183-auditorio-nacional",
-      "location": "Auditorio Nacional,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-09-23",
-      "source": "songkick",
-      "artists": [
-        "De La Rose"
-      ],
-      "artist_display": "De La Rose",
-      "url": "https://www.songkick.com/concerts/43212634-de-la-rose-at-teatro-metropolitan",
-      "venue": "Teatro Metropólitan",
-      "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
-      "location": "Teatro Metropólitan,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-09-23",
-      "source": "songkick",
-      "artists": [
-        "La Leyenda"
-      ],
-      "artist_display": "La Leyenda",
-      "url": "https://www.songkick.com/concerts/43348539-la-leyenda-at-lunario-del-auditorio-nacional",
-      "venue": "Lunario Del Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional",
-      "location": "Lunario Del Auditorio Nacional,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-09-23",
-      "source": "songkick",
-      "artists": [
-        "Pitchfork Music Festival CDMX 2026Perfume Genius, American Football, meat computer, CFCF, Lido Pimienta, Safety Trance, Umru, and immasoul"
-      ],
-      "artist_display": "Pitchfork Music Festival CDMX 2026Perfume Genius, American Football, meat computer, CFCF, Lido Pimienta, Safety Trance, Umru, and immasoul",
-      "url": "https://www.songkick.com/festivals/3629237-pitchfork-music-cdmx/id/43311054-pitchfork-music-festival-cdmx-2026",
-      "venue": "Orbe",
-      "venue_url": "https://www.songkick.com/venues/1396323-orbe",
-      "location": "Orbe,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-09-24",
-      "source": "songkick",
-      "artists": [
-        "Moenia"
-      ],
-      "artist_display": "Moenia",
-      "url": "https://www.songkick.com/concerts/43168839-moenia-at-palacio-de-los-deportes",
-      "venue": "Palacio de los Deportes",
-      "venue_url": "https://www.songkick.com/venues/31907-palacio-de-los-deportes",
-      "location": "Palacio de los Deportes,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-09-24",
-      "source": "songkick",
-      "artists": [
-        "Chapterhouse"
-      ],
-      "artist_display": "Chapterhouse",
-      "url": "https://www.songkick.com/concerts/43322963-chapterhouse-at-bajo-circuito-multiforo-urbano",
-      "venue": "Bajo Circuito Multiforo Urbano",
-      "venue_url": "https://www.songkick.com/venues/4335163-bajo-circuito-multiforo-urbano",
-      "location": "Bajo Circuito Multiforo Urbano,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-09-24",
-      "source": "songkick",
-      "artists": [
-        "Pastilla"
-      ],
-      "artist_display": "Pastilla",
-      "url": "https://www.songkick.com/concerts/43113531-pastilla-at-gran-recinto",
-      "venue": "Gran Recinto",
-      "venue_url": "https://www.songkick.com/venues/3837629-gran-recinto",
-      "location": "Gran Recinto,Tlalnepantla, Mexico"
-    },
-    {
-      "date": "2026-09-24",
-      "source": "songkick",
-      "artists": [
-        "Love Ghost, jota moore, SMOK3, and Nadie Escucha"
-      ],
-      "artist_display": "Love Ghost, jota moore, SMOK3, and Nadie Escucha",
-      "url": "https://www.songkick.com/concerts/43361373-love-ghost-at-fuck-off-room",
-      "venue": "FÜCK OFF ROOM",
-      "venue_url": "https://www.songkick.com/venues/4540201-fuck-off-room",
-      "location": "FÜCK OFF ROOM,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-09-24",
-      "source": "songkick",
-      "artists": [
-        "Lucero (MX)"
-      ],
-      "artist_display": "Lucero (MX)",
-      "url": "https://www.songkick.com/concerts/43178348-lucero-mx-at-auditorio-nacional",
-      "venue": "Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/34183-auditorio-nacional",
-      "location": "Auditorio Nacional,Mexico City, Mexico"
-    },
     {
       "date": "2026-09-24",
       "source": "songkick",
@@ -3028,6 +2908,18 @@
       "date": "2026-10-31",
       "source": "songkick",
       "artists": [
+        "Lewis OfMan"
+      ],
+      "artist_display": "Lewis OfMan",
+      "url": "https://www.songkick.com/concerts/43406238-lewis-ofman-at-foro-indie-rocks",
+      "venue": "Foro Indie Rocks!",
+      "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-10-31",
+      "source": "songkick",
+      "artists": [
         "Indios"
       ],
       "artist_display": "Indios",
@@ -3047,18 +2939,6 @@
       "venue": "Sala Urbana",
       "venue_url": "https://www.songkick.com/venues/4453196-sala-urbana",
       "location": "Sala Urbana,Naucalpan, Mexico"
-    },
-    {
-      "date": "2026-10-31",
-      "source": "songkick",
-      "artists": [
-        "Julianno Sosa"
-      ],
-      "artist_display": "Julianno Sosa",
-      "url": "https://www.songkick.com/concerts/43075883-julianno-sosa-at-foro-san-rafael",
-      "venue": "Foro San Rafael",
-      "venue_url": "https://www.songkick.com/venues/4370524-foro-san-rafael",
-      "location": "Foro San Rafael,Mexico City, Mexico"
     },
     {
       "date": "2026-10-31",
@@ -3208,10 +3088,10 @@
       "date": "2026-11-04",
       "source": "songkick",
       "artists": [
-        "headache (UK)"
+        "Headache"
       ],
-      "artist_display": "headache (UK)",
-      "url": "https://www.songkick.com/concerts/43369644-headache-uk-at-foro-indie-rocks",
+      "artist_display": "Headache",
+      "url": "https://www.songkick.com/concerts/43411786-headache-at-foro-indie-rocks",
       "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
       "location": "Foro Indie Rocks!,Mexico City, Mexico"
@@ -3220,10 +3100,10 @@
       "date": "2026-11-04",
       "source": "songkick",
       "artists": [
-        "Headache"
+        "headache (UK)"
       ],
-      "artist_display": "Headache",
-      "url": "https://www.songkick.com/concerts/43411786-headache-at-foro-indie-rocks",
+      "artist_display": "headache (UK)",
+      "url": "https://www.songkick.com/concerts/43369644-headache-uk-at-foro-indie-rocks",
       "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
       "location": "Foro Indie Rocks!,Mexico City, Mexico"
@@ -5603,6 +5483,18 @@
       "venue": "Auditorio Nacional",
       "venue_url": "https://www.songkick.com/venues/34183-auditorio-nacional",
       "location": "Auditorio Nacional,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-12-11",
+      "source": "songkick",
+      "artists": [
+        "La TexanaTe vi en un planetario"
+      ],
+      "artist_display": "La TexanaTe vi en un planetario",
+      "url": "https://www.songkick.com/concerts/43412823-la-texana-at-foro-a",
+      "venue": "Foro A",
+      "venue_url": "https://www.songkick.com/venues/1516898-foro-a",
+      "location": "Foro A,Tlalnepantla, Mexico"
     },
     {
       "date": "2026-12-12",
