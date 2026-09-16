@@ -1,40 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-09-14T11:53:21.914461Z",
-  "total_concerts": 488,
+  "scraped_at": "2026-09-16T10:54:19.703966Z",
+  "total_concerts": 496,
   "concerts": [
-    {
-      "date": "2026-09-14",
-      "source": "ticketmaster",
-      "artists": [
-        "Virus"
-      ],
-      "artist_display": "Virus",
-      "url": "https://www.ticketmaster.com.mx/virus-ciudad-de-mexico-14-09-2026/event/3D0064BDEEEAB637",
-      "ticket_url": "https://www.ticketmaster.com.mx/virus-ciudad-de-mexico-14-09-2026/event/3D0064BDEEEAB637",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Metal",
-        "Nu-Metal"
-      ]
-    },
-    {
-      "date": "2026-09-15",
-      "source": "ticketmaster",
-      "artists": [
-        "Wave To Earth"
-      ],
-      "artist_display": "Wave To Earth",
-      "url": "https://www.ticketmaster.com.mx/wave-to-earth-the-pieces-tour-mexico-15-09-2026/event/140064A683F1450D",
-      "ticket_url": "https://www.ticketmaster.com.mx/wave-to-earth-the-pieces-tour-mexico-15-09-2026/event/140064A683F1450D",
-      "venue": "Pepsi Center",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop"
-      ]
-    },
     {
       "date": "2026-09-17",
       "source": "ticketmaster",
@@ -192,6 +161,21 @@
       "date": "2026-09-18",
       "source": "ticketmaster",
       "artists": [
+        "Natanael Cano"
+      ],
+      "artist_display": "Natanael Cano",
+      "url": "https://www.ticketmaster.com.mx/natanael-cano-zona-de-discapacidad-auditiva-ciudad-de-mexico-18-09-2026/event/140064E794072DEE",
+      "ticket_url": "https://www.ticketmaster.com.mx/natanael-cano-zona-de-discapacidad-auditiva-ciudad-de-mexico-18-09-2026/event/140064E794072DEE",
+      "venue": "Estadio GNP Seguros",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "source": "ticketmaster",
+      "artists": [
         "Heavy Nopal"
       ],
       "artist_display": "Heavy Nopal",
@@ -280,6 +264,21 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Other"
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "source": "ticketmaster",
+      "artists": [
+        "Natanael Cano"
+      ],
+      "artist_display": "Natanael Cano",
+      "url": "https://www.ticketmaster.com.mx/natanael-cano-zona-de-discapacidad-auditiva-ciudad-de-mexico-19-09-2026/event/140064E796EF31D2",
+      "ticket_url": "https://www.ticketmaster.com.mx/natanael-cano-zona-de-discapacidad-auditiva-ciudad-de-mexico-19-09-2026/event/140064E796EF31D2",
+      "venue": "Estadio GNP Seguros",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
       ]
     },
     {
@@ -573,6 +572,22 @@
       "location": "Mexico, Ciudad de México, Mexico",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "source": "ticketmaster",
+      "artists": [
+        "HELP ! En concierto - Homenaje a THE BEATLES"
+      ],
+      "artist_display": "HELP ! En concierto - Homenaje a THE BEATLES",
+      "url": "https://www.ticketmaster.com.mx/help-en-concierto-homenaje-a-the-mexico-25-09-2026/event/1400652ABD74ADE1",
+      "ticket_url": "https://www.ticketmaster.com.mx/help-en-concierto-homenaje-a-the-mexico-25-09-2026/event/1400652ABD74ADE1",
+      "venue": "Foro 1869",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Alternative Rock"
       ]
     },
     {
@@ -3412,6 +3427,22 @@
       ]
     },
     {
+      "date": "2026-10-30",
+      "source": "ticketmaster",
+      "artists": [
+        "Un aplauso para el amor"
+      ],
+      "artist_display": "Un aplauso para el amor",
+      "url": "https://www.ticketmaster.com.mx/un-aplauso-para-el-amor-ciudad-de-mexico-30-10-2026/event/3D00652B99AC37B9",
+      "ticket_url": "https://www.ticketmaster.com.mx/un-aplauso-para-el-amor-ciudad-de-mexico-30-10-2026/event/3D00652B99AC37B9",
+      "venue": "Foro Stelaris Fiesta Americana Reforma",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
+      ]
+    },
+    {
       "date": "2026-10-31",
       "source": "ticketmaster",
       "artists": [
@@ -5805,6 +5836,22 @@
       "date": "2026-11-27",
       "source": "ticketmaster",
       "artists": [
+        "Insite"
+      ],
+      "artist_display": "Insite",
+      "url": "https://www.ticketmaster.com.mx/insite-mexico-27-11-2026/event/14006528BC6577B4",
+      "ticket_url": "https://www.ticketmaster.com.mx/insite-mexico-27-11-2026/event/14006528BC6577B4",
+      "venue": "Pabellón del Palacio de los Deportes",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "source": "ticketmaster",
+      "artists": [
         "Caloncho"
       ],
       "artist_display": "Caloncho",
@@ -7080,6 +7127,21 @@
       "date": "2026-12-12",
       "source": "ticketmaster",
       "artists": [
+        "Ricardo Balderas"
+      ],
+      "artist_display": "Ricardo Balderas",
+      "url": "https://www.ticketmaster.com.mx/ricardo-balderas-fantasia-de-navidad-mexico-12-12-2026/event/3D00652BAD774A84",
+      "ticket_url": "https://www.ticketmaster.com.mx/ricardo-balderas-fantasia-de-navidad-mexico-12-12-2026/event/3D00652BAD774A84",
+      "venue": "El Cantoral ",
+      "location": "Mexico, Ciudad de México, Mexico",
+      "tags": [
+        "Ballads/Romantic"
+      ]
+    },
+    {
+      "date": "2026-12-12",
+      "source": "ticketmaster",
+      "artists": [
         "Motel"
       ],
       "artist_display": "Motel",
@@ -7105,6 +7167,22 @@
       "location": "México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2026-12-13",
+      "source": "ticketmaster",
+      "artists": [
+        "San Venus"
+      ],
+      "artist_display": "San Venus",
+      "url": "https://www.ticketmaster.com.mx/san-venus-ciudad-de-mexico-13-12-2026/event/3D006528D65E6E24",
+      "ticket_url": "https://www.ticketmaster.com.mx/san-venus-ciudad-de-mexico-13-12-2026/event/3D006528D65E6E24",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Alternative Rock"
       ]
     },
     {
@@ -7183,6 +7261,22 @@
       "location": "México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2026-12-18",
+      "source": "ticketmaster",
+      "artists": [
+        "División Minúscula"
+      ],
+      "artist_display": "División Minúscula",
+      "url": "https://www.ticketmaster.com.mx/division-minuscula-ciudad-de-mexico-18-12-2026/event/1400652BB34DA704",
+      "ticket_url": "https://www.ticketmaster.com.mx/division-minuscula-ciudad-de-mexico-18-12-2026/event/1400652BB34DA704",
+      "venue": "Palacio de los Deportes",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Alternative Rock"
       ]
     },
     {
@@ -7382,6 +7476,22 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Pop"
+      ]
+    },
+    {
+      "date": "2027-01-14",
+      "source": "ticketmaster",
+      "artists": [
+        "A*Teens"
+      ],
+      "artist_display": "A*Teens",
+      "url": "https://www.ticketmaster.com.mx/ateens-mexico-14-01-2027/event/3D00651AE627C6A5",
+      "ticket_url": "https://www.ticketmaster.com.mx/ateens-mexico-14-01-2027/event/3D00651AE627C6A5",
+      "venue": "La Maraka",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -8189,6 +8299,22 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2027-04-26",
+      "source": "ticketmaster",
+      "artists": [
+        "Silvio Rodríguez"
+      ],
+      "artist_display": "Silvio Rodríguez",
+      "url": "https://www.ticketmaster.com.mx/silvio-rodriguez-ciudad-de-mexico-26-04-2027/event/3D006522A1AF32E7",
+      "ticket_url": "https://www.ticketmaster.com.mx/silvio-rodriguez-ciudad-de-mexico-26-04-2027/event/3D006522A1AF32E7",
+      "venue": "Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "World",
+        "Trova"
       ]
     },
     {
