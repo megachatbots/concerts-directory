@@ -1,7 +1,7 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-09-16T10:54:19.703966Z",
+  "scraped_at": "2026-09-17T11:01:02.494967Z",
   "total_concerts": 496,
   "concerts": [
     {
@@ -78,21 +78,6 @@
       "location": "México, Ciudad de México, Mexico",
       "tags": [
         "Ballads/Romantic"
-      ]
-    },
-    {
-      "date": "2026-09-18",
-      "source": "ticketmaster",
-      "artists": [
-        "Majo Rivas"
-      ],
-      "artist_display": "Majo Rivas",
-      "url": "https://www.ticketmaster.com.mx/majo-rivas-en-cdmx-ciudad-de-mexico-18-09-2026/event/3D0064F297A2324F",
-      "ticket_url": "https://www.ticketmaster.com.mx/majo-rivas-en-cdmx-ciudad-de-mexico-18-09-2026/event/3D0064F297A2324F",
-      "venue": "Sala Pepsi Black",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
       ]
     },
     {
@@ -948,7 +933,8 @@
       "venue": "Teatro Metropolitan",
       "location": "México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -1025,7 +1011,8 @@
       "venue": "La Maraka",
       "location": "México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -1243,7 +1230,8 @@
       "venue": "El Lunario del Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -2163,6 +2151,21 @@
       "tags": [
         "Dance/Electronic",
         "Amapiano"
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "source": "ticketmaster",
+      "artists": [
+        "Majo Rivas"
+      ],
+      "artist_display": "Majo Rivas",
+      "url": "https://www.ticketmaster.com.mx/majo-rivas-en-cdmx-ciudad-de-mexico-16-10-2026/event/3D0064F297A2324F",
+      "ticket_url": "https://www.ticketmaster.com.mx/majo-rivas-en-cdmx-ciudad-de-mexico-16-10-2026/event/3D0064F297A2324F",
+      "venue": "Sala Pepsi Black",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
       ]
     },
     {

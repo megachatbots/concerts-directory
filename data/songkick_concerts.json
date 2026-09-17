@@ -1,9 +1,561 @@
 {
   "source": "songkick",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-09-16T10:54:15.794342Z",
-  "total_concerts": 562,
+  "scraped_at": "2026-09-17T11:00:57.346203Z",
+  "total_concerts": 457,
   "concerts": [
+    {
+      "date": "2026-09-17",
+      "source": "songkick",
+      "artists": [
+        "Inner Wave"
+      ],
+      "artist_display": "Inner Wave",
+      "url": "https://www.songkick.com/concerts/43291334-inner-wave-at-foro-indie-rocks",
+      "venue": "Foro Indie Rocks!",
+      "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-17",
+      "source": "songkick",
+      "artists": [
+        "Reyno"
+      ],
+      "artist_display": "Reyno",
+      "url": "https://www.songkick.com/concerts/43077778-reyno-at-pepsi-center-wtc",
+      "venue": "Pepsi Center WTC",
+      "venue_url": "https://www.songkick.com/venues/1774303-pepsi-center-wtc",
+      "location": "Pepsi Center WTC,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-17",
+      "source": "songkick",
+      "artists": [
+        "Ill NiñoThell Barrio, Dark Horse Prophet, and Lydia cant Breathe"
+      ],
+      "artist_display": "Ill NiñoThell Barrio, Dark Horse Prophet, and Lydia cant Breathe",
+      "url": "https://www.songkick.com/concerts/42994555-ill-nino-at-fuck-off-room",
+      "venue": "FÜCK OFF ROOM",
+      "venue_url": "https://www.songkick.com/venues/4540201-fuck-off-room",
+      "location": "FÜCK OFF ROOM,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-17",
+      "source": "songkick",
+      "artists": [
+        "Ana Torroja"
+      ],
+      "artist_display": "Ana Torroja",
+      "url": "https://www.songkick.com/concerts/43123468-ana-torroja-at-teatro-metropolitan",
+      "venue": "Teatro Metropólitan",
+      "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
+      "location": "Teatro Metropólitan,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-17",
+      "source": "songkick",
+      "artists": [
+        "Sotomayor"
+      ],
+      "artist_display": "Sotomayor",
+      "url": "https://www.songkick.com/concerts/43365593-sotomayor-at-lunario-del-auditorio-nacional",
+      "venue": "Lunario Del Auditorio Nacional",
+      "venue_url": "https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional",
+      "location": "Lunario Del Auditorio Nacional,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-17",
+      "source": "songkick",
+      "artists": [
+        "Chris Luno"
+      ],
+      "artist_display": "Chris Luno",
+      "url": "https://www.songkick.com/concerts/43388029-chris-luno-at-looloo",
+      "venue": "LooLoo",
+      "venue_url": "https://www.songkick.com/venues/3769259-looloo",
+      "location": "LooLoo,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-17",
+      "source": "songkick",
+      "artists": [
+        "Porter"
+      ],
+      "artist_display": "Porter",
+      "url": "https://www.songkick.com/concerts/43402066-porter-at-departamento",
+      "venue": "Departamento",
+      "venue_url": "https://www.songkick.com/venues/3359459-departamento",
+      "location": "Departamento,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-17",
+      "source": "songkick",
+      "artists": [
+        "Alkaloides"
+      ],
+      "artist_display": "Alkaloides",
+      "url": "https://www.songkick.com/concerts/43284833-alkaloides-at-bajo-circuito-multiforo-urbano",
+      "venue": "Bajo Circuito Multiforo Urbano",
+      "venue_url": "https://www.songkick.com/venues/4335163-bajo-circuito-multiforo-urbano",
+      "location": "Bajo Circuito Multiforo Urbano,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-17",
+      "source": "songkick",
+      "artists": [
+        "Rayos Láser"
+      ],
+      "artist_display": "Rayos Láser",
+      "url": "https://www.songkick.com/concerts/43416152-rayos-laser-at-foro-del-tejedor",
+      "venue": "Foro del Tejedor",
+      "venue_url": "https://www.songkick.com/venues/1532718-foro-del-tejedor",
+      "location": "Foro del Tejedor,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-18",
+      "source": "songkick",
+      "artists": [
+        "Natanael Cano"
+      ],
+      "artist_display": "Natanael Cano",
+      "url": "https://www.songkick.com/concerts/43341634-natanael-cano-at-estadio-gnp-seguros",
+      "venue": "Estadio GNP Seguros",
+      "venue_url": "https://www.songkick.com/venues/33578-estadio-gnp-seguros",
+      "location": "Estadio GNP Seguros,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-18",
+      "source": "songkick",
+      "artists": [
+        "DeVotchKa"
+      ],
+      "artist_display": "DeVotchKa",
+      "url": "https://www.songkick.com/concerts/43317747-devotchka-at-foro-indie-rocks",
+      "venue": "Foro Indie Rocks!",
+      "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-18",
+      "source": "songkick",
+      "artists": [
+        "Suuns"
+      ],
+      "artist_display": "Suuns",
+      "url": "https://www.songkick.com/concerts/43259407-suuns-at-orbe",
+      "venue": "Orbe",
+      "venue_url": "https://www.songkick.com/venues/1396323-orbe",
+      "location": "Orbe,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-18",
+      "source": "songkick",
+      "artists": [
+        "Hercules & Love Affair"
+      ],
+      "artist_display": "Hercules & Love Affair",
+      "url": "https://www.songkick.com/concerts/43398778-hercules-and-love-affair-at-looloo",
+      "venue": "LooLoo",
+      "venue_url": "https://www.songkick.com/venues/3769259-looloo",
+      "location": "LooLoo,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-18",
+      "source": "songkick",
+      "artists": [
+        "Bratty"
+      ],
+      "artist_display": "Bratty",
+      "url": "https://www.songkick.com/concerts/43165569-bratty-at-teatro-metropolitan",
+      "venue": "Teatro Metropólitan",
+      "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
+      "location": "Teatro Metropólitan,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-18",
+      "source": "songkick",
+      "artists": [
+        "Bengala"
+      ],
+      "artist_display": "Bengala",
+      "url": "https://www.songkick.com/concerts/43101565-bengala-at-lunario-del-auditorio-nacional",
+      "venue": "Lunario Del Auditorio Nacional",
+      "venue_url": "https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional",
+      "location": "Lunario Del Auditorio Nacional,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-18",
+      "source": "songkick",
+      "artists": [
+        "La Zorra ZapataPetite Amie"
+      ],
+      "artist_display": "La Zorra ZapataPetite Amie",
+      "url": "https://www.songkick.com/concerts/43369450-la-zorra-zapata-at-centro-cultural-de-espana",
+      "venue": "Centro Cultural de España",
+      "venue_url": "https://www.songkick.com/venues/107609-centro-cultural-de-espana",
+      "location": "Centro Cultural de España,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-18",
+      "source": "songkick",
+      "artists": [
+        "Heavy Nopal"
+      ],
+      "artist_display": "Heavy Nopal",
+      "url": "https://www.songkick.com/concerts/43280040-heavy-nopal-at-la-maraka",
+      "venue": "La Maraka",
+      "venue_url": "https://www.songkick.com/venues/1076291-la-maraka",
+      "location": "La Maraka,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-18",
+      "source": "songkick",
+      "artists": [
+        "This is MichaelJennifer Batten"
+      ],
+      "artist_display": "This is MichaelJennifer Batten",
+      "url": "https://www.songkick.com/concerts/43198208-this-is-michael-at-arena-cdmx",
+      "venue": "Arena CDMX",
+      "venue_url": "https://www.songkick.com/venues/1649258-arena-cdmx",
+      "location": "Arena CDMX,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-18",
+      "source": "songkick",
+      "artists": [
+        "Bastian Bell"
+      ],
+      "artist_display": "Bastian Bell",
+      "url": "https://www.songkick.com/concerts/43400489-bastian-bell-at-revo-rooftop",
+      "venue": "Revo Rooftop",
+      "venue_url": "https://www.songkick.com/venues/4664350-revo-rooftop",
+      "location": "Revo Rooftop,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-19",
+      "source": "songkick",
+      "artists": [
+        "RobynLykke Li"
+      ],
+      "artist_display": "RobynLykke Li",
+      "url": "https://www.songkick.com/concerts/43030896-robyn-at-palacio-de-los-deportes",
+      "venue": "Palacio de los Deportes",
+      "venue_url": "https://www.songkick.com/venues/31907-palacio-de-los-deportes",
+      "location": "Palacio de los Deportes,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-19",
+      "source": "songkick",
+      "artists": [
+        "Natanael Cano"
+      ],
+      "artist_display": "Natanael Cano",
+      "url": "https://www.songkick.com/concerts/43355318-natanael-cano-at-estadio-gnp-seguros",
+      "venue": "Estadio GNP Seguros",
+      "venue_url": "https://www.songkick.com/venues/33578-estadio-gnp-seguros",
+      "location": "Estadio GNP Seguros,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-19",
+      "source": "songkick",
+      "artists": [
+        "Micro TDH"
+      ],
+      "artist_display": "Micro TDH",
+      "url": "https://www.songkick.com/concerts/43198494-micro-tdh-at-la-maraka",
+      "venue": "La Maraka",
+      "venue_url": "https://www.songkick.com/venues/1076291-la-maraka",
+      "location": "La Maraka,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-19",
+      "source": "songkick",
+      "artists": [
+        "Bengala"
+      ],
+      "artist_display": "Bengala",
+      "url": "https://www.songkick.com/concerts/43014625-bengala-at-lunario-del-auditorio-nacional",
+      "venue": "Lunario Del Auditorio Nacional",
+      "venue_url": "https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional",
+      "location": "Lunario Del Auditorio Nacional,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-19",
+      "source": "songkick",
+      "artists": [
+        "Son Rompe Pera"
+      ],
+      "artist_display": "Son Rompe Pera",
+      "url": "https://www.songkick.com/concerts/43215543-son-rompe-pera-at-teatro-metropolitan",
+      "venue": "Teatro Metropólitan",
+      "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
+      "location": "Teatro Metropólitan,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-19",
+      "source": "songkick",
+      "artists": [
+        "Dimitri y las brujas"
+      ],
+      "artist_display": "Dimitri y las brujas",
+      "url": "https://www.songkick.com/concerts/43292162-dimitri-y-las-brujas-at-sala-black-pepsi-center-wtc",
+      "venue": "Sala Black Pepsi Center WTC",
+      "venue_url": "https://www.songkick.com/venues/4569973-sala-black-pepsi-center-wtc",
+      "location": "Sala Black Pepsi Center WTC,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-19",
+      "source": "songkick",
+      "artists": [
+        "Johnny Garso"
+      ],
+      "artist_display": "Johnny Garso",
+      "url": "https://www.songkick.com/concerts/43400851-johnny-garso-at-tianguis-cultural-el-chopo",
+      "venue": "Tianguis Cultural El Chopo",
+      "venue_url": "https://www.songkick.com/venues/127691-tianguis-cultural-el-chopo",
+      "location": "Tianguis Cultural El Chopo,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-19",
+      "source": "songkick",
+      "artists": [
+        "The Animal PlasticsTHE DEVILS & LIBIDO"
+      ],
+      "artist_display": "The Animal PlasticsTHE DEVILS & LIBIDO",
+      "url": "https://www.songkick.com/concerts/43406273-animal-plastics-at-central-granada-67",
+      "venue": "Central Granada 67",
+      "venue_url": "https://www.songkick.com/venues/4620979-central-granada-67",
+      "location": "Central Granada 67,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-19",
+      "source": "songkick",
+      "artists": [
+        "Festival Flotante 2026Asia Menor, Policromía, and Policromía (ARG)"
+      ],
+      "artist_display": "Festival Flotante 2026Asia Menor, Policromía, and Policromía (ARG)",
+      "url": "https://www.songkick.com/festivals/3438879-flotante/id/43361346-festival-flotante-2026",
+      "venue": "Foro Veintiocho",
+      "venue_url": "https://www.songkick.com/venues/4416868-foro-veintiocho",
+      "location": "Foro Veintiocho,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-20",
+      "source": "songkick",
+      "artists": [
+        "Beach Fossils"
+      ],
+      "artist_display": "Beach Fossils",
+      "url": "https://www.songkick.com/concerts/43251583-beach-fossils-at-lunario-del-auditorio-nacional",
+      "venue": "Lunario Del Auditorio Nacional",
+      "venue_url": "https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional",
+      "location": "Lunario Del Auditorio Nacional,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-20",
+      "source": "songkick",
+      "artists": [
+        "Toe"
+      ],
+      "artist_display": "Toe",
+      "url": "https://www.songkick.com/concerts/43198438-toe-at-orbe",
+      "venue": "Orbe",
+      "venue_url": "https://www.songkick.com/venues/1396323-orbe",
+      "location": "Orbe,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-20",
+      "source": "songkick",
+      "artists": [
+        "MC Davo"
+      ],
+      "artist_display": "MC Davo",
+      "url": "https://www.songkick.com/concerts/43131529-mc-davo-at-pepsi-center-wtc",
+      "venue": "Pepsi Center WTC",
+      "venue_url": "https://www.songkick.com/venues/1774303-pepsi-center-wtc",
+      "location": "Pepsi Center WTC,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-20",
+      "source": "songkick",
+      "artists": [
+        "AtheistThe Unholy (MX)"
+      ],
+      "artist_display": "AtheistThe Unholy (MX)",
+      "url": "https://www.songkick.com/concerts/43402109-atheist-at-fuck-off-room",
+      "venue": "FÜCK OFF ROOM",
+      "venue_url": "https://www.songkick.com/venues/4540201-fuck-off-room",
+      "location": "FÜCK OFF ROOM,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-20",
+      "source": "songkick",
+      "artists": [
+        "Ni-hao!Ni Hao, Annapura, Soga (Mexico), and Octopoulpe"
+      ],
+      "artist_display": "Ni-hao!Ni Hao, Annapura, Soga (Mexico), and Octopoulpe",
+      "url": "https://www.songkick.com/concerts/43347823-nihao-at-gato-calavera",
+      "venue": "Gato Calavera",
+      "venue_url": "https://www.songkick.com/venues/1385981-gato-calavera",
+      "location": "Gato Calavera,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-21",
+      "source": "songkick",
+      "artists": [
+        "Blonde Redhead"
+      ],
+      "artist_display": "Blonde Redhead",
+      "url": "https://www.songkick.com/concerts/43247295-blonde-redhead-at-teatro-metropolitan",
+      "venue": "Teatro Metropólitan",
+      "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
+      "location": "Teatro Metropólitan,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-22",
+      "source": "songkick",
+      "artists": [
+        "Young Miko"
+      ],
+      "artist_display": "Young Miko",
+      "url": "https://www.songkick.com/concerts/43143960-young-miko-at-palacio-de-los-deportes",
+      "venue": "Palacio de los Deportes",
+      "venue_url": "https://www.songkick.com/venues/31907-palacio-de-los-deportes",
+      "location": "Palacio de los Deportes,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-22",
+      "source": "songkick",
+      "artists": [
+        "Gondwana and Quique Neira"
+      ],
+      "artist_display": "Gondwana and Quique Neira",
+      "url": "https://www.songkick.com/concerts/43219214-gondwana-at-auditorio-nacional",
+      "venue": "Auditorio Nacional",
+      "venue_url": "https://www.songkick.com/venues/34183-auditorio-nacional",
+      "location": "Auditorio Nacional,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-23",
+      "source": "songkick",
+      "artists": [
+        "De La Rose"
+      ],
+      "artist_display": "De La Rose",
+      "url": "https://www.songkick.com/concerts/43212634-de-la-rose-at-teatro-metropolitan",
+      "venue": "Teatro Metropólitan",
+      "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
+      "location": "Teatro Metropólitan,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-23",
+      "source": "songkick",
+      "artists": [
+        "La Leyenda"
+      ],
+      "artist_display": "La Leyenda",
+      "url": "https://www.songkick.com/concerts/43348539-la-leyenda-at-lunario-del-auditorio-nacional",
+      "venue": "Lunario Del Auditorio Nacional",
+      "venue_url": "https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional",
+      "location": "Lunario Del Auditorio Nacional,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-23",
+      "source": "songkick",
+      "artists": [
+        "Pitchfork Music Festival CDMX 2026Perfume Genius, American Football, meat computer, CFCF, Lido Pimienta, Safety Trance, Umru, and immasoul"
+      ],
+      "artist_display": "Pitchfork Music Festival CDMX 2026Perfume Genius, American Football, meat computer, CFCF, Lido Pimienta, Safety Trance, Umru, and immasoul",
+      "url": "https://www.songkick.com/festivals/3629237-pitchfork-music-cdmx/id/43311054-pitchfork-music-festival-cdmx-2026",
+      "venue": "Orbe",
+      "venue_url": "https://www.songkick.com/venues/1396323-orbe",
+      "location": "Orbe,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-24",
+      "source": "songkick",
+      "artists": [
+        "Moenia"
+      ],
+      "artist_display": "Moenia",
+      "url": "https://www.songkick.com/concerts/43168839-moenia-at-palacio-de-los-deportes",
+      "venue": "Palacio de los Deportes",
+      "venue_url": "https://www.songkick.com/venues/31907-palacio-de-los-deportes",
+      "location": "Palacio de los Deportes,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-24",
+      "source": "songkick",
+      "artists": [
+        "Chapterhouse"
+      ],
+      "artist_display": "Chapterhouse",
+      "url": "https://www.songkick.com/concerts/43322963-chapterhouse-at-bajo-circuito-multiforo-urbano",
+      "venue": "Bajo Circuito Multiforo Urbano",
+      "venue_url": "https://www.songkick.com/venues/4335163-bajo-circuito-multiforo-urbano",
+      "location": "Bajo Circuito Multiforo Urbano,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-24",
+      "source": "songkick",
+      "artists": [
+        "Pastilla"
+      ],
+      "artist_display": "Pastilla",
+      "url": "https://www.songkick.com/concerts/43113531-pastilla-at-gran-recinto",
+      "venue": "Gran Recinto",
+      "venue_url": "https://www.songkick.com/venues/3837629-gran-recinto",
+      "location": "Gran Recinto,Tlalnepantla, Mexico"
+    },
+    {
+      "date": "2026-09-24",
+      "source": "songkick",
+      "artists": [
+        "Love Ghost, jota moore, SMOK3, and Nadie Escucha"
+      ],
+      "artist_display": "Love Ghost, jota moore, SMOK3, and Nadie Escucha",
+      "url": "https://www.songkick.com/concerts/43361373-love-ghost-at-fuck-off-room",
+      "venue": "FÜCK OFF ROOM",
+      "venue_url": "https://www.songkick.com/venues/4540201-fuck-off-room",
+      "location": "FÜCK OFF ROOM,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-24",
+      "source": "songkick",
+      "artists": [
+        "Lucero (MX)"
+      ],
+      "artist_display": "Lucero (MX)",
+      "url": "https://www.songkick.com/concerts/43178348-lucero-mx-at-auditorio-nacional",
+      "venue": "Auditorio Nacional",
+      "venue_url": "https://www.songkick.com/venues/34183-auditorio-nacional",
+      "location": "Auditorio Nacional,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-24",
+      "source": "songkick",
+      "artists": [
+        "GRTSCH"
+      ],
+      "artist_display": "GRTSCH",
+      "url": "https://www.songkick.com/concerts/43299642-grtsch-at-lunario-del-auditorio-nacional",
+      "venue": "Lunario Del Auditorio Nacional",
+      "venue_url": "https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional",
+      "location": "Lunario Del Auditorio Nacional,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-09-24",
+      "source": "songkick",
+      "artists": [
+        "Erikku Onno"
+      ],
+      "artist_display": "Erikku Onno",
+      "url": "https://www.songkick.com/concerts/42620608-erikku-onno-at-mexico-city-festival",
+      "venue": "Mexico City Festival",
+      "venue_url": "https://www.songkick.com/venues/2131814-mexico-city-festival",
+      "location": "Mexico City Festival,Mexico City, Mexico"
+    },
     {
       "date": "2026-09-24",
       "source": "songkick",
@@ -378,18 +930,6 @@
       "date": "2026-10-01",
       "source": "songkick",
       "artists": [
-        "Amorphis"
-      ],
-      "artist_display": "Amorphis",
-      "url": "https://www.songkick.com/concerts/43080457-amorphis-at-circo-volador",
-      "venue": "Circo Volador",
-      "venue_url": "https://www.songkick.com/venues/49859-circo-volador",
-      "location": "Circo Volador,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-01",
-      "source": "songkick",
-      "artists": [
         "múm"
       ],
       "artist_display": "múm",
@@ -397,6 +937,18 @@
       "venue": "House of Vans",
       "venue_url": "https://www.songkick.com/venues/3083404-house-of-vans",
       "location": "House of Vans,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-10-01",
+      "source": "songkick",
+      "artists": [
+        "Amorphis"
+      ],
+      "artist_display": "Amorphis",
+      "url": "https://www.songkick.com/concerts/43080457-amorphis-at-circo-volador",
+      "venue": "Circo Volador",
+      "venue_url": "https://www.songkick.com/venues/49859-circo-volador",
+      "location": "Circo Volador,Mexico City, Mexico"
     },
     {
       "date": "2026-10-01",
@@ -630,9 +1182,9 @@
       "date": "2026-10-03",
       "source": "songkick",
       "artists": [
-        "High Vis"
+        "High VisSad Breakfast and Terror de Culto"
       ],
-      "artist_display": "High Vis",
+      "artist_display": "High VisSad Breakfast and Terror de Culto",
       "url": "https://www.songkick.com/concerts/43321554-high-vis-at-gato-calavera",
       "venue": "Gato Calavera",
       "venue_url": "https://www.songkick.com/venues/1385981-gato-calavera",
@@ -1851,604 +2403,6 @@
       "location": "Foro Red Access,Mexico City, Mexico"
     },
     {
-      "date": "2026-10-17",
-      "source": "songkick",
-      "artists": [
-        "Yolanda del Rio"
-      ],
-      "artist_display": "Yolanda del Rio",
-      "url": "https://www.songkick.com/concerts/43112132-yolanda-del-rio-at-teatro-metropolitan",
-      "venue": "Teatro Metropólitan",
-      "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
-      "location": "Teatro Metropólitan,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-18",
-      "source": "songkick",
-      "artists": [
-        "Orchestral Manoeuvres In The Dark"
-      ],
-      "artist_display": "Orchestral Manoeuvres In The Dark",
-      "url": "https://www.songkick.com/concerts/43215531-orchestral-manoeuvres-in-the-dark-at-pepsi-center-wtc",
-      "venue": "Pepsi Center WTC",
-      "venue_url": "https://www.songkick.com/venues/1774303-pepsi-center-wtc",
-      "location": "Pepsi Center WTC,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-18",
-      "source": "songkick",
-      "artists": [
-        "Hombres G"
-      ],
-      "artist_display": "Hombres G",
-      "url": "https://www.songkick.com/concerts/43112127-hombres-g-at-auditorio-nacional",
-      "venue": "Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/34183-auditorio-nacional",
-      "location": "Auditorio Nacional,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-18",
-      "source": "songkick",
-      "artists": [
-        "Blessd"
-      ],
-      "artist_display": "Blessd",
-      "url": "https://www.songkick.com/concerts/43385338-blessd-at-palacio-de-los-deportes",
-      "venue": "Palacio de los Deportes",
-      "venue_url": "https://www.songkick.com/venues/31907-palacio-de-los-deportes",
-      "location": "Palacio de los Deportes,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-18",
-      "source": "songkick",
-      "artists": [
-        "RubytatesAmore Aurora and Chucho Nave"
-      ],
-      "artist_display": "RubytatesAmore Aurora and Chucho Nave",
-      "url": "https://www.songkick.com/concerts/43322922-rubytates-at-bajo-circuito-multiforo-urbano",
-      "venue": "Bajo Circuito Multiforo Urbano",
-      "venue_url": "https://www.songkick.com/venues/4335163-bajo-circuito-multiforo-urbano",
-      "location": "Bajo Circuito Multiforo Urbano,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-18",
-      "source": "songkick",
-      "artists": [
-        "El Consorcio"
-      ],
-      "artist_display": "El Consorcio",
-      "url": "https://www.songkick.com/concerts/42911881-el-consorcio-at-teatro-metropolitan",
-      "venue": "Teatro Metropólitan",
-      "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
-      "location": "Teatro Metropólitan,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-18",
-      "source": "songkick",
-      "artists": [
-        "Sofi Mayen"
-      ],
-      "artist_display": "Sofi Mayen",
-      "url": "https://www.songkick.com/concerts/43371944-sofi-mayen-at-fuck-off-room",
-      "venue": "FÜCK OFF ROOM",
-      "venue_url": "https://www.songkick.com/venues/4540201-fuck-off-room",
-      "location": "FÜCK OFF ROOM,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-18",
-      "source": "songkick",
-      "artists": [
-        "The Midnight LA"
-      ],
-      "artist_display": "The Midnight LA",
-      "url": "https://www.songkick.com/concerts/43404555-midnight-la-at-foro-puebla",
-      "venue": "Foro Puebla",
-      "venue_url": "https://www.songkick.com/venues/4506135-foro-puebla",
-      "location": "Foro Puebla,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-18",
-      "source": "songkick",
-      "artists": [
-        "Magos Herrera"
-      ],
-      "artist_display": "Magos Herrera",
-      "url": "https://www.songkick.com/concerts/43411386-magos-herrera-at-unknown-venue",
-      "location": "Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-19",
-      "source": "songkick",
-      "artists": [
-        "Def LeppardExtreme"
-      ],
-      "artist_display": "Def LeppardExtreme",
-      "url": "https://www.songkick.com/concerts/43248216-def-leppard-at-palacio-de-los-deportes",
-      "venue": "Palacio de los Deportes",
-      "venue_url": "https://www.songkick.com/venues/31907-palacio-de-los-deportes",
-      "location": "Palacio de los Deportes,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-19",
-      "source": "songkick",
-      "artists": [
-        "Bunbury"
-      ],
-      "artist_display": "Bunbury",
-      "url": "https://www.songkick.com/concerts/43058607-bunbury-at-auditorio-nacional",
-      "venue": "Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/34183-auditorio-nacional",
-      "location": "Auditorio Nacional,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-19",
-      "source": "songkick",
-      "artists": [
-        "Fest Cervantino 2026Sofia Rei"
-      ],
-      "artist_display": "Fest Cervantino 2026Sofia Rei",
-      "url": "https://www.songkick.com/festivals/3805308-fest-cervantino/id/43359859-fest-cervantino-2026",
-      "venue": "Lunario Del Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional",
-      "location": "Lunario Del Auditorio Nacional,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-21",
-      "source": "songkick",
-      "artists": [
-        "SlayerPower Trip"
-      ],
-      "artist_display": "SlayerPower Trip",
-      "url": "https://www.songkick.com/concerts/43246322-slayer-at-palacio-de-los-deportes",
-      "venue": "Palacio de los Deportes",
-      "venue_url": "https://www.songkick.com/venues/31907-palacio-de-los-deportes",
-      "location": "Palacio de los Deportes,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-21",
-      "source": "songkick",
-      "artists": [
-        "Jesse & Joy"
-      ],
-      "artist_display": "Jesse & Joy",
-      "url": "https://www.songkick.com/concerts/43284646-jesse-and-joy-at-auditorio-nacional",
-      "venue": "Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/34183-auditorio-nacional",
-      "location": "Auditorio Nacional,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-21",
-      "source": "songkick",
-      "artists": [
-        "La Casetera"
-      ],
-      "artist_display": "La Casetera",
-      "url": "https://www.songkick.com/concerts/43193274-la-casetera-at-teatro-metropolitan",
-      "venue": "Teatro Metropólitan",
-      "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
-      "location": "Teatro Metropólitan,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-21",
-      "source": "songkick",
-      "artists": [
-        "Los Latigos"
-      ],
-      "artist_display": "Los Latigos",
-      "url": "https://www.songkick.com/concerts/43412292-los-latigos-at-cinco-pies",
-      "venue": "Cinco Pies",
-      "venue_url": "https://www.songkick.com/venues/4649308-cinco-pies",
-      "location": "Cinco Pies,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-22",
-      "source": "songkick",
-      "artists": [
-        "The Vaccines"
-      ],
-      "artist_display": "The Vaccines",
-      "url": "https://www.songkick.com/concerts/43351374-vaccines-at-pabellon-del-palacio-de-los-deportes",
-      "venue": "Pabellón del Palacio de los Deportes",
-      "venue_url": "https://www.songkick.com/venues/1551083-pabellon-del-palacio-de-los-deportes",
-      "location": "Pabellón del Palacio de los Deportes,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-22",
-      "source": "songkick",
-      "artists": [
-        "Jessie WareDhruv"
-      ],
-      "artist_display": "Jessie WareDhruv",
-      "url": "https://www.songkick.com/concerts/43161018-jessie-ware-at-teatro-metropolitan",
-      "venue": "Teatro Metropólitan",
-      "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
-      "location": "Teatro Metropólitan,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-22",
-      "source": "songkick",
-      "artists": [
-        "Bad Gyal"
-      ],
-      "artist_display": "Bad Gyal",
-      "url": "https://www.songkick.com/concerts/43184364-bad-gyal-at-palacio-de-los-deportes",
-      "venue": "Palacio de los Deportes",
-      "venue_url": "https://www.songkick.com/venues/31907-palacio-de-los-deportes",
-      "location": "Palacio de los Deportes,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-22",
-      "source": "songkick",
-      "artists": [
-        "Nicolás y Los Fumadores, Isla de Caras, and Miel"
-      ],
-      "artist_display": "Nicolás y Los Fumadores, Isla de Caras, and Miel",
-      "url": "https://www.songkick.com/concerts/43259732-nicolas-y-los-fumadores-at-foro-puebla",
-      "venue": "Foro Puebla",
-      "venue_url": "https://www.songkick.com/venues/4506135-foro-puebla",
-      "location": "Foro Puebla,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-22",
-      "source": "songkick",
-      "artists": [
-        "Edith Marquez"
-      ],
-      "artist_display": "Edith Marquez",
-      "url": "https://www.songkick.com/concerts/43237257-edith-marquez-at-auditorio-nacional",
-      "venue": "Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/34183-auditorio-nacional",
-      "location": "Auditorio Nacional,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-22",
-      "source": "songkick",
-      "artists": [
-        "Flamencura"
-      ],
-      "artist_display": "Flamencura",
-      "url": "https://www.songkick.com/concerts/43286859-flamencura-at-foro-stelaris-fiesta-americana-reforma",
-      "venue": "Foro Stelaris, Fiesta Americana Reforma",
-      "venue_url": "https://www.songkick.com/venues/4639533-foro-stelaris-fiesta-americana-reforma",
-      "location": "Foro Stelaris, Fiesta Americana Reforma,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-22",
-      "source": "songkick",
-      "artists": [
-        "Gabriela Richardson"
-      ],
-      "artist_display": "Gabriela Richardson",
-      "url": "https://www.songkick.com/concerts/43339625-gabriela-richardson-at-chico",
-      "venue": "Chico",
-      "venue_url": "https://www.songkick.com/venues/69136-chico",
-      "location": "Chico,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-22",
-      "source": "songkick",
-      "artists": [
-        "Valsian"
-      ],
-      "artist_display": "Valsian",
-      "url": "https://www.songkick.com/concerts/43382425-valsian-at-sala-sonora",
-      "venue": "Sala Sonora",
-      "venue_url": "https://www.songkick.com/venues/4646475-sala-sonora",
-      "location": "Sala Sonora,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-23",
-      "source": "songkick",
-      "artists": [
-        "Jessie WareDhruv"
-      ],
-      "artist_display": "Jessie WareDhruv",
-      "url": "https://www.songkick.com/concerts/43177749-jessie-ware-at-teatro-metropolitan",
-      "venue": "Teatro Metropólitan",
-      "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
-      "location": "Teatro Metropólitan,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-23",
-      "source": "songkick",
-      "artists": [
-        "Frank TurnerKatacombs"
-      ],
-      "artist_display": "Frank TurnerKatacombs",
-      "url": "https://www.songkick.com/concerts/43228199-frank-turner-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks!",
-      "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks!,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-23",
-      "source": "songkick",
-      "artists": [
-        "Fobia"
-      ],
-      "artist_display": "Fobia",
-      "url": "https://www.songkick.com/concerts/43235054-fobia-at-palacio-de-los-deportes",
-      "venue": "Palacio de los Deportes",
-      "venue_url": "https://www.songkick.com/venues/31907-palacio-de-los-deportes",
-      "location": "Palacio de los Deportes,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-23",
-      "source": "songkick",
-      "artists": [
-        "Matisse"
-      ],
-      "artist_display": "Matisse",
-      "url": "https://www.songkick.com/concerts/43305272-matisse-at-la-maraka",
-      "venue": "La Maraka",
-      "venue_url": "https://www.songkick.com/venues/1076291-la-maraka",
-      "location": "La Maraka,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-23",
-      "source": "songkick",
-      "artists": [
-        "Clubz"
-      ],
-      "artist_display": "Clubz",
-      "url": "https://www.songkick.com/concerts/43353628-clubz-at-foro-a",
-      "venue": "Foro A",
-      "venue_url": "https://www.songkick.com/venues/1516898-foro-a",
-      "location": "Foro A,Tlalnepantla, Mexico"
-    },
-    {
-      "date": "2026-10-23",
-      "source": "songkick",
-      "artists": [
-        "Benediction"
-      ],
-      "artist_display": "Benediction",
-      "url": "https://www.songkick.com/concerts/42839499-benediction-at-circo-volador",
-      "venue": "Circo Volador",
-      "venue_url": "https://www.songkick.com/venues/49859-circo-volador",
-      "location": "Circo Volador,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-23",
-      "source": "songkick",
-      "artists": [
-        "Andrés Obregón"
-      ],
-      "artist_display": "Andrés Obregón",
-      "url": "https://www.songkick.com/concerts/43184363-andres-obregon-at-auditorio-nacional",
-      "venue": "Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/34183-auditorio-nacional",
-      "location": "Auditorio Nacional,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-23",
-      "source": "songkick",
-      "artists": [
-        "Alizzz"
-      ],
-      "artist_display": "Alizzz",
-      "url": "https://www.songkick.com/concerts/43357113-alizzz-at-pabellon-del-palacio-de-los-deportes",
-      "venue": "Pabellón del Palacio de los Deportes",
-      "venue_url": "https://www.songkick.com/venues/1551083-pabellon-del-palacio-de-los-deportes",
-      "location": "Pabellón del Palacio de los Deportes,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-23",
-      "source": "songkick",
-      "artists": [
-        "ResorteDownset"
-      ],
-      "artist_display": "ResorteDownset",
-      "url": "https://www.songkick.com/concerts/43390461-resorte-at-fuck-off-room",
-      "venue": "FÜCK OFF ROOM",
-      "venue_url": "https://www.songkick.com/venues/4540201-fuck-off-room",
-      "location": "FÜCK OFF ROOM,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-23",
-      "source": "songkick",
-      "artists": [
-        "Chinese Football"
-      ],
-      "artist_display": "Chinese Football",
-      "url": "https://www.songkick.com/concerts/43293832-chinese-football-at-house-of-vans",
-      "venue": "House of Vans",
-      "venue_url": "https://www.songkick.com/venues/3083404-house-of-vans",
-      "location": "House of Vans,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-24",
-      "source": "songkick",
-      "artists": [
-        "Black Country, New Road"
-      ],
-      "artist_display": "Black Country, New Road",
-      "url": "https://www.songkick.com/concerts/43228193-black-country-new-road-at-orbe",
-      "venue": "Orbe",
-      "venue_url": "https://www.songkick.com/venues/1396323-orbe",
-      "location": "Orbe,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-24",
-      "source": "songkick",
-      "artists": [
-        "CANNONSCaroline Kingsbury"
-      ],
-      "artist_display": "CANNONSCaroline Kingsbury",
-      "url": "https://www.songkick.com/concerts/43212622-cannons-at-pabellon-del-palacio-de-los-deportes",
-      "venue": "Pabellón del Palacio de los Deportes",
-      "venue_url": "https://www.songkick.com/venues/1551083-pabellon-del-palacio-de-los-deportes",
-      "location": "Pabellón del Palacio de los Deportes,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-24",
-      "source": "songkick",
-      "artists": [
-        "The Jungle Giants"
-      ],
-      "artist_display": "The Jungle Giants",
-      "url": "https://www.songkick.com/concerts/43225564-jungle-giants-at-foro-puebla",
-      "venue": "Foro Puebla",
-      "venue_url": "https://www.songkick.com/venues/4506135-foro-puebla",
-      "location": "Foro Puebla,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-24",
-      "source": "songkick",
-      "artists": [
-        "Fobia"
-      ],
-      "artist_display": "Fobia",
-      "url": "https://www.songkick.com/concerts/43113887-fobia-at-palacio-de-los-deportes",
-      "venue": "Palacio de los Deportes",
-      "venue_url": "https://www.songkick.com/venues/31907-palacio-de-los-deportes",
-      "location": "Palacio de los Deportes,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-24",
-      "source": "songkick",
-      "artists": [
-        "Gloria Trevi"
-      ],
-      "artist_display": "Gloria Trevi",
-      "url": "https://www.songkick.com/concerts/43284645-gloria-trevi-at-auditorio-nacional",
-      "venue": "Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/34183-auditorio-nacional",
-      "location": "Auditorio Nacional,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-24",
-      "source": "songkick",
-      "artists": [
-        "Ruby Haunt"
-      ],
-      "artist_display": "Ruby Haunt",
-      "url": "https://www.songkick.com/concerts/43233296-ruby-haunt-at-antiguo-templo-de-christ-church",
-      "venue": "Antiguo Templo de Christ Church",
-      "venue_url": "https://www.songkick.com/venues/4662535-antiguo-templo-de-christ-church",
-      "location": "Antiguo Templo de Christ Church,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-24",
-      "source": "songkick",
-      "artists": [
-        "El Malilla"
-      ],
-      "artist_display": "El Malilla",
-      "url": "https://www.songkick.com/concerts/43397804-el-malilla-at-centro-de-espectaculos-carma",
-      "venue": "Centro de Espectaculos CARMA",
-      "venue_url": "https://www.songkick.com/venues/4472995-centro-de-espectaculos-carma",
-      "location": "Centro de Espectaculos CARMA,Chalco, Mexico"
-    },
-    {
-      "date": "2026-10-24",
-      "source": "songkick",
-      "artists": [
-        "Ploho"
-      ],
-      "artist_display": "Ploho",
-      "url": "https://www.songkick.com/concerts/43284301-ploho-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks!",
-      "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks!,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-24",
-      "source": "songkick",
-      "artists": [
-        "Abel Pintos"
-      ],
-      "artist_display": "Abel Pintos",
-      "url": "https://www.songkick.com/concerts/43240120-abel-pintos-at-teatro-metropolitan",
-      "venue": "Teatro Metropólitan",
-      "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
-      "location": "Teatro Metropólitan,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-24",
-      "source": "songkick",
-      "artists": [
-        "CMBA Punk Rock Fest 2026H2O and Lionheart"
-      ],
-      "artist_display": "CMBA Punk Rock Fest 2026H2O and Lionheart",
-      "url": "https://www.songkick.com/festivals/3479702-cmba-punk-rock-fest/id/43401657-cmba-punk-rock-fest-2026",
-      "venue": "Foro Teambro",
-      "venue_url": "https://www.songkick.com/venues/4378754-foro-teambro",
-      "location": "Foro Teambro,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-25",
-      "source": "songkick",
-      "artists": [
-        "Romeo Santos and Prince Royce"
-      ],
-      "artist_display": "Romeo Santos and Prince Royce",
-      "url": "https://www.songkick.com/concerts/43091614-romeo-santos-at-palacio-de-los-deportes",
-      "venue": "Palacio de los Deportes",
-      "venue_url": "https://www.songkick.com/venues/31907-palacio-de-los-deportes",
-      "location": "Palacio de los Deportes,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-25",
-      "source": "songkick",
-      "artists": [
-        "TINI"
-      ],
-      "artist_display": "TINI",
-      "url": "https://www.songkick.com/concerts/43233282-tini-at-arena-cdmx",
-      "venue": "Arena CDMX",
-      "venue_url": "https://www.songkick.com/venues/1649258-arena-cdmx",
-      "location": "Arena CDMX,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-25",
-      "source": "songkick",
-      "artists": [
-        "Pimpinela"
-      ],
-      "artist_display": "Pimpinela",
-      "url": "https://www.songkick.com/concerts/43176505-pimpinela-at-auditorio-nacional",
-      "venue": "Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/34183-auditorio-nacional",
-      "location": "Auditorio Nacional,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-25",
-      "source": "songkick",
-      "artists": [
-        "Liquits"
-      ],
-      "artist_display": "Liquits",
-      "url": "https://www.songkick.com/concerts/43204072-liquits-at-la-maraka",
-      "venue": "La Maraka",
-      "venue_url": "https://www.songkick.com/venues/1076291-la-maraka",
-      "location": "La Maraka,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-25",
-      "source": "songkick",
-      "artists": [
-        "Transmetal"
-      ],
-      "artist_display": "Transmetal",
-      "url": "https://www.songkick.com/concerts/43161024-transmetal-at-lunario-del-auditorio-nacional",
-      "venue": "Lunario Del Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional",
-      "location": "Lunario Del Auditorio Nacional,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-25",
-      "source": "songkick",
-      "artists": [
-        "Paula Prieto"
-      ],
-      "artist_display": "Paula Prieto",
-      "url": "https://www.songkick.com/concerts/43401191-paula-prieto-at-foro-la-paz",
-      "venue": "Foro La Paz",
-      "venue_url": "https://www.songkick.com/venues/4471031-foro-la-paz",
-      "location": "Foro La Paz,Mexico City, Mexico"
-    },
-    {
       "date": "2026-10-25",
       "source": "songkick",
       "artists": [
@@ -2752,18 +2706,6 @@
       "date": "2026-10-30",
       "source": "songkick",
       "artists": [
-        "Austin TVBelafonte Sensacional"
-      ],
-      "artist_display": "Austin TVBelafonte Sensacional",
-      "url": "https://www.songkick.com/concerts/43241720-austin-tv-at-polyforum-cultural-siqueiros",
-      "venue": "Polyforum Cultural Siqueiros",
-      "venue_url": "https://www.songkick.com/venues/79021-polyforum-cultural-siqueiros",
-      "location": "Polyforum Cultural Siqueiros,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-30",
-      "source": "songkick",
-      "artists": [
         "Omar CamachoAxel Valdez"
       ],
       "artist_display": "Omar CamachoAxel Valdez",
@@ -2771,6 +2713,18 @@
       "venue": "Auto Drive Cinema",
       "venue_url": "https://www.songkick.com/venues/4593421-auto-drive-cinema",
       "location": "Auto Drive Cinema,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-10-30",
+      "source": "songkick",
+      "artists": [
+        "Austin TVBelafonte Sensacional"
+      ],
+      "artist_display": "Austin TVBelafonte Sensacional",
+      "url": "https://www.songkick.com/concerts/43241720-austin-tv-at-polyforum-cultural-siqueiros",
+      "venue": "Polyforum Cultural Siqueiros",
+      "venue_url": "https://www.songkick.com/venues/79021-polyforum-cultural-siqueiros",
+      "location": "Polyforum Cultural Siqueiros,Mexico City, Mexico"
     },
     {
       "date": "2026-10-30",
@@ -2956,18 +2910,6 @@
       "date": "2026-11-01",
       "source": "songkick",
       "artists": [
-        "abraded"
-      ],
-      "artist_display": "abraded",
-      "url": "https://www.songkick.com/concerts/43171360-abraded-at-zombie-diner-tlalpan",
-      "venue": "Zombie Diner Tlalpan",
-      "venue_url": "https://www.songkick.com/venues/4462163-zombie-diner-tlalpan",
-      "location": "Zombie Diner Tlalpan,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-01",
-      "source": "songkick",
-      "artists": [
         "Los Viejos and DISTESTMuto Tapes, Serpyants, and Killer Wolf"
       ],
       "artist_display": "Los Viejos and DISTESTMuto Tapes, Serpyants, and Killer Wolf",
@@ -3059,606 +3001,6 @@
       "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
       "location": "Foro Indie Rocks!,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-05",
-      "source": "songkick",
-      "artists": [
-        "Aitana"
-      ],
-      "artist_display": "Aitana",
-      "url": "https://www.songkick.com/concerts/43351370-aitana-at-auditorio-nacional",
-      "venue": "Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/34183-auditorio-nacional",
-      "location": "Auditorio Nacional,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-05",
-      "source": "songkick",
-      "artists": [
-        "Puma Blue"
-      ],
-      "artist_display": "Puma Blue",
-      "url": "https://www.songkick.com/concerts/43254166-puma-blue-at-teatro-metropolitan",
-      "venue": "Teatro Metropólitan",
-      "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
-      "location": "Teatro Metropólitan,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-05",
-      "source": "songkick",
-      "artists": [
-        "Dillom"
-      ],
-      "artist_display": "Dillom",
-      "url": "https://www.songkick.com/concerts/43393859-dillom-at-foro-puebla",
-      "venue": "Foro Puebla",
-      "venue_url": "https://www.songkick.com/venues/4506135-foro-puebla",
-      "location": "Foro Puebla,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-05",
-      "source": "songkick",
-      "artists": [
-        "León Benavente"
-      ],
-      "artist_display": "León Benavente",
-      "url": "https://www.songkick.com/concerts/43233297-leon-benavente-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks!",
-      "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks!,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-05",
-      "source": "songkick",
-      "artists": [
-        "Peces Raros"
-      ],
-      "artist_display": "Peces Raros",
-      "url": "https://www.songkick.com/concerts/43324965-peces-raros-at-auditorio-bb",
-      "venue": "Auditorio BB",
-      "venue_url": "https://www.songkick.com/venues/1683588-auditorio-bb",
-      "location": "Auditorio BB,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-05",
-      "source": "songkick",
-      "artists": [
-        "Bronze Nazareth"
-      ],
-      "artist_display": "Bronze Nazareth",
-      "url": "https://www.songkick.com/concerts/43390469-bronze-nazareth-at-fuck-off-room",
-      "venue": "FÜCK OFF ROOM",
-      "venue_url": "https://www.songkick.com/venues/4540201-fuck-off-room",
-      "location": "FÜCK OFF ROOM,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-05",
-      "source": "songkick",
-      "artists": [
-        "DISTEST"
-      ],
-      "artist_display": "DISTEST",
-      "url": "https://www.songkick.com/concerts/43337354-distest-at-house-of-vans",
-      "venue": "House of Vans",
-      "venue_url": "https://www.songkick.com/venues/3083404-house-of-vans",
-      "location": "House of Vans,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-05",
-      "source": "songkick",
-      "artists": [
-        "Emjay (MX)"
-      ],
-      "artist_display": "Emjay (MX)",
-      "url": "https://www.songkick.com/concerts/43230182-emjay-mx-at-pabellon-del-palacio-de-los-deportes",
-      "venue": "Pabellón del Palacio de los Deportes",
-      "venue_url": "https://www.songkick.com/venues/1551083-pabellon-del-palacio-de-los-deportes",
-      "location": "Pabellón del Palacio de los Deportes,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-06",
-      "source": "songkick",
-      "artists": [
-        "Mac DeMarco"
-      ],
-      "artist_display": "Mac DeMarco",
-      "url": "https://www.songkick.com/concerts/43098444-mac-demarco-at-quarry-studios",
-      "venue": "Quarry Studios",
-      "venue_url": "https://www.songkick.com/venues/4104554-quarry-studios",
-      "location": "Quarry Studios,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-06",
-      "source": "songkick",
-      "artists": [
-        "Morat"
-      ],
-      "artist_display": "Morat",
-      "url": "https://www.songkick.com/concerts/43143955-morat-at-palacio-de-los-deportes",
-      "venue": "Palacio de los Deportes",
-      "venue_url": "https://www.songkick.com/venues/31907-palacio-de-los-deportes",
-      "location": "Palacio de los Deportes,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-06",
-      "source": "songkick",
-      "artists": [
-        "Aitana"
-      ],
-      "artist_display": "Aitana",
-      "url": "https://www.songkick.com/concerts/43163686-aitana-at-auditorio-nacional",
-      "venue": "Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/34183-auditorio-nacional",
-      "location": "Auditorio Nacional,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-06",
-      "source": "songkick",
-      "artists": [
-        "Social Distortion"
-      ],
-      "artist_display": "Social Distortion",
-      "url": "https://www.songkick.com/concerts/43345543-social-distortion-at-velodromo-olimpico",
-      "venue": "Velódromo Olímpico",
-      "venue_url": "https://www.songkick.com/venues/451101-velodromo-olimpico",
-      "location": "Velódromo Olímpico,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-06",
-      "source": "songkick",
-      "artists": [
-        "rubio"
-      ],
-      "artist_display": "rubio",
-      "url": "https://www.songkick.com/concerts/43005816-rubio-at-auditorio-bb",
-      "venue": "Auditorio BB",
-      "venue_url": "https://www.songkick.com/venues/1683588-auditorio-bb",
-      "location": "Auditorio BB,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-06",
-      "source": "songkick",
-      "artists": [
-        "Dillom"
-      ],
-      "artist_display": "Dillom",
-      "url": "https://www.songkick.com/concerts/43396010-dillom-at-foro-puebla",
-      "venue": "Foro Puebla",
-      "venue_url": "https://www.songkick.com/venues/4506135-foro-puebla",
-      "location": "Foro Puebla,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-06",
-      "source": "songkick",
-      "artists": [
-        "Serbia"
-      ],
-      "artist_display": "Serbia",
-      "url": "https://www.songkick.com/concerts/43196100-serbia-at-teatro-metropolitan",
-      "venue": "Teatro Metropólitan",
-      "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
-      "location": "Teatro Metropólitan,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-06",
-      "source": "songkick",
-      "artists": [
-        "Giorgio Siladi"
-      ],
-      "artist_display": "Giorgio Siladi",
-      "url": "https://www.songkick.com/concerts/43362363-giorgio-siladi-at-fuck-off-room",
-      "venue": "FÜCK OFF ROOM",
-      "venue_url": "https://www.songkick.com/venues/4540201-fuck-off-room",
-      "location": "FÜCK OFF ROOM,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-06",
-      "source": "songkick",
-      "artists": [
-        "Rubén Pozo"
-      ],
-      "artist_display": "Rubén Pozo",
-      "url": "https://www.songkick.com/concerts/43370263-ruben-pozo-at-segundo-piso-live",
-      "venue": "Segundo Piso Live",
-      "venue_url": "https://www.songkick.com/venues/4269454-segundo-piso-live",
-      "location": "Segundo Piso Live,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-06",
-      "source": "songkick",
-      "artists": [
-        "For The Children 2026Xibalba, Raw Brigade, Barrio Slam, Worst Behavior, CUSTODIA, Beyond Repair, Ultima Victima, and Uno A Uno"
-      ],
-      "artist_display": "For The Children 2026Xibalba, Raw Brigade, Barrio Slam, Worst Behavior, CUSTODIA, Beyond Repair, Ultima Victima, and Uno A Uno",
-      "url": "https://www.songkick.com/festivals/1189213-for-the-children/id/43406233-for-the-children-2026",
-      "venue": "Foro El Mictlán",
-      "venue_url": "https://www.songkick.com/venues/4421426-foro-el-mictlan",
-      "location": "Foro El Mictlán,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-07",
-      "source": "songkick",
-      "artists": [
-        "Morat"
-      ],
-      "artist_display": "Morat",
-      "url": "https://www.songkick.com/concerts/43143956-morat-at-palacio-de-los-deportes",
-      "venue": "Palacio de los Deportes",
-      "venue_url": "https://www.songkick.com/venues/31907-palacio-de-los-deportes",
-      "location": "Palacio de los Deportes,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-07",
-      "source": "songkick",
-      "artists": [
-        "Aitana"
-      ],
-      "artist_display": "Aitana",
-      "url": "https://www.songkick.com/concerts/43179740-aitana-at-auditorio-nacional",
-      "venue": "Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/34183-auditorio-nacional",
-      "location": "Auditorio Nacional,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-07",
-      "source": "songkick",
-      "artists": [
-        "Cyclo"
-      ],
-      "artist_display": "Cyclo",
-      "url": "https://www.songkick.com/concerts/43277413-cyclo-at-foro-cultural-hilvana",
-      "venue": "Foro Cultural Hilvana",
-      "venue_url": "https://www.songkick.com/venues/4071029-foro-cultural-hilvana",
-      "location": "Foro Cultural Hilvana,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-07",
-      "source": "songkick",
-      "artists": [
-        "Aerea"
-      ],
-      "artist_display": "Aerea",
-      "url": "https://www.songkick.com/concerts/43365051-aerea-at-bar-oriente",
-      "venue": "Bar Oriente",
-      "venue_url": "https://www.songkick.com/venues/3836389-bar-oriente",
-      "location": "Bar Oriente,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-07",
-      "source": "songkick",
-      "artists": [
-        "O Tortuga"
-      ],
-      "artist_display": "O Tortuga",
-      "url": "https://www.songkick.com/concerts/43251533-o-tortuga-at-fuck-off-room",
-      "venue": "FÜCK OFF ROOM",
-      "venue_url": "https://www.songkick.com/venues/4540201-fuck-off-room",
-      "location": "FÜCK OFF ROOM,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-07",
-      "source": "songkick",
-      "artists": [
-        "Coro Acardenchado"
-      ],
-      "artist_display": "Coro Acardenchado",
-      "url": "https://www.songkick.com/concerts/43311518-coro-acardenchado-at-teatro-de-la-ciudad-esperanza-iris",
-      "venue": "Teatro de la Ciudad Esperanza Iris",
-      "venue_url": "https://www.songkick.com/venues/2182854-teatro-de-la-ciudad-esperanza-iris",
-      "location": "Teatro de la Ciudad Esperanza Iris,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-07",
-      "source": "songkick",
-      "artists": [
-        "Cemican"
-      ],
-      "artist_display": "Cemican",
-      "url": "https://www.songkick.com/concerts/43397169-cemican-at-foro-veintiocho",
-      "venue": "Foro Veintiocho",
-      "venue_url": "https://www.songkick.com/venues/4416868-foro-veintiocho",
-      "location": "Foro Veintiocho,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-07",
-      "source": "songkick",
-      "artists": [
-        "Hipnosis Festival 2026Future Islands, Connan Mockasin, Melvins, Levitation Room, The Lemon Twigs, Wine Lips, Kim Gordon, and Sunn O)))"
-      ],
-      "artist_display": "Hipnosis Festival 2026Future Islands, Connan Mockasin, Melvins, Levitation Room, The Lemon Twigs, Wine Lips, Kim Gordon, and Sunn O)))",
-      "url": "https://www.songkick.com/festivals/2392169-hipnosis/id/43315130-hipnosis-festival-2026",
-      "venue": "Quarry Studios",
-      "venue_url": "https://www.songkick.com/venues/4104554-quarry-studios",
-      "location": "Quarry Studios,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-07",
-      "source": "songkick",
-      "artists": [
-        "Festival Amigo 2026Julieta Venegas, Caifanes, Los Amigos Invisibles, DLD, Porter, Los Mesoneros, Disco Bahía, and Farmacos"
-      ],
-      "artist_display": "Festival Amigo 2026Julieta Venegas, Caifanes, Los Amigos Invisibles, DLD, Porter, Los Mesoneros, Disco Bahía, and Farmacos",
-      "url": "https://www.songkick.com/festivals/3278715-amigo/id/43321524-festival-amigo-2026",
-      "venue": "Campo Los Alcanfores",
-      "venue_url": "https://www.songkick.com/venues/4262644-campo-los-alcanfores",
-      "location": "Campo Los Alcanfores,Cuautitlán Izcalli, Mexico"
-    },
-    {
-      "date": "2026-11-07",
-      "source": "songkick",
-      "artists": [
-        "Ultra Mexico 2026Armin van Buuren, Alesso, Afrojack, Eric Prydz, Hardwell, CamelPhat, Boris Brejcha, and Steve Angello"
-      ],
-      "artist_display": "Ultra Mexico 2026Armin van Buuren, Alesso, Afrojack, Eric Prydz, Hardwell, CamelPhat, Boris Brejcha, and Steve Angello",
-      "url": "https://www.songkick.com/festivals/1924389-ultra-mexico/id/43342911-ultra-mexico-2026",
-      "venue": "Estadio Banorte",
-      "venue_url": "https://www.songkick.com/venues/52265-estadio-banorte",
-      "location": "Estadio Banorte,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-08",
-      "source": "songkick",
-      "artists": [
-        "Knocked Loose and Denzel Curry"
-      ],
-      "artist_display": "Knocked Loose and Denzel Curry",
-      "url": "https://www.songkick.com/concerts/43242112-knocked-loose-at-foro-teambro",
-      "venue": "Foro Teambro",
-      "venue_url": "https://www.songkick.com/venues/4378754-foro-teambro",
-      "location": "Foro Teambro,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-08",
-      "source": "songkick",
-      "artists": [
-        "Morat"
-      ],
-      "artist_display": "Morat",
-      "url": "https://www.songkick.com/concerts/43161028-morat-at-palacio-de-los-deportes",
-      "venue": "Palacio de los Deportes",
-      "venue_url": "https://www.songkick.com/venues/31907-palacio-de-los-deportes",
-      "location": "Palacio de los Deportes,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-08",
-      "source": "songkick",
-      "artists": [
-        "John 5"
-      ],
-      "artist_display": "John 5",
-      "url": "https://www.songkick.com/concerts/43072958-john-5-at-foro-1869",
-      "venue": "Foro 1869",
-      "venue_url": "https://www.songkick.com/venues/3826719-foro-1869",
-      "location": "Foro 1869,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-08",
-      "source": "songkick",
-      "artists": [
-        "Los Panchos"
-      ],
-      "artist_display": "Los Panchos",
-      "url": "https://www.songkick.com/concerts/43309474-los-panchos-at-teatro-metropolitan",
-      "venue": "Teatro Metropólitan",
-      "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
-      "location": "Teatro Metropólitan,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-08",
-      "source": "songkick",
-      "artists": [
-        "José y el Toro"
-      ],
-      "artist_display": "José y el Toro",
-      "url": "https://www.songkick.com/concerts/43225453-jose-y-el-toro-at-lunario-del-auditorio-nacional",
-      "venue": "Lunario Del Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional",
-      "location": "Lunario Del Auditorio Nacional,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-08",
-      "source": "songkick",
-      "artists": [
-        "Sin Fronteras"
-      ],
-      "artist_display": "Sin Fronteras",
-      "url": "https://www.songkick.com/concerts/43274997-sin-fronteras-at-el-cantoral",
-      "venue": "El Cantoral",
-      "venue_url": "https://www.songkick.com/venues/4032244-el-cantoral",
-      "location": "El Cantoral,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-08",
-      "source": "songkick",
-      "artists": [
-        "Solitario Mondragón"
-      ],
-      "artist_display": "Solitario Mondragón",
-      "url": "https://www.songkick.com/concerts/43406235-solitario-mondragon-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks!",
-      "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks!,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-10",
-      "source": "songkick",
-      "artists": [
-        "Ricardo Montaner"
-      ],
-      "artist_display": "Ricardo Montaner",
-      "url": "https://www.songkick.com/concerts/43384546-ricardo-montaner-at-auditorio-nacional",
-      "venue": "Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/34183-auditorio-nacional",
-      "location": "Auditorio Nacional,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-11",
-      "source": "songkick",
-      "artists": [
-        "ZZ Top"
-      ],
-      "artist_display": "ZZ Top",
-      "url": "https://www.songkick.com/concerts/43121098-zz-top-at-auditorio-nacional",
-      "venue": "Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/34183-auditorio-nacional",
-      "location": "Auditorio Nacional,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-11",
-      "source": "songkick",
-      "artists": [
-        "Opeth"
-      ],
-      "artist_display": "Opeth",
-      "url": "https://www.songkick.com/concerts/43033105-opeth-at-arena-cdmx",
-      "venue": "Arena CDMX",
-      "venue_url": "https://www.songkick.com/venues/1649258-arena-cdmx",
-      "location": "Arena CDMX,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-11",
-      "source": "songkick",
-      "artists": [
-        "Pignoise"
-      ],
-      "artist_display": "Pignoise",
-      "url": "https://www.songkick.com/concerts/43398871-pignoise-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks!",
-      "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks!,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-12",
-      "source": "songkick",
-      "artists": [
-        "Lifehouse"
-      ],
-      "artist_display": "Lifehouse",
-      "url": "https://www.songkick.com/concerts/43225446-lifehouse-at-la-maraka",
-      "venue": "La Maraka",
-      "venue_url": "https://www.songkick.com/venues/1076291-la-maraka",
-      "location": "La Maraka,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-12",
-      "source": "songkick",
-      "artists": [
-        "Elefante"
-      ],
-      "artist_display": "Elefante",
-      "url": "https://www.songkick.com/concerts/43023417-elefante-at-auditorio-nacional",
-      "venue": "Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/34183-auditorio-nacional",
-      "location": "Auditorio Nacional,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-12",
-      "source": "songkick",
-      "artists": [
-        "Le Poeme Harmonique"
-      ],
-      "artist_display": "Le Poeme Harmonique",
-      "url": "https://www.songkick.com/concerts/43336500-le-poeme-harmonique-at-universidad-nacional-autonoma-de-mexico",
-      "venue": "Universidad Nacional Autónoma de México (UNAM)",
-      "venue_url": "https://www.songkick.com/venues/143293-universidad-nacional-autonoma-de-mexico",
-      "location": "Universidad Nacional Autónoma de México (UNAM),Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-12",
-      "source": "songkick",
-      "artists": [
-        "Ultraligera"
-      ],
-      "artist_display": "Ultraligera",
-      "url": "https://www.songkick.com/concerts/43397531-ultraligera-at-foro-puebla",
-      "venue": "Foro Puebla",
-      "venue_url": "https://www.songkick.com/venues/4506135-foro-puebla",
-      "location": "Foro Puebla,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-12",
-      "source": "songkick",
-      "artists": [
-        "María León"
-      ],
-      "artist_display": "María León",
-      "url": "https://www.songkick.com/concerts/43333347-maria-leon-at-teatro-metropolitan",
-      "venue": "Teatro Metropólitan",
-      "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
-      "location": "Teatro Metropólitan,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-12",
-      "source": "songkick",
-      "artists": [
-        "Pancho Varona"
-      ],
-      "artist_display": "Pancho Varona",
-      "url": "https://www.songkick.com/concerts/43283394-pancho-varona-at-lunario-del-auditorio-nacional",
-      "venue": "Lunario Del Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional",
-      "location": "Lunario Del Auditorio Nacional,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-13",
-      "source": "songkick",
-      "artists": [
-        "Karol G"
-      ],
-      "artist_display": "Karol G",
-      "url": "https://www.songkick.com/concerts/43203810-karol-g-at-estadio-gnp-seguros",
-      "venue": "Estadio GNP Seguros",
-      "venue_url": "https://www.songkick.com/venues/33578-estadio-gnp-seguros",
-      "location": "Estadio GNP Seguros,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-13",
-      "source": "songkick",
-      "artists": [
-        "Andrés Calamaro"
-      ],
-      "artist_display": "Andrés Calamaro",
-      "url": "https://www.songkick.com/concerts/43353372-andres-calamaro-at-pepsi-center-wtc",
-      "venue": "Pepsi Center WTC",
-      "venue_url": "https://www.songkick.com/venues/1774303-pepsi-center-wtc",
-      "location": "Pepsi Center WTC,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-13",
-      "source": "songkick",
-      "artists": [
-        "Morat"
-      ],
-      "artist_display": "Morat",
-      "url": "https://www.songkick.com/concerts/43161025-morat-at-palacio-de-los-deportes",
-      "venue": "Palacio de los Deportes",
-      "venue_url": "https://www.songkick.com/venues/31907-palacio-de-los-deportes",
-      "location": "Palacio de los Deportes,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-13",
-      "source": "songkick",
-      "artists": [
-        "El Kanka"
-      ],
-      "artist_display": "El Kanka",
-      "url": "https://www.songkick.com/concerts/43055663-el-kanka-at-teatro-metropolitan",
-      "venue": "Teatro Metropólitan",
-      "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
-      "location": "Teatro Metropólitan,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-13",
-      "source": "songkick",
-      "artists": [
-        "DLD"
-      ],
-      "artist_display": "DLD",
-      "url": "https://www.songkick.com/concerts/43280043-dld-at-la-maraka",
-      "venue": "La Maraka",
-      "venue_url": "https://www.songkick.com/venues/1076291-la-maraka",
-      "location": "La Maraka,Mexico City, Mexico"
     },
     {
       "date": "2026-11-13",
@@ -3964,9 +3306,9 @@
       "date": "2026-11-18",
       "source": "songkick",
       "artists": [
-        "Emmanuel"
+        "Emmanuel and Mijares"
       ],
-      "artist_display": "Emmanuel",
+      "artist_display": "Emmanuel and Mijares",
       "url": "https://www.songkick.com/concerts/43389017-emmanuel-at-auditorio-nacional",
       "venue": "Auditorio Nacional",
       "venue_url": "https://www.songkick.com/venues/34183-auditorio-nacional",
@@ -4259,606 +3601,6 @@
       "venue": "La Maraka",
       "venue_url": "https://www.songkick.com/venues/1076291-la-maraka",
       "location": "La Maraka,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-21",
-      "source": "songkick",
-      "artists": [
-        "Rafael Lechowski"
-      ],
-      "artist_display": "Rafael Lechowski",
-      "url": "https://www.songkick.com/concerts/43166224-rafael-lechowski-at-foro-la-paz",
-      "venue": "Foro La Paz",
-      "venue_url": "https://www.songkick.com/venues/4471031-foro-la-paz",
-      "location": "Foro La Paz,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-21",
-      "source": "songkick",
-      "artists": [
-        "MalcriadaMalcriada (MX)"
-      ],
-      "artist_display": "MalcriadaMalcriada (MX)",
-      "url": "https://www.songkick.com/concerts/43156677-malcriada-at-pabellon-del-palacio-de-los-deportes",
-      "venue": "Pabellón del Palacio de los Deportes",
-      "venue_url": "https://www.songkick.com/venues/1551083-pabellon-del-palacio-de-los-deportes",
-      "location": "Pabellón del Palacio de los Deportes,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-22",
-      "source": "songkick",
-      "artists": [
-        "XG"
-      ],
-      "artist_display": "XG",
-      "url": "https://www.songkick.com/concerts/43246329-xg-at-arena-cdmx",
-      "venue": "Arena CDMX",
-      "venue_url": "https://www.songkick.com/venues/1649258-arena-cdmx",
-      "location": "Arena CDMX,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-22",
-      "source": "songkick",
-      "artists": [
-        "DoyleDoyle From the Misfits and Doyle Wolfgang Von Frankenstein"
-      ],
-      "artist_display": "DoyleDoyle From the Misfits and Doyle Wolfgang Von Frankenstein",
-      "url": "https://www.songkick.com/concerts/43397321-doyle-at-circo-volador",
-      "venue": "Circo Volador",
-      "venue_url": "https://www.songkick.com/venues/49859-circo-volador",
-      "location": "Circo Volador,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-22",
-      "source": "songkick",
-      "artists": [
-        "LAGNIA and DrengskapurSeptic Moon and Black Empire"
-      ],
-      "artist_display": "LAGNIA and DrengskapurSeptic Moon and Black Empire",
-      "url": "https://www.songkick.com/concerts/43343634-lagnia-at-foro-cultural-tlillancalli",
-      "venue": "Foro Cultural Tlillancalli",
-      "venue_url": "https://www.songkick.com/venues/4652585-foro-cultural-tlillancalli",
-      "location": "Foro Cultural Tlillancalli,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-22",
-      "source": "songkick",
-      "artists": [
-        "Grupo G"
-      ],
-      "artist_display": "Grupo G",
-      "url": "https://www.songkick.com/concerts/43371873-grupo-g-at-el-cantoral",
-      "venue": "El Cantoral",
-      "venue_url": "https://www.songkick.com/venues/4032244-el-cantoral",
-      "location": "El Cantoral,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-23",
-      "source": "songkick",
-      "artists": [
-        "Soda Stereo"
-      ],
-      "artist_display": "Soda Stereo",
-      "url": "https://www.songkick.com/concerts/43251591-soda-stereo-at-palacio-de-los-deportes",
-      "venue": "Palacio de los Deportes",
-      "venue_url": "https://www.songkick.com/venues/31907-palacio-de-los-deportes",
-      "location": "Palacio de los Deportes,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-23",
-      "source": "songkick",
-      "artists": [
-        "Taburete"
-      ],
-      "artist_display": "Taburete",
-      "url": "https://www.songkick.com/concerts/43403023-taburete-at-teatro-metropolitan",
-      "venue": "Teatro Metropólitan",
-      "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
-      "location": "Teatro Metropólitan,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-24",
-      "source": "songkick",
-      "artists": [
-        "Love of Lesbian"
-      ],
-      "artist_display": "Love of Lesbian",
-      "url": "https://www.songkick.com/concerts/43373527-love-of-lesbian-at-teatro-metropolitan",
-      "venue": "Teatro Metropólitan",
-      "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
-      "location": "Teatro Metropólitan,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-24",
-      "source": "songkick",
-      "artists": [
-        "Marty Friedman"
-      ],
-      "artist_display": "Marty Friedman",
-      "url": "https://www.songkick.com/concerts/43357448-marty-friedman-at-foro-la-paz",
-      "venue": "Foro La Paz",
-      "venue_url": "https://www.songkick.com/venues/4471031-foro-la-paz",
-      "location": "Foro La Paz,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-24",
-      "source": "songkick",
-      "artists": [
-        "BoyNextDoor"
-      ],
-      "artist_display": "BoyNextDoor",
-      "url": "https://www.songkick.com/concerts/43297248-boynextdoor-at-arena-cdmx",
-      "venue": "Arena CDMX",
-      "venue_url": "https://www.songkick.com/venues/1649258-arena-cdmx",
-      "location": "Arena CDMX,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-25",
-      "source": "songkick",
-      "artists": [
-        "A Perfect CirclePuscifer"
-      ],
-      "artist_display": "A Perfect CirclePuscifer",
-      "url": "https://www.songkick.com/concerts/43184456-a-perfect-circle-at-estadio-fray-nano-de-beisbol",
-      "venue": "Estadio Fray Nano de Beisbol",
-      "venue_url": "https://www.songkick.com/venues/4588267-estadio-fray-nano-de-beisbol",
-      "location": "Estadio Fray Nano de Beisbol,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-25",
-      "source": "songkick",
-      "artists": [
-        "Babasónicos"
-      ],
-      "artist_display": "Babasónicos",
-      "url": "https://www.songkick.com/concerts/43201537-babasonicos-at-palacio-de-los-deportes",
-      "venue": "Palacio de los Deportes",
-      "venue_url": "https://www.songkick.com/venues/31907-palacio-de-los-deportes",
-      "location": "Palacio de los Deportes,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-25",
-      "source": "songkick",
-      "artists": [
-        "Love of Lesbian"
-      ],
-      "artist_display": "Love of Lesbian",
-      "url": "https://www.songkick.com/concerts/43118543-love-of-lesbian-at-auditorio-nacional",
-      "venue": "Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/34183-auditorio-nacional",
-      "location": "Auditorio Nacional,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-25",
-      "source": "songkick",
-      "artists": [
-        "Giant Rooks"
-      ],
-      "artist_display": "Giant Rooks",
-      "url": "https://www.songkick.com/concerts/43212624-giant-rooks-at-teatro-metropolitan",
-      "venue": "Teatro Metropólitan",
-      "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
-      "location": "Teatro Metropólitan,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-25",
-      "source": "songkick",
-      "artists": [
-        "Machine Girl"
-      ],
-      "artist_display": "Machine Girl",
-      "url": "https://www.songkick.com/concerts/43375660-machine-girl-at-foro-la-paz",
-      "venue": "Foro La Paz",
-      "venue_url": "https://www.songkick.com/venues/4471031-foro-la-paz",
-      "location": "Foro La Paz,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-26",
-      "source": "songkick",
-      "artists": [
-        "Hayley WilliamsAnnie DiRusso"
-      ],
-      "artist_display": "Hayley WilliamsAnnie DiRusso",
-      "url": "https://www.songkick.com/concerts/43203501-hayley-williams-at-auditorio-nacional",
-      "venue": "Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/34183-auditorio-nacional",
-      "location": "Auditorio Nacional,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-26",
-      "source": "songkick",
-      "artists": [
-        "Beele"
-      ],
-      "artist_display": "Beele",
-      "url": "https://www.songkick.com/concerts/43211236-beele-at-estadio-fray-nano-de-beisbol",
-      "venue": "Estadio Fray Nano de Beisbol",
-      "venue_url": "https://www.songkick.com/venues/4588267-estadio-fray-nano-de-beisbol",
-      "location": "Estadio Fray Nano de Beisbol,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-26",
-      "source": "songkick",
-      "artists": [
-        "Helado Negro"
-      ],
-      "artist_display": "Helado Negro",
-      "url": "https://www.songkick.com/concerts/43283393-helado-negro-at-lunario-del-auditorio-nacional",
-      "venue": "Lunario Del Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional",
-      "location": "Lunario Del Auditorio Nacional,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-26",
-      "source": "songkick",
-      "artists": [
-        "CocoRosie"
-      ],
-      "artist_display": "CocoRosie",
-      "url": "https://www.songkick.com/concerts/43362353-cocorosie-at-auditorio-bb",
-      "venue": "Auditorio BB",
-      "venue_url": "https://www.songkick.com/venues/1683588-auditorio-bb",
-      "location": "Auditorio BB,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-26",
-      "source": "songkick",
-      "artists": [
-        "Nacho Vegas"
-      ],
-      "artist_display": "Nacho Vegas",
-      "url": "https://www.songkick.com/concerts/43174226-nacho-vegas-at-teatro-metropolitan",
-      "venue": "Teatro Metropólitan",
-      "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
-      "location": "Teatro Metropólitan,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-26",
-      "source": "songkick",
-      "artists": [
-        "Beto Cuevas"
-      ],
-      "artist_display": "Beto Cuevas",
-      "url": "https://www.songkick.com/concerts/43262178-beto-cuevas-at-la-maraka",
-      "venue": "La Maraka",
-      "venue_url": "https://www.songkick.com/venues/1076291-la-maraka",
-      "location": "La Maraka,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-26",
-      "source": "songkick",
-      "artists": [
-        "Veintiuno"
-      ],
-      "artist_display": "Veintiuno",
-      "url": "https://www.songkick.com/concerts/43354746-veintiuno-at-bajo-circuito-multiforo-urbano",
-      "venue": "Bajo Circuito Multiforo Urbano",
-      "venue_url": "https://www.songkick.com/venues/4335163-bajo-circuito-multiforo-urbano",
-      "location": "Bajo Circuito Multiforo Urbano,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-26",
-      "source": "songkick",
-      "artists": [
-        "Easykid"
-      ],
-      "artist_display": "Easykid",
-      "url": "https://www.songkick.com/concerts/43398870-easykid-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks!",
-      "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks!,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-26",
-      "source": "songkick",
-      "artists": [
-        "Perfecto Miserable"
-      ],
-      "artist_display": "Perfecto Miserable",
-      "url": "https://www.songkick.com/concerts/43351069-perfecto-miserable-at-house-of-vans",
-      "venue": "House of Vans",
-      "venue_url": "https://www.songkick.com/venues/3083404-house-of-vans",
-      "location": "House of Vans,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-26",
-      "source": "songkick",
-      "artists": [
-        "Leonardo de Lozanne"
-      ],
-      "artist_display": "Leonardo de Lozanne",
-      "url": "https://www.songkick.com/concerts/43385788-leonardo-de-lozanne-at-sala-black-pepsi-center-wtc",
-      "venue": "Sala Black Pepsi Center WTC",
-      "venue_url": "https://www.songkick.com/venues/4569973-sala-black-pepsi-center-wtc",
-      "location": "Sala Black Pepsi Center WTC,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-27",
-      "source": "songkick",
-      "artists": [
-        "KATSEYE"
-      ],
-      "artist_display": "KATSEYE",
-      "url": "https://www.songkick.com/concerts/43215541-katseye-at-palacio-de-los-deportes",
-      "venue": "Palacio de los Deportes",
-      "venue_url": "https://www.songkick.com/venues/31907-palacio-de-los-deportes",
-      "location": "Palacio de los Deportes,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-27",
-      "source": "songkick",
-      "artists": [
-        "Los Auténticos Decadentes and Los Caligaris"
-      ],
-      "artist_display": "Los Auténticos Decadentes and Los Caligaris",
-      "url": "https://www.songkick.com/concerts/43199006-los-autenticos-decadentes-at-estadio-gnp-seguros",
-      "venue": "Estadio GNP Seguros",
-      "venue_url": "https://www.songkick.com/venues/33578-estadio-gnp-seguros",
-      "location": "Estadio GNP Seguros,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-27",
-      "source": "songkick",
-      "artists": [
-        "Caloncho"
-      ],
-      "artist_display": "Caloncho",
-      "url": "https://www.songkick.com/concerts/43171491-caloncho-at-auditorio-nacional",
-      "venue": "Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/34183-auditorio-nacional",
-      "location": "Auditorio Nacional,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-27",
-      "source": "songkick",
-      "artists": [
-        "Alejandra Guzmán"
-      ],
-      "artist_display": "Alejandra Guzmán",
-      "url": "https://www.songkick.com/concerts/43117530-alejandra-guzman-at-arena-cdmx",
-      "venue": "Arena CDMX",
-      "venue_url": "https://www.songkick.com/venues/1649258-arena-cdmx",
-      "location": "Arena CDMX,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-27",
-      "source": "songkick",
-      "artists": [
-        "Kudai and Nikki Clan"
-      ],
-      "artist_display": "Kudai and Nikki Clan",
-      "url": "https://www.songkick.com/concerts/43294516-kudai-at-la-maraka",
-      "venue": "La Maraka",
-      "venue_url": "https://www.songkick.com/venues/1076291-la-maraka",
-      "location": "La Maraka,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-27",
-      "source": "songkick",
-      "artists": [
-        "Nasa Histoires"
-      ],
-      "artist_display": "Nasa Histoires",
-      "url": "https://www.songkick.com/concerts/42952308-nasa-histoires-at-teatro-metropolitan",
-      "venue": "Teatro Metropólitan",
-      "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
-      "location": "Teatro Metropólitan,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-27",
-      "source": "songkick",
-      "artists": [
-        "DrefQuila"
-      ],
-      "artist_display": "DrefQuila",
-      "url": "https://www.songkick.com/concerts/43382441-drefquila-at-astro",
-      "venue": "Astro",
-      "venue_url": "https://www.songkick.com/venues/4524095-astro",
-      "location": "Astro,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-27",
-      "source": "songkick",
-      "artists": [
-        "Roz"
-      ],
-      "artist_display": "Roz",
-      "url": "https://www.songkick.com/concerts/43235059-roz-at-pepsi-center-wtc",
-      "venue": "Pepsi Center WTC",
-      "venue_url": "https://www.songkick.com/venues/1774303-pepsi-center-wtc",
-      "location": "Pepsi Center WTC,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-27",
-      "source": "songkick",
-      "artists": [
-        "Perfecto Miserable"
-      ],
-      "artist_display": "Perfecto Miserable",
-      "url": "https://www.songkick.com/concerts/43189075-perfecto-miserable-at-house-of-vans",
-      "venue": "House of Vans",
-      "venue_url": "https://www.songkick.com/venues/3083404-house-of-vans",
-      "location": "House of Vans,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-27",
-      "source": "songkick",
-      "artists": [
-        "Farmacos"
-      ],
-      "artist_display": "Farmacos",
-      "url": "https://www.songkick.com/concerts/43327349-farmacos-at-multiforo-246",
-      "venue": "Multiforo 246",
-      "venue_url": "https://www.songkick.com/venues/1808328-multiforo-246",
-      "location": "Multiforo 246,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-28",
-      "source": "songkick",
-      "artists": [
-        "KATSEYE"
-      ],
-      "artist_display": "KATSEYE",
-      "url": "https://www.songkick.com/concerts/43230430-katseye-at-palacio-de-los-deportes",
-      "venue": "Palacio de los Deportes",
-      "venue_url": "https://www.songkick.com/venues/31907-palacio-de-los-deportes",
-      "location": "Palacio de los Deportes,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-28",
-      "source": "songkick",
-      "artists": [
-        "Disco Bahía"
-      ],
-      "artist_display": "Disco Bahía",
-      "url": "https://www.songkick.com/concerts/43225450-disco-bahia-at-auditorio-bb",
-      "venue": "Auditorio BB",
-      "venue_url": "https://www.songkick.com/venues/1683588-auditorio-bb",
-      "location": "Auditorio BB,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-28",
-      "source": "songkick",
-      "artists": [
-        "Menudo"
-      ],
-      "artist_display": "Menudo",
-      "url": "https://www.songkick.com/concerts/43275004-menudo-at-teatro-metropolitan",
-      "venue": "Teatro Metropólitan",
-      "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
-      "location": "Teatro Metropólitan,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-28",
-      "source": "songkick",
-      "artists": [
-        "Nicho Hinojosa"
-      ],
-      "artist_display": "Nicho Hinojosa",
-      "url": "https://www.songkick.com/concerts/43023415-nicho-hinojosa-at-la-maraka",
-      "venue": "La Maraka",
-      "venue_url": "https://www.songkick.com/venues/1076291-la-maraka",
-      "location": "La Maraka,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-28",
-      "source": "songkick",
-      "artists": [
-        "Matute"
-      ],
-      "artist_display": "Matute",
-      "url": "https://www.songkick.com/concerts/43077696-matute-at-arena-cdmx",
-      "venue": "Arena CDMX",
-      "venue_url": "https://www.songkick.com/venues/1649258-arena-cdmx",
-      "location": "Arena CDMX,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-28",
-      "source": "songkick",
-      "artists": [
-        "Zimple"
-      ],
-      "artist_display": "Zimple",
-      "url": "https://www.songkick.com/concerts/43369648-zimple-at-house-of-vans",
-      "venue": "House of Vans",
-      "venue_url": "https://www.songkick.com/venues/3083404-house-of-vans",
-      "location": "House of Vans,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-28",
-      "source": "songkick",
-      "artists": [
-        "La Bruja de Texcoco"
-      ],
-      "artist_display": "La Bruja de Texcoco",
-      "url": "https://www.songkick.com/concerts/43404839-la-bruja-de-texcoco-at-teatro-de-la-ciudad-esperanza-iris",
-      "venue": "Teatro de la Ciudad Esperanza Iris",
-      "venue_url": "https://www.songkick.com/venues/2182854-teatro-de-la-ciudad-esperanza-iris",
-      "location": "Teatro de la Ciudad Esperanza Iris,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-28",
-      "source": "songkick",
-      "artists": [
-        "Circoloco 2026Peggy Gou, ANOTR, PROSPA, Miguelle & Tons, and Rhadoo"
-      ],
-      "artist_display": "Circoloco 2026Peggy Gou, ANOTR, PROSPA, Miguelle & Tons, and Rhadoo",
-      "url": "https://www.songkick.com/festivals/828284-circoloco/id/43411244-circoloco-2026",
-      "venue": "Estadio Fray Nano de Beisbol",
-      "venue_url": "https://www.songkick.com/venues/4588267-estadio-fray-nano-de-beisbol",
-      "location": "Estadio Fray Nano de Beisbol,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-28",
-      "source": "songkick",
-      "artists": [
-        "Ruido Ibérico 2026Boikot, Segismundo Toxicomano, Kaos Urbano, and Bihotza"
-      ],
-      "artist_display": "Ruido Ibérico 2026Boikot, Segismundo Toxicomano, Kaos Urbano, and Bihotza",
-      "url": "https://www.songkick.com/festivals/3789746-ruido-iberico/id/43253424-ruido-ibrico-2026",
-      "venue": "Pabellón del Palacio de los Deportes",
-      "venue_url": "https://www.songkick.com/venues/1551083-pabellon-del-palacio-de-los-deportes",
-      "location": "Pabellón del Palacio de los Deportes,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-28",
-      "source": "songkick",
-      "artists": [
-        "Cocacola Flow Fest 2026Kali Uchis, Ozuna, Anuel AA, Farruko, Manuel Turizo, Yandel, Grupo Frontera, and FloyyMenor"
-      ],
-      "artist_display": "Cocacola Flow Fest 2026Kali Uchis, Ozuna, Anuel AA, Farruko, Manuel Turizo, Yandel, Grupo Frontera, and FloyyMenor",
-      "url": "https://www.songkick.com/festivals/2096964-cocacola-flow-fest/id/43230429-cocacola-flow-fest-2026",
-      "venue": "Autódromo Hermanos Rodríguez",
-      "venue_url": "https://www.songkick.com/venues/70055-autodromo-hermanos-rodriguez",
-      "location": "Autódromo Hermanos Rodríguez,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-29",
-      "source": "songkick",
-      "artists": [
-        "Silvio Rodríguez and Manuel Garcia"
-      ],
-      "artist_display": "Silvio Rodríguez and Manuel Garcia",
-      "url": "https://www.songkick.com/concerts/43069382-silvio-rodriguez-at-teatro-de-la-ciudad-esperanza-iris",
-      "venue": "Teatro de la Ciudad Esperanza Iris",
-      "venue_url": "https://www.songkick.com/venues/2182854-teatro-de-la-ciudad-esperanza-iris",
-      "location": "Teatro de la Ciudad Esperanza Iris,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-29",
-      "source": "songkick",
-      "artists": [
-        "The Mars Volta"
-      ],
-      "artist_display": "The Mars Volta",
-      "url": "https://www.songkick.com/concerts/43387307-mars-volta-at-pepsi-center-wtc",
-      "venue": "Pepsi Center WTC",
-      "venue_url": "https://www.songkick.com/venues/1774303-pepsi-center-wtc",
-      "location": "Pepsi Center WTC,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-29",
-      "source": "songkick",
-      "artists": [
-        "Electrify and Los Daniels"
-      ],
-      "artist_display": "Electrify and Los Daniels",
-      "url": "https://www.songkick.com/concerts/43189107-electrify-at-lunario-del-auditorio-nacional",
-      "venue": "Lunario Del Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional",
-      "location": "Lunario Del Auditorio Nacional,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-29",
-      "source": "songkick",
-      "artists": [
-        "Rodrigo De La Cadena"
-      ],
-      "artist_display": "Rodrigo De La Cadena",
-      "url": "https://www.songkick.com/concerts/43248221-rodrigo-de-la-cadena-at-auditorio-nacional",
-      "venue": "Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/34183-auditorio-nacional",
-      "location": "Auditorio Nacional,Mexico City, Mexico"
     },
     {
       "date": "2026-12-01",
@@ -6004,18 +4746,6 @@
       "date": "2027-01-30",
       "source": "songkick",
       "artists": [
-        "Mónica Naranjo"
-      ],
-      "artist_display": "Mónica Naranjo",
-      "url": "https://www.songkick.com/concerts/43399304-monica-naranjo-at-arena-cdmx",
-      "venue": "Arena CDMX",
-      "venue_url": "https://www.songkick.com/venues/1649258-arena-cdmx",
-      "location": "Arena CDMX,Mexico City, Mexico"
-    },
-    {
-      "date": "2027-01-30",
-      "source": "songkick",
-      "artists": [
         "Lira'n Roll"
       ],
       "artist_display": "Lira'n Roll",
@@ -6023,6 +4753,18 @@
       "venue": "Palacio de los Deportes",
       "venue_url": "https://www.songkick.com/venues/31907-palacio-de-los-deportes",
       "location": "Palacio de los Deportes,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-01-30",
+      "source": "songkick",
+      "artists": [
+        "Mónica Naranjo"
+      ],
+      "artist_display": "Mónica Naranjo",
+      "url": "https://www.songkick.com/concerts/43399304-monica-naranjo-at-arena-cdmx",
+      "venue": "Arena CDMX",
+      "venue_url": "https://www.songkick.com/venues/1649258-arena-cdmx",
+      "location": "Arena CDMX,Mexico City, Mexico"
     },
     {
       "date": "2027-01-30",
@@ -6112,9 +4854,9 @@
       "date": "2027-02-05",
       "source": "songkick",
       "artists": [
-        "The WarningThe Linda Lindas"
+        "The WarningThe Linda Lindas and The Warning (MX)"
       ],
-      "artist_display": "The WarningThe Linda Lindas",
+      "artist_display": "The WarningThe Linda Lindas and The Warning (MX)",
       "url": "https://www.songkick.com/concerts/43393000-warning-at-estadio-gnp-seguros",
       "venue": "Estadio GNP Seguros",
       "venue_url": "https://www.songkick.com/venues/33578-estadio-gnp-seguros",
