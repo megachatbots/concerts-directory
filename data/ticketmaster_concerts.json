@@ -1,85 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-09-17T11:01:02.494967Z",
-  "total_concerts": 496,
+  "scraped_at": "2026-09-18T10:37:44.516882Z",
+  "total_concerts": 495,
   "concerts": [
-    {
-      "date": "2026-09-17",
-      "source": "ticketmaster",
-      "artists": [
-        "Reyno"
-      ],
-      "artist_display": "Reyno",
-      "url": "https://www.ticketmaster.com.mx/reyno-mexico-17-09-2026/event/1400645A8A57357F",
-      "ticket_url": "https://www.ticketmaster.com.mx/reyno-mexico-17-09-2026/event/1400645A8A57357F",
-      "venue": "Pepsi Center",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-09-17",
-      "source": "ticketmaster",
-      "artists": [
-        "Jorge Medina y Josi Cuen - JUNTOS"
-      ],
-      "artist_display": "Jorge Medina y Josi Cuen - JUNTOS",
-      "url": "https://www.ticketmaster.com.mx/juntos-ciudad-de-mexico-17-09-2026/event/3D006454D31A59C3",
-      "ticket_url": "https://www.ticketmaster.com.mx/juntos-ciudad-de-mexico-17-09-2026/event/3D006454D31A59C3",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-09-17",
-      "source": "ticketmaster",
-      "artists": [
-        "Sotomayor"
-      ],
-      "artist_display": "Sotomayor",
-      "url": "https://www.ticketmaster.com.mx/sotomayor-ciudad-de-mexico-17-09-2026/event/3D00650BE2335A1E",
-      "ticket_url": "https://www.ticketmaster.com.mx/sotomayor-ciudad-de-mexico-17-09-2026/event/3D00650BE2335A1E",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Alternative Rock"
-      ]
-    },
-    {
-      "date": "2026-09-17",
-      "source": "ticketmaster",
-      "artists": [
-        "La Fanfarria del Capitan"
-      ],
-      "artist_display": "La Fanfarria del Capitan",
-      "url": "https://www.ticketmaster.com.mx/la-fanfarria-del-capitanbailanta-sin-fronteras-ciudad-de-mexico-17-09-2026/event/3D0064E9C52B5045",
-      "ticket_url": "https://www.ticketmaster.com.mx/la-fanfarria-del-capitanbailanta-sin-fronteras-ciudad-de-mexico-17-09-2026/event/3D0064E9C52B5045",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-09-17",
-      "source": "ticketmaster",
-      "artists": [
-        "Ana Torroja"
-      ],
-      "artist_display": "Ana Torroja",
-      "url": "https://www.ticketmaster.com.mx/ana-torroja-mexico-17-09-2026/event/14006474C984A8FE",
-      "ticket_url": "https://www.ticketmaster.com.mx/ana-torroja-mexico-17-09-2026/event/14006474C984A8FE",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
-      ]
-    },
     {
       "date": "2026-09-18",
       "source": "ticketmaster",
@@ -822,8 +746,8 @@
       "venue": "Pabellón del Palacio de los Deportes",
       "location": "México, Ciudad de México, Mexico",
       "tags": [
-        "Pop",
-        "Electro Pop"
+        "Dance/Electronic",
+        "Amapiano"
       ]
     },
     {
@@ -854,7 +778,8 @@
       "venue": "Pepsi Center",
       "location": "México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -3487,8 +3412,8 @@
       "venue": "Pepsi Center",
       "location": "México, Ciudad de México, Mexico",
       "tags": [
-        "Pop",
-        "Electro Pop"
+        "Dance/Electronic",
+        "Amapiano"
       ]
     },
     {
@@ -4453,6 +4378,22 @@
       "location": "México, Ciudad de México, Mexico",
       "tags": [
         "Ballads/Romantic"
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "source": "ticketmaster",
+      "artists": [
+        "8TURN"
+      ],
+      "artist_display": "8TURN",
+      "url": "https://www.ticketmaster.com.mx/2026-8turn-2nd-world-tour-in-mexico-16-11-2026/event/3D00652BB79D551F",
+      "ticket_url": "https://www.ticketmaster.com.mx/2026-8turn-2nd-world-tour-in-mexico-16-11-2026/event/3D00652BB79D551F",
+      "venue": "La Maraka",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "K-Pop"
       ]
     },
     {
@@ -6141,7 +6082,8 @@
       "venue": "Auditorio BB",
       "location": "México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -6156,7 +6098,8 @@
       "venue": "Palacio de los Deportes",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -6669,6 +6612,21 @@
       "date": "2026-12-03",
       "source": "ticketmaster",
       "artists": [
+        "Daphne Michelle"
+      ],
+      "artist_display": "Daphne Michelle",
+      "url": "https://www.ticketmaster.com.mx/daphne-michelle-en-vivo-ciudad-de-mexico-03-12-2026/event/3D00652CB07E8EBC",
+      "ticket_url": "https://www.ticketmaster.com.mx/daphne-michelle-en-vivo-ciudad-de-mexico-03-12-2026/event/3D00652CB07E8EBC",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-12-03",
+      "source": "ticketmaster",
+      "artists": [
         "Emmanuel"
       ],
       "artist_display": "Emmanuel",
@@ -6693,7 +6651,8 @@
       "venue": "Estadio GNP Seguros",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -6787,7 +6746,8 @@
       "venue": "Estadio GNP Seguros",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -6982,7 +6942,8 @@
       "venue": "Estadio GNP Seguros",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -7014,7 +6975,8 @@
       "venue": "Estadio GNP Seguros",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -7187,6 +7149,18 @@
         "Rock",
         "Alternative Rock"
       ]
+    },
+    {
+      "date": "2026-12-13",
+      "source": "ticketmaster",
+      "artists": [
+        "San Venus"
+      ],
+      "artist_display": "San Venus",
+      "url": "https://www.ticketmaster.com.mx/experiencia-mg-con-san-venus-sin-ciudad-de-mexico-13-12-2026/event/3D006531E27FA15C",
+      "ticket_url": "https://www.ticketmaster.com.mx/experiencia-mg-con-san-venus-sin-ciudad-de-mexico-13-12-2026/event/3D006531E27FA15C",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico"
     },
     {
       "date": "2026-12-15",
@@ -7545,6 +7519,22 @@
       ]
     },
     {
+      "date": "2027-01-18",
+      "source": "ticketmaster",
+      "artists": [
+        "Freya Skye"
+      ],
+      "artist_display": "Freya Skye",
+      "url": "https://www.ticketmaster.com.mx/freya-skye-stars-align-tour-mexico-18-01-2027/event/1400652C84DF4C25",
+      "ticket_url": "https://www.ticketmaster.com.mx/freya-skye-stars-align-tour-mexico-18-01-2027/event/1400652C84DF4C25",
+      "venue": "Auditorio BB",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
+      ]
+    },
+    {
       "date": "2027-01-20",
       "source": "ticketmaster",
       "artists": [
@@ -7792,7 +7782,8 @@
       "venue": "Teatro Metropolitan",
       "location": "México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -7886,7 +7877,8 @@
       "venue": "Palacio de los Deportes",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -7916,7 +7908,8 @@
       "venue": "Palacio de los Deportes",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
