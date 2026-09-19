@@ -1,101 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-09-18T10:37:44.516882Z",
-  "total_concerts": 495,
+  "scraped_at": "2026-09-19T10:22:03.380210Z",
+  "total_concerts": 492,
   "concerts": [
-    {
-      "date": "2026-09-18",
-      "source": "ticketmaster",
-      "artists": [
-        "Bratty"
-      ],
-      "artist_display": "Bratty",
-      "url": "https://www.ticketmaster.com.mx/bratty-mexico-18-09-2026/event/1400649091B952F0",
-      "ticket_url": "https://www.ticketmaster.com.mx/bratty-mexico-18-09-2026/event/1400649091B952F0",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-09-18",
-      "source": "ticketmaster",
-      "artists": [
-        "Jorge Medina y Josi Cuen - JUNTOS"
-      ],
-      "artist_display": "Jorge Medina y Josi Cuen - JUNTOS",
-      "url": "https://www.ticketmaster.com.mx/juntos-ciudad-de-mexico-18-09-2026/event/3D006454D5005B3C",
-      "ticket_url": "https://www.ticketmaster.com.mx/juntos-ciudad-de-mexico-18-09-2026/event/3D006454D5005B3C",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-09-18",
-      "source": "ticketmaster",
-      "artists": [
-        "Bengala"
-      ],
-      "artist_display": "Bengala",
-      "url": "https://www.ticketmaster.com.mx/bengala-20-anos-ciudad-de-mexico-18-09-2026/event/3D00646B92B31E5A",
-      "ticket_url": "https://www.ticketmaster.com.mx/bengala-20-anos-ciudad-de-mexico-18-09-2026/event/3D00646B92B31E5A",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Pop"
-      ]
-    },
-    {
-      "date": "2026-09-18",
-      "source": "ticketmaster",
-      "artists": [
-        "Natanael Cano"
-      ],
-      "artist_display": "Natanael Cano",
-      "url": "https://www.ticketmaster.com.mx/natanael-cano-vol-1-tour-ciudad-de-mexico-18-09-2026/event/140064E7A6C847E4",
-      "ticket_url": "https://www.ticketmaster.com.mx/natanael-cano-vol-1-tour-ciudad-de-mexico-18-09-2026/event/140064E7A6C847E4",
-      "venue": "Estadio GNP Seguros",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-09-18",
-      "source": "ticketmaster",
-      "artists": [
-        "Natanael Cano"
-      ],
-      "artist_display": "Natanael Cano",
-      "url": "https://www.ticketmaster.com.mx/natanael-cano-zona-de-discapacidad-auditiva-ciudad-de-mexico-18-09-2026/event/140064E794072DEE",
-      "ticket_url": "https://www.ticketmaster.com.mx/natanael-cano-zona-de-discapacidad-auditiva-ciudad-de-mexico-18-09-2026/event/140064E794072DEE",
-      "venue": "Estadio GNP Seguros",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-09-18",
-      "source": "ticketmaster",
-      "artists": [
-        "Heavy Nopal"
-      ],
-      "artist_display": "Heavy Nopal",
-      "url": "https://www.ticketmaster.com.mx/heavy-nopal-tributo-a-rockdrigo-gonzalez-mexico-18-09-2026/event/3D0064CD8B9E1A37",
-      "ticket_url": "https://www.ticketmaster.com.mx/heavy-nopal-tributo-a-rockdrigo-gonzalez-mexico-18-09-2026/event/3D0064CD8B9E1A37",
-      "venue": "La Maraka",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
     {
       "date": "2026-09-19",
       "source": "ticketmaster",
@@ -754,6 +662,21 @@
       "date": "2026-09-30",
       "source": "ticketmaster",
       "artists": [
+        "Jorge Medina y Josi Cuen - JUNTOS"
+      ],
+      "artist_display": "Jorge Medina y Josi Cuen - JUNTOS",
+      "url": "https://www.ticketmaster.com.mx/juntos-ciudad-de-mexico-30-09-2026/event/3D006454D5005B3C",
+      "ticket_url": "https://www.ticketmaster.com.mx/juntos-ciudad-de-mexico-30-09-2026/event/3D006454D5005B3C",
+      "venue": "Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "source": "ticketmaster",
+      "artists": [
         "Maroon 5"
       ],
       "artist_display": "Maroon 5",
@@ -812,21 +735,6 @@
       "tags": [
         "Pop",
         "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-10-01",
-      "source": "ticketmaster",
-      "artists": [
-        "Entre Ardidas El Show"
-      ],
-      "artist_display": "Entre Ardidas El Show",
-      "url": "https://www.ticketmaster.com.mx/entre-ardidas-el-show-ciudad-de-mexico-01-10-2026/event/3D00651889701154",
-      "ticket_url": "https://www.ticketmaster.com.mx/entre-ardidas-el-show-ciudad-de-mexico-01-10-2026/event/3D00651889701154",
-      "venue": "Foro Stelaris Fiesta Americana Reforma",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
       ]
     },
     {
@@ -1562,6 +1470,21 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "source": "ticketmaster",
+      "artists": [
+        "Entre Ardidas El Show"
+      ],
+      "artist_display": "Entre Ardidas El Show",
+      "url": "https://www.ticketmaster.com.mx/entre-ardidas-el-show-ciudad-de-mexico-10-10-2026/event/3D00651889701154",
+      "ticket_url": "https://www.ticketmaster.com.mx/entre-ardidas-el-show-ciudad-de-mexico-10-10-2026/event/3D00651889701154",
+      "venue": "Foro Stelaris Fiesta Americana Reforma",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
       ]
     },
     {
@@ -6826,6 +6749,22 @@
       "date": "2026-12-05",
       "source": "ticketmaster",
       "artists": [
+        "Yuki Chiba"
+      ],
+      "artist_display": "Yuki Chiba",
+      "url": "https://www.ticketmaster.com.mx/yuki-chiba-first-north-america-headline-mexico-05-12-2026/event/3D006529FFF38F56",
+      "ticket_url": "https://www.ticketmaster.com.mx/yuki-chiba-first-north-america-headline-mexico-05-12-2026/event/3D006529FFF38F56",
+      "venue": "Foro Puebla",
+      "location": "Mexico, Ciudad de México, Mexico",
+      "tags": [
+        "Hip-Hop/Rap",
+        "Trap"
+      ]
+    },
+    {
+      "date": "2026-12-05",
+      "source": "ticketmaster",
+      "artists": [
         "Caifanes"
       ],
       "artist_display": "Caifanes",
@@ -6927,6 +6866,21 @@
       "location": "México, Ciudad de México, Mexico",
       "tags": [
         "Other"
+      ]
+    },
+    {
+      "date": "2026-12-06",
+      "source": "ticketmaster",
+      "artists": [
+        "Caifanes"
+      ],
+      "artist_display": "Caifanes",
+      "url": "https://www.ticketmaster.com.mx/caifanes-ciudad-de-mexico-06-12-2026/event/1400652DE2F213A0",
+      "ticket_url": "https://www.ticketmaster.com.mx/caifanes-ciudad-de-mexico-06-12-2026/event/1400652DE2F213A0",
+      "venue": "Palacio de los Deportes",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
       ]
     },
     {
