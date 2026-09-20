@@ -1,118 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-09-19T10:22:03.380210Z",
-  "total_concerts": 492,
+  "scraped_at": "2026-09-20T10:41:04.347984Z",
+  "total_concerts": 485,
   "concerts": [
-    {
-      "date": "2026-09-19",
-      "source": "ticketmaster",
-      "artists": [
-        "Robyn",
-        "Lykke Li"
-      ],
-      "artist_display": "Robyn, Lykke Li",
-      "url": "https://www.ticketmaster.com.mx/robyn-the-sexistential-tour-ciudad-de-mexico-19-09-2026/event/1400643B9351974D",
-      "ticket_url": "https://www.ticketmaster.com.mx/robyn-the-sexistential-tour-ciudad-de-mexico-19-09-2026/event/1400643B9351974D",
-      "venue": "Palacio de los Deportes",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Dance/Electronic",
-        "Amapiano"
-      ]
-    },
-    {
-      "date": "2026-09-19",
-      "source": "ticketmaster",
-      "artists": [
-        "Bengala"
-      ],
-      "artist_display": "Bengala",
-      "url": "https://www.ticketmaster.com.mx/bengala-20-anos-ciudad-de-mexico-19-09-2026/event/3D0064308A011A7A",
-      "ticket_url": "https://www.ticketmaster.com.mx/bengala-20-anos-ciudad-de-mexico-19-09-2026/event/3D0064308A011A7A",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Pop"
-      ]
-    },
-    {
-      "date": "2026-09-19",
-      "source": "ticketmaster",
-      "artists": [
-        "Son Rompe Pera"
-      ],
-      "artist_display": "Son Rompe Pera",
-      "url": "https://www.ticketmaster.com.mx/son-rompe-pera-mexico-19-09-2026/event/140064A59C666857",
-      "ticket_url": "https://www.ticketmaster.com.mx/son-rompe-pera-mexico-19-09-2026/event/140064A59C666857",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-09-19",
-      "source": "ticketmaster",
-      "artists": [
-        "The Unreal"
-      ],
-      "artist_display": "The Unreal",
-      "url": "https://www.ticketmaster.com.mx/unreal-mexico-19-09-2026/event/140064A1A1177F36",
-      "ticket_url": "https://www.ticketmaster.com.mx/unreal-mexico-19-09-2026/event/140064A1A1177F36",
-      "venue": "Pabellón del Palacio de los Deportes",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Pop"
-      ]
-    },
-    {
-      "date": "2026-09-19",
-      "source": "ticketmaster",
-      "artists": [
-        "Piano Bar El Concierto"
-      ],
-      "artist_display": "Piano Bar El Concierto",
-      "url": "https://www.ticketmaster.com.mx/piano-bar-el-concierto-ciudad-de-mexico-19-09-2026/event/3D00651182EC12B5",
-      "ticket_url": "https://www.ticketmaster.com.mx/piano-bar-el-concierto-ciudad-de-mexico-19-09-2026/event/3D00651182EC12B5",
-      "venue": "Foro Stelaris Fiesta Americana Reforma",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
-      ]
-    },
-    {
-      "date": "2026-09-19",
-      "source": "ticketmaster",
-      "artists": [
-        "Natanael Cano"
-      ],
-      "artist_display": "Natanael Cano",
-      "url": "https://www.ticketmaster.com.mx/natanael-cano-zona-de-discapacidad-auditiva-ciudad-de-mexico-19-09-2026/event/140064E796EF31D2",
-      "ticket_url": "https://www.ticketmaster.com.mx/natanael-cano-zona-de-discapacidad-auditiva-ciudad-de-mexico-19-09-2026/event/140064E796EF31D2",
-      "venue": "Estadio GNP Seguros",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-09-19",
-      "source": "ticketmaster",
-      "artists": [
-        "Natanael Cano"
-      ],
-      "artist_display": "Natanael Cano",
-      "url": "https://www.ticketmaster.com.mx/natanael-cano-vol-1-tour-ciudad-de-mexico-19-09-2026/event/140064E7A9094A5C",
-      "ticket_url": "https://www.ticketmaster.com.mx/natanael-cano-vol-1-tour-ciudad-de-mexico-19-09-2026/event/140064E7A9094A5C",
-      "venue": "Estadio GNP Seguros",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
     {
       "date": "2026-09-20",
       "source": "ticketmaster",
@@ -1951,7 +1842,8 @@
       "venue": "Foro Puebla",
       "location": "Mexico, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -2044,7 +1936,8 @@
       "venue": "Foro Puebla",
       "location": "Mexico, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -2929,7 +2822,8 @@
       "venue": "La Maraka",
       "location": "México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -3868,7 +3762,8 @@
       "venue": "El Lunario del Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -4487,7 +4382,8 @@
       "venue": "El Lunario del Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -5261,7 +5157,8 @@
       "venue": "El Cantoral ",
       "location": "Mexico, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -5541,7 +5438,8 @@
       "venue": "Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -5557,7 +5455,8 @@
       "venue": "Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -7406,7 +7305,8 @@
       "venue": "Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -8217,8 +8117,8 @@
       "venue": "Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Pop",
-        "Electro Pop"
+        "Dance/Electronic",
+        "Amapiano"
       ]
     },
     {
