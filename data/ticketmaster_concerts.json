@@ -1,41 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-09-20T10:41:04.347984Z",
-  "total_concerts": 485,
+  "scraped_at": "2026-09-21T12:04:26.393541Z",
+  "total_concerts": 484,
   "concerts": [
-    {
-      "date": "2026-09-20",
-      "source": "ticketmaster",
-      "artists": [
-        "MC Davo"
-      ],
-      "artist_display": "MC Davo",
-      "url": "https://www.ticketmaster.com.mx/mc-davo-mexico-20-09-2026/event/14006479BA54F5BE",
-      "ticket_url": "https://www.ticketmaster.com.mx/mc-davo-mexico-20-09-2026/event/14006479BA54F5BE",
-      "venue": "Pepsi Center",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Hip-Hop/Rap",
-        "Trap"
-      ]
-    },
-    {
-      "date": "2026-09-20",
-      "source": "ticketmaster",
-      "artists": [
-        "Beach Fossils"
-      ],
-      "artist_display": "Beach Fossils",
-      "url": "https://www.ticketmaster.com.mx/beach-fossils-ciudad-de-mexico-20-09-2026/event/3D0064BAD2468364",
-      "ticket_url": "https://www.ticketmaster.com.mx/beach-fossils-ciudad-de-mexico-20-09-2026/event/3D0064BAD2468364",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Pop"
-      ]
-    },
     {
       "date": "2026-09-21",
       "source": "ticketmaster",
@@ -8160,6 +8128,22 @@
       "artist_display": "Silvio Rodríguez",
       "url": "https://www.ticketmaster.com.mx/silvio-rodriguez-ciudad-de-mexico-26-04-2027/event/3D006522A1AF32E7",
       "ticket_url": "https://www.ticketmaster.com.mx/silvio-rodriguez-ciudad-de-mexico-26-04-2027/event/3D006522A1AF32E7",
+      "venue": "Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "World",
+        "Trova"
+      ]
+    },
+    {
+      "date": "2027-04-27",
+      "source": "ticketmaster",
+      "artists": [
+        "Silvio Rodríguez"
+      ],
+      "artist_display": "Silvio Rodríguez",
+      "url": "https://www.ticketmaster.com.mx/silvio-rodriguez-ciudad-de-mexico-27-04-2027/event/3D006533DA405BFC",
+      "ticket_url": "https://www.ticketmaster.com.mx/silvio-rodriguez-ciudad-de-mexico-27-04-2027/event/3D006533DA405BFC",
       "venue": "Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
