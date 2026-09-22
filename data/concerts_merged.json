@@ -5,8 +5,8 @@
     "ticketmaster"
   ],
   "metro_area": "Mexico City",
-  "scraped_at": "2026-09-21T12:04:26.417856Z",
-  "total_concerts": 784,
+  "scraped_at": "2026-09-22T11:00:46.399318Z",
+  "total_concerts": 789,
   "concerts": [
     {
       "date": "2026-09-21",
@@ -18,12 +18,7 @@
       "url": "https://www.songkick.com/concerts/43247295-blonde-redhead-at-teatro-metropolitan",
       "venue": "Teatro Metropólitan",
       "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
-      "location": "Teatro Metropólitan,Mexico City, Mexico",
-      "ticket_url": "https://www.ticketmaster.com.mx/blonde-redhead-mexico-21-09-2026/event/140064B78619420A",
-      "tags": [
-        "Alternative Rock",
-        "Rock"
-      ]
+      "location": "Teatro Metropólitan,Mexico City, Mexico"
     },
     {
       "date": "2026-09-22",
@@ -99,6 +94,18 @@
       "tags": [
         "Latin"
       ]
+    },
+    {
+      "date": "2026-09-23",
+      "source": "songkick",
+      "artists": [
+        "Eli AlmicBudaya"
+      ],
+      "artist_display": "Eli AlmicBudaya",
+      "url": "https://www.songkick.com/concerts/43425813-eli-almic-at-fuck-off-room",
+      "venue": "FÜCK OFF ROOM",
+      "venue_url": "https://www.songkick.com/venues/4540201-fuck-off-room",
+      "location": "FÜCK OFF ROOM,Mexico City, Mexico"
     },
     {
       "date": "2026-09-23",
@@ -583,18 +590,13 @@
       "date": "2026-09-26",
       "source": "songkick",
       "artists": [
-        "Rebel Cats"
+        "Rebel CatsViv & The Sect"
       ],
-      "artist_display": "Rebel Cats",
+      "artist_display": "Rebel CatsViv & The Sect",
       "url": "https://www.songkick.com/concerts/43201533-rebel-cats-at-teatro-metropolitan",
       "venue": "Teatro Metropólitan",
       "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
-      "location": "Teatro Metropólitan,Mexico City, Mexico",
-      "ticket_url": "https://www.ticketmaster.com.mx/rebel-cats-mexico-26-09-2026/event/140064A5833C365D",
-      "tags": [
-        "Pop",
-        "Rock"
-      ]
+      "location": "Teatro Metropólitan,Mexico City, Mexico"
     },
     {
       "date": "2026-09-26",
@@ -654,6 +656,22 @@
       "location": "Mexico, Ciudad de México, Mexico",
       "tags": [
         "Other"
+      ]
+    },
+    {
+      "date": "2026-09-26",
+      "source": "ticketmaster",
+      "artists": [
+        "Rebel Cats"
+      ],
+      "artist_display": "Rebel Cats",
+      "url": "https://www.ticketmaster.com.mx/rebel-cats-mexico-26-09-2026/event/140064A5833C365D",
+      "ticket_url": "https://www.ticketmaster.com.mx/rebel-cats-mexico-26-09-2026/event/140064A5833C365D",
+      "venue": "Teatro Metropolitan",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Pop"
       ]
     },
     {
@@ -965,23 +983,6 @@
       "date": "2026-10-01",
       "source": "songkick",
       "artists": [
-        "Carlos Sadness"
-      ],
-      "artist_display": "Carlos Sadness",
-      "url": "https://www.songkick.com/concerts/43112130-carlos-sadness-at-lunario-del-auditorio-nacional",
-      "venue": "Lunario Del Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional",
-      "location": "Lunario Del Auditorio Nacional,Mexico City, Mexico",
-      "ticket_url": "https://www.ticketmaster.com.mx/carlos-sadness-ciudad-de-mexico-01-10-2026/event/3D006472ACD3499D",
-      "tags": [
-        "Electro Pop",
-        "Pop"
-      ]
-    },
-    {
-      "date": "2026-10-01",
-      "source": "songkick",
-      "artists": [
         "Thaiboy Digital"
       ],
       "artist_display": "Thaiboy Digital",
@@ -1019,16 +1020,20 @@
       ]
     },
     {
-      "date": "2026-10-02",
-      "source": "songkick",
+      "date": "2026-10-01",
+      "source": "ticketmaster",
       "artists": [
-        "Iron MaidenAnthrax"
+        "Carlos Sadness"
       ],
-      "artist_display": "Iron MaidenAnthrax",
-      "url": "https://www.songkick.com/concerts/42855404-iron-maiden-at-estadio-gnp-seguros",
-      "venue": "Estadio GNP Seguros",
-      "venue_url": "https://www.songkick.com/venues/33578-estadio-gnp-seguros",
-      "location": "Estadio GNP Seguros,Mexico City, Mexico"
+      "artist_display": "Carlos Sadness",
+      "url": "https://www.ticketmaster.com.mx/carlos-sadness-ciudad-de-mexico-01-10-2026/event/3D006472ACD3499D",
+      "ticket_url": "https://www.ticketmaster.com.mx/carlos-sadness-ciudad-de-mexico-01-10-2026/event/3D006472ACD3499D",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
+      ]
     },
     {
       "date": "2026-10-02",
@@ -1041,6 +1046,18 @@
       "venue": "Estadio Banorte",
       "venue_url": "https://www.songkick.com/venues/52265-estadio-banorte",
       "location": "Estadio Banorte,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-10-02",
+      "source": "songkick",
+      "artists": [
+        "Iron MaidenAnthrax"
+      ],
+      "artist_display": "Iron MaidenAnthrax",
+      "url": "https://www.songkick.com/concerts/42855404-iron-maiden-at-estadio-gnp-seguros",
+      "venue": "Estadio GNP Seguros",
+      "venue_url": "https://www.songkick.com/venues/33578-estadio-gnp-seguros",
+      "location": "Estadio GNP Seguros,Mexico City, Mexico"
     },
     {
       "date": "2026-10-02",
@@ -1256,9 +1273,9 @@
       "date": "2026-10-03",
       "source": "songkick",
       "artists": [
-        "High VisSad Breakfast and Terror de Culto"
+        "High VisSad Breakfast, Terror de Culto, and Flores y Fuego"
       ],
-      "artist_display": "High VisSad Breakfast and Terror de Culto",
+      "artist_display": "High VisSad Breakfast, Terror de Culto, and Flores y Fuego",
       "url": "https://www.songkick.com/concerts/43321554-high-vis-at-gato-calavera",
       "venue": "Gato Calavera",
       "venue_url": "https://www.songkick.com/venues/1385981-gato-calavera",
@@ -1285,18 +1302,6 @@
       "date": "2026-10-03",
       "source": "songkick",
       "artists": [
-        "El Plan De La Mariposa"
-      ],
-      "artist_display": "El Plan De La Mariposa",
-      "url": "https://www.songkick.com/concerts/43266302-el-plan-de-la-mariposa-at-foro-la-paz",
-      "venue": "Foro La Paz",
-      "venue_url": "https://www.songkick.com/venues/4471031-foro-la-paz",
-      "location": "Foro La Paz,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-03",
-      "source": "songkick",
-      "artists": [
         "Reyno"
       ],
       "artist_display": "Reyno",
@@ -1304,6 +1309,18 @@
       "venue": "Shamrock Pub",
       "venue_url": "https://www.songkick.com/venues/2593838-shamrock-pub",
       "location": "Shamrock Pub,Cuautitlán Izcalli, Mexico"
+    },
+    {
+      "date": "2026-10-03",
+      "source": "songkick",
+      "artists": [
+        "El Plan De La Mariposa"
+      ],
+      "artist_display": "El Plan De La Mariposa",
+      "url": "https://www.songkick.com/concerts/43266302-el-plan-de-la-mariposa-at-foro-la-paz",
+      "venue": "Foro La Paz",
+      "venue_url": "https://www.songkick.com/venues/4471031-foro-la-paz",
+      "location": "Foro La Paz,Mexico City, Mexico"
     },
     {
       "date": "2026-10-03",
@@ -2155,18 +2172,6 @@
       "date": "2026-10-10",
       "source": "songkick",
       "artists": [
-        "EngelwoodMACROSS 82-99 and Neon Vectors"
-      ],
-      "artist_display": "EngelwoodMACROSS 82-99 and Neon Vectors",
-      "url": "https://www.songkick.com/concerts/43307550-engelwood-at-fuck-off-room",
-      "venue": "FÜCK OFF ROOM",
-      "venue_url": "https://www.songkick.com/venues/4540201-fuck-off-room",
-      "location": "FÜCK OFF ROOM,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-10",
-      "source": "songkick",
-      "artists": [
         "Busy PBreakbot & Irfane, BreakBot, Irfane, Calacas (MX), and Breakbot (DJ Set)"
       ],
       "artist_display": "Busy PBreakbot & Irfane, BreakBot, Irfane, Calacas (MX), and Breakbot (DJ Set)",
@@ -2174,6 +2179,18 @@
       "venue": "LooLoo",
       "venue_url": "https://www.songkick.com/venues/3769259-looloo",
       "location": "LooLoo,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-10-10",
+      "source": "songkick",
+      "artists": [
+        "EngelwoodMACROSS 82-99 and Neon Vectors"
+      ],
+      "artist_display": "EngelwoodMACROSS 82-99 and Neon Vectors",
+      "url": "https://www.songkick.com/concerts/43307550-engelwood-at-fuck-off-room",
+      "venue": "FÜCK OFF ROOM",
+      "venue_url": "https://www.songkick.com/venues/4540201-fuck-off-room",
+      "location": "FÜCK OFF ROOM,Mexico City, Mexico"
     },
     {
       "date": "2026-10-10",
@@ -2313,18 +2330,6 @@
       "date": "2026-10-11",
       "source": "songkick",
       "artists": [
-        "SepulturaGuilt Trip"
-      ],
-      "artist_display": "SepulturaGuilt Trip",
-      "url": "https://www.songkick.com/concerts/43333345-sepultura-at-pepsi-center-wtc",
-      "venue": "Pepsi Center WTC",
-      "venue_url": "https://www.songkick.com/venues/1774303-pepsi-center-wtc",
-      "location": "Pepsi Center WTC,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-11",
-      "source": "songkick",
-      "artists": [
         "Peter Bjorn and John"
       ],
       "artist_display": "Peter Bjorn and John",
@@ -2337,6 +2342,18 @@
         "Pop",
         "Rock"
       ]
+    },
+    {
+      "date": "2026-10-11",
+      "source": "songkick",
+      "artists": [
+        "SepulturaGuilt Trip"
+      ],
+      "artist_display": "SepulturaGuilt Trip",
+      "url": "https://www.songkick.com/concerts/43333345-sepultura-at-pepsi-center-wtc",
+      "venue": "Pepsi Center WTC",
+      "venue_url": "https://www.songkick.com/venues/1774303-pepsi-center-wtc",
+      "location": "Pepsi Center WTC,Mexico City, Mexico"
     },
     {
       "date": "2026-10-11",
@@ -4898,9 +4915,9 @@
       "date": "2026-10-30",
       "source": "ticketmaster",
       "artists": [
-        "Un aplauso para el amor"
+        "Un Aplauso para el Amor"
       ],
-      "artist_display": "Un aplauso para el amor",
+      "artist_display": "Un Aplauso para el Amor",
       "url": "https://www.ticketmaster.com.mx/un-aplauso-para-el-amor-ciudad-de-mexico-30-10-2026/event/3D00652B99AC37B9",
       "ticket_url": "https://www.ticketmaster.com.mx/un-aplauso-para-el-amor-ciudad-de-mexico-30-10-2026/event/3D00652B99AC37B9",
       "venue": "Foro Stelaris Fiesta Americana Reforma",
@@ -4991,18 +5008,6 @@
       "date": "2026-10-31",
       "source": "songkick",
       "artists": [
-        "Austin TVBelafonte Sensacional"
-      ],
-      "artist_display": "Austin TVBelafonte Sensacional",
-      "url": "https://www.songkick.com/concerts/43241722-austin-tv-at-polyforum-cultural-siqueiros",
-      "venue": "Polyforum Cultural Siqueiros",
-      "venue_url": "https://www.songkick.com/venues/79021-polyforum-cultural-siqueiros",
-      "location": "Polyforum Cultural Siqueiros,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-31",
-      "source": "songkick",
-      "artists": [
         "Lewis OfMan"
       ],
       "artist_display": "Lewis OfMan",
@@ -5010,6 +5015,18 @@
       "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
       "location": "Foro Indie Rocks!,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-10-31",
+      "source": "songkick",
+      "artists": [
+        "Austin TVBelafonte Sensacional"
+      ],
+      "artist_display": "Austin TVBelafonte Sensacional",
+      "url": "https://www.songkick.com/concerts/43241722-austin-tv-at-polyforum-cultural-siqueiros",
+      "venue": "Polyforum Cultural Siqueiros",
+      "venue_url": "https://www.songkick.com/venues/79021-polyforum-cultural-siqueiros",
+      "location": "Polyforum Cultural Siqueiros,Mexico City, Mexico"
     },
     {
       "date": "2026-10-31",
@@ -5130,6 +5147,18 @@
       "date": "2026-11-01",
       "source": "songkick",
       "artists": [
+        "1tbspCherry Chola, Chico Sonido, and Mau Moctezuma"
+      ],
+      "artist_display": "1tbspCherry Chola, Chico Sonido, and Mau Moctezuma",
+      "url": "https://www.songkick.com/concerts/43410202-1tbsp-at-antro-juan",
+      "venue": "Antro Juan",
+      "venue_url": "https://www.songkick.com/venues/4561848-antro-juan",
+      "location": "Antro Juan,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-11-01",
+      "source": "songkick",
+      "artists": [
         "Los Viejos and DISTESTMuto Tapes, Serpyants, and Killer Wolf"
       ],
       "artist_display": "Los Viejos and DISTESTMuto Tapes, Serpyants, and Killer Wolf",
@@ -5153,18 +5182,6 @@
       "tags": [
         "World"
       ]
-    },
-    {
-      "date": "2026-11-01",
-      "source": "songkick",
-      "artists": [
-        "1tbspCherry Chola, Chico Sonido, and Mau Moctezuma"
-      ],
-      "artist_display": "1tbspCherry Chola, Chico Sonido, and Mau Moctezuma",
-      "url": "https://www.songkick.com/concerts/43410202-1tbsp-at-antro-juan",
-      "venue": "Antro Juan",
-      "venue_url": "https://www.songkick.com/venues/4561848-antro-juan",
-      "location": "Antro Juan,Mexico City, Mexico"
     },
     {
       "date": "2026-11-01",
@@ -8499,6 +8516,18 @@
     },
     {
       "date": "2026-12-03",
+      "source": "songkick",
+      "artists": [
+        "Mustard Service"
+      ],
+      "artist_display": "Mustard Service",
+      "url": "https://www.songkick.com/concerts/43425878-mustard-service-at-foro-veintiocho",
+      "venue": "Foro Veintiocho",
+      "venue_url": "https://www.songkick.com/venues/4416868-foro-veintiocho",
+      "location": "Foro Veintiocho,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-12-03",
       "source": "ticketmaster",
       "artists": [
         "Daphne Michelle"
@@ -9320,6 +9349,22 @@
       "date": "2026-12-12",
       "source": "songkick",
       "artists": [
+        "Los Bukis"
+      ],
+      "artist_display": "Los Bukis",
+      "url": "https://www.songkick.com/concerts/43426423-los-bukis-at-estadio-gnp-seguros",
+      "venue": "Estadio GNP Seguros",
+      "venue_url": "https://www.songkick.com/venues/33578-estadio-gnp-seguros",
+      "location": "Estadio GNP Seguros,Mexico City, Mexico",
+      "ticket_url": "https://www.ticketmaster.com.mx/los-bukis-la-despedida-ciudad-de-mexico-12-12-2026/event/1400652FC5999159",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-12-12",
+      "source": "songkick",
+      "artists": [
         "Amistades 2026Daniel Quién, Axel Catalán, Fernando Milagros, Ataquemos, Dstance, prehïstoricos, and Un León Marinero"
       ],
       "artist_display": "Amistades 2026Daniel Quién, Axel Catalán, Fernando Milagros, Ataquemos, Dstance, prehïstoricos, and Un León Marinero",
@@ -9375,18 +9420,6 @@
       "date": "2026-12-13",
       "source": "songkick",
       "artists": [
-        "Disney Worlds Collide Tour"
-      ],
-      "artist_display": "Disney Worlds Collide Tour",
-      "url": "https://www.songkick.com/concerts/43127666-disney-worlds-collide-tour-at-arena-cdmx",
-      "venue": "Arena CDMX",
-      "venue_url": "https://www.songkick.com/venues/1649258-arena-cdmx",
-      "location": "Arena CDMX,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-12-13",
-      "source": "songkick",
-      "artists": [
         "San Venus"
       ],
       "artist_display": "San Venus",
@@ -9399,6 +9432,18 @@
         "Alternative Rock",
         "Rock"
       ]
+    },
+    {
+      "date": "2026-12-13",
+      "source": "songkick",
+      "artists": [
+        "Disney Worlds Collide Tour"
+      ],
+      "artist_display": "Disney Worlds Collide Tour",
+      "url": "https://www.songkick.com/concerts/43127666-disney-worlds-collide-tour-at-arena-cdmx",
+      "venue": "Arena CDMX",
+      "venue_url": "https://www.songkick.com/venues/1649258-arena-cdmx",
+      "location": "Arena CDMX,Mexico City, Mexico"
     },
     {
       "date": "2026-12-15",
@@ -10163,6 +10208,18 @@
       "date": "2027-01-30",
       "source": "songkick",
       "artists": [
+        "Mónica Naranjo"
+      ],
+      "artist_display": "Mónica Naranjo",
+      "url": "https://www.songkick.com/concerts/43399304-monica-naranjo-at-arena-cdmx",
+      "venue": "Arena CDMX",
+      "venue_url": "https://www.songkick.com/venues/1649258-arena-cdmx",
+      "location": "Arena CDMX,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-01-30",
+      "source": "songkick",
+      "artists": [
         "Lira'n Roll"
       ],
       "artist_display": "Lira'n Roll",
@@ -10174,18 +10231,6 @@
       "tags": [
         "Latin"
       ]
-    },
-    {
-      "date": "2027-01-30",
-      "source": "songkick",
-      "artists": [
-        "Mónica Naranjo"
-      ],
-      "artist_display": "Mónica Naranjo",
-      "url": "https://www.songkick.com/concerts/43399304-monica-naranjo-at-arena-cdmx",
-      "venue": "Arena CDMX",
-      "venue_url": "https://www.songkick.com/venues/1649258-arena-cdmx",
-      "location": "Arena CDMX,Mexico City, Mexico"
     },
     {
       "date": "2027-01-30",
@@ -10996,6 +11041,23 @@
       "tags": [
         "Electro Pop",
         "Pop"
+      ]
+    },
+    {
+      "date": "2027-03-26",
+      "source": "songkick",
+      "artists": [
+        "Tomora"
+      ],
+      "artist_display": "Tomora",
+      "url": "https://www.songkick.com/concerts/43426418-tomora-at-pabellon-del-palacio-de-los-deportes",
+      "venue": "Pabellón del Palacio de los Deportes",
+      "venue_url": "https://www.songkick.com/venues/1551083-pabellon-del-palacio-de-los-deportes",
+      "location": "Pabellón del Palacio de los Deportes,Mexico City, Mexico",
+      "ticket_url": "https://www.ticketmaster.com.mx/tomora-mexico-26-03-2027/event/1400652FB28D6F9F",
+      "tags": [
+        "Amapiano",
+        "Dance/Electronic"
       ]
     },
     {

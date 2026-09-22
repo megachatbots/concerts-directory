@@ -1,25 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-09-21T12:04:26.393541Z",
-  "total_concerts": 484,
+  "scraped_at": "2026-09-22T11:00:46.377169Z",
+  "total_concerts": 485,
   "concerts": [
-    {
-      "date": "2026-09-21",
-      "source": "ticketmaster",
-      "artists": [
-        "Blonde Redhead"
-      ],
-      "artist_display": "Blonde Redhead",
-      "url": "https://www.ticketmaster.com.mx/blonde-redhead-mexico-21-09-2026/event/140064B78619420A",
-      "ticket_url": "https://www.ticketmaster.com.mx/blonde-redhead-mexico-21-09-2026/event/140064B78619420A",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Alternative Rock"
-      ]
-    },
     {
       "date": "2026-09-22",
       "source": "ticketmaster",
@@ -3143,9 +3127,9 @@
       "date": "2026-10-30",
       "source": "ticketmaster",
       "artists": [
-        "Un aplauso para el amor"
+        "Un Aplauso para el Amor"
       ],
-      "artist_display": "Un aplauso para el amor",
+      "artist_display": "Un Aplauso para el Amor",
       "url": "https://www.ticketmaster.com.mx/un-aplauso-para-el-amor-ciudad-de-mexico-30-10-2026/event/3D00652B99AC37B9",
       "ticket_url": "https://www.ticketmaster.com.mx/un-aplauso-para-el-amor-ciudad-de-mexico-30-10-2026/event/3D00652B99AC37B9",
       "venue": "Foro Stelaris Fiesta Americana Reforma",
@@ -6941,6 +6925,21 @@
       ]
     },
     {
+      "date": "2026-12-12",
+      "source": "ticketmaster",
+      "artists": [
+        "Los Bukis"
+      ],
+      "artist_display": "Los Bukis",
+      "url": "https://www.ticketmaster.com.mx/los-bukis-la-despedida-ciudad-de-mexico-12-12-2026/event/1400652FC5999159",
+      "ticket_url": "https://www.ticketmaster.com.mx/los-bukis-la-despedida-ciudad-de-mexico-12-12-2026/event/1400652FC5999159",
+      "venue": "Estadio GNP Seguros",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
       "date": "2026-12-13",
       "source": "ticketmaster",
       "artists": [
@@ -8040,6 +8039,22 @@
       "tags": [
         "Pop",
         "Electro Pop"
+      ]
+    },
+    {
+      "date": "2027-03-26",
+      "source": "ticketmaster",
+      "artists": [
+        "TOMORA"
+      ],
+      "artist_display": "TOMORA",
+      "url": "https://www.ticketmaster.com.mx/tomora-mexico-26-03-2027/event/1400652FB28D6F9F",
+      "ticket_url": "https://www.ticketmaster.com.mx/tomora-mexico-26-03-2027/event/1400652FB28D6F9F",
+      "venue": "Pabellón del Palacio de los Deportes",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Dance/Electronic",
+        "Amapiano"
       ]
     },
     {
