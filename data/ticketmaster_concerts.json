@@ -1,132 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-10-04T11:49:25.752122Z",
-  "total_concerts": 483,
+  "scraped_at": "2026-10-07T12:42:09.786841Z",
+  "total_concerts": 482,
   "concerts": [
-    {
-      "date": "2026-10-04",
-      "source": "ticketmaster",
-      "artists": [
-        "Sala Principal Bellas Artes"
-      ],
-      "artist_display": "Sala Principal Bellas Artes",
-      "url": "https://www.ticketmaster.com.mx/comp-nal-opera-tosca-de-giacomo-mexico-cdmx-04-10-2026/event/3D0064F290C62ADD",
-      "ticket_url": "https://www.ticketmaster.com.mx/comp-nal-opera-tosca-de-giacomo-mexico-cdmx-04-10-2026/event/3D0064F290C62ADD",
-      "venue": "Palacio de Bellas Artes",
-      "location": "México CDMX, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-10-04",
-      "source": "ticketmaster",
-      "artists": [
-        "Pasatono Orquesta"
-      ],
-      "artist_display": "Pasatono Orquesta",
-      "url": "https://www.ticketmaster.com.mx/pasatono-orquesta-musica-para-curar-la-mexico-04-10-2026/event/3D006501CF1E962D",
-      "ticket_url": "https://www.ticketmaster.com.mx/pasatono-orquesta-musica-para-curar-la-mexico-04-10-2026/event/3D006501CF1E962D",
-      "venue": "Teatro de la Ciudad Esperanza Iris",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-10-04",
-      "source": "ticketmaster",
-      "artists": [
-        "Sonora Santanera"
-      ],
-      "artist_display": "Sonora Santanera",
-      "url": "https://www.ticketmaster.com.mx/sonora-santanera-con-maria-fernanda-mexico-04-10-2026/event/3D0064D0917F206E",
-      "ticket_url": "https://www.ticketmaster.com.mx/sonora-santanera-con-maria-fernanda-mexico-04-10-2026/event/3D0064D0917F206E",
-      "venue": "La Maraka",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-10-04",
-      "source": "ticketmaster",
-      "artists": [
-        "UNDERTALE Symphony"
-      ],
-      "artist_display": "UNDERTALE Symphony",
-      "url": "https://www.ticketmaster.com.mx/undertale-the-determination-symphony-mexico-04-10-2026/event/14006499B54A7A54",
-      "ticket_url": "https://www.ticketmaster.com.mx/undertale-the-determination-symphony-mexico-04-10-2026/event/14006499B54A7A54",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
-      ]
-    },
-    {
-      "date": "2026-10-04",
-      "source": "ticketmaster",
-      "artists": [
-        "Guillotina"
-      ],
-      "artist_display": "Guillotina",
-      "url": "https://www.ticketmaster.com.mx/guillotina-rock-mata-pop-ciudad-de-mexico-04-10-2026/event/3D0064ABC00451A3",
-      "ticket_url": "https://www.ticketmaster.com.mx/guillotina-rock-mata-pop-ciudad-de-mexico-04-10-2026/event/3D0064ABC00451A3",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Alternative Rock"
-      ]
-    },
-    {
-      "date": "2026-10-06",
-      "source": "ticketmaster",
-      "artists": [
-        "Sala Principal Bellas Artes"
-      ],
-      "artist_display": "Sala Principal Bellas Artes",
-      "url": "https://www.ticketmaster.com.mx/comp-nal-opera-tosca-de-giacomo-mexico-cdmx-06-10-2026/event/3D0064F291A92B71",
-      "ticket_url": "https://www.ticketmaster.com.mx/comp-nal-opera-tosca-de-giacomo-mexico-cdmx-06-10-2026/event/3D0064F291A92B71",
-      "venue": "Palacio de Bellas Artes",
-      "location": "México CDMX, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-10-06",
-      "source": "ticketmaster",
-      "artists": [
-        "Rosana"
-      ],
-      "artist_display": "Rosana",
-      "url": "https://www.ticketmaster.com.mx/rosana-ciudad-de-mexico-06-10-2026/event/3D006497E3BDB670",
-      "ticket_url": "https://www.ticketmaster.com.mx/rosana-ciudad-de-mexico-06-10-2026/event/3D006497E3BDB670",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
-      ]
-    },
-    {
-      "date": "2026-10-06",
-      "source": "ticketmaster",
-      "artists": [
-        "Geese",
-        "Mariachi De America"
-      ],
-      "artist_display": "Geese, Mariachi De America",
-      "url": "https://www.ticketmaster.com.mx/geese-getting-killed-again-tour-mexico-06-10-2026/event/14006491D75811D7",
-      "ticket_url": "https://www.ticketmaster.com.mx/geese-getting-killed-again-tour-mexico-06-10-2026/event/14006491D75811D7",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Alternative Rock"
-      ]
-    },
     {
       "date": "2026-10-07",
       "source": "ticketmaster",
@@ -542,6 +419,21 @@
       "artist_display": "Alejandro Sanz",
       "url": "https://www.ticketmaster.com.mx/alejandro-sanz-ciudad-de-mexico-10-10-2026/event/1400648ABED6B4E9",
       "ticket_url": "https://www.ticketmaster.com.mx/alejandro-sanz-ciudad-de-mexico-10-10-2026/event/1400648ABED6B4E9",
+      "venue": "Estadio GNP Seguros",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "source": "ticketmaster",
+      "artists": [
+        "Alejandro Sanz"
+      ],
+      "artist_display": "Alejandro Sanz",
+      "url": "https://www.ticketmaster.com.mx/alejandro-sanz-zona-de-discapacidad-auditiva-ciudad-de-mexico-10-10-2026/event/1400648C927A2724",
+      "ticket_url": "https://www.ticketmaster.com.mx/alejandro-sanz-zona-de-discapacidad-auditiva-ciudad-de-mexico-10-10-2026/event/1400648C927A2724",
       "venue": "Estadio GNP Seguros",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
@@ -1097,6 +989,21 @@
       "date": "2026-10-16",
       "source": "ticketmaster",
       "artists": [
+        "Edén Muñoz"
+      ],
+      "artist_display": "Edén Muñoz",
+      "url": "https://www.ticketmaster.com.mx/eden-munoz-mexico-16-10-2026/event/3D00646AB8F047F6",
+      "ticket_url": "https://www.ticketmaster.com.mx/eden-munoz-mexico-16-10-2026/event/3D00646AB8F047F6",
+      "venue": "Monumental Plaza De Toros México",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "source": "ticketmaster",
+      "artists": [
         "Hombres G"
       ],
       "artist_display": "Hombres G",
@@ -1155,21 +1062,6 @@
       "tags": [
         "Rock",
         "Pop"
-      ]
-    },
-    {
-      "date": "2026-10-16",
-      "source": "ticketmaster",
-      "artists": [
-        "Edén Muñoz"
-      ],
-      "artist_display": "Edén Muñoz",
-      "url": "https://www.ticketmaster.com.mx/eden-munoz-mexico-16-10-2026/event/3D00646AB8F047F6",
-      "ticket_url": "https://www.ticketmaster.com.mx/eden-munoz-mexico-16-10-2026/event/3D00646AB8F047F6",
-      "venue": "Monumental Plaza De Toros México",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
       ]
     },
     {
@@ -1381,6 +1273,21 @@
       "date": "2026-10-17",
       "source": "ticketmaster",
       "artists": [
+        "Edén Muñoz"
+      ],
+      "artist_display": "Edén Muñoz",
+      "url": "https://www.ticketmaster.com.mx/eden-munoz-mexico-17-10-2026/event/3D006429B2E15420",
+      "ticket_url": "https://www.ticketmaster.com.mx/eden-munoz-mexico-17-10-2026/event/3D006429B2E15420",
+      "venue": "Monumental Plaza De Toros México",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "source": "ticketmaster",
+      "artists": [
         "BAND-MAID"
       ],
       "artist_display": "BAND-MAID",
@@ -1404,21 +1311,6 @@
       "ticket_url": "https://www.ticketmaster.com.mx/enrique-bunbury-ciudad-de-mexico-17-10-2026/event/3D006444A1C8265B",
       "venue": "Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-10-17",
-      "source": "ticketmaster",
-      "artists": [
-        "Edén Muñoz"
-      ],
-      "artist_display": "Edén Muñoz",
-      "url": "https://www.ticketmaster.com.mx/eden-munoz-mexico-17-10-2026/event/3D006429B2E15420",
-      "ticket_url": "https://www.ticketmaster.com.mx/eden-munoz-mexico-17-10-2026/event/3D006429B2E15420",
-      "venue": "Monumental Plaza De Toros México",
-      "location": "México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
       ]
@@ -2321,22 +2213,6 @@
       "location": "Mexico, Ciudad de México, Mexico",
       "tags": [
         "Other"
-      ]
-    },
-    {
-      "date": "2026-10-30",
-      "source": "ticketmaster",
-      "artists": [
-        "La Tremenda Korte"
-      ],
-      "artist_display": "La Tremenda Korte",
-      "url": "https://www.ticketmaster.com.mx/la-tremenda-korte-mexico-30-10-2026/event/3D0064FDEEE97FC1",
-      "ticket_url": "https://www.ticketmaster.com.mx/la-tremenda-korte-mexico-30-10-2026/event/3D0064FDEEE97FC1",
-      "venue": "Foro Puebla",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Alternative Rock"
       ]
     },
     {
@@ -5022,6 +4898,21 @@
       "date": "2026-11-27",
       "source": "ticketmaster",
       "artists": [
+        "Six Sex"
+      ],
+      "artist_display": "Six Sex",
+      "url": "https://www.ticketmaster.com.mx/six-sex-presenta-ultra-cdmx-mexico-27-11-2026/event/3D00654187EF2CA9",
+      "ticket_url": "https://www.ticketmaster.com.mx/six-sex-presenta-ultra-cdmx-mexico-27-11-2026/event/3D00654187EF2CA9",
+      "venue": "Foro Puebla",
+      "location": "Mexico, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "source": "ticketmaster",
+      "artists": [
         "Los Autenticos Caligaris",
         "Los Caligaris",
         "Los Auténticos Decadentes"
@@ -6452,6 +6343,21 @@
       ]
     },
     {
+      "date": "2026-12-12",
+      "source": "ticketmaster",
+      "artists": [
+        "Los Terricolas De Nestor Daniel"
+      ],
+      "artist_display": "Los Terricolas De Nestor Daniel",
+      "url": "https://www.ticketmaster.com.mx/los-terricolas-y-jojo-jorge-falcon-mexico-12-12-2026/event/3D006543D36E8FA3",
+      "ticket_url": "https://www.ticketmaster.com.mx/los-terricolas-y-jojo-jorge-falcon-mexico-12-12-2026/event/3D006543D36E8FA3",
+      "venue": "La Maraka",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
       "date": "2026-12-13",
       "source": "ticketmaster",
       "artists": [
@@ -7090,6 +6996,21 @@
       "date": "2027-01-28",
       "source": "ticketmaster",
       "artists": [
+        "Fuerza Regida"
+      ],
+      "artist_display": "Fuerza Regida",
+      "url": "https://www.ticketmaster.com.mx/fuerza-regida-ciudad-de-mexico-28-01-2027/event/140065278EA82ABE",
+      "ticket_url": "https://www.ticketmaster.com.mx/fuerza-regida-ciudad-de-mexico-28-01-2027/event/140065278EA82ABE",
+      "venue": "Palacio de los Deportes",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2027-01-28",
+      "source": "ticketmaster",
+      "artists": [
         "Rey Ruiz"
       ],
       "artist_display": "Rey Ruiz",
@@ -7097,6 +7018,21 @@
       "ticket_url": "https://www.ticketmaster.com.mx/rey-ruiz-la-gira-del-rey-mexico-28-01-2027/event/3D0064F9963A3086",
       "venue": "La Maraka",
       "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2027-01-29",
+      "source": "ticketmaster",
+      "artists": [
+        "Fuerza Regida"
+      ],
+      "artist_display": "Fuerza Regida",
+      "url": "https://www.ticketmaster.com.mx/fuerza-regida-ciudad-de-mexico-29-01-2027/event/14006542DF02D5BF",
+      "ticket_url": "https://www.ticketmaster.com.mx/fuerza-regida-ciudad-de-mexico-29-01-2027/event/14006542DF02D5BF",
+      "venue": "Palacio de los Deportes",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
       ]
@@ -7131,6 +7067,21 @@
       "tags": [
         "Rock",
         "Alternative Rock"
+      ]
+    },
+    {
+      "date": "2027-01-30",
+      "source": "ticketmaster",
+      "artists": [
+        "Fuerza Regida"
+      ],
+      "artist_display": "Fuerza Regida",
+      "url": "https://www.ticketmaster.com.mx/fuerza-regida-ciudad-de-mexico-30-01-2027/event/14006542E0F5E26F",
+      "ticket_url": "https://www.ticketmaster.com.mx/fuerza-regida-ciudad-de-mexico-30-01-2027/event/14006542E0F5E26F",
+      "venue": "Palacio de los Deportes",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
       ]
     },
     {
@@ -7220,21 +7171,6 @@
       "artist_display": "Fuerza Regida",
       "url": "https://www.ticketmaster.com.mx/fuerza-regida-ciudad-de-mexico-01-02-2027/event/14006541E35D8D7C",
       "ticket_url": "https://www.ticketmaster.com.mx/fuerza-regida-ciudad-de-mexico-01-02-2027/event/14006541E35D8D7C",
-      "venue": "Palacio de los Deportes",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2027-02-02",
-      "source": "ticketmaster",
-      "artists": [
-        "Fuerza Regida"
-      ],
-      "artist_display": "Fuerza Regida",
-      "url": "https://www.ticketmaster.com.mx/fuerza-regida-ciudad-de-mexico-02-02-2027/event/140065278EA82ABE",
-      "ticket_url": "https://www.ticketmaster.com.mx/fuerza-regida-ciudad-de-mexico-02-02-2027/event/140065278EA82ABE",
       "venue": "Palacio de los Deportes",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
@@ -7628,6 +7564,22 @@
       ]
     },
     {
+      "date": "2027-02-20",
+      "source": "ticketmaster",
+      "artists": [
+        "Don Tetto"
+      ],
+      "artist_display": "Don Tetto",
+      "url": "https://www.ticketmaster.com.mx/don-tetto-ciudad-de-mexico-20-02-2027/event/3D00653DD7E787EE",
+      "ticket_url": "https://www.ticketmaster.com.mx/don-tetto-ciudad-de-mexico-20-02-2027/event/3D00653DD7E787EE",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
       "date": "2027-02-21",
       "source": "ticketmaster",
       "artists": [
@@ -7925,6 +7877,22 @@
       ]
     },
     {
+      "date": "2027-03-26",
+      "source": "ticketmaster",
+      "artists": [
+        "Pol Granch"
+      ],
+      "artist_display": "Pol Granch",
+      "url": "https://www.ticketmaster.com.mx/pol-granch-mexico-26-03-2027/event/1400654514CF21B7",
+      "ticket_url": "https://www.ticketmaster.com.mx/pol-granch-mexico-26-03-2027/event/1400654514CF21B7",
+      "venue": "Teatro Metropolitan",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
+      ]
+    },
+    {
       "date": "2027-03-27",
       "source": "ticketmaster",
       "artists": [
@@ -8095,6 +8063,21 @@
       "tags": [
         "Metal",
         "Nu-Metal"
+      ]
+    },
+    {
+      "date": "2027-05-16",
+      "source": "ticketmaster",
+      "artists": [
+        "Jay Wheeler"
+      ],
+      "artist_display": "Jay Wheeler",
+      "url": "https://www.ticketmaster.com.mx/jay-wheeler-mexico-16-05-2027/event/14006536975F5B43",
+      "ticket_url": "https://www.ticketmaster.com.mx/jay-wheeler-mexico-16-05-2027/event/14006536975F5B43",
+      "venue": "Pepsi Center",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
       ]
     },
     {
