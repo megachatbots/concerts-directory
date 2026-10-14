@@ -1,120 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-10-13T13:37:18.060453Z",
-  "total_concerts": 452,
+  "scraped_at": "2026-10-14T11:14:57.955794Z",
+  "total_concerts": 451,
   "concerts": [
-    {
-      "date": "2026-10-13",
-      "source": "ticketmaster",
-      "artists": [
-        "Sala Principal Bellas Artes"
-      ],
-      "artist_display": "Sala Principal Bellas Artes",
-      "url": "https://www.ticketmaster.com.mx/comp-nal-opera-tosca-de-giacomo-mexico-cdmx-13-10-2026/event/3D0064F291AA2B7C",
-      "ticket_url": "https://www.ticketmaster.com.mx/comp-nal-opera-tosca-de-giacomo-mexico-cdmx-13-10-2026/event/3D0064F291AA2B7C",
-      "venue": "Palacio de Bellas Artes",
-      "location": "México CDMX, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-10-13",
-      "source": "ticketmaster",
-      "artists": [
-        "AQUIHAYAQUIHAY"
-      ],
-      "artist_display": "AQUIHAYAQUIHAY",
-      "url": "https://www.ticketmaster.com.mx/aquihayaquihay-ciudad-de-mexico-13-10-2026/event/3D0064CCD2185D43",
-      "ticket_url": "https://www.ticketmaster.com.mx/aquihayaquihay-ciudad-de-mexico-13-10-2026/event/3D0064CCD2185D43",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Hip-Hop/Rap",
-        "Trap"
-      ]
-    },
-    {
-      "date": "2026-10-13",
-      "source": "ticketmaster",
-      "artists": [
-        "AQUIHAYAQUIHAY"
-      ],
-      "artist_display": "AQUIHAYAQUIHAY",
-      "url": "https://www.ticketmaster.com.mx/aquihayaquihay-vip-meetgreet-ciudad-de-mexico-13-10-2026/event/3D0064CCE9BB70C2",
-      "ticket_url": "https://www.ticketmaster.com.mx/aquihayaquihay-vip-meetgreet-ciudad-de-mexico-13-10-2026/event/3D0064CCE9BB70C2",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Hip-Hop/Rap",
-        "Trap"
-      ]
-    },
-    {
-      "date": "2026-10-13",
-      "source": "ticketmaster",
-      "artists": [
-        "Luigi Vidal"
-      ],
-      "artist_display": "Luigi Vidal",
-      "url": "https://www.ticketmaster.com.mx/xiii-luigi-vidal-en-concierto-ciudad-de-mexico-13-10-2026/event/3D0064F686761739",
-      "ticket_url": "https://www.ticketmaster.com.mx/xiii-luigi-vidal-en-concierto-ciudad-de-mexico-13-10-2026/event/3D0064F686761739",
-      "venue": "Foro Stelaris Fiesta Americana Reforma",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-10-13",
-      "source": "ticketmaster",
-      "artists": [
-        "Hombres G"
-      ],
-      "artist_display": "Hombres G",
-      "url": "https://www.ticketmaster.com.mx/hombres-g-ciudad-de-mexico-13-10-2026/event/3D00643781BC189F",
-      "ticket_url": "https://www.ticketmaster.com.mx/hombres-g-ciudad-de-mexico-13-10-2026/event/3D00643781BC189F",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-10-13",
-      "source": "ticketmaster",
-      "artists": [
-        "Jane Remover",
-        "Dazegxd"
-      ],
-      "artist_display": "Jane Remover, Dazegxd",
-      "url": "https://www.ticketmaster.com.mx/jane-remover-live-exhibit-mexico-13-10-2026/event/3D00650EE9DD8479",
-      "ticket_url": "https://www.ticketmaster.com.mx/jane-remover-live-exhibit-mexico-13-10-2026/event/3D00650EE9DD8479",
-      "venue": "Foro Puebla",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Alternative Rock"
-      ]
-    },
-    {
-      "date": "2026-10-13",
-      "source": "ticketmaster",
-      "artists": [
-        "Rhye"
-      ],
-      "artist_display": "Rhye",
-      "url": "https://www.ticketmaster.com.mx/rhye-en-ciudad-de-mexico-mexico-13-10-2026/event/140064C495C15362",
-      "ticket_url": "https://www.ticketmaster.com.mx/rhye-en-ciudad-de-mexico-mexico-13-10-2026/event/140064C495C15362",
-      "venue": "Pepsi Center",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Pop"
-      ]
-    },
     {
       "date": "2026-10-14",
       "source": "ticketmaster",
@@ -645,6 +534,38 @@
       "tags": [
         "World",
         "Trova"
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "source": "ticketmaster",
+      "artists": [
+        "Homenaje a JUAN GABRIEL Consieto Sinfónico Audiovisual"
+      ],
+      "artist_display": "Homenaje a JUAN GABRIEL Consieto Sinfónico Audiovisual",
+      "url": "https://www.ticketmaster.com.mx/homenaje-a-juan-gabriel-consieto-sinfonico-mexico-17-10-2026/event/14006549B664C00D",
+      "ticket_url": "https://www.ticketmaster.com.mx/homenaje-a-juan-gabriel-consieto-sinfonico-mexico-17-10-2026/event/14006549B664C00D",
+      "venue": "Foro 1869",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Hip-Hop/Rap",
+        "Reggaeton"
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "source": "ticketmaster",
+      "artists": [
+        "HELP ! En concierto - Homenaje a THE BEATLES"
+      ],
+      "artist_display": "HELP ! En concierto - Homenaje a THE BEATLES",
+      "url": "https://www.ticketmaster.com.mx/help-en-concierto-homenaje-a-the-ciudad-de-mexico-17-10-2026/event/14006549D56F1FB8",
+      "ticket_url": "https://www.ticketmaster.com.mx/help-en-concierto-homenaje-a-the-ciudad-de-mexico-17-10-2026/event/14006549D56F1FB8",
+      "venue": "Alboa Santa Fe",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Alternative Rock"
       ]
     },
     {
@@ -3210,6 +3131,21 @@
       "ticket_url": "https://www.ticketmaster.com.mx/francisca-valenzuela-maldita-tour-mexico-20-11-2026/event/3D0064B59E9E8DA5",
       "venue": "Foro Puebla",
       "location": "Mexico, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "source": "ticketmaster",
+      "artists": [
+        "Carlos Macías"
+      ],
+      "artist_display": "Carlos Macías",
+      "url": "https://www.ticketmaster.com.mx/carlos-macias-mexico-es-a-todo-ciudad-de-mexico-20-11-2026/event/3D006548B9BC6A94",
+      "ticket_url": "https://www.ticketmaster.com.mx/carlos-macias-mexico-es-a-todo-ciudad-de-mexico-20-11-2026/event/3D006548B9BC6A94",
+      "venue": "Foro Stelaris Fiesta Americana Reforma",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
       ]
@@ -6431,6 +6367,22 @@
       "date": "2027-01-28",
       "source": "ticketmaster",
       "artists": [
+        "Kaia Lana"
+      ],
+      "artist_display": "Kaia Lana",
+      "url": "https://www.ticketmaster.com.mx/kaia-lana-ciudad-de-mexico-28-01-2027/event/3D006548840C27C1",
+      "ticket_url": "https://www.ticketmaster.com.mx/kaia-lana-ciudad-de-mexico-28-01-2027/event/3D006548840C27C1",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
+      ]
+    },
+    {
+      "date": "2027-01-28",
+      "source": "ticketmaster",
+      "artists": [
         "Rey Ruiz"
       ],
       "artist_display": "Rey Ruiz",
@@ -6476,9 +6428,10 @@
       "date": "2027-01-29",
       "source": "ticketmaster",
       "artists": [
-        "Sombr"
+        "Sombr",
+        "Florence Road"
       ],
-      "artist_display": "Sombr",
+      "artist_display": "Sombr, Florence Road",
       "url": "https://www.ticketmaster.com.mx/sombr-mexico-29-01-2027/event/1400645A87A630E8",
       "ticket_url": "https://www.ticketmaster.com.mx/sombr-mexico-29-01-2027/event/1400645A87A630E8",
       "venue": "Pepsi Center",
@@ -6539,9 +6492,10 @@
       "date": "2027-01-30",
       "source": "ticketmaster",
       "artists": [
-        "Sombr"
+        "Sombr",
+        "Florence Road"
       ],
-      "artist_display": "Sombr",
+      "artist_display": "Sombr, Florence Road",
       "url": "https://www.ticketmaster.com.mx/sombr-mexico-30-01-2027/event/1400645A85802DA2",
       "ticket_url": "https://www.ticketmaster.com.mx/sombr-mexico-30-01-2027/event/1400645A85802DA2",
       "venue": "Pepsi Center",
@@ -7142,6 +7096,22 @@
       "date": "2027-03-05",
       "source": "ticketmaster",
       "artists": [
+        "Jacinto"
+      ],
+      "artist_display": "Jacinto",
+      "url": "https://www.ticketmaster.com.mx/jacinto-mexico-05-03-2027/event/14006547929B45B2",
+      "ticket_url": "https://www.ticketmaster.com.mx/jacinto-mexico-05-03-2027/event/14006547929B45B2",
+      "venue": "Teatro Metropolitan",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
+      ]
+    },
+    {
+      "date": "2027-03-05",
+      "source": "ticketmaster",
+      "artists": [
         "Peter Hook and the Light"
       ],
       "artist_display": "Peter Hook and the Light",
@@ -7544,6 +7514,22 @@
       "tags": [
         "Metal",
         "Nu-Metal"
+      ]
+    },
+    {
+      "date": "2027-05-14",
+      "source": "ticketmaster",
+      "artists": [
+        "Agnes Obel"
+      ],
+      "artist_display": "Agnes Obel",
+      "url": "https://www.ticketmaster.com.mx/agnes-obel-mexico-14-05-2027/event/14006548E2495267",
+      "ticket_url": "https://www.ticketmaster.com.mx/agnes-obel-mexico-14-05-2027/event/14006548E2495267",
+      "venue": "Teatro Metropolitan",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Pop"
       ]
     },
     {
