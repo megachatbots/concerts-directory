@@ -1,323 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-10-14T11:14:57.955794Z",
-  "total_concerts": 451,
+  "scraped_at": "2026-10-17T10:11:24.299733Z",
+  "total_concerts": 443,
   "concerts": [
-    {
-      "date": "2026-10-14",
-      "source": "ticketmaster",
-      "artists": [
-        "Hombres G"
-      ],
-      "artist_display": "Hombres G",
-      "url": "https://www.ticketmaster.com.mx/hombres-g-ciudad-de-mexico-14-10-2026/event/3D00643784EC1AE4",
-      "ticket_url": "https://www.ticketmaster.com.mx/hombres-g-ciudad-de-mexico-14-10-2026/event/3D00643784EC1AE4",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-10-14",
-      "source": "ticketmaster",
-      "artists": [
-        "Travis"
-      ],
-      "artist_display": "Travis",
-      "url": "https://www.ticketmaster.com.mx/travis-mexico-14-10-2026/event/14006490FAA70C06",
-      "ticket_url": "https://www.ticketmaster.com.mx/travis-mexico-14-10-2026/event/14006490FAA70C06",
-      "venue": "Pepsi Center",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Pop"
-      ]
-    },
-    {
-      "date": "2026-10-14",
-      "source": "ticketmaster",
-      "artists": [
-        "Karen Souza"
-      ],
-      "artist_display": "Karen Souza",
-      "url": "https://www.ticketmaster.com.mx/karen-souza-the-biggest-latin-jazz-ciudad-de-mexico-14-10-2026/event/3D0064CAAFDC312B",
-      "ticket_url": "https://www.ticketmaster.com.mx/karen-souza-the-biggest-latin-jazz-ciudad-de-mexico-14-10-2026/event/3D0064CAAFDC312B",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Jazz"
-      ]
-    },
-    {
-      "date": "2026-10-15",
-      "source": "ticketmaster",
-      "artists": [
-        "Francisco Cespedes"
-      ],
-      "artist_display": "Francisco Cespedes",
-      "url": "https://www.ticketmaster.com.mx/francisco-cespedes-sinfonico-mexico-15-10-2026/event/3D0064F8CA0A6726",
-      "ticket_url": "https://www.ticketmaster.com.mx/francisco-cespedes-sinfonico-mexico-15-10-2026/event/3D0064F8CA0A6726",
-      "venue": "Teatro de la Ciudad Esperanza Iris",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-10-15",
-      "source": "ticketmaster",
-      "artists": [
-        "Leyendas el show"
-      ],
-      "artist_display": "Leyendas el show",
-      "url": "https://www.ticketmaster.com.mx/leyendas-ciudad-de-mexico-15-10-2026/event/3D00651482A91E95",
-      "ticket_url": "https://www.ticketmaster.com.mx/leyendas-ciudad-de-mexico-15-10-2026/event/3D00651482A91E95",
-      "venue": "Foro Stelaris Fiesta Americana Reforma",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
-      ]
-    },
-    {
-      "date": "2026-10-15",
-      "source": "ticketmaster",
-      "artists": [
-        "Kneecap"
-      ],
-      "artist_display": "Kneecap",
-      "url": "https://www.ticketmaster.com.mx/kneecap-mexico-15-10-2026/event/140064EFA08F5438",
-      "ticket_url": "https://www.ticketmaster.com.mx/kneecap-mexico-15-10-2026/event/140064EFA08F5438",
-      "venue": "Pabellón del Palacio de los Deportes",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Hip-Hop/Rap",
-        "Trap"
-      ]
-    },
-    {
-      "date": "2026-10-15",
-      "source": "ticketmaster",
-      "artists": [
-        "Bunbury"
-      ],
-      "artist_display": "Bunbury",
-      "url": "https://www.ticketmaster.com.mx/enrique-bunbury-ciudad-de-mexico-15-10-2026/event/3D006444A1C82659",
-      "ticket_url": "https://www.ticketmaster.com.mx/enrique-bunbury-ciudad-de-mexico-15-10-2026/event/3D006444A1C82659",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-10-15",
-      "source": "ticketmaster",
-      "artists": [
-        "ADÉLA"
-      ],
-      "artist_display": "ADÉLA",
-      "url": "https://www.ticketmaster.com.mx/adela-the-red-bottoms-tour-mexico-15-10-2026/event/3D0064B4A4556F2D",
-      "ticket_url": "https://www.ticketmaster.com.mx/adela-the-red-bottoms-tour-mexico-15-10-2026/event/3D0064B4A4556F2D",
-      "venue": "Foro Puebla",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-10-15",
-      "source": "ticketmaster",
-      "artists": [
-        "Two Door Cinema Club"
-      ],
-      "artist_display": "Two Door Cinema Club",
-      "url": "https://www.ticketmaster.com.mx/two-door-cinema-club-mexico-15-10-2026/event/14006465B2568D0E",
-      "ticket_url": "https://www.ticketmaster.com.mx/two-door-cinema-club-mexico-15-10-2026/event/14006465B2568D0E",
-      "venue": "Pepsi Center",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Pop"
-      ]
-    },
-    {
-      "date": "2026-10-16",
-      "source": "ticketmaster",
-      "artists": [
-        "Angélica María y Enrique Guzmán"
-      ],
-      "artist_display": "Angélica María y Enrique Guzmán",
-      "url": "https://www.ticketmaster.com.mx/angelica-maria-y-enrique-guzman-la-mexico-16-10-2026/event/140064BB99CBAA7B",
-      "ticket_url": "https://www.ticketmaster.com.mx/angelica-maria-y-enrique-guzman-la-mexico-16-10-2026/event/140064BB99CBAA7B",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
-      ]
-    },
-    {
-      "date": "2026-10-16",
-      "source": "ticketmaster",
-      "artists": [
-        "Martin Garrix"
-      ],
-      "artist_display": "Martin Garrix",
-      "url": "https://www.ticketmaster.com.mx/martin-garrix-ciudad-de-mexico-16-10-2026/event/14006379C09FE01C",
-      "ticket_url": "https://www.ticketmaster.com.mx/martin-garrix-ciudad-de-mexico-16-10-2026/event/14006379C09FE01C",
-      "venue": "Palacio de los Deportes",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Dance/Electronic",
-        "Amapiano"
-      ]
-    },
-    {
-      "date": "2026-10-16",
-      "source": "ticketmaster",
-      "artists": [
-        "Majo Rivas"
-      ],
-      "artist_display": "Majo Rivas",
-      "url": "https://www.ticketmaster.com.mx/majo-rivas-en-cdmx-ciudad-de-mexico-16-10-2026/event/3D0064F297A2324F",
-      "ticket_url": "https://www.ticketmaster.com.mx/majo-rivas-en-cdmx-ciudad-de-mexico-16-10-2026/event/3D0064F297A2324F",
-      "venue": "Sala Pepsi Black",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-10-16",
-      "source": "ticketmaster",
-      "artists": [
-        "Edén Muñoz"
-      ],
-      "artist_display": "Edén Muñoz",
-      "url": "https://www.ticketmaster.com.mx/eden-munoz-mexico-16-10-2026/event/3D00646AB8F047F6",
-      "ticket_url": "https://www.ticketmaster.com.mx/eden-munoz-mexico-16-10-2026/event/3D00646AB8F047F6",
-      "venue": "Monumental Plaza De Toros México",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-10-16",
-      "source": "ticketmaster",
-      "artists": [
-        "Hombres G"
-      ],
-      "artist_display": "Hombres G",
-      "url": "https://www.ticketmaster.com.mx/hombres-g-ciudad-de-mexico-16-10-2026/event/3D00643784ED1AE6",
-      "ticket_url": "https://www.ticketmaster.com.mx/hombres-g-ciudad-de-mexico-16-10-2026/event/3D00643784ED1AE6",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-10-16",
-      "source": "ticketmaster",
-      "artists": [
-        "ADÉLA"
-      ],
-      "artist_display": "ADÉLA",
-      "url": "https://www.ticketmaster.com.mx/adela-the-red-bottoms-tour-mexico-16-10-2026/event/3D0064B4A57F71F0",
-      "ticket_url": "https://www.ticketmaster.com.mx/adela-the-red-bottoms-tour-mexico-16-10-2026/event/3D0064B4A57F71F0",
-      "venue": "Foro Puebla",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-10-16",
-      "source": "ticketmaster",
-      "artists": [
-        "Dabeull"
-      ],
-      "artist_display": "Dabeull",
-      "url": "https://www.ticketmaster.com.mx/dabeull-mexico-16-10-2026/event/140064B6D405EDFB",
-      "ticket_url": "https://www.ticketmaster.com.mx/dabeull-mexico-16-10-2026/event/140064B6D405EDFB",
-      "venue": "Auditorio BB",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Dance/Electronic",
-        "Amapiano"
-      ]
-    },
-    {
-      "date": "2026-10-16",
-      "source": "ticketmaster",
-      "artists": [
-        "Two Door Cinema Club"
-      ],
-      "artist_display": "Two Door Cinema Club",
-      "url": "https://www.ticketmaster.com.mx/two-door-cinema-club-mexico-16-10-2026/event/14006465B3688F29",
-      "ticket_url": "https://www.ticketmaster.com.mx/two-door-cinema-club-mexico-16-10-2026/event/14006465B3688F29",
-      "venue": "Pepsi Center",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Pop"
-      ]
-    },
-    {
-      "date": "2026-10-16",
-      "source": "ticketmaster",
-      "artists": [
-        "La Cantadera"
-      ],
-      "artist_display": "La Cantadera",
-      "url": "https://www.ticketmaster.com.mx/la-cantadera-ciudad-de-mexico-16-10-2026/event/3D006514C2BE626C",
-      "ticket_url": "https://www.ticketmaster.com.mx/la-cantadera-ciudad-de-mexico-16-10-2026/event/3D006514C2BE626C",
-      "venue": "Foro Stelaris Fiesta Americana Reforma",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Pop"
-      ]
-    },
-    {
-      "date": "2026-10-16",
-      "source": "ticketmaster",
-      "artists": [
-        "Axel Muñiz",
-        "Jorge Muñiz"
-      ],
-      "artist_display": "Axel Muñiz, Jorge Muñiz",
-      "url": "https://www.ticketmaster.com.mx/noche-de-boleros-con-coque-muniz-mexico-16-10-2026/event/3D0064FCA1EB33BC",
-      "ticket_url": "https://www.ticketmaster.com.mx/noche-de-boleros-con-coque-muniz-mexico-16-10-2026/event/3D0064FCA1EB33BC",
-      "venue": "La Maraka",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-10-16",
-      "source": "ticketmaster",
-      "artists": [
-        "Estela Nunez",
-        "Cabaret Lunario"
-      ],
-      "artist_display": "Estela Nunez, Cabaret Lunario",
-      "url": "https://www.ticketmaster.com.mx/cabaret-lunario-presenta-estela-nunez-con-ciudad-de-mexico-16-10-2026/event/3D006514868C21A8",
-      "ticket_url": "https://www.ticketmaster.com.mx/cabaret-lunario-presenta-estela-nunez-con-ciudad-de-mexico-16-10-2026/event/3D006514868C21A8",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
-      ]
-    },
     {
       "date": "2026-10-17",
       "source": "ticketmaster",
@@ -1545,22 +1231,6 @@
       "date": "2026-10-31",
       "source": "ticketmaster",
       "artists": [
-        "SOFI TUKKER"
-      ],
-      "artist_display": "SOFI TUKKER",
-      "url": "https://www.ticketmaster.com.mx/sofi-tukker-presents-animal-talk-mexico-31-10-2026/event/1400649BE774AFFB",
-      "ticket_url": "https://www.ticketmaster.com.mx/sofi-tukker-presents-animal-talk-mexico-31-10-2026/event/1400649BE774AFFB",
-      "venue": "Pepsi Center",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Dance/Electronic",
-        "Amapiano"
-      ]
-    },
-    {
-      "date": "2026-10-31",
-      "source": "ticketmaster",
-      "artists": [
         "Jose Maria Napoleon",
         "Mocedades"
       ],
@@ -1818,8 +1488,8 @@
         "Dillom"
       ],
       "artist_display": "Dillom",
-      "url": "https://www.ticketmaster.com.mx/dillom-mexico-05-11-2026/event/3D00651A907D2DD3",
-      "ticket_url": "https://www.ticketmaster.com.mx/dillom-mexico-05-11-2026/event/3D00651A907D2DD3",
+      "url": "https://www.ticketmaster.com.mx/dillom-noches-violentas-mexico-05-11-2026/event/3D00651A907D2DD3",
+      "ticket_url": "https://www.ticketmaster.com.mx/dillom-noches-violentas-mexico-05-11-2026/event/3D00651A907D2DD3",
       "venue": "Foro Puebla",
       "location": "Mexico, Ciudad de México, Mexico",
       "tags": [
@@ -1928,8 +1598,8 @@
         "Dillom"
       ],
       "artist_display": "Dillom",
-      "url": "https://www.ticketmaster.com.mx/dillom-mexico-06-11-2026/event/3D00651AA0895641",
-      "ticket_url": "https://www.ticketmaster.com.mx/dillom-mexico-06-11-2026/event/3D00651AA0895641",
+      "url": "https://www.ticketmaster.com.mx/dillom-noches-violentas-mexico-06-11-2026/event/3D00651AA0895641",
+      "ticket_url": "https://www.ticketmaster.com.mx/dillom-noches-violentas-mexico-06-11-2026/event/3D00651AA0895641",
       "venue": "Foro Puebla",
       "location": "Mexico, Ciudad de México, Mexico",
       "tags": [
@@ -2026,8 +1696,8 @@
         "Dillom"
       ],
       "artist_display": "Dillom",
-      "url": "https://www.ticketmaster.com.mx/dillom-mexico-07-11-2026/event/3D00651AA0895643",
-      "ticket_url": "https://www.ticketmaster.com.mx/dillom-mexico-07-11-2026/event/3D00651AA0895643",
+      "url": "https://www.ticketmaster.com.mx/dillom-noches-violentas-mexico-07-11-2026/event/3D00651AA0895643",
+      "ticket_url": "https://www.ticketmaster.com.mx/dillom-noches-violentas-mexico-07-11-2026/event/3D00651AA0895643",
       "venue": "Foro Puebla",
       "location": "Mexico, Ciudad de México, Mexico",
       "tags": [
@@ -2649,6 +2319,25 @@
       "tags": [
         "Pop",
         "Electro Pop"
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "source": "ticketmaster",
+      "artists": [
+        "BB Trickz",
+        "Doony Graff",
+        "Flvckka",
+        "Fanta Rosario"
+      ],
+      "artist_display": "BB Trickz, Doony Graff, Flvckka, Fanta Rosario",
+      "url": "https://www.ticketmaster.com.mx/bb-trickz-mexico-15-11-2026/event/1400654EC20EA15E",
+      "ticket_url": "https://www.ticketmaster.com.mx/bb-trickz-mexico-15-11-2026/event/1400654EC20EA15E",
+      "venue": "Pepsi Center",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Hip-Hop/Rap",
+        "Trap"
       ]
     },
     {
@@ -6615,6 +6304,22 @@
       "date": "2027-02-04",
       "source": "ticketmaster",
       "artists": [
+        "Melendi"
+      ],
+      "artist_display": "Melendi",
+      "url": "https://www.ticketmaster.com.mx/melendi-ciudad-de-mexico-04-02-2027/event/3D00653981A13094",
+      "ticket_url": "https://www.ticketmaster.com.mx/melendi-ciudad-de-mexico-04-02-2027/event/3D00653981A13094",
+      "venue": "Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
+      ]
+    },
+    {
+      "date": "2027-02-04",
+      "source": "ticketmaster",
+      "artists": [
         "Paula Mattheus"
       ],
       "artist_display": "Paula Mattheus",
@@ -6782,6 +6487,22 @@
       ]
     },
     {
+      "date": "2027-02-09",
+      "source": "ticketmaster",
+      "artists": [
+        "Kenshi Yonezu"
+      ],
+      "artist_display": "Kenshi Yonezu",
+      "url": "https://www.ticketmaster.com.mx/kenshi-yonezu-20262027-world-tour-ghost-ciudad-de-mexico-09-02-2027/event/1400653EBF07467F",
+      "ticket_url": "https://www.ticketmaster.com.mx/kenshi-yonezu-20262027-world-tour-ghost-ciudad-de-mexico-09-02-2027/event/1400653EBF07467F",
+      "venue": "Palacio de los Deportes",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
+      ]
+    },
+    {
       "date": "2027-02-12",
       "source": "ticketmaster",
       "artists": [
@@ -6838,6 +6559,22 @@
       "ticket_url": "https://www.ticketmaster.com.mx/hilary-duff-the-lucky-me-tour-ciudad-de-mexico-13-02-2027/event/14006447E0DDB380",
       "venue": "Palacio de los Deportes",
       "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
+      ]
+    },
+    {
+      "date": "2027-02-13",
+      "source": "ticketmaster",
+      "artists": [
+        "Chacho Gaytán"
+      ],
+      "artist_display": "Chacho Gaytán",
+      "url": "https://www.ticketmaster.com.mx/chacho-gaytan-maestro-concierto-sirenas-piano-mexico-13-02-2027/event/3D00654E909F3F42",
+      "ticket_url": "https://www.ticketmaster.com.mx/chacho-gaytan-maestro-concierto-sirenas-piano-mexico-13-02-2027/event/3D00654E909F3F42",
+      "venue": "El Cantoral ",
+      "location": "Mexico, Ciudad de México, Mexico",
       "tags": [
         "Pop",
         "Electro Pop"
@@ -7014,6 +6751,22 @@
       ]
     },
     {
+      "date": "2027-02-23",
+      "source": "ticketmaster",
+      "artists": [
+        "U2"
+      ],
+      "artist_display": "U2",
+      "url": "https://www.ticketmaster.com.mx/u2-the-greatest-show-on-earth-ciudad-de-mexico-23-02-2027/event/14006549B9C6C87F",
+      "ticket_url": "https://www.ticketmaster.com.mx/u2-the-greatest-show-on-earth-ciudad-de-mexico-23-02-2027/event/14006549B9C6C87F",
+      "venue": "Estadio GNP Seguros",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
       "date": "2027-02-25",
       "source": "ticketmaster",
       "artists": [
@@ -7049,6 +6802,22 @@
       "date": "2027-02-26",
       "source": "ticketmaster",
       "artists": [
+        "U2"
+      ],
+      "artist_display": "U2",
+      "url": "https://www.ticketmaster.com.mx/u2-the-greatest-show-on-earth-ciudad-de-mexico-26-02-2027/event/14006549BA9ECA83",
+      "ticket_url": "https://www.ticketmaster.com.mx/u2-the-greatest-show-on-earth-ciudad-de-mexico-26-02-2027/event/14006549BA9ECA83",
+      "venue": "Estadio GNP Seguros",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
+      "date": "2027-02-26",
+      "source": "ticketmaster",
+      "artists": [
         "Raul Di Blasio"
       ],
       "artist_display": "Raul Di Blasio",
@@ -7058,6 +6827,37 @@
       "location": "México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2027-02-27",
+      "source": "ticketmaster",
+      "artists": [
+        "Omar Márquez"
+      ],
+      "artist_display": "Omar Márquez",
+      "url": "https://www.ticketmaster.com.mx/omar-marquez-capitan-de-una-decada-mexico-27-02-2027/event/3D006549D6367E4F",
+      "ticket_url": "https://www.ticketmaster.com.mx/omar-marquez-capitan-de-una-decada-mexico-27-02-2027/event/3D006549D6367E4F",
+      "venue": "El Cantoral ",
+      "location": "Mexico, Ciudad de México, Mexico",
+      "tags": [
+        "Ballads/Romantic"
+      ]
+    },
+    {
+      "date": "2027-02-27",
+      "source": "ticketmaster",
+      "artists": [
+        "Beta"
+      ],
+      "artist_display": "Beta",
+      "url": "https://www.ticketmaster.com.mx/beta-mexico-27-02-2027/event/1400654D9CBE4648",
+      "ticket_url": "https://www.ticketmaster.com.mx/beta-mexico-27-02-2027/event/1400654D9CBE4648",
+      "venue": "Pabellón del Palacio de los Deportes",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Alternative Rock"
       ]
     },
     {
@@ -7134,6 +6934,21 @@
       "tags": [
         "Rock",
         "Pop"
+      ]
+    },
+    {
+      "date": "2027-03-05",
+      "source": "ticketmaster",
+      "artists": [
+        "Internacional Orquesta La Típica"
+      ],
+      "artist_display": "Internacional Orquesta La Típica",
+      "url": "https://www.ticketmaster.com.mx/orquesta-la-tipica-27-aniversario-ciudad-de-mexico-05-03-2027/event/3D00654AA0AD40F1",
+      "ticket_url": "https://www.ticketmaster.com.mx/orquesta-la-tipica-27-aniversario-ciudad-de-mexico-05-03-2027/event/3D00654AA0AD40F1",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
       ]
     },
     {
@@ -7278,6 +7093,22 @@
       "tags": [
         "Pop",
         "Electro Pop"
+      ]
+    },
+    {
+      "date": "2027-03-26",
+      "source": "ticketmaster",
+      "artists": [
+        "SOFI TUKKER"
+      ],
+      "artist_display": "SOFI TUKKER",
+      "url": "https://www.ticketmaster.com.mx/sofi-tukker-presents-animal-talk-mexico-26-03-2027/event/1400649BE774AFFB",
+      "ticket_url": "https://www.ticketmaster.com.mx/sofi-tukker-presents-animal-talk-mexico-26-03-2027/event/1400649BE774AFFB",
+      "venue": "Pepsi Center",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Dance/Electronic",
+        "Amapiano"
       ]
     },
     {
@@ -7482,6 +7313,22 @@
       "tags": [
         "Rock",
         "Pop"
+      ]
+    },
+    {
+      "date": "2027-05-08",
+      "source": "ticketmaster",
+      "artists": [
+        "Damien Rice"
+      ],
+      "artist_display": "Damien Rice",
+      "url": "https://www.ticketmaster.com.mx/damien-rice-o-25th-anniversary-world-mexico-08-05-2027/event/1400654DC26597D6",
+      "ticket_url": "https://www.ticketmaster.com.mx/damien-rice-o-25th-anniversary-world-mexico-08-05-2027/event/1400654DC26597D6",
+      "venue": "Auditorio BB",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Alternative Rock"
       ]
     },
     {
@@ -7745,6 +7592,38 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2027-10-15",
+      "source": "ticketmaster",
+      "artists": [
+        "M2M"
+      ],
+      "artist_display": "M2M",
+      "url": "https://www.ticketmaster.com.mx/m2m-two-mexico-15-10-2027/event/3D00654EBB297E11",
+      "ticket_url": "https://www.ticketmaster.com.mx/m2m-two-mexico-15-10-2027/event/3D00654EBB297E11",
+      "venue": "La Maraka",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
+      ]
+    },
+    {
+      "date": "2027-10-16",
+      "source": "ticketmaster",
+      "artists": [
+        "M2M"
+      ],
+      "artist_display": "M2M",
+      "url": "https://www.ticketmaster.com.mx/m2m-two-mexico-16-10-2027/event/3D00654EBCCC7FFD",
+      "ticket_url": "https://www.ticketmaster.com.mx/m2m-two-mexico-16-10-2027/event/3D00654EBCCC7FFD",
+      "venue": "La Maraka",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
       ]
     }
   ]
