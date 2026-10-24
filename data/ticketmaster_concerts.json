@@ -1,145 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-10-23T11:03:48.541133Z",
-  "total_concerts": 429,
+  "scraped_at": "2026-10-24T10:20:06.964155Z",
+  "total_concerts": 425,
   "concerts": [
-    {
-      "date": "2026-10-23",
-      "source": "ticketmaster",
-      "artists": [
-        "Fobia"
-      ],
-      "artist_display": "Fobia",
-      "url": "https://www.ticketmaster.com.mx/fobia-ciudad-de-mexico-23-10-2026/event/14006496E4CE9B1C",
-      "ticket_url": "https://www.ticketmaster.com.mx/fobia-ciudad-de-mexico-23-10-2026/event/14006496E4CE9B1C",
-      "venue": "Palacio de los Deportes",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "date": "2026-10-23",
-      "source": "ticketmaster",
-      "artists": [
-        "Belako"
-      ],
-      "artist_display": "Belako",
-      "url": "https://www.ticketmaster.com.mx/belako-mexico-23-10-2026/event/3D006491A6F559A2",
-      "ticket_url": "https://www.ticketmaster.com.mx/belako-mexico-23-10-2026/event/3D006491A6F559A2",
-      "venue": "Foro Puebla",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-10-23",
-      "source": "ticketmaster",
-      "artists": [
-        "Alizzz"
-      ],
-      "artist_display": "Alizzz",
-      "url": "https://www.ticketmaster.com.mx/alizzz-mexico-23-10-2026/event/140064FEA026ACFA",
-      "ticket_url": "https://www.ticketmaster.com.mx/alizzz-mexico-23-10-2026/event/140064FEA026ACFA",
-      "venue": "Pabellón del Palacio de los Deportes",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Dance/Electronic",
-        "Amapiano"
-      ]
-    },
-    {
-      "date": "2026-10-23",
-      "source": "ticketmaster",
-      "artists": [
-        "Andrés Obregón"
-      ],
-      "artist_display": "Andrés Obregón",
-      "url": "https://www.ticketmaster.com.mx/andres-obregon-ciudad-de-mexico-23-10-2026/event/3D00648FB4C06D91",
-      "ticket_url": "https://www.ticketmaster.com.mx/andres-obregon-ciudad-de-mexico-23-10-2026/event/3D00648FB4C06D91",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
-      ]
-    },
-    {
-      "date": "2026-10-23",
-      "source": "ticketmaster",
-      "artists": [
-        "Andrés Obregón"
-      ],
-      "artist_display": "Andrés Obregón",
-      "url": "https://www.ticketmaster.com.mx/andres-obregon-mg-y-palomazo-acustico-ciudad-de-mexico-23-10-2026/event/3D00649882B43B40",
-      "ticket_url": "https://www.ticketmaster.com.mx/andres-obregon-mg-y-palomazo-acustico-ciudad-de-mexico-23-10-2026/event/3D00649882B43B40",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico"
-    },
-    {
-      "date": "2026-10-23",
-      "source": "ticketmaster",
-      "artists": [
-        "Jessie Ware",
-        "dhruv"
-      ],
-      "artist_display": "Jessie Ware, dhruv",
-      "url": "https://www.ticketmaster.com.mx/jessie-ware-the-superbloom-tour-mexico-23-10-2026/event/1400646C99656B67",
-      "ticket_url": "https://www.ticketmaster.com.mx/jessie-ware-the-superbloom-tour-mexico-23-10-2026/event/1400646C99656B67",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Pop"
-      ]
-    },
-    {
-      "date": "2026-10-23",
-      "source": "ticketmaster",
-      "artists": [
-        "Arturo Sandoval"
-      ],
-      "artist_display": "Arturo Sandoval",
-      "url": "https://www.ticketmaster.com.mx/arturo-sandoval-presentasangu-ciudad-de-mexico-23-10-2026/event/3D0064EAD6325E11",
-      "ticket_url": "https://www.ticketmaster.com.mx/arturo-sandoval-presentasangu-ciudad-de-mexico-23-10-2026/event/3D0064EAD6325E11",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Jazz"
-      ]
-    },
-    {
-      "date": "2026-10-23",
-      "source": "ticketmaster",
-      "artists": [
-        "Nicho Hinojosa"
-      ],
-      "artist_display": "Nicho Hinojosa",
-      "url": "https://www.ticketmaster.com.mx/nicho-hinojosa-mexico-23-10-2026/event/3D00652EA07828FC",
-      "ticket_url": "https://www.ticketmaster.com.mx/nicho-hinojosa-mexico-23-10-2026/event/3D00652EA07828FC",
-      "venue": "Foro Red Access",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-10-23",
-      "source": "ticketmaster",
-      "artists": [
-        "Matisse"
-      ],
-      "artist_display": "Matisse",
-      "url": "https://www.ticketmaster.com.mx/matisse-mexico-23-10-2026/event/3D0064DAAB493025",
-      "ticket_url": "https://www.ticketmaster.com.mx/matisse-mexico-23-10-2026/event/3D0064DAAB493025",
-      "venue": "La Maraka",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
     {
       "date": "2026-10-24",
       "source": "ticketmaster",
@@ -1690,6 +1554,22 @@
       "date": "2026-11-15",
       "source": "ticketmaster",
       "artists": [
+        "Orquesta Tipica de la ciudad de Mexico"
+      ],
+      "artist_display": "Orquesta Tipica de la ciudad de Mexico",
+      "url": "https://www.ticketmaster.com.mx/aniversario-142-de-la-orquesta-tipica-mexico-15-11-2026/event/3D006556DA9CAF84",
+      "ticket_url": "https://www.ticketmaster.com.mx/aniversario-142-de-la-orquesta-tipica-mexico-15-11-2026/event/3D006556DA9CAF84",
+      "venue": "Teatro de la Ciudad Esperanza Iris",
+      "location": "Mexico, Ciudad de México, Mexico",
+      "tags": [
+        "Classical",
+        "Classical/Vocal"
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "source": "ticketmaster",
+      "artists": [
         "Sala Principal Bellas Artes"
       ],
       "artist_display": "Sala Principal Bellas Artes",
@@ -1869,6 +1749,21 @@
       "ticket_url": "https://www.ticketmaster.com.mx/jerry-rivera-ciudad-de-mexico-17-11-2026/event/3D006491A0255192",
       "venue": "Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "source": "ticketmaster",
+      "artists": [
+        "Tributo a la Diva con Jennely"
+      ],
+      "artist_display": "Tributo a la Diva con Jennely",
+      "url": "https://www.ticketmaster.com.mx/tributo-a-la-diva-celebrando-a-mexico-18-11-2026/event/14006546C0FC9A53",
+      "ticket_url": "https://www.ticketmaster.com.mx/tributo-a-la-diva-celebrando-a-mexico-18-11-2026/event/14006546C0FC9A53",
+      "venue": "Teatro Hidalgo",
+      "location": "México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
       ]
@@ -6523,6 +6418,22 @@
       ]
     },
     {
+      "date": "2027-03-02",
+      "source": "ticketmaster",
+      "artists": [
+        "U2"
+      ],
+      "artist_display": "U2",
+      "url": "https://www.ticketmaster.com.mx/u2-the-greatest-show-on-earth-ciudad-de-mexico-02-03-2027/event/14006549BAA0CA8F",
+      "ticket_url": "https://www.ticketmaster.com.mx/u2-the-greatest-show-on-earth-ciudad-de-mexico-02-03-2027/event/14006549BAA0CA8F",
+      "venue": "Estadio GNP Seguros",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
       "date": "2027-03-03",
       "source": "ticketmaster",
       "artists": [
@@ -6674,6 +6585,22 @@
       "tags": [
         "R&B",
         "Soul"
+      ]
+    },
+    {
+      "date": "2027-03-19",
+      "source": "ticketmaster",
+      "artists": [
+        "Flamencura"
+      ],
+      "artist_display": "Flamencura",
+      "url": "https://www.ticketmaster.com.mx/flamencura-raices-de-fuego-ciudad-de-mexico-19-03-2027/event/3D00655797254988",
+      "ticket_url": "https://www.ticketmaster.com.mx/flamencura-raices-de-fuego-ciudad-de-mexico-19-03-2027/event/3D00655797254988",
+      "venue": "Foro Stelaris Fiesta Americana Reforma",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "World",
+        "Flamenco"
       ]
     },
     {
@@ -6975,6 +6902,22 @@
       "tags": [
         "World",
         "Trova"
+      ]
+    },
+    {
+      "date": "2027-05-01",
+      "source": "ticketmaster",
+      "artists": [
+        "Kygo"
+      ],
+      "artist_display": "Kygo",
+      "url": "https://www.ticketmaster.com.mx/kygo-mexico-2027-ciudad-de-mexico-01-05-2027/event/14006538B272AB2C",
+      "ticket_url": "https://www.ticketmaster.com.mx/kygo-mexico-2027-ciudad-de-mexico-01-05-2027/event/14006538B272AB2C",
+      "venue": "Estadio GNP Seguros",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Dance/Electronic",
+        "Amapiano"
       ]
     },
     {
