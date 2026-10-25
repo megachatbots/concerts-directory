@@ -1,133 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-10-24T10:20:06.964155Z",
-  "total_concerts": 425,
+  "scraped_at": "2026-10-25T10:47:10.102883Z",
+  "total_concerts": 417,
   "concerts": [
-    {
-      "date": "2026-10-24",
-      "source": "ticketmaster",
-      "artists": [
-        "Sala Principal Bellas Artes"
-      ],
-      "artist_display": "Sala Principal Bellas Artes",
-      "url": "https://www.ticketmaster.com.mx/orquesta-sinfonica-de-yucatan-cnmo-8-mexico-cdmx-24-10-2026/event/3D00653273EF1132",
-      "ticket_url": "https://www.ticketmaster.com.mx/orquesta-sinfonica-de-yucatan-cnmo-8-mexico-cdmx-24-10-2026/event/3D00653273EF1132",
-      "venue": "Palacio de Bellas Artes",
-      "location": "México CDMX, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-10-24",
-      "source": "ticketmaster",
-      "artists": [
-        "Abel Pintos"
-      ],
-      "artist_display": "Abel Pintos",
-      "url": "https://www.ticketmaster.com.mx/abel-pintos-mexico-24-10-2026/event/140064BA0E37D9A3",
-      "ticket_url": "https://www.ticketmaster.com.mx/abel-pintos-mexico-24-10-2026/event/140064BA0E37D9A3",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-10-24",
-      "source": "ticketmaster",
-      "artists": [
-        "Fobia"
-      ],
-      "artist_display": "Fobia",
-      "url": "https://www.ticketmaster.com.mx/fobia-ciudad-de-mexico-24-10-2026/event/14006473F5266309",
-      "ticket_url": "https://www.ticketmaster.com.mx/fobia-ciudad-de-mexico-24-10-2026/event/14006473F5266309",
-      "venue": "Palacio de los Deportes",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "date": "2026-10-24",
-      "source": "ticketmaster",
-      "artists": [
-        "Gloria Trevi"
-      ],
-      "artist_display": "Gloria Trevi",
-      "url": "https://www.ticketmaster.com.mx/gloria-trevi-celebration-ciudad-de-mexico-24-10-2026/event/3D0064D4C1C15CE7",
-      "ticket_url": "https://www.ticketmaster.com.mx/gloria-trevi-celebration-ciudad-de-mexico-24-10-2026/event/3D0064D4C1C15CE7",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-10-24",
-      "source": "ticketmaster",
-      "artists": [
-        "Cannons"
-      ],
-      "artist_display": "Cannons",
-      "url": "https://www.ticketmaster.com.mx/cannons-the-everything-glows-tour-mexico-24-10-2026/event/140064A8B176E1ED",
-      "ticket_url": "https://www.ticketmaster.com.mx/cannons-the-everything-glows-tour-mexico-24-10-2026/event/140064A8B176E1ED",
-      "venue": "Pabellón del Palacio de los Deportes",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Punk"
-      ]
-    },
-    {
-      "date": "2026-10-24",
-      "source": "ticketmaster",
-      "artists": [
-        "Arturo Sandoval"
-      ],
-      "artist_display": "Arturo Sandoval",
-      "url": "https://www.ticketmaster.com.mx/arturo-sandoval-presentasangu-ciudad-de-mexico-24-10-2026/event/3D0064EAD6DB5EA2",
-      "ticket_url": "https://www.ticketmaster.com.mx/arturo-sandoval-presentasangu-ciudad-de-mexico-24-10-2026/event/3D0064EAD6DB5EA2",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Jazz"
-      ]
-    },
-    {
-      "date": "2026-10-24",
-      "source": "ticketmaster",
-      "artists": [
-        "Alive, una fiesta en el tiempo"
-      ],
-      "artist_display": "Alive, una fiesta en el tiempo",
-      "url": "https://www.ticketmaster.com.mx/alive-ciudad-de-mexico-24-10-2026/event/3D006514BD065D0E",
-      "ticket_url": "https://www.ticketmaster.com.mx/alive-ciudad-de-mexico-24-10-2026/event/3D006514BD065D0E",
-      "venue": "Foro Stelaris Fiesta Americana Reforma",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-10-24",
-      "source": "ticketmaster",
-      "artists": [
-        "Tatiana"
-      ],
-      "artist_display": "Tatiana",
-      "url": "https://www.ticketmaster.com.mx/tatiana-retro-pop-mexico-24-10-2026/event/3D006471D7D38823",
-      "ticket_url": "https://www.ticketmaster.com.mx/tatiana-retro-pop-mexico-24-10-2026/event/3D006471D7D38823",
-      "venue": "La Maraka",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
     {
       "date": "2026-10-25",
       "source": "ticketmaster",
@@ -3655,7 +3531,6 @@
         "Alleh",
         "J Alvarez",
         "FloyyMenor",
-        "Yan Block",
         "Kybba",
         "YSY A",
         "Kidd Voodoo",
@@ -3692,7 +3567,7 @@
         "Jose Alatorre",
         "Bvbba Dvbs"
       ],
-      "artist_display": "Flow Fest, Anuel AA, Tito Double P, Chencho Corleone, Manuel Turizo, Ñengo Flow, Zion, El Bogueto, Tokischa, Kevin Roldan, Ken-Y, Clarent, Noriel, Uzielito Mix, C.R.O, Eme Malafe, legallyrxx, Six Sex, Alanis Yuki, DJ Ish, Grupo Frontera, Ozuna, Kali Uchis, Yandel, Trueno, Tito El Bambino, Farruko, Dei V, Alleh, J Alvarez, FloyyMenor, Yan Block, Kybba, YSY A, Kidd Voodoo, Natt Calma, A.Chal, Doony Graff, Mila, Sinaka, Tobal MJ, Loyaltty, Seven Kayne, Ivy Wavy, DJ Blass, Lauty Gram, Denna La Pori, Flvckka, Chzter, Ikoniko, Pepo Mix, Lucas Gael, Daizak, Martinwhite, Pablito Mix, Low Clika, Novato El Flow, Cael Roldan, Robot95, Tuli Acosta, Rivvaa, Plastikboy, Jozzee, Dam Dam, DJ Freshly, Jose Alatorre, Bvbba Dvbs",
+      "artist_display": "Flow Fest, Anuel AA, Tito Double P, Chencho Corleone, Manuel Turizo, Ñengo Flow, Zion, El Bogueto, Tokischa, Kevin Roldan, Ken-Y, Clarent, Noriel, Uzielito Mix, C.R.O, Eme Malafe, legallyrxx, Six Sex, Alanis Yuki, DJ Ish, Grupo Frontera, Ozuna, Kali Uchis, Yandel, Trueno, Tito El Bambino, Farruko, Dei V, Alleh, J Alvarez, FloyyMenor, Kybba, YSY A, Kidd Voodoo, Natt Calma, A.Chal, Doony Graff, Mila, Sinaka, Tobal MJ, Loyaltty, Seven Kayne, Ivy Wavy, DJ Blass, Lauty Gram, Denna La Pori, Flvckka, Chzter, Ikoniko, Pepo Mix, Lucas Gael, Daizak, Martinwhite, Pablito Mix, Low Clika, Novato El Flow, Cael Roldan, Robot95, Tuli Acosta, Rivvaa, Plastikboy, Jozzee, Dam Dam, DJ Freshly, Jose Alatorre, Bvbba Dvbs",
       "url": "https://www.ticketmaster.com.mx/abono-comfort-pass-banamex-pase-de-mexico-28-11-2026/event/140064ACA1705BED",
       "ticket_url": "https://www.ticketmaster.com.mx/abono-comfort-pass-banamex-pase-de-mexico-28-11-2026/event/140064ACA1705BED",
       "venue": "Autodromo Hnos. Rodriguez",
@@ -3733,7 +3608,6 @@
         "Alleh",
         "J Alvarez",
         "FloyyMenor",
-        "Yan Block",
         "Kybba",
         "YSY A",
         "Kidd Voodoo",
@@ -3770,7 +3644,7 @@
         "Jose Alatorre",
         "Bvbba Dvbs"
       ],
-      "artist_display": "Flow Fest, Anuel AA, Tito Double P, Chencho Corleone, Manuel Turizo, Ñengo Flow, Zion, El Bogueto, Tokischa, Kevin Roldan, Ken-Y, Clarent, Noriel, Uzielito Mix, C.R.O, Eme Malafe, legallyrxx, Six Sex, Alanis Yuki, DJ Ish, Grupo Frontera, Ozuna, Kali Uchis, Yandel, Trueno, Tito El Bambino, Farruko, Dei V, Alleh, J Alvarez, FloyyMenor, Yan Block, Kybba, YSY A, Kidd Voodoo, Natt Calma, A.Chal, Doony Graff, Mila, Sinaka, Tobal MJ, Loyaltty, Seven Kayne, Ivy Wavy, DJ Blass, Lauty Gram, Denna La Pori, Flvckka, Chzter, Ikoniko, Pepo Mix, Lucas Gael, Daizak, Martinwhite, Pablito Mix, Low Clika, Novato El Flow, Cael Roldan, Robot95, Tuli Acosta, Rivvaa, Plastikboy, Jozzee, Dam Dam, DJ Freshly, Jose Alatorre, Bvbba Dvbs",
+      "artist_display": "Flow Fest, Anuel AA, Tito Double P, Chencho Corleone, Manuel Turizo, Ñengo Flow, Zion, El Bogueto, Tokischa, Kevin Roldan, Ken-Y, Clarent, Noriel, Uzielito Mix, C.R.O, Eme Malafe, legallyrxx, Six Sex, Alanis Yuki, DJ Ish, Grupo Frontera, Ozuna, Kali Uchis, Yandel, Trueno, Tito El Bambino, Farruko, Dei V, Alleh, J Alvarez, FloyyMenor, Kybba, YSY A, Kidd Voodoo, Natt Calma, A.Chal, Doony Graff, Mila, Sinaka, Tobal MJ, Loyaltty, Seven Kayne, Ivy Wavy, DJ Blass, Lauty Gram, Denna La Pori, Flvckka, Chzter, Ikoniko, Pepo Mix, Lucas Gael, Daizak, Martinwhite, Pablito Mix, Low Clika, Novato El Flow, Cael Roldan, Robot95, Tuli Acosta, Rivvaa, Plastikboy, Jozzee, Dam Dam, DJ Freshly, Jose Alatorre, Bvbba Dvbs",
       "url": "https://www.ticketmaster.com.mx/abono-general-pase-de-2-dias-mexico-28-11-2026/event/140064AC944D40CB",
       "ticket_url": "https://www.ticketmaster.com.mx/abono-general-pase-de-2-dias-mexico-28-11-2026/event/140064AC944D40CB",
       "venue": "Autodromo Hnos. Rodriguez",
@@ -3811,7 +3685,6 @@
         "Alleh",
         "J Alvarez",
         "FloyyMenor",
-        "Yan Block",
         "Kybba",
         "YSY A",
         "Kidd Voodoo",
@@ -3848,7 +3721,7 @@
         "Jose Alatorre",
         "Bvbba Dvbs"
       ],
-      "artist_display": "Flow Fest, Anuel AA, Tito Double P, Chencho Corleone, Manuel Turizo, Ñengo Flow, Zion, El Bogueto, Tokischa, Kevin Roldan, Ken-Y, Clarent, Noriel, Uzielito Mix, C.R.O, Eme Malafe, legallyrxx, Six Sex, Alanis Yuki, DJ Ish, Grupo Frontera, Ozuna, Kali Uchis, Yandel, Trueno, Tito El Bambino, Farruko, Dei V, Alleh, J Alvarez, FloyyMenor, Yan Block, Kybba, YSY A, Kidd Voodoo, Natt Calma, A.Chal, Doony Graff, Mila, Sinaka, Tobal MJ, Loyaltty, Seven Kayne, Ivy Wavy, DJ Blass, Lauty Gram, Denna La Pori, Flvckka, Chzter, Ikoniko, Pepo Mix, Lucas Gael, Daizak, Martinwhite, Pablito Mix, Low Clika, Novato El Flow, Cael Roldan, Robot95, Tuli Acosta, Rivvaa, Plastikboy, Jozzee, Dam Dam, DJ Freshly, Jose Alatorre, Bvbba Dvbs",
+      "artist_display": "Flow Fest, Anuel AA, Tito Double P, Chencho Corleone, Manuel Turizo, Ñengo Flow, Zion, El Bogueto, Tokischa, Kevin Roldan, Ken-Y, Clarent, Noriel, Uzielito Mix, C.R.O, Eme Malafe, legallyrxx, Six Sex, Alanis Yuki, DJ Ish, Grupo Frontera, Ozuna, Kali Uchis, Yandel, Trueno, Tito El Bambino, Farruko, Dei V, Alleh, J Alvarez, FloyyMenor, Kybba, YSY A, Kidd Voodoo, Natt Calma, A.Chal, Doony Graff, Mila, Sinaka, Tobal MJ, Loyaltty, Seven Kayne, Ivy Wavy, DJ Blass, Lauty Gram, Denna La Pori, Flvckka, Chzter, Ikoniko, Pepo Mix, Lucas Gael, Daizak, Martinwhite, Pablito Mix, Low Clika, Novato El Flow, Cael Roldan, Robot95, Tuli Acosta, Rivvaa, Plastikboy, Jozzee, Dam Dam, DJ Freshly, Jose Alatorre, Bvbba Dvbs",
       "url": "https://www.ticketmaster.com.mx/abono-banamex-plus-2-dias-coca-mexico-28-11-2026/event/140064AC94BE42AD",
       "ticket_url": "https://www.ticketmaster.com.mx/abono-banamex-plus-2-dias-coca-mexico-28-11-2026/event/140064AC94BE42AD",
       "venue": "Autodromo Hnos. Rodriguez",
@@ -3869,7 +3742,6 @@
         "Alleh",
         "J Alvarez",
         "FloyyMenor",
-        "Yan Block",
         "Kybba",
         "YSY A",
         "Kidd Voodoo",
@@ -3892,7 +3764,7 @@
         "Jose Alatorre",
         "Bvbba Dvbs"
       ],
-      "artist_display": "Flow Fest, Ozuna, Kali Uchis, Yandel, Trueno, Tito El Bambino, Farruko, Dei V, Alleh, J Alvarez, FloyyMenor, Yan Block, Kybba, YSY A, Kidd Voodoo, Natt Calma, A.Chal, Doony Graff, Mila, Martinwhite, Pablito Mix, Low Clika, Novato El Flow, Cael Roldan, Robot95, Tuli Acosta, Rivvaa, Plastikboy, Jozzee, Dam Dam, DJ Freshly, Jose Alatorre, Bvbba Dvbs",
+      "artist_display": "Flow Fest, Ozuna, Kali Uchis, Yandel, Trueno, Tito El Bambino, Farruko, Dei V, Alleh, J Alvarez, FloyyMenor, Kybba, YSY A, Kidd Voodoo, Natt Calma, A.Chal, Doony Graff, Mila, Martinwhite, Pablito Mix, Low Clika, Novato El Flow, Cael Roldan, Robot95, Tuli Acosta, Rivvaa, Plastikboy, Jozzee, Dam Dam, DJ Freshly, Jose Alatorre, Bvbba Dvbs",
       "url": "https://www.ticketmaster.com.mx/individual-comfort-pass-banamex-coca-flow-mexico-29-11-2026/event/140064AC9AAC4CE7",
       "ticket_url": "https://www.ticketmaster.com.mx/individual-comfort-pass-banamex-coca-flow-mexico-29-11-2026/event/140064AC9AAC4CE7",
       "venue": "Autodromo Hnos. Rodriguez",
@@ -3913,7 +3785,6 @@
         "Alleh",
         "J Alvarez",
         "FloyyMenor",
-        "Yan Block",
         "Kybba",
         "YSY A",
         "Kidd Voodoo",
@@ -3936,7 +3807,7 @@
         "Jose Alatorre",
         "Bvbba Dvbs"
       ],
-      "artist_display": "Flow Fest, Ozuna, Kali Uchis, Yandel, Trueno, Tito El Bambino, Farruko, Dei V, Alleh, J Alvarez, FloyyMenor, Yan Block, Kybba, YSY A, Kidd Voodoo, Natt Calma, A.Chal, Doony Graff, Mila, Martinwhite, Pablito Mix, Low Clika, Novato El Flow, Cael Roldan, Robot95, Tuli Acosta, Rivvaa, Plastikboy, Jozzee, Dam Dam, DJ Freshly, Jose Alatorre, Bvbba Dvbs",
+      "artist_display": "Flow Fest, Ozuna, Kali Uchis, Yandel, Trueno, Tito El Bambino, Farruko, Dei V, Alleh, J Alvarez, FloyyMenor, Kybba, YSY A, Kidd Voodoo, Natt Calma, A.Chal, Doony Graff, Mila, Martinwhite, Pablito Mix, Low Clika, Novato El Flow, Cael Roldan, Robot95, Tuli Acosta, Rivvaa, Plastikboy, Jozzee, Dam Dam, DJ Freshly, Jose Alatorre, Bvbba Dvbs",
       "url": "https://www.ticketmaster.com.mx/individual-banamex-plus-coca-flow-fest-mexico-29-11-2026/event/140064ACB4B7828B",
       "ticket_url": "https://www.ticketmaster.com.mx/individual-banamex-plus-coca-flow-fest-mexico-29-11-2026/event/140064ACB4B7828B",
       "venue": "Autodromo Hnos. Rodriguez",
@@ -3957,7 +3828,6 @@
         "Alleh",
         "J Alvarez",
         "FloyyMenor",
-        "Yan Block",
         "Kybba",
         "YSY A",
         "Kidd Voodoo",
@@ -3980,7 +3850,7 @@
         "Jose Alatorre",
         "Bvbba Dvbs"
       ],
-      "artist_display": "Flow Fest, Ozuna, Kali Uchis, Yandel, Trueno, Tito El Bambino, Farruko, Dei V, Alleh, J Alvarez, FloyyMenor, Yan Block, Kybba, YSY A, Kidd Voodoo, Natt Calma, A.Chal, Doony Graff, Mila, Martinwhite, Pablito Mix, Low Clika, Novato El Flow, Cael Roldan, Robot95, Tuli Acosta, Rivvaa, Plastikboy, Jozzee, Dam Dam, DJ Freshly, Jose Alatorre, Bvbba Dvbs",
+      "artist_display": "Flow Fest, Ozuna, Kali Uchis, Yandel, Trueno, Tito El Bambino, Farruko, Dei V, Alleh, J Alvarez, FloyyMenor, Kybba, YSY A, Kidd Voodoo, Natt Calma, A.Chal, Doony Graff, Mila, Martinwhite, Pablito Mix, Low Clika, Novato El Flow, Cael Roldan, Robot95, Tuli Acosta, Rivvaa, Plastikboy, Jozzee, Dam Dam, DJ Freshly, Jose Alatorre, Bvbba Dvbs",
       "url": "https://www.ticketmaster.com.mx/individual-general-coca-flow-fest-2026-mexico-29-11-2026/event/140064ACB5838443",
       "ticket_url": "https://www.ticketmaster.com.mx/individual-general-coca-flow-fest-2026-mexico-29-11-2026/event/140064ACB5838443",
       "venue": "Autodromo Hnos. Rodriguez",
