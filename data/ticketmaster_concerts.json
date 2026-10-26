@@ -1,87 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-10-25T10:47:10.102883Z",
-  "total_concerts": 417,
+  "scraped_at": "2026-10-26T12:18:26.163635Z",
+  "total_concerts": 412,
   "concerts": [
-    {
-      "date": "2026-10-25",
-      "source": "ticketmaster",
-      "artists": [
-        "Liquits"
-      ],
-      "artist_display": "Liquits",
-      "url": "https://www.ticketmaster.com.mx/liquits-mexico-25-10-2026/event/3D0064A1ABA96E32",
-      "ticket_url": "https://www.ticketmaster.com.mx/liquits-mexico-25-10-2026/event/3D0064A1ABA96E32",
-      "venue": "La Maraka",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Alternative Rock"
-      ]
-    },
-    {
-      "date": "2026-10-25",
-      "source": "ticketmaster",
-      "artists": [
-        "Adolescent's Orquesta"
-      ],
-      "artist_display": "Adolescent's Orquesta",
-      "url": "https://www.ticketmaster.com.mx/adolescentes-friends-mexico-25-10-2026/event/140064C482D22D97",
-      "ticket_url": "https://www.ticketmaster.com.mx/adolescentes-friends-mexico-25-10-2026/event/140064C482D22D97",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-10-25",
-      "source": "ticketmaster",
-      "artists": [
-        "Romeo Santos",
-        "Prince Royce"
-      ],
-      "artist_display": "Romeo Santos, Prince Royce",
-      "url": "https://www.ticketmaster.com.mx/romeo-santos-prince-royce-ciudad-de-mexico-25-10-2026/event/1400644AC4672C91",
-      "ticket_url": "https://www.ticketmaster.com.mx/romeo-santos-prince-royce-ciudad-de-mexico-25-10-2026/event/1400644AC4672C91",
-      "venue": "Palacio de los Deportes",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-10-25",
-      "source": "ticketmaster",
-      "artists": [
-        "Pimpinela"
-      ],
-      "artist_display": "Pimpinela",
-      "url": "https://www.ticketmaster.com.mx/pimpinela-ciudad-de-mexico-25-10-2026/event/3D006496B5456E98",
-      "ticket_url": "https://www.ticketmaster.com.mx/pimpinela-ciudad-de-mexico-25-10-2026/event/3D006496B5456E98",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-10-25",
-      "source": "ticketmaster",
-      "artists": [
-        "Transmetal"
-      ],
-      "artist_display": "Transmetal",
-      "url": "https://www.ticketmaster.com.mx/transmetal-40-aniversario-ciudad-de-mexico-25-10-2026/event/3D00648B933C249E",
-      "ticket_url": "https://www.ticketmaster.com.mx/transmetal-40-aniversario-ciudad-de-mexico-25-10-2026/event/3D00648B933C249E",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Metal",
-        "Nu-Metal"
-      ]
-    },
     {
       "date": "2026-10-26",
       "source": "ticketmaster",
