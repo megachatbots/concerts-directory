@@ -1,21 +1,9 @@
 {
   "source": "songkick",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-10-26T12:18:22.521778Z",
-  "total_concerts": 489,
+  "scraped_at": "2026-10-27T11:38:32.015089Z",
+  "total_concerts": 498,
   "concerts": [
-    {
-      "date": "2026-10-26",
-      "source": "songkick",
-      "artists": [
-        "Romeo Santos and Prince Royce"
-      ],
-      "artist_display": "Romeo Santos and Prince Royce",
-      "url": "https://www.songkick.com/concerts/43107844-romeo-santos-at-palacio-de-los-deportes",
-      "venue": "Palacio de los Deportes",
-      "venue_url": "https://www.songkick.com/venues/31907-palacio-de-los-deportes",
-      "location": "Palacio de los Deportes,Mexico City, Mexico"
-    },
     {
       "date": "2026-10-27",
       "source": "songkick",
@@ -1023,6 +1011,18 @@
       "venue": "El Cantoral",
       "venue_url": "https://www.songkick.com/venues/4032244-el-cantoral",
       "location": "El Cantoral,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-11-08",
+      "source": "songkick",
+      "artists": [
+        "Dillom"
+      ],
+      "artist_display": "Dillom",
+      "url": "https://www.songkick.com/concerts/43484756-dillom-at-foro-puebla",
+      "venue": "Foro Puebla",
+      "venue_url": "https://www.songkick.com/venues/4506135-foro-puebla",
+      "location": "Foro Puebla,Mexico City, Mexico"
     },
     {
       "date": "2026-11-08",
@@ -3773,6 +3773,18 @@
       "location": "Lunario Del Auditorio Nacional,Mexico City, Mexico"
     },
     {
+      "date": "2026-12-20",
+      "source": "songkick",
+      "artists": [
+        "Akil AmmarBocafloja and MC Bocafloja"
+      ],
+      "artist_display": "Akil AmmarBocafloja and MC Bocafloja",
+      "url": "https://www.songkick.com/concerts/43484675-akil-ammar-at-multiforo-alicia",
+      "venue": "Multiforo Alicia",
+      "venue_url": "https://www.songkick.com/venues/120456-multiforo-alicia",
+      "location": "Multiforo Alicia,Mexico City, Mexico"
+    },
+    {
       "date": "2026-12-26",
       "source": "songkick",
       "artists": [
@@ -3807,6 +3819,18 @@
       "venue": "La Maraka",
       "venue_url": "https://www.songkick.com/venues/1076291-la-maraka",
       "location": "La Maraka,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-01-09",
+      "source": "songkick",
+      "artists": [
+        "Local Suicide"
+      ],
+      "artist_display": "Local Suicide",
+      "url": "https://www.songkick.com/concerts/43484699-local-suicide-at-bar-oriente",
+      "venue": "Bar Oriente",
+      "venue_url": "https://www.songkick.com/venues/3836389-bar-oriente",
+      "location": "Bar Oriente,Mexico City, Mexico"
     },
     {
       "date": "2027-01-10",
@@ -4011,6 +4035,18 @@
       "venue": "Auditorio Nacional",
       "venue_url": "https://www.songkick.com/venues/34183-auditorio-nacional",
       "location": "Auditorio Nacional,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-01-23",
+      "source": "songkick",
+      "artists": [
+        "Transmetal"
+      ],
+      "artist_display": "Transmetal",
+      "url": "https://www.songkick.com/concerts/43484751-transmetal-at-lunario-del-auditorio-nacional",
+      "venue": "Lunario Del Auditorio Nacional",
+      "venue_url": "https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional",
+      "location": "Lunario Del Auditorio Nacional,Mexico City, Mexico"
     },
     {
       "date": "2027-01-24",
@@ -4287,6 +4323,18 @@
       "venue": "Palacio de los Deportes",
       "venue_url": "https://www.songkick.com/venues/31907-palacio-de-los-deportes",
       "location": "Palacio de los Deportes,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-02-01",
+      "source": "songkick",
+      "artists": [
+        "Hermanos Carrion"
+      ],
+      "artist_display": "Hermanos Carrion",
+      "url": "https://www.songkick.com/concerts/43484750-hermanos-carrion-at-teatro-metropolitan",
+      "venue": "Teatro Metropólitan",
+      "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
+      "location": "Teatro Metropólitan,Mexico City, Mexico"
     },
     {
       "date": "2027-02-02",
@@ -4817,6 +4865,18 @@
       "location": "La Maraka,Mexico City, Mexico"
     },
     {
+      "date": "2027-02-25",
+      "source": "songkick",
+      "artists": [
+        "Antonio Orozco"
+      ],
+      "artist_display": "Antonio Orozco",
+      "url": "https://www.songkick.com/concerts/43484746-antonio-orozco-at-la-maraka",
+      "venue": "La Maraka",
+      "venue_url": "https://www.songkick.com/venues/1076291-la-maraka",
+      "location": "La Maraka,Mexico City, Mexico"
+    },
+    {
       "date": "2027-02-26",
       "source": "songkick",
       "artists": [
@@ -4916,6 +4976,18 @@
       "date": "2027-02-27",
       "source": "songkick",
       "artists": [
+        "DePedro"
+      ],
+      "artist_display": "DePedro",
+      "url": "https://www.songkick.com/concerts/43484757-depedro-at-foro-puebla",
+      "venue": "Foro Puebla",
+      "venue_url": "https://www.songkick.com/venues/4506135-foro-puebla",
+      "location": "Foro Puebla,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-02-27",
+      "source": "songkick",
+      "artists": [
         "Doom City Fest 2027Kylesa, Bongripper, Hell, Deathchant, Daevar, arteaga, The King in Yellow, and Drowned At Dusk"
       ],
       "artist_display": "Doom City Fest 2027Kylesa, Bongripper, Hell, Deathchant, Daevar, arteaga, The King in Yellow, and Drowned At Dusk",
@@ -4935,6 +5007,18 @@
       "venue": "Estadio GNP Seguros",
       "venue_url": "https://www.songkick.com/venues/33578-estadio-gnp-seguros",
       "location": "Estadio GNP Seguros,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-02-28",
+      "source": "songkick",
+      "artists": [
+        "Saor"
+      ],
+      "artist_display": "Saor",
+      "url": "https://www.songkick.com/concerts/43484672-saor-at-circo-volador",
+      "venue": "Circo Volador",
+      "venue_url": "https://www.songkick.com/venues/49859-circo-volador",
+      "location": "Circo Volador,Mexico City, Mexico"
     },
     {
       "date": "2027-03-02",
@@ -5103,6 +5187,18 @@
       "venue": "Auditorio Nacional",
       "venue_url": "https://www.songkick.com/venues/34183-auditorio-nacional",
       "location": "Auditorio Nacional,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-03-18",
+      "source": "songkick",
+      "artists": [
+        "Overkill"
+      ],
+      "artist_display": "Overkill",
+      "url": "https://www.songkick.com/concerts/43484671-overkill-at-circo-volador",
+      "venue": "Circo Volador",
+      "venue_url": "https://www.songkick.com/venues/49859-circo-volador",
+      "location": "Circo Volador,Mexico City, Mexico"
     },
     {
       "date": "2027-03-19",
@@ -5715,6 +5811,18 @@
       "venue": "Auditorio Nacional",
       "venue_url": "https://www.songkick.com/venues/34183-auditorio-nacional",
       "location": "Auditorio Nacional,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-06-19",
+      "source": "songkick",
+      "artists": [
+        "Rubytates"
+      ],
+      "artist_display": "Rubytates",
+      "url": "https://www.songkick.com/concerts/43484749-rubytates-at-teatro-metropolitan",
+      "venue": "Teatro Metropólitan",
+      "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
+      "location": "Teatro Metropólitan,Mexico City, Mexico"
     },
     {
       "date": "2027-07-08",

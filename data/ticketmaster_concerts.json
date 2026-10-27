@@ -1,25 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-10-26T12:18:26.163635Z",
-  "total_concerts": 412,
+  "scraped_at": "2026-10-27T11:38:36.087293Z",
+  "total_concerts": 417,
   "concerts": [
-    {
-      "date": "2026-10-26",
-      "source": "ticketmaster",
-      "artists": [
-        "Romeo Santos",
-        "Prince Royce"
-      ],
-      "artist_display": "Romeo Santos, Prince Royce",
-      "url": "https://www.ticketmaster.com.mx/romeo-santos-prince-royce-ciudad-de-mexico-26-10-2026/event/1400644AC6193369",
-      "ticket_url": "https://www.ticketmaster.com.mx/romeo-santos-prince-royce-ciudad-de-mexico-26-10-2026/event/1400644AC6193369",
-      "venue": "Palacio de los Deportes",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
     {
       "date": "2026-10-27",
       "source": "ticketmaster",
@@ -623,8 +607,8 @@
         "Sala Principal Bellas Artes"
       ],
       "artist_display": "Sala Principal Bellas Artes",
-      "url": "https://www.ticketmaster.com.mx/48-fimnme-orquesta-sinfonica-nacional-concierto-mexico-cdmx-06-11-2026/event/3D00652AA01B3FB5",
-      "ticket_url": "https://www.ticketmaster.com.mx/48-fimnme-orquesta-sinfonica-nacional-concierto-mexico-cdmx-06-11-2026/event/3D00652AA01B3FB5",
+      "url": "https://www.ticketmaster.com.mx/48-fimnme-osn-concierto-inaugural-8-mexico-cdmx-06-11-2026/event/3D00652AA01B3FB5",
+      "ticket_url": "https://www.ticketmaster.com.mx/48-fimnme-osn-concierto-inaugural-8-mexico-cdmx-06-11-2026/event/3D00652AA01B3FB5",
       "venue": "Palacio de Bellas Artes",
       "location": "México CDMX, Ciudad de México, Mexico",
       "tags": [
@@ -928,6 +912,22 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Ballads/Romantic"
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "source": "ticketmaster",
+      "artists": [
+        "Dillom"
+      ],
+      "artist_display": "Dillom",
+      "url": "https://www.ticketmaster.com.mx/dillom-noches-violentas-mexico-08-11-2026/event/3D00651AA08A564E",
+      "ticket_url": "https://www.ticketmaster.com.mx/dillom-noches-violentas-mexico-08-11-2026/event/3D00651AA08A564E",
+      "venue": "Foro Puebla",
+      "location": "Mexico, Ciudad de México, Mexico",
+      "tags": [
+        "Hip-Hop/Rap",
+        "Trap"
       ]
     },
     {
@@ -5205,6 +5205,22 @@
       "date": "2027-01-23",
       "source": "ticketmaster",
       "artists": [
+        "Transmetal"
+      ],
+      "artist_display": "Transmetal",
+      "url": "https://www.ticketmaster.com.mx/transmetal-40-aniversario-ciudad-de-mexico-23-01-2027/event/3D0065569E7153BB",
+      "ticket_url": "https://www.ticketmaster.com.mx/transmetal-40-aniversario-ciudad-de-mexico-23-01-2027/event/3D0065569E7153BB",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Metal",
+        "Nu-Metal"
+      ]
+    },
+    {
+      "date": "2027-01-23",
+      "source": "ticketmaster",
+      "artists": [
         "Black Label Society"
       ],
       "artist_display": "Black Label Society",
@@ -5494,6 +5510,21 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2027-02-01",
+      "source": "ticketmaster",
+      "artists": [
+        "Benditos Presenta a Bendita Vida: Hermanos Carrión, Acerina Y su Danzo"
+      ],
+      "artist_display": "Benditos Presenta a Bendita Vida: Hermanos Carrión, Acerina Y su Danzo",
+      "url": "https://www.ticketmaster.com.mx/benditos-presenta-a-bendita-vida-hermanos-mexico-01-02-2027/event/14006550BC65B9C1",
+      "ticket_url": "https://www.ticketmaster.com.mx/benditos-presenta-a-bendita-vida-hermanos-mexico-01-02-2027/event/14006550BC65B9C1",
+      "venue": "Teatro Metropolitan",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
       ]
     },
     {
@@ -6100,6 +6131,22 @@
       ]
     },
     {
+      "date": "2027-02-25",
+      "source": "ticketmaster",
+      "artists": [
+        "Antonio Orozco"
+      ],
+      "artist_display": "Antonio Orozco",
+      "url": "https://www.ticketmaster.com.mx/antonio-orozco-mexico-25-02-2027/event/3D006556886E31E3",
+      "ticket_url": "https://www.ticketmaster.com.mx/antonio-orozco-mexico-25-02-2027/event/3D006556886E31E3",
+      "venue": "La Maraka",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
+      ]
+    },
+    {
       "date": "2027-02-26",
       "source": "ticketmaster",
       "artists": [
@@ -6144,6 +6191,22 @@
       "location": "México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2027-02-27",
+      "source": "ticketmaster",
+      "artists": [
+        "Depedro"
+      ],
+      "artist_display": "Depedro",
+      "url": "https://www.ticketmaster.com.mx/depedro-mexico-27-02-2027/event/3D0065548599222A",
+      "ticket_url": "https://www.ticketmaster.com.mx/depedro-mexico-27-02-2027/event/3D0065548599222A",
+      "venue": "Foro Puebla",
+      "location": "Mexico, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Pop"
       ]
     },
     {
@@ -6958,6 +7021,22 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2027-06-19",
+      "source": "ticketmaster",
+      "artists": [
+        "Rubytates"
+      ],
+      "artist_display": "Rubytates",
+      "url": "https://www.ticketmaster.com.mx/rubytatessistemas-mexico-19-06-2027/event/14006557B7F08E4A",
+      "ticket_url": "https://www.ticketmaster.com.mx/rubytatessistemas-mexico-19-06-2027/event/14006557B7F08E4A",
+      "venue": "Teatro Metropolitan",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Alternative Rock"
       ]
     },
     {

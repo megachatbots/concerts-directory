@@ -5,37 +5,9 @@
     "ticketmaster"
   ],
   "metro_area": "Mexico City",
-  "scraped_at": "2026-10-26T12:18:26.197574Z",
-  "total_concerts": 655,
+  "scraped_at": "2026-10-27T11:38:36.104115Z",
+  "total_concerts": 664,
   "concerts": [
-    {
-      "date": "2026-10-26",
-      "source": "songkick",
-      "artists": [
-        "Romeo Santos and Prince Royce"
-      ],
-      "artist_display": "Romeo Santos and Prince Royce",
-      "url": "https://www.songkick.com/concerts/43107844-romeo-santos-at-palacio-de-los-deportes",
-      "venue": "Palacio de los Deportes",
-      "venue_url": "https://www.songkick.com/venues/31907-palacio-de-los-deportes",
-      "location": "Palacio de los Deportes,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-26",
-      "source": "ticketmaster",
-      "artists": [
-        "Romeo Santos",
-        "Prince Royce"
-      ],
-      "artist_display": "Romeo Santos, Prince Royce",
-      "url": "https://www.ticketmaster.com.mx/romeo-santos-prince-royce-ciudad-de-mexico-26-10-2026/event/1400644AC6193369",
-      "ticket_url": "https://www.ticketmaster.com.mx/romeo-santos-prince-royce-ciudad-de-mexico-26-10-2026/event/1400644AC6193369",
-      "venue": "Palacio de los Deportes",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
     {
       "date": "2026-10-27",
       "source": "songkick",
@@ -1241,8 +1213,8 @@
         "Sala Principal Bellas Artes"
       ],
       "artist_display": "Sala Principal Bellas Artes",
-      "url": "https://www.ticketmaster.com.mx/48-fimnme-orquesta-sinfonica-nacional-concierto-mexico-cdmx-06-11-2026/event/3D00652AA01B3FB5",
-      "ticket_url": "https://www.ticketmaster.com.mx/48-fimnme-orquesta-sinfonica-nacional-concierto-mexico-cdmx-06-11-2026/event/3D00652AA01B3FB5",
+      "url": "https://www.ticketmaster.com.mx/48-fimnme-osn-concierto-inaugural-8-mexico-cdmx-06-11-2026/event/3D00652AA01B3FB5",
+      "ticket_url": "https://www.ticketmaster.com.mx/48-fimnme-osn-concierto-inaugural-8-mexico-cdmx-06-11-2026/event/3D00652AA01B3FB5",
       "venue": "Palacio de Bellas Artes",
       "location": "México CDMX, Ciudad de México, Mexico",
       "tags": [
@@ -1591,6 +1563,23 @@
       "ticket_url": "https://www.ticketmaster.com.mx/sin-fronteras-presenta-su-album-va-mexico-08-11-2026/event/3D0064AFB26EA2AC",
       "tags": [
         "Ballads/Romantic"
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "source": "songkick",
+      "artists": [
+        "Dillom"
+      ],
+      "artist_display": "Dillom",
+      "url": "https://www.songkick.com/concerts/43484756-dillom-at-foro-puebla",
+      "venue": "Foro Puebla",
+      "venue_url": "https://www.songkick.com/venues/4506135-foro-puebla",
+      "location": "Foro Puebla,Mexico City, Mexico",
+      "ticket_url": "https://www.ticketmaster.com.mx/dillom-noches-violentas-mexico-08-11-2026/event/3D00651AA08A564E",
+      "tags": [
+        "Hip-Hop/Rap",
+        "Trap"
       ]
     },
     {
@@ -6259,6 +6248,18 @@
     },
     {
       "date": "2026-12-20",
+      "source": "songkick",
+      "artists": [
+        "Akil AmmarBocafloja and MC Bocafloja"
+      ],
+      "artist_display": "Akil AmmarBocafloja and MC Bocafloja",
+      "url": "https://www.songkick.com/concerts/43484675-akil-ammar-at-multiforo-alicia",
+      "venue": "Multiforo Alicia",
+      "venue_url": "https://www.songkick.com/venues/120456-multiforo-alicia",
+      "location": "Multiforo Alicia,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-12-20",
       "source": "ticketmaster",
       "artists": [
         "Navidad con The Beatles"
@@ -6358,6 +6359,18 @@
       "tags": [
         "Latin"
       ]
+    },
+    {
+      "date": "2027-01-09",
+      "source": "songkick",
+      "artists": [
+        "Local Suicide"
+      ],
+      "artist_display": "Local Suicide",
+      "url": "https://www.songkick.com/concerts/43484699-local-suicide-at-bar-oriente",
+      "venue": "Bar Oriente",
+      "venue_url": "https://www.songkick.com/venues/3836389-bar-oriente",
+      "location": "Bar Oriente,Mexico City, Mexico"
     },
     {
       "date": "2027-01-10",
@@ -6713,6 +6726,23 @@
       "tags": [
         "Alternative Rock",
         "Rock"
+      ]
+    },
+    {
+      "date": "2027-01-23",
+      "source": "songkick",
+      "artists": [
+        "Transmetal"
+      ],
+      "artist_display": "Transmetal",
+      "url": "https://www.songkick.com/concerts/43484751-transmetal-at-lunario-del-auditorio-nacional",
+      "venue": "Lunario Del Auditorio Nacional",
+      "venue_url": "https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional",
+      "location": "Lunario Del Auditorio Nacional,Mexico City, Mexico",
+      "ticket_url": "https://www.ticketmaster.com.mx/transmetal-40-aniversario-ciudad-de-mexico-23-01-2027/event/3D0065569E7153BB",
+      "tags": [
+        "Metal",
+        "Nu-Metal"
       ]
     },
     {
@@ -7134,6 +7164,33 @@
       "ticket_url": "https://www.ticketmaster.com.mx/fuerza-regida-ciudad-de-mexico-01-02-2027/event/14006541E35D8D7C",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2027-02-01",
+      "source": "songkick",
+      "artists": [
+        "Hermanos Carrion"
+      ],
+      "artist_display": "Hermanos Carrion",
+      "url": "https://www.songkick.com/concerts/43484750-hermanos-carrion-at-teatro-metropolitan",
+      "venue": "Teatro Metropólitan",
+      "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
+      "location": "Teatro Metropólitan,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-02-01",
+      "source": "ticketmaster",
+      "artists": [
+        "Benditos Presenta a Bendita Vida: Hermanos Carrión, Acerina Y su Danzo"
+      ],
+      "artist_display": "Benditos Presenta a Bendita Vida: Hermanos Carrión, Acerina Y su Danzo",
+      "url": "https://www.ticketmaster.com.mx/benditos-presenta-a-bendita-vida-hermanos-mexico-01-02-2027/event/14006550BC65B9C1",
+      "ticket_url": "https://www.ticketmaster.com.mx/benditos-presenta-a-bendita-vida-hermanos-mexico-01-02-2027/event/14006550BC65B9C1",
+      "venue": "Teatro Metropolitan",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
       ]
     },
     {
@@ -7935,6 +7992,23 @@
       "location": "La Maraka,Mexico City, Mexico"
     },
     {
+      "date": "2027-02-25",
+      "source": "songkick",
+      "artists": [
+        "Antonio Orozco"
+      ],
+      "artist_display": "Antonio Orozco",
+      "url": "https://www.songkick.com/concerts/43484746-antonio-orozco-at-la-maraka",
+      "venue": "La Maraka",
+      "venue_url": "https://www.songkick.com/venues/1076291-la-maraka",
+      "location": "La Maraka,Mexico City, Mexico",
+      "ticket_url": "https://www.ticketmaster.com.mx/antonio-orozco-mexico-25-02-2027/event/3D006556886E31E3",
+      "tags": [
+        "Electro Pop",
+        "Pop"
+      ]
+    },
+    {
       "date": "2027-02-26",
       "source": "songkick",
       "artists": [
@@ -8068,6 +8142,23 @@
       "date": "2027-02-27",
       "source": "songkick",
       "artists": [
+        "DePedro"
+      ],
+      "artist_display": "DePedro",
+      "url": "https://www.songkick.com/concerts/43484757-depedro-at-foro-puebla",
+      "venue": "Foro Puebla",
+      "venue_url": "https://www.songkick.com/venues/4506135-foro-puebla",
+      "location": "Foro Puebla,Mexico City, Mexico",
+      "ticket_url": "https://www.ticketmaster.com.mx/depedro-mexico-27-02-2027/event/3D0065548599222A",
+      "tags": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
+      "date": "2027-02-27",
+      "source": "songkick",
+      "artists": [
         "Doom City Fest 2027Kylesa, Bongripper, Hell, Deathchant, Daevar, arteaga, The King in Yellow, and Drowned At Dusk"
       ],
       "artist_display": "Doom City Fest 2027Kylesa, Bongripper, Hell, Deathchant, Daevar, arteaga, The King in Yellow, and Drowned At Dusk",
@@ -8087,6 +8178,18 @@
       "venue": "Estadio GNP Seguros",
       "venue_url": "https://www.songkick.com/venues/33578-estadio-gnp-seguros",
       "location": "Estadio GNP Seguros,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-02-28",
+      "source": "songkick",
+      "artists": [
+        "Saor"
+      ],
+      "artist_display": "Saor",
+      "url": "https://www.songkick.com/concerts/43484672-saor-at-circo-volador",
+      "venue": "Circo Volador",
+      "venue_url": "https://www.songkick.com/venues/49859-circo-volador",
+      "location": "Circo Volador,Mexico City, Mexico"
     },
     {
       "date": "2027-02-28",
@@ -8373,6 +8476,18 @@
       "tags": [
         "Latin"
       ]
+    },
+    {
+      "date": "2027-03-18",
+      "source": "songkick",
+      "artists": [
+        "Overkill"
+      ],
+      "artist_display": "Overkill",
+      "url": "https://www.songkick.com/concerts/43484671-overkill-at-circo-volador",
+      "venue": "Circo Volador",
+      "venue_url": "https://www.songkick.com/venues/49859-circo-volador",
+      "location": "Circo Volador,Mexico City, Mexico"
     },
     {
       "date": "2027-03-19",
@@ -9314,6 +9429,23 @@
       "ticket_url": "https://www.ticketmaster.com.mx/edwin-luna-y-la-trakalosa-de-ciudad-de-mexico-16-06-2027/event/3D0064FEFB98A6F3",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2027-06-19",
+      "source": "songkick",
+      "artists": [
+        "Rubytates"
+      ],
+      "artist_display": "Rubytates",
+      "url": "https://www.songkick.com/concerts/43484749-rubytates-at-teatro-metropolitan",
+      "venue": "Teatro Metropólitan",
+      "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
+      "location": "Teatro Metropólitan,Mexico City, Mexico",
+      "ticket_url": "https://www.ticketmaster.com.mx/rubytatessistemas-mexico-19-06-2027/event/14006557B7F08E4A",
+      "tags": [
+        "Alternative Rock",
+        "Rock"
       ]
     },
     {
