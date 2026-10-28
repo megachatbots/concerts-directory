@@ -1,27 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-10-27T11:38:36.087293Z",
-  "total_concerts": 417,
+  "scraped_at": "2026-10-28T12:09:47.901026Z",
+  "total_concerts": 419,
   "concerts": [
-    {
-      "date": "2026-10-27",
-      "source": "ticketmaster",
-      "artists": [
-        "Marcos Vidal",
-        "Marcos Witt",
-        "Marco Barrientos"
-      ],
-      "artist_display": "Marcos Vidal, Marcos Witt, Marco Barrientos",
-      "url": "https://www.ticketmaster.com.mx/eterno-marcos-vidal-marcos-witt-marco-ciudad-de-mexico-27-10-2026/event/3D0064C994C0173F",
-      "ticket_url": "https://www.ticketmaster.com.mx/eterno-marcos-vidal-marcos-witt-marco-ciudad-de-mexico-27-10-2026/event/3D0064C994C0173F",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Religious",
-        "Gospel"
-      ]
-    },
     {
       "date": "2026-10-28",
       "source": "ticketmaster",
@@ -4242,15 +4224,17 @@
       "date": "2026-12-06",
       "source": "ticketmaster",
       "artists": [
+        "Joy",
         "Jesse & Joy"
       ],
-      "artist_display": "Jesse & Joy",
+      "artist_display": "Joy, Jesse & Joy",
       "url": "https://www.ticketmaster.com.mx/jesse-joy-ciudad-de-mexico-06-12-2026/event/3D00653488A814E6",
       "ticket_url": "https://www.ticketmaster.com.mx/jesse-joy-ciudad-de-mexico-06-12-2026/event/3D00653488A814E6",
       "venue": "Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Ballads/Romantic"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -5748,6 +5732,21 @@
       "date": "2027-02-06",
       "source": "ticketmaster",
       "artists": [
+        "Pastilla"
+      ],
+      "artist_display": "Pastilla",
+      "url": "https://www.ticketmaster.com.mx/pastillaxxx-aniversario-ciudad-de-mexico-06-02-2027/event/3D006558E4B7B02E",
+      "ticket_url": "https://www.ticketmaster.com.mx/pastillaxxx-aniversario-ciudad-de-mexico-06-02-2027/event/3D006558E4B7B02E",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2027-02-06",
+      "source": "ticketmaster",
+      "artists": [
         "Lorenzo Antonio"
       ],
       "artist_display": "Lorenzo Antonio",
@@ -5918,15 +5917,17 @@
       "date": "2027-02-14",
       "source": "ticketmaster",
       "artists": [
+        "Joy",
         "Jesse & Joy"
       ],
-      "artist_display": "Jesse & Joy",
+      "artist_display": "Joy, Jesse & Joy",
       "url": "https://www.ticketmaster.com.mx/jesse-joy-ciudad-de-mexico-14-02-2027/event/3D006550C8B7B593",
       "ticket_url": "https://www.ticketmaster.com.mx/jesse-joy-ciudad-de-mexico-14-02-2027/event/3D006550C8B7B593",
       "venue": "Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
-        "Ballads/Romantic"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -6367,6 +6368,21 @@
       "date": "2027-03-06",
       "source": "ticketmaster",
       "artists": [
+        "El Trono De Mexico"
+      ],
+      "artist_display": "El Trono De Mexico",
+      "url": "https://www.ticketmaster.com.mx/el-trono-de-mexico-ciudad-de-mexico-06-03-2027/event/1400655ABAC47E07",
+      "ticket_url": "https://www.ticketmaster.com.mx/el-trono-de-mexico-ciudad-de-mexico-06-03-2027/event/1400655ABAC47E07",
+      "venue": "Palacio de los Deportes",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2027-03-06",
+      "source": "ticketmaster",
+      "artists": [
         "SYML"
       ],
       "artist_display": "SYML",
@@ -6390,6 +6406,21 @@
       "ticket_url": "https://www.ticketmaster.com.mx/tai-sosa-y-la-sosa-band-ciudad-de-mexico-06-03-2027/event/3D00651BAC75660D",
       "venue": "El Lunario del Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Ballads/Romantic"
+      ]
+    },
+    {
+      "date": "2027-03-06",
+      "source": "ticketmaster",
+      "artists": [
+        "Ana Torroja"
+      ],
+      "artist_display": "Ana Torroja",
+      "url": "https://www.ticketmaster.com.mx/ana-torroja-mexico-06-03-2027/event/3D00654F80A533C4",
+      "ticket_url": "https://www.ticketmaster.com.mx/ana-torroja-mexico-06-03-2027/event/3D00654F80A533C4",
+      "venue": "La Maraka",
+      "location": "México, Ciudad de México, Mexico",
       "tags": [
         "Ballads/Romantic"
       ]
