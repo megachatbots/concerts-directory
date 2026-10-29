@@ -5,78 +5,9 @@
     "ticketmaster"
   ],
   "metro_area": "Mexico City",
-  "scraped_at": "2026-10-28T12:09:47.921045Z",
-  "total_concerts": 671,
+  "scraped_at": "2026-10-29T12:20:35.176951Z",
+  "total_concerts": 673,
   "concerts": [
-    {
-      "date": "2026-10-28",
-      "source": "songkick",
-      "artists": [
-        "Andrew Bird"
-      ],
-      "artist_display": "Andrew Bird",
-      "url": "https://www.songkick.com/concerts/43071336-andrew-bird-at-teatro-de-la-ciudad-esperanza-iris",
-      "venue": "Teatro de la Ciudad Esperanza Iris",
-      "venue_url": "https://www.songkick.com/venues/2182854-teatro-de-la-ciudad-esperanza-iris",
-      "location": "Teatro de la Ciudad Esperanza Iris,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-28",
-      "source": "songkick",
-      "artists": [
-        "Omar Courtz"
-      ],
-      "artist_display": "Omar Courtz",
-      "url": "https://www.songkick.com/concerts/43381671-omar-courtz-at-palacio-de-los-deportes",
-      "venue": "Palacio de los Deportes",
-      "venue_url": "https://www.songkick.com/venues/31907-palacio-de-los-deportes",
-      "location": "Palacio de los Deportes,Mexico City, Mexico",
-      "ticket_url": "https://www.ticketmaster.com.mx/omar-courtz-ciudad-de-mexico-28-10-2026/event/140064DEC19B99D4",
-      "tags": [
-        "Hip-Hop/Rap",
-        "Trap"
-      ]
-    },
-    {
-      "date": "2026-10-28",
-      "source": "songkick",
-      "artists": [
-        "Austin TVBelafonte Sensacional and Niña Lobo"
-      ],
-      "artist_display": "Austin TVBelafonte Sensacional and Niña Lobo",
-      "url": "https://www.songkick.com/concerts/43241712-austin-tv-at-polyforum-cultural-siqueiros",
-      "venue": "Polyforum Cultural Siqueiros",
-      "venue_url": "https://www.songkick.com/venues/79021-polyforum-cultural-siqueiros",
-      "location": "Polyforum Cultural Siqueiros,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-28",
-      "source": "songkick",
-      "artists": [
-        "Hypnosis Therapy"
-      ],
-      "artist_display": "Hypnosis Therapy",
-      "url": "https://www.songkick.com/concerts/43454314-hypnosis-therapy-at-rebel-rebel-el-club-del-rock-and-roll",
-      "venue": "Rebel Rebel / El Club del Rock & Roll",
-      "venue_url": "https://www.songkick.com/venues/4470855-rebel-rebel-el-club-del-rock-and-roll",
-      "location": "Rebel Rebel / El Club del Rock & Roll,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-28",
-      "source": "ticketmaster",
-      "artists": [
-        "Jimmy Sea"
-      ],
-      "artist_display": "Jimmy Sea",
-      "url": "https://www.ticketmaster.com.mx/jimmy-sea-avocean-photo-boleto-de-mexico-28-10-2026/event/1400647284142806",
-      "ticket_url": "https://www.ticketmaster.com.mx/jimmy-sea-avocean-photo-boleto-de-mexico-28-10-2026/event/1400647284142806",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Electro Pop",
-        "Pop"
-      ]
-    },
     {
       "date": "2026-10-29",
       "source": "songkick",
@@ -295,18 +226,6 @@
       "date": "2026-10-30",
       "source": "songkick",
       "artists": [
-        "Lng/ShtManic Hispanic and 13 anclas"
-      ],
-      "artist_display": "Lng/ShtManic Hispanic and 13 anclas",
-      "url": "https://www.songkick.com/concerts/43184347-lngsht-at-pepsi-center-wtc",
-      "venue": "Pepsi Center WTC",
-      "venue_url": "https://www.songkick.com/venues/1774303-pepsi-center-wtc",
-      "location": "Pepsi Center WTC,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-30",
-      "source": "songkick",
-      "artists": [
         "Gioli & Assia"
       ],
       "artist_display": "Gioli & Assia",
@@ -326,6 +245,18 @@
       "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
       "location": "Foro Indie Rocks!,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-10-30",
+      "source": "songkick",
+      "artists": [
+        "Lng/ShtManic Hispanic and 13 anclas"
+      ],
+      "artist_display": "Lng/ShtManic Hispanic and 13 anclas",
+      "url": "https://www.songkick.com/concerts/43184347-lngsht-at-pepsi-center-wtc",
+      "venue": "Pepsi Center WTC",
+      "venue_url": "https://www.songkick.com/venues/1774303-pepsi-center-wtc",
+      "location": "Pepsi Center WTC,Mexico City, Mexico"
     },
     {
       "date": "2026-10-30",
@@ -501,18 +432,6 @@
       "date": "2026-10-31",
       "source": "songkick",
       "artists": [
-        "Indios"
-      ],
-      "artist_display": "Indios",
-      "url": "https://www.songkick.com/concerts/43362067-indios-at-foro-puebla",
-      "venue": "Foro Puebla",
-      "venue_url": "https://www.songkick.com/venues/4506135-foro-puebla",
-      "location": "Foro Puebla,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-31",
-      "source": "songkick",
-      "artists": [
         "Queen OmegaAntidoping"
       ],
       "artist_display": "Queen OmegaAntidoping",
@@ -520,6 +439,18 @@
       "venue": "Foro Veintiocho",
       "venue_url": "https://www.songkick.com/venues/4416868-foro-veintiocho",
       "location": "Foro Veintiocho,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-10-31",
+      "source": "songkick",
+      "artists": [
+        "Indios"
+      ],
+      "artist_display": "Indios",
+      "url": "https://www.songkick.com/concerts/43362067-indios-at-foro-puebla",
+      "venue": "Foro Puebla",
+      "venue_url": "https://www.songkick.com/venues/4506135-foro-puebla",
+      "location": "Foro Puebla,Mexico City, Mexico"
     },
     {
       "date": "2026-10-31",
@@ -707,6 +638,18 @@
       "venue": "Parque Lira",
       "venue_url": "https://www.songkick.com/venues/4042179-parque-lira",
       "location": "Parque Lira,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-11-01",
+      "source": "songkick",
+      "artists": [
+        "Festival Internacional Las Cuatro Casas 2026Los Pericos, Delinquent Habits, Allison, Los de Abajo, Tijuana No, Resorte, Silverio, and Sekta Core"
+      ],
+      "artist_display": "Festival Internacional Las Cuatro Casas 2026Los Pericos, Delinquent Habits, Allison, Los de Abajo, Tijuana No, Resorte, Silverio, and Sekta Core",
+      "url": "https://www.songkick.com/festivals/3811559-internacional-las-cuatro-casas/id/43488516-festival-internacional-las-cuatro-casas-2026",
+      "venue": "Parque Naucalli Foro Felipe Villanueva",
+      "venue_url": "https://www.songkick.com/venues/777776-parque-naucalli-foro-felipe-villanueva",
+      "location": "Parque Naucalli Foro Felipe Villanueva,Naucalpan, Mexico"
     },
     {
       "date": "2026-11-02",
@@ -1351,6 +1294,21 @@
       "tags": [
         "Rock",
         "Pop"
+      ]
+    },
+    {
+      "date": "2026-11-07",
+      "source": "ticketmaster",
+      "artists": [
+        "Concierto Homenaje a Juan Gabriel por El Divo del Sur"
+      ],
+      "artist_display": "Concierto Homenaje a Juan Gabriel por El Divo del Sur",
+      "url": "https://www.ticketmaster.com.mx/concierto-homenaje-a-juan-gabriel-por-san-francisco-coaxusco-07-11-2026/event/3D00655AEF38798A",
+      "ticket_url": "https://www.ticketmaster.com.mx/concierto-homenaje-a-juan-gabriel-por-san-francisco-coaxusco-07-11-2026/event/3D00655AEF38798A",
+      "venue": "Alboa Metepec",
+      "location": "San Francisco Coaxusco, Estado de México, Mexico",
+      "tags": [
+        "Ballads/Romantic"
       ]
     },
     {
@@ -2514,9 +2472,9 @@
       "date": "2026-11-18",
       "source": "songkick",
       "artists": [
-        "Caifanes, Vivir Quintana, Ely Guerra, Kevin Kaarl, and Meme Del Real"
+        "Caifanes and Vivir QuintanaEly Guerra, Kevin Kaarl, and Meme Del Real"
       ],
-      "artist_display": "Caifanes, Vivir Quintana, Ely Guerra, Kevin Kaarl, and Meme Del Real",
+      "artist_display": "Caifanes and Vivir QuintanaEly Guerra, Kevin Kaarl, and Meme Del Real",
       "url": "https://www.songkick.com/concerts/43479808-caifanes-at-teatro-metropolitan",
       "venue": "Teatro Metropólitan",
       "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
@@ -2750,6 +2708,22 @@
       "venue": "Sala Sonora",
       "venue_url": "https://www.songkick.com/venues/4646475-sala-sonora",
       "location": "Sala Sonora,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-11-19",
+      "source": "songkick",
+      "artists": [
+        "Roberto Blades"
+      ],
+      "artist_display": "Roberto Blades",
+      "url": "https://www.songkick.com/concerts/43489796-roberto-blades-at-mambo-cafe-insurgentes",
+      "venue": "Mambo Cafe Insurgentes",
+      "venue_url": "https://www.songkick.com/venues/4440843-mambo-cafe-insurgentes",
+      "location": "Mambo Cafe Insurgentes,Mexico City, Mexico",
+      "ticket_url": "https://www.ticketmaster.com.mx/roberto-blades-viti-ruiz-y-wilmer-mexico-19-11-2026/event/3D00655A827618E3",
+      "tags": [
+        "Latin"
+      ]
     },
     {
       "date": "2026-11-19",
@@ -4866,22 +4840,6 @@
       "date": "2026-12-05",
       "source": "songkick",
       "artists": [
-        "Natalia Lacunza"
-      ],
-      "artist_display": "Natalia Lacunza",
-      "url": "https://www.songkick.com/concerts/43393862-natalia-lacunza-at-auditorio-bb",
-      "venue": "Auditorio BB",
-      "venue_url": "https://www.songkick.com/venues/1683588-auditorio-bb",
-      "location": "Auditorio BB,Mexico City, Mexico",
-      "ticket_url": "https://www.ticketmaster.com.mx/natalia-lacunza-mexico-05-12-2026/event/1400651584CF2A66",
-      "tags": [
-        "Ballads/Romantic"
-      ]
-    },
-    {
-      "date": "2026-12-05",
-      "source": "songkick",
-      "artists": [
         "Banda Machos"
       ],
       "artist_display": "Banda Machos",
@@ -4892,6 +4850,22 @@
       "ticket_url": "https://www.ticketmaster.com.mx/banda-machos-mexico-05-12-2026/event/3D00651A85A02338",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2026-12-05",
+      "source": "songkick",
+      "artists": [
+        "Natalia Lacunza"
+      ],
+      "artist_display": "Natalia Lacunza",
+      "url": "https://www.songkick.com/concerts/43393862-natalia-lacunza-at-auditorio-bb",
+      "venue": "Auditorio BB",
+      "venue_url": "https://www.songkick.com/venues/1683588-auditorio-bb",
+      "location": "Auditorio BB,Mexico City, Mexico",
+      "ticket_url": "https://www.ticketmaster.com.mx/natalia-lacunza-mexico-05-12-2026/event/1400651584CF2A66",
+      "tags": [
+        "Ballads/Romantic"
       ]
     },
     {
@@ -5315,6 +5289,21 @@
       "venue": "Lunario Del Auditorio Nacional",
       "venue_url": "https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional",
       "location": "Lunario Del Auditorio Nacional,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-12-09",
+      "source": "ticketmaster",
+      "artists": [
+        "Pink Floyd Pulse be Pulse of The Moon"
+      ],
+      "artist_display": "Pink Floyd Pulse be Pulse of The Moon",
+      "url": "https://www.ticketmaster.com.mx/pink-floyd-pulse-be-pulse-of-mexico-09-12-2026/event/140064D49073503C",
+      "ticket_url": "https://www.ticketmaster.com.mx/pink-floyd-pulse-be-pulse-of-mexico-09-12-2026/event/140064D49073503C",
+      "venue": "Teatro Metropolitan",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
+      ]
     },
     {
       "date": "2026-12-10",
@@ -5995,6 +5984,18 @@
         "Trova",
         "World"
       ]
+    },
+    {
+      "date": "2026-12-18",
+      "source": "songkick",
+      "artists": [
+        "Maelo Ruiz and Willie Gonzalez"
+      ],
+      "artist_display": "Maelo Ruiz and Willie Gonzalez",
+      "url": "https://www.songkick.com/concerts/43297597-maelo-ruiz-at-la-maraka",
+      "venue": "La Maraka",
+      "venue_url": "https://www.songkick.com/venues/1076291-la-maraka",
+      "location": "La Maraka,Mexico City, Mexico"
     },
     {
       "date": "2026-12-18",
@@ -7427,22 +7428,6 @@
       "date": "2027-02-06",
       "source": "songkick",
       "artists": [
-        "Lorenzo Antonio"
-      ],
-      "artist_display": "Lorenzo Antonio",
-      "url": "https://www.songkick.com/concerts/43385786-lorenzo-antonio-at-la-maraka",
-      "venue": "La Maraka",
-      "venue_url": "https://www.songkick.com/venues/1076291-la-maraka",
-      "location": "La Maraka,Mexico City, Mexico",
-      "ticket_url": "https://www.ticketmaster.com.mx/lorenzo-antonio-mexico-06-02-2027/event/3D00651588671E76",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "date": "2027-02-06",
-      "source": "songkick",
-      "artists": [
         "Pastilla"
       ],
       "artist_display": "Pastilla",
@@ -7453,6 +7438,22 @@
       "ticket_url": "https://www.ticketmaster.com.mx/pastillaxxx-aniversario-ciudad-de-mexico-06-02-2027/event/3D006558E4B7B02E",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2027-02-06",
+      "source": "songkick",
+      "artists": [
+        "Lorenzo Antonio"
+      ],
+      "artist_display": "Lorenzo Antonio",
+      "url": "https://www.songkick.com/concerts/43385786-lorenzo-antonio-at-la-maraka",
+      "venue": "La Maraka",
+      "venue_url": "https://www.songkick.com/venues/1076291-la-maraka",
+      "location": "La Maraka,Mexico City, Mexico",
+      "ticket_url": "https://www.ticketmaster.com.mx/lorenzo-antonio-mexico-06-02-2027/event/3D00651588671E76",
+      "tags": [
+        "World"
       ]
     },
     {
@@ -7614,6 +7615,18 @@
       "date": "2027-02-13",
       "source": "songkick",
       "artists": [
+        "Nonpalidece"
+      ],
+      "artist_display": "Nonpalidece",
+      "url": "https://www.songkick.com/concerts/43486744-nonpalidece-at-house-of-vans",
+      "venue": "House of Vans",
+      "venue_url": "https://www.songkick.com/venues/3083404-house-of-vans",
+      "location": "House of Vans,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-02-13",
+      "source": "songkick",
+      "artists": [
         "DeceitsOmar Doom and dark chisme"
       ],
       "artist_display": "DeceitsOmar Doom and dark chisme",
@@ -7671,18 +7684,6 @@
       "date": "2027-02-13",
       "source": "songkick",
       "artists": [
-        "Nonpalidece"
-      ],
-      "artist_display": "Nonpalidece",
-      "url": "https://www.songkick.com/concerts/43486744-nonpalidece-at-house-of-vans",
-      "venue": "House of Vans",
-      "venue_url": "https://www.songkick.com/venues/3083404-house-of-vans",
-      "location": "House of Vans,Mexico City, Mexico"
-    },
-    {
-      "date": "2027-02-13",
-      "source": "songkick",
-      "artists": [
         "Stranger Love Fest 2027Bragolin, Diorama, C-Lekktor, and Carrellee"
       ],
       "artist_display": "Stranger Love Fest 2027Bragolin, Diorama, C-Lekktor, and Carrellee",
@@ -7718,6 +7719,23 @@
       "tags": [
         "Pop",
         "Electro Pop"
+      ]
+    },
+    {
+      "date": "2027-02-17",
+      "source": "songkick",
+      "artists": [
+        "Pitbull"
+      ],
+      "artist_display": "Pitbull",
+      "url": "https://www.songkick.com/concerts/43489789-pitbull-at-palacio-de-los-deportes",
+      "venue": "Palacio de los Deportes",
+      "venue_url": "https://www.songkick.com/venues/31907-palacio-de-los-deportes",
+      "location": "Palacio de los Deportes,Mexico City, Mexico",
+      "ticket_url": "https://www.ticketmaster.com.mx/pitbull-i-m-back-ciudad-de-mexico-17-02-2027/event/14006556D99ACE53",
+      "tags": [
+        "Electro Pop",
+        "Pop"
       ]
     },
     {
@@ -8555,6 +8573,18 @@
       "date": "2027-03-18",
       "source": "songkick",
       "artists": [
+        "Overkill"
+      ],
+      "artist_display": "Overkill",
+      "url": "https://www.songkick.com/concerts/43484671-overkill-at-circo-volador",
+      "venue": "Circo Volador",
+      "venue_url": "https://www.songkick.com/venues/49859-circo-volador",
+      "location": "Circo Volador,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-03-18",
+      "source": "songkick",
+      "artists": [
         "Julio Preciado"
       ],
       "artist_display": "Julio Preciado",
@@ -8566,18 +8596,6 @@
       "tags": [
         "Latin"
       ]
-    },
-    {
-      "date": "2027-03-18",
-      "source": "songkick",
-      "artists": [
-        "Overkill"
-      ],
-      "artist_display": "Overkill",
-      "url": "https://www.songkick.com/concerts/43484671-overkill-at-circo-volador",
-      "venue": "Circo Volador",
-      "venue_url": "https://www.songkick.com/venues/49859-circo-volador",
-      "location": "Circo Volador,Mexico City, Mexico"
     },
     {
       "date": "2027-03-19",
@@ -9047,6 +9065,22 @@
       "tags": [
         "Electro Pop",
         "Pop"
+      ]
+    },
+    {
+      "date": "2027-04-24",
+      "source": "songkick",
+      "artists": [
+        "Pedro Capo"
+      ],
+      "artist_display": "Pedro Capo",
+      "url": "https://www.songkick.com/concerts/43489793-pedro-capo-at-lunario-del-auditorio-nacional",
+      "venue": "Lunario Del Auditorio Nacional",
+      "venue_url": "https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional",
+      "location": "Lunario Del Auditorio Nacional,Mexico City, Mexico",
+      "ticket_url": "https://www.ticketmaster.com.mx/pedro-capo-fulanito-tour-ciudad-de-mexico-24-04-2027/event/3D0065588EA93931",
+      "tags": [
+        "Latin"
       ]
     },
     {

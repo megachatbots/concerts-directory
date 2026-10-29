@@ -1,101 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-10-28T12:09:47.901026Z",
-  "total_concerts": 419,
+  "scraped_at": "2026-10-29T12:20:35.154779Z",
+  "total_concerts": 417,
   "concerts": [
-    {
-      "date": "2026-10-28",
-      "source": "ticketmaster",
-      "artists": [
-        "Omar Courtz"
-      ],
-      "artist_display": "Omar Courtz",
-      "url": "https://www.ticketmaster.com.mx/omar-courtz-ciudad-de-mexico-28-10-2026/event/140064DEC19B99D4",
-      "ticket_url": "https://www.ticketmaster.com.mx/omar-courtz-ciudad-de-mexico-28-10-2026/event/140064DEC19B99D4",
-      "venue": "Palacio de los Deportes",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Hip-Hop/Rap",
-        "Trap"
-      ]
-    },
-    {
-      "date": "2026-10-28",
-      "source": "ticketmaster",
-      "artists": [
-        "Jimmy Sea"
-      ],
-      "artist_display": "Jimmy Sea",
-      "url": "https://www.ticketmaster.com.mx/jimmy-sea-avocean-photo-boleto-de-mexico-28-10-2026/event/1400647284142806",
-      "ticket_url": "https://www.ticketmaster.com.mx/jimmy-sea-avocean-photo-boleto-de-mexico-28-10-2026/event/1400647284142806",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico"
-    },
-    {
-      "date": "2026-10-28",
-      "source": "ticketmaster",
-      "artists": [
-        "Jimmy Sea"
-      ],
-      "artist_display": "Jimmy Sea",
-      "url": "https://www.ticketmaster.com.mx/jimmy-sea-presigned-polaroid-boleto-de-mexico-28-10-2026/event/14006471016C4E12",
-      "ticket_url": "https://www.ticketmaster.com.mx/jimmy-sea-presigned-polaroid-boleto-de-mexico-28-10-2026/event/14006471016C4E12",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico"
-    },
-    {
-      "date": "2026-10-28",
-      "source": "ticketmaster",
-      "artists": [
-        "Jimmy Sea"
-      ],
-      "artist_display": "Jimmy Sea",
-      "url": "https://www.ticketmaster.com.mx/jimmy-sea-hi-touch-jimmy-sea-mexico-28-10-2026/event/14006472854C29B2",
-      "ticket_url": "https://www.ticketmaster.com.mx/jimmy-sea-hi-touch-jimmy-sea-mexico-28-10-2026/event/14006472854C29B2",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico"
-    },
-    {
-      "date": "2026-10-28",
-      "source": "ticketmaster",
-      "artists": [
-        "Jimmy Sea"
-      ],
-      "artist_display": "Jimmy Sea",
-      "url": "https://www.ticketmaster.com.mx/jimmy-sea-hibye-avocean-boleto-de-mexico-28-10-2026/event/1400647287D62D3B",
-      "ticket_url": "https://www.ticketmaster.com.mx/jimmy-sea-hibye-avocean-boleto-de-mexico-28-10-2026/event/1400647287D62D3B",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico"
-    },
-    {
-      "date": "2026-10-28",
-      "source": "ticketmaster",
-      "artists": [
-        "Jimmy Sea"
-      ],
-      "artist_display": "Jimmy Sea",
-      "url": "https://www.ticketmaster.com.mx/jimmy-sea-family-presigned-polaroid-boleto-mexico-28-10-2026/event/14006471F8B4364A",
-      "ticket_url": "https://www.ticketmaster.com.mx/jimmy-sea-family-presigned-polaroid-boleto-mexico-28-10-2026/event/14006471F8B4364A",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico"
-    },
-    {
-      "date": "2026-10-28",
-      "source": "ticketmaster",
-      "artists": [
-        "Jimmy Sea"
-      ],
-      "artist_display": "Jimmy Sea",
-      "url": "https://www.ticketmaster.com.mx/jimmy-sea-mexico-28-10-2026/event/1400646A83BD2D7B",
-      "ticket_url": "https://www.ticketmaster.com.mx/jimmy-sea-mexico-28-10-2026/event/1400646A83BD2D7B",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
     {
       "date": "2026-10-29",
       "source": "ticketmaster",
@@ -756,6 +664,21 @@
       "tags": [
         "Rock",
         "Pop"
+      ]
+    },
+    {
+      "date": "2026-11-07",
+      "source": "ticketmaster",
+      "artists": [
+        "Concierto Homenaje a Juan Gabriel por El Divo del Sur"
+      ],
+      "artist_display": "Concierto Homenaje a Juan Gabriel por El Divo del Sur",
+      "url": "https://www.ticketmaster.com.mx/concierto-homenaje-a-juan-gabriel-por-san-francisco-coaxusco-07-11-2026/event/3D00655AEF38798A",
+      "ticket_url": "https://www.ticketmaster.com.mx/concierto-homenaje-a-juan-gabriel-por-san-francisco-coaxusco-07-11-2026/event/3D00655AEF38798A",
+      "venue": "Alboa Metepec",
+      "location": "San Francisco Coaxusco, Estado de México, Mexico",
+      "tags": [
+        "Ballads/Romantic"
       ]
     },
     {
@@ -1722,6 +1645,21 @@
       "tags": [
         "Pop",
         "Electro Pop"
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "source": "ticketmaster",
+      "artists": [
+        "Roberto Blades"
+      ],
+      "artist_display": "Roberto Blades",
+      "url": "https://www.ticketmaster.com.mx/roberto-blades-viti-ruiz-y-wilmer-mexico-19-11-2026/event/3D00655A827618E3",
+      "ticket_url": "https://www.ticketmaster.com.mx/roberto-blades-viti-ruiz-y-wilmer-mexico-19-11-2026/event/3D00655A827618E3",
+      "venue": "Mambo Cafe Insurgentes",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
       ]
     },
     {
@@ -4369,6 +4307,21 @@
       "date": "2026-12-09",
       "source": "ticketmaster",
       "artists": [
+        "Pink Floyd Pulse be Pulse of The Moon"
+      ],
+      "artist_display": "Pink Floyd Pulse be Pulse of The Moon",
+      "url": "https://www.ticketmaster.com.mx/pink-floyd-pulse-be-pulse-of-mexico-09-12-2026/event/140064D49073503C",
+      "ticket_url": "https://www.ticketmaster.com.mx/pink-floyd-pulse-be-pulse-of-mexico-09-12-2026/event/140064D49073503C",
+      "venue": "Teatro Metropolitan",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
+      ]
+    },
+    {
+      "date": "2026-12-09",
+      "source": "ticketmaster",
+      "artists": [
         "Tony Vega",
         "Adolescent's Orquesta"
       ],
@@ -5946,6 +5899,22 @@
       ]
     },
     {
+      "date": "2027-02-17",
+      "source": "ticketmaster",
+      "artists": [
+        "Pitbull"
+      ],
+      "artist_display": "Pitbull",
+      "url": "https://www.ticketmaster.com.mx/pitbull-i-m-back-ciudad-de-mexico-17-02-2027/event/14006556D99ACE53",
+      "ticket_url": "https://www.ticketmaster.com.mx/pitbull-i-m-back-ciudad-de-mexico-17-02-2027/event/14006556D99ACE53",
+      "venue": "Palacio de los Deportes",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
+      ]
+    },
+    {
       "date": "2027-02-19",
       "source": "ticketmaster",
       "artists": [
@@ -6756,6 +6725,21 @@
       "tags": [
         "Pop",
         "Electro Pop"
+      ]
+    },
+    {
+      "date": "2027-04-24",
+      "source": "ticketmaster",
+      "artists": [
+        "Pedro Capo"
+      ],
+      "artist_display": "Pedro Capo",
+      "url": "https://www.ticketmaster.com.mx/pedro-capo-fulanito-tour-ciudad-de-mexico-24-04-2027/event/3D0065588EA93931",
+      "ticket_url": "https://www.ticketmaster.com.mx/pedro-capo-fulanito-tour-ciudad-de-mexico-24-04-2027/event/3D0065588EA93931",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
       ]
     },
     {
