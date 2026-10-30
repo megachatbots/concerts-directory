@@ -1,102 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-10-29T12:20:35.154779Z",
-  "total_concerts": 417,
+  "scraped_at": "2026-10-30T12:11:11.194480Z",
+  "total_concerts": 412,
   "concerts": [
-    {
-      "date": "2026-10-29",
-      "source": "ticketmaster",
-      "artists": [
-        "Cumbia Ciudad"
-      ],
-      "artist_display": "Cumbia Ciudad",
-      "url": "https://www.ticketmaster.com.mx/cumbia-ciudad-mexico-29-10-2026/event/3D00651FBC4B3EF3",
-      "ticket_url": "https://www.ticketmaster.com.mx/cumbia-ciudad-mexico-29-10-2026/event/3D00651FBC4B3EF3",
-      "venue": "Teatro de la Ciudad Esperanza Iris",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-10-29",
-      "source": "ticketmaster",
-      "artists": [
-        "Omar Courtz"
-      ],
-      "artist_display": "Omar Courtz",
-      "url": "https://www.ticketmaster.com.mx/omar-courtz-ciudad-de-mexico-29-10-2026/event/140064DEC4FCA0D7",
-      "ticket_url": "https://www.ticketmaster.com.mx/omar-courtz-ciudad-de-mexico-29-10-2026/event/140064DEC4FCA0D7",
-      "venue": "Palacio de los Deportes",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Hip-Hop/Rap",
-        "Trap"
-      ]
-    },
-    {
-      "date": "2026-10-29",
-      "source": "ticketmaster",
-      "artists": [
-        "Las Voces Más Arrolladoras"
-      ],
-      "artist_display": "Las Voces Más Arrolladoras",
-      "url": "https://www.ticketmaster.com.mx/las-voces-mas-arrolladoras-mexico-29-10-2026/event/140062E2DEE23BF4",
-      "ticket_url": "https://www.ticketmaster.com.mx/las-voces-mas-arrolladoras-mexico-29-10-2026/event/140062E2DEE23BF4",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
-      ]
-    },
-    {
-      "date": "2026-10-29",
-      "source": "ticketmaster",
-      "artists": [
-        "Leyendas el show"
-      ],
-      "artist_display": "Leyendas el show",
-      "url": "https://www.ticketmaster.com.mx/leyendas-ciudad-de-mexico-29-10-2026/event/3D006514838A1F76",
-      "ticket_url": "https://www.ticketmaster.com.mx/leyendas-ciudad-de-mexico-29-10-2026/event/3D006514838A1F76",
-      "venue": "Foro Stelaris Fiesta Americana Reforma",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
-      ]
-    },
-    {
-      "date": "2026-10-29",
-      "source": "ticketmaster",
-      "artists": [
-        "Carlos Vallarino",
-        "Mar María"
-      ],
-      "artist_display": "Carlos Vallarino, Mar María",
-      "url": "https://www.ticketmaster.com.mx/entre-panas-ciudad-de-mexico-29-10-2026/event/3D0064998AC355D3",
-      "ticket_url": "https://www.ticketmaster.com.mx/entre-panas-ciudad-de-mexico-29-10-2026/event/3D0064998AC355D3",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-10-29",
-      "source": "ticketmaster",
-      "artists": [
-        "TIMO"
-      ],
-      "artist_display": "TIMO",
-      "url": "https://www.ticketmaster.com.mx/timo-mexico-29-10-2026/event/1400649899B458A2",
-      "ticket_url": "https://www.ticketmaster.com.mx/timo-mexico-29-10-2026/event/1400649899B458A2",
-      "venue": "Pepsi Center",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
     {
       "date": "2026-10-30",
       "source": "ticketmaster",
@@ -5905,13 +5812,28 @@
         "Pitbull"
       ],
       "artist_display": "Pitbull",
-      "url": "https://www.ticketmaster.com.mx/pitbull-i-m-back-ciudad-de-mexico-17-02-2027/event/14006556D99ACE53",
-      "ticket_url": "https://www.ticketmaster.com.mx/pitbull-i-m-back-ciudad-de-mexico-17-02-2027/event/14006556D99ACE53",
+      "url": "https://www.ticketmaster.com.mx/pitbull-im-back-ciudad-de-mexico-17-02-2027/event/14006556D99ACE53",
+      "ticket_url": "https://www.ticketmaster.com.mx/pitbull-im-back-ciudad-de-mexico-17-02-2027/event/14006556D99ACE53",
       "venue": "Palacio de los Deportes",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Pop",
         "Electro Pop"
+      ]
+    },
+    {
+      "date": "2027-02-19",
+      "source": "ticketmaster",
+      "artists": [
+        "Daniela Spalla"
+      ],
+      "artist_display": "Daniela Spalla",
+      "url": "https://www.ticketmaster.com.mx/daniela-spalla-mexico-19-02-2027/event/14006559B9B466ED",
+      "ticket_url": "https://www.ticketmaster.com.mx/daniela-spalla-mexico-19-02-2027/event/14006559B9B466ED",
+      "venue": "Teatro Metropolitan",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
       ]
     },
     {
