@@ -1,71 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-10-30T12:11:11.194480Z",
+  "scraped_at": "2026-10-31T11:43:28.070407Z",
   "total_concerts": 412,
   "concerts": [
-    {
-      "date": "2026-10-30",
-      "source": "ticketmaster",
-      "artists": [
-        "Cumbia Ciudad"
-      ],
-      "artist_display": "Cumbia Ciudad",
-      "url": "https://www.ticketmaster.com.mx/cumbia-ciudad-mexico-30-10-2026/event/3D00651FBEF040DC",
-      "ticket_url": "https://www.ticketmaster.com.mx/cumbia-ciudad-mexico-30-10-2026/event/3D00651FBEF040DC",
-      "venue": "Teatro de la Ciudad Esperanza Iris",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-10-30",
-      "source": "ticketmaster",
-      "artists": [
-        "LNG/SHT"
-      ],
-      "artist_display": "LNG/SHT",
-      "url": "https://www.ticketmaster.com.mx/lngsht-mexico-30-10-2026/event/14006488886732ED",
-      "ticket_url": "https://www.ticketmaster.com.mx/lngsht-mexico-30-10-2026/event/14006488886732ED",
-      "venue": "Pepsi Center",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Hip-Hop/Rap",
-        "Trap"
-      ]
-    },
-    {
-      "date": "2026-10-30",
-      "source": "ticketmaster",
-      "artists": [
-        "Un Aplauso para el Amor"
-      ],
-      "artist_display": "Un Aplauso para el Amor",
-      "url": "https://www.ticketmaster.com.mx/un-aplauso-para-el-amor-ciudad-de-mexico-30-10-2026/event/3D00652B99AC37B9",
-      "ticket_url": "https://www.ticketmaster.com.mx/un-aplauso-para-el-amor-ciudad-de-mexico-30-10-2026/event/3D00652B99AC37B9",
-      "venue": "Foro Stelaris Fiesta Americana Reforma",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-10-30",
-      "source": "ticketmaster",
-      "artists": [
-        "Estela Nunez"
-      ],
-      "artist_display": "Estela Nunez",
-      "url": "https://www.ticketmaster.com.mx/cabaret-lunario-presenta-estela-nunez-con-ciudad-de-mexico-30-10-2026/event/3D006539D3E19C68",
-      "ticket_url": "https://www.ticketmaster.com.mx/cabaret-lunario-presenta-estela-nunez-con-ciudad-de-mexico-30-10-2026/event/3D006539D3E19C68",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
-      ]
-    },
     {
       "date": "2026-10-31",
       "source": "ticketmaster",
@@ -4690,6 +4628,21 @@
       "date": "2026-12-19",
       "source": "ticketmaster",
       "artists": [
+        "T3R Elemento"
+      ],
+      "artist_display": "T3R Elemento",
+      "url": "https://www.ticketmaster.com.mx/t3r-elemento-mexico-19-12-2026/event/14006551D425E714",
+      "ticket_url": "https://www.ticketmaster.com.mx/t3r-elemento-mexico-19-12-2026/event/14006551D425E714",
+      "venue": "Pepsi Center",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-12-19",
+      "source": "ticketmaster",
+      "artists": [
         "Fernando Delgadillo y Alejandro Filio"
       ],
       "artist_display": "Fernando Delgadillo y Alejandro Filio",
@@ -5991,6 +5944,36 @@
       ]
     },
     {
+      "date": "2027-02-21",
+      "source": "ticketmaster",
+      "artists": [
+        "Esperon"
+      ],
+      "artist_display": "Esperon",
+      "url": "https://www.ticketmaster.com.mx/esperon-en-vivo-por-primera-vez-ciudad-de-mexico-21-02-2027/event/3D00655890263AB3",
+      "ticket_url": "https://www.ticketmaster.com.mx/esperon-en-vivo-por-primera-vez-ciudad-de-mexico-21-02-2027/event/3D00655890263AB3",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Ballads/Romantic"
+      ]
+    },
+    {
+      "date": "2027-02-21",
+      "source": "ticketmaster",
+      "artists": [
+        "Esperon"
+      ],
+      "artist_display": "Esperon",
+      "url": "https://www.ticketmaster.com.mx/esperon-en-vivo-por-primera-vez-ciudad-de-mexico-21-02-2027/event/3D00655891043BC8",
+      "ticket_url": "https://www.ticketmaster.com.mx/esperon-en-vivo-por-primera-vez-ciudad-de-mexico-21-02-2027/event/3D00655891043BC8",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Ballads/Romantic"
+      ]
+    },
+    {
       "date": "2027-02-23",
       "source": "ticketmaster",
       "artists": [
@@ -6974,6 +6957,21 @@
       "tags": [
         "Rock",
         "Alternative Rock"
+      ]
+    },
+    {
+      "date": "2027-06-20",
+      "source": "ticketmaster",
+      "artists": [
+        "Metanoia"
+      ],
+      "artist_display": "Metanoia",
+      "url": "https://www.ticketmaster.com.mx/congreso-de-metanoia-mexico-2027-ciudad-de-mexico-20-06-2027/event/3D00654A8FD82DFC",
+      "ticket_url": "https://www.ticketmaster.com.mx/congreso-de-metanoia-mexico-2027-ciudad-de-mexico-20-06-2027/event/3D00654A8FD82DFC",
+      "venue": "Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
       ]
     },
     {
