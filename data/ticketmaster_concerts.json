@@ -1,87 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-10-31T11:43:28.070407Z",
-  "total_concerts": 412,
+  "scraped_at": "2026-11-01T12:43:08.863382Z",
+  "total_concerts": 409,
   "concerts": [
-    {
-      "date": "2026-10-31",
-      "source": "ticketmaster",
-      "artists": [
-        "Pim Pau"
-      ],
-      "artist_display": "Pim Pau",
-      "url": "https://www.ticketmaster.com.mx/pim-pau-gira-internacional-2026-mexico-31-10-2026/event/3D0064CB8F33173E",
-      "ticket_url": "https://www.ticketmaster.com.mx/pim-pau-gira-internacional-2026-mexico-31-10-2026/event/3D0064CB8F33173E",
-      "venue": "El Cantoral ",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Children's Music"
-      ]
-    },
-    {
-      "date": "2026-10-31",
-      "source": "ticketmaster",
-      "artists": [
-        "Alex Fernandez"
-      ],
-      "artist_display": "Alex Fernandez",
-      "url": "https://www.ticketmaster.com.mx/alex-fernandez-mexico-31-10-2026/event/140064D8842A2392",
-      "ticket_url": "https://www.ticketmaster.com.mx/alex-fernandez-mexico-31-10-2026/event/140064D8842A2392",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-10-31",
-      "source": "ticketmaster",
-      "artists": [
-        "Jose Maria Napoleon",
-        "Mocedades"
-      ],
-      "artist_display": "Jose Maria Napoleon, Mocedades",
-      "url": "https://www.ticketmaster.com.mx/jose-maria-napoleon-mocedades-ciudad-de-mexico-31-10-2026/event/3D0064D783C40D79",
-      "ticket_url": "https://www.ticketmaster.com.mx/jose-maria-napoleon-mocedades-ciudad-de-mexico-31-10-2026/event/3D0064D783C40D79",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-10-31",
-      "source": "ticketmaster",
-      "artists": [
-        "La Cantadera"
-      ],
-      "artist_display": "La Cantadera",
-      "url": "https://www.ticketmaster.com.mx/la-cantadera-halloween-party-ciudad-de-mexico-31-10-2026/event/3D00654899CE4258",
-      "ticket_url": "https://www.ticketmaster.com.mx/la-cantadera-halloween-party-ciudad-de-mexico-31-10-2026/event/3D00654899CE4258",
-      "venue": "Foro Stelaris Fiesta Americana Reforma",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Pop"
-      ]
-    },
-    {
-      "date": "2026-10-31",
-      "source": "ticketmaster",
-      "artists": [
-        "Jorge Muñiz",
-        "Cabaret Lunario"
-      ],
-      "artist_display": "Jorge Muñiz, Cabaret Lunario",
-      "url": "https://www.ticketmaster.com.mx/cabaret-lunario-presenta-jorge-muniz-con-ciudad-de-mexico-31-10-2026/event/3D006535E5CF7F9F",
-      "ticket_url": "https://www.ticketmaster.com.mx/cabaret-lunario-presenta-jorge-muniz-con-ciudad-de-mexico-31-10-2026/event/3D006535E5CF7F9F",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
     {
       "date": "2026-11-01",
       "source": "ticketmaster",
@@ -5652,6 +5574,21 @@
       "date": "2027-02-12",
       "source": "ticketmaster",
       "artists": [
+        "Manoella Torres"
+      ],
+      "artist_display": "Manoella Torres",
+      "url": "https://www.ticketmaster.com.mx/manoella-torres-mexico-12-02-2027/event/1400654D92AB347F",
+      "ticket_url": "https://www.ticketmaster.com.mx/manoella-torres-mexico-12-02-2027/event/1400654D92AB347F",
+      "venue": "Teatro Metropolitan",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2027-02-12",
+      "source": "ticketmaster",
+      "artists": [
         "Aleks Syntek"
       ],
       "artist_display": "Aleks Syntek",
@@ -6361,6 +6298,22 @@
       "tags": [
         "World",
         "Flamenco"
+      ]
+    },
+    {
+      "date": "2027-03-20",
+      "source": "ticketmaster",
+      "artists": [
+        "Dalú"
+      ],
+      "artist_display": "Dalú",
+      "url": "https://www.ticketmaster.com.mx/dalu-la-bruja-del-cuento-mexico-20-03-2027/event/3D00655CB8315CE3",
+      "ticket_url": "https://www.ticketmaster.com.mx/dalu-la-bruja-del-cuento-mexico-20-03-2027/event/3D00655CB8315CE3",
+      "venue": "Foro Red Access",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
       ]
     },
     {

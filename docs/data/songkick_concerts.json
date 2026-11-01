@@ -1,8 +1,8 @@
 {
   "source": "songkick",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-10-31T11:43:24.410202Z",
-  "total_concerts": 500,
+  "scraped_at": "2026-11-01T12:43:05.217894Z",
+  "total_concerts": 492,
   "concerts": [
     {
       "date": "2026-10-30",
@@ -15,114 +15,6 @@
       "venue": "Foro Hendrix",
       "venue_url": "https://www.songkick.com/venues/4629200-foro-hendrix",
       "location": "Foro Hendrix,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-31",
-      "source": "songkick",
-      "artists": [
-        "Dimitri Vegas & Like MikeDimitri Vegas and Like Mike"
-      ],
-      "artist_display": "Dimitri Vegas & Like MikeDimitri Vegas and Like Mike",
-      "url": "https://www.songkick.com/concerts/43068560-dimitri-vegas-and-like-mike-at-monumental-plaza-de-toros-mexico",
-      "venue": "Monumental Plaza de Toros México",
-      "venue_url": "https://www.songkick.com/venues/67080-monumental-plaza-de-toros-mexico",
-      "location": "Monumental Plaza de Toros México,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-31",
-      "source": "songkick",
-      "artists": [
-        "The Buttertones"
-      ],
-      "artist_display": "The Buttertones",
-      "url": "https://www.songkick.com/concerts/43291110-buttertones-at-foro-veintiocho",
-      "venue": "Foro Veintiocho",
-      "venue_url": "https://www.songkick.com/venues/4416868-foro-veintiocho",
-      "location": "Foro Veintiocho,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-31",
-      "source": "songkick",
-      "artists": [
-        "Lewis OfMan"
-      ],
-      "artist_display": "Lewis OfMan",
-      "url": "https://www.songkick.com/concerts/43406238-lewis-ofman-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks!",
-      "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks!,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-31",
-      "source": "songkick",
-      "artists": [
-        "Em Beihold"
-      ],
-      "artist_display": "Em Beihold",
-      "url": "https://www.songkick.com/concerts/43297938-em-beihold-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks!",
-      "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks!,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-31",
-      "source": "songkick",
-      "artists": [
-        "Jose Maria Napoleon and Mocedades"
-      ],
-      "artist_display": "Jose Maria Napoleon and Mocedades",
-      "url": "https://www.songkick.com/concerts/43294514-jose-maria-napoleon-at-auditorio-nacional",
-      "venue": "Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/34183-auditorio-nacional",
-      "location": "Auditorio Nacional,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-31",
-      "source": "songkick",
-      "artists": [
-        "Austin TVBelafonte Sensacional"
-      ],
-      "artist_display": "Austin TVBelafonte Sensacional",
-      "url": "https://www.songkick.com/concerts/43241722-austin-tv-at-polyforum-cultural-siqueiros",
-      "venue": "Polyforum Cultural Siqueiros",
-      "venue_url": "https://www.songkick.com/venues/79021-polyforum-cultural-siqueiros",
-      "location": "Polyforum Cultural Siqueiros,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-31",
-      "source": "songkick",
-      "artists": [
-        "Indios"
-      ],
-      "artist_display": "Indios",
-      "url": "https://www.songkick.com/concerts/43362067-indios-at-foro-puebla",
-      "venue": "Foro Puebla",
-      "venue_url": "https://www.songkick.com/venues/4506135-foro-puebla",
-      "location": "Foro Puebla,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-31",
-      "source": "songkick",
-      "artists": [
-        "Queen OmegaAntidoping"
-      ],
-      "artist_display": "Queen OmegaAntidoping",
-      "url": "https://www.songkick.com/concerts/43266289-queen-omega-at-foro-veintiocho",
-      "venue": "Foro Veintiocho",
-      "venue_url": "https://www.songkick.com/venues/4416868-foro-veintiocho",
-      "location": "Foro Veintiocho,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-10-31",
-      "source": "songkick",
-      "artists": [
-        "Zamna México City 2026Mahmut Orhan, Damian Lazarus, Shimza, and María Nocheydía"
-      ],
-      "artist_display": "Zamna México City 2026Mahmut Orhan, Damian Lazarus, Shimza, and María Nocheydía",
-      "url": "https://www.songkick.com/festivals/3571710-zamna-mexico-city/id/43347940-zamna-mxico-city-2026",
-      "venue": "Velódromo Olímpico",
-      "venue_url": "https://www.songkick.com/venues/451101-velodromo-olimpico",
-      "location": "Velódromo Olímpico,Mexico City, Mexico"
     },
     {
       "date": "2026-11-01",
@@ -296,18 +188,6 @@
       "date": "2026-11-04",
       "source": "songkick",
       "artists": [
-        "headache (UK)amr* (USA) and ARTHUR (US)"
-      ],
-      "artist_display": "headache (UK)amr* (USA) and ARTHUR (US)",
-      "url": "https://www.songkick.com/concerts/43369644-headache-uk-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks!",
-      "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks!,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-04",
-      "source": "songkick",
-      "artists": [
         "Odisseo"
       ],
       "artist_display": "Odisseo",
@@ -315,6 +195,18 @@
       "venue": "House of Vans",
       "venue_url": "https://www.songkick.com/venues/3083404-house-of-vans",
       "location": "House of Vans,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-11-04",
+      "source": "songkick",
+      "artists": [
+        "headache (UK)amr* (USA) and ARTHUR (US)"
+      ],
+      "artist_display": "headache (UK)amr* (USA) and ARTHUR (US)",
+      "url": "https://www.songkick.com/concerts/43369644-headache-uk-at-foro-indie-rocks",
+      "venue": "Foro Indie Rocks!",
+      "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
     },
     {
       "date": "2026-11-05",
@@ -3233,18 +3125,6 @@
       "location": "Lunario Del Auditorio Nacional,Mexico City, Mexico"
     },
     {
-      "date": "2026-12-13",
-      "source": "songkick",
-      "artists": [
-        "Disney Worlds Collide Tour"
-      ],
-      "artist_display": "Disney Worlds Collide Tour",
-      "url": "https://www.songkick.com/concerts/43127666-disney-worlds-collide-tour-at-arena-cdmx",
-      "venue": "Arena CDMX",
-      "venue_url": "https://www.songkick.com/venues/1649258-arena-cdmx",
-      "location": "Arena CDMX,Mexico City, Mexico"
-    },
-    {
       "date": "2026-12-14",
       "source": "songkick",
       "artists": [
@@ -4421,6 +4301,18 @@
       "location": "La Maraka,Mexico City, Mexico"
     },
     {
+      "date": "2027-02-12",
+      "source": "songkick",
+      "artists": [
+        "Manoella Torres"
+      ],
+      "artist_display": "Manoella Torres",
+      "url": "https://www.songkick.com/concerts/43494479-manoella-torres-at-teatro-metropolitan",
+      "venue": "Teatro Metropólitan",
+      "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
+      "location": "Teatro Metropólitan,Mexico City, Mexico"
+    },
+    {
       "date": "2027-02-13",
       "source": "songkick",
       "artists": [
@@ -4868,6 +4760,18 @@
       "date": "2027-02-27",
       "source": "songkick",
       "artists": [
+        "DePedro"
+      ],
+      "artist_display": "DePedro",
+      "url": "https://www.songkick.com/concerts/43484757-depedro-at-foro-puebla",
+      "venue": "Foro Puebla",
+      "venue_url": "https://www.songkick.com/venues/4506135-foro-puebla",
+      "location": "Foro Puebla,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-02-27",
+      "source": "songkick",
+      "artists": [
         "agusfortnite2008 and Stiffy"
       ],
       "artist_display": "agusfortnite2008 and Stiffy",
@@ -4899,18 +4803,6 @@
       "venue": "Pabellón del Palacio de los Deportes",
       "venue_url": "https://www.songkick.com/venues/1551083-pabellon-del-palacio-de-los-deportes",
       "location": "Pabellón del Palacio de los Deportes,Mexico City, Mexico"
-    },
-    {
-      "date": "2027-02-27",
-      "source": "songkick",
-      "artists": [
-        "DePedro"
-      ],
-      "artist_display": "DePedro",
-      "url": "https://www.songkick.com/concerts/43484757-depedro-at-foro-puebla",
-      "venue": "Foro Puebla",
-      "venue_url": "https://www.songkick.com/venues/4506135-foro-puebla",
-      "location": "Foro Puebla,Mexico City, Mexico"
     },
     {
       "date": "2027-02-27",
@@ -5343,6 +5235,18 @@
       "venue": "Arena CDMX",
       "venue_url": "https://www.songkick.com/venues/1649258-arena-cdmx",
       "location": "Arena CDMX,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-04-08",
+      "source": "songkick",
+      "artists": [
+        "HabakAnnapura and Vinnum Sabbathi"
+      ],
+      "artist_display": "HabakAnnapura and Vinnum Sabbathi",
+      "url": "https://www.songkick.com/concerts/43494257-habak-at-gato-calavera",
+      "venue": "Gato Calavera",
+      "venue_url": "https://www.songkick.com/venues/1385981-gato-calavera",
+      "location": "Gato Calavera,Mexico City, Mexico"
     },
     {
       "date": "2027-04-10",
