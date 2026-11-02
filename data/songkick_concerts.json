@@ -1,117 +1,9 @@
 {
   "source": "songkick",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-11-01T12:43:05.217894Z",
-  "total_concerts": 492,
+  "scraped_at": "2026-11-02T14:49:52.957095Z",
+  "total_concerts": 486,
   "concerts": [
-    {
-      "date": "2026-10-30",
-      "source": "songkick",
-      "artists": [
-        "Goth Punx Festival 2026Sofia, Las Eras, Sexores, and S.D.H"
-      ],
-      "artist_display": "Goth Punx Festival 2026Sofia, Las Eras, Sexores, and S.D.H",
-      "url": "https://www.songkick.com/festivals/3803972-goth-punx/id/43400221-goth-punx-festival-2026",
-      "venue": "Foro Hendrix",
-      "venue_url": "https://www.songkick.com/venues/4629200-foro-hendrix",
-      "location": "Foro Hendrix,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-01",
-      "source": "songkick",
-      "artists": [
-        "Akira Yamaoka"
-      ],
-      "artist_display": "Akira Yamaoka",
-      "url": "https://www.songkick.com/concerts/43258305-akira-yamaoka-at-teatro-metropolitan",
-      "venue": "Teatro Metropólitan",
-      "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
-      "location": "Teatro Metropólitan,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-01",
-      "source": "songkick",
-      "artists": [
-        "Lila Downs"
-      ],
-      "artist_display": "Lila Downs",
-      "url": "https://www.songkick.com/concerts/43171492-lila-downs-at-auditorio-nacional",
-      "venue": "Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/34183-auditorio-nacional",
-      "location": "Auditorio Nacional,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-01",
-      "source": "songkick",
-      "artists": [
-        "Austin TVBelafonte Sensacional"
-      ],
-      "artist_display": "Austin TVBelafonte Sensacional",
-      "url": "https://www.songkick.com/concerts/43241727-austin-tv-at-polyforum-cultural-siqueiros",
-      "venue": "Polyforum Cultural Siqueiros",
-      "venue_url": "https://www.songkick.com/venues/79021-polyforum-cultural-siqueiros",
-      "location": "Polyforum Cultural Siqueiros,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-01",
-      "source": "songkick",
-      "artists": [
-        "1tbspCherry Chola, Chico Sonido, and Mau Moctezuma"
-      ],
-      "artist_display": "1tbspCherry Chola, Chico Sonido, and Mau Moctezuma",
-      "url": "https://www.songkick.com/concerts/43410202-1tbsp-at-antro-juan",
-      "venue": "Antro Juan",
-      "venue_url": "https://www.songkick.com/venues/4561848-antro-juan",
-      "location": "Antro Juan,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-01",
-      "source": "songkick",
-      "artists": [
-        "Margaritas PodridasSeñor Kino, Monde, and Monde(MX)"
-      ],
-      "artist_display": "Margaritas PodridasSeñor Kino, Monde, and Monde(MX)",
-      "url": "https://www.songkick.com/concerts/43423212-margaritas-podridas-at-fuck-off-room",
-      "venue": "FÜCK OFF ROOM",
-      "venue_url": "https://www.songkick.com/venues/4540201-fuck-off-room",
-      "location": "FÜCK OFF ROOM,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-01",
-      "source": "songkick",
-      "artists": [
-        "Grupo Compay Segundo"
-      ],
-      "artist_display": "Grupo Compay Segundo",
-      "url": "https://www.songkick.com/concerts/43385783-grupo-compay-segundo-at-teatro-de-la-ciudad-esperanza-iris",
-      "venue": "Teatro de la Ciudad Esperanza Iris",
-      "venue_url": "https://www.songkick.com/venues/2182854-teatro-de-la-ciudad-esperanza-iris",
-      "location": "Teatro de la Ciudad Esperanza Iris,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-01",
-      "source": "songkick",
-      "artists": [
-        "DISTEST and Los ViejosMuto Tapes, Serpyants, and Killer Wolf"
-      ],
-      "artist_display": "DISTEST and Los ViejosMuto Tapes, Serpyants, and Killer Wolf",
-      "url": "https://www.songkick.com/concerts/43337352-distest-at-parque-lira",
-      "venue": "Parque Lira",
-      "venue_url": "https://www.songkick.com/venues/4042179-parque-lira",
-      "location": "Parque Lira,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-01",
-      "source": "songkick",
-      "artists": [
-        "Festival Internacional Las Cuatro Casas 2026Los Pericos, Delinquent Habits, Allison, Los de Abajo, Tijuana No, Resorte, Silverio, and Sekta Core"
-      ],
-      "artist_display": "Festival Internacional Las Cuatro Casas 2026Los Pericos, Delinquent Habits, Allison, Los de Abajo, Tijuana No, Resorte, Silverio, and Sekta Core",
-      "url": "https://www.songkick.com/festivals/3811559-internacional-las-cuatro-casas/id/43488516-festival-internacional-las-cuatro-casas-2026",
-      "venue": "Parque Naucalli Foro Felipe Villanueva",
-      "venue_url": "https://www.songkick.com/venues/777776-parque-naucalli-foro-felipe-villanueva",
-      "location": "Parque Naucalli Foro Felipe Villanueva,Naucalpan, Mexico"
-    },
     {
       "date": "2026-11-02",
       "source": "songkick",
@@ -207,6 +99,18 @@
       "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
       "location": "Foro Indie Rocks!,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-11-04",
+      "source": "songkick",
+      "artists": [
+        "New Delicaumbrales"
+      ],
+      "artist_display": "New Delicaumbrales",
+      "url": "https://www.songkick.com/concerts/43494713-new-delica-at-rebel-rebel-el-club-del-rock-and-roll",
+      "venue": "Rebel Rebel / El Club del Rock & Roll",
+      "venue_url": "https://www.songkick.com/venues/4470855-rebel-rebel-el-club-del-rock-and-roll",
+      "location": "Rebel Rebel / El Club del Rock & Roll,Mexico City, Mexico"
     },
     {
       "date": "2026-11-05",
@@ -1100,9 +1004,9 @@
       "date": "2026-11-15",
       "source": "songkick",
       "artists": [
-        "Mägo de Oz"
+        "Mägo de OzTierra Santa"
       ],
-      "artist_display": "Mägo de Oz",
+      "artist_display": "Mägo de OzTierra Santa",
       "url": "https://www.songkick.com/concerts/42900834-mago-de-oz-at-arena-cdmx",
       "venue": "Arena CDMX",
       "venue_url": "https://www.songkick.com/venues/1649258-arena-cdmx",
@@ -2825,6 +2729,18 @@
       "location": "Lunario Del Auditorio Nacional,Mexico City, Mexico"
     },
     {
+      "date": "2026-12-09",
+      "source": "songkick",
+      "artists": [
+        "Chingadazo de Kung FuQ69k and Capitan Mutante"
+      ],
+      "artist_display": "Chingadazo de Kung FuQ69k and Capitan Mutante",
+      "url": "https://www.songkick.com/concerts/43494704-chingadazo-de-kung-fu-at-fuck-off-room",
+      "venue": "FÜCK OFF ROOM",
+      "venue_url": "https://www.songkick.com/venues/4540201-fuck-off-room",
+      "location": "FÜCK OFF ROOM,Mexico City, Mexico"
+    },
+    {
       "date": "2026-12-10",
       "source": "songkick",
       "artists": [
@@ -3639,6 +3555,18 @@
       "venue": "La Maraka",
       "venue_url": "https://www.songkick.com/venues/1076291-la-maraka",
       "location": "La Maraka,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-01-16",
+      "source": "songkick",
+      "artists": [
+        "13 anclasHipogrifos"
+      ],
+      "artist_display": "13 anclasHipogrifos",
+      "url": "https://www.songkick.com/concerts/43494711-13-anclas-at-gato-calavera",
+      "venue": "Gato Calavera",
+      "venue_url": "https://www.songkick.com/venues/1385981-gato-calavera",
+      "location": "Gato Calavera,Mexico City, Mexico"
     },
     {
       "date": "2027-01-18",

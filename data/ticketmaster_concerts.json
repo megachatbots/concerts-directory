@@ -1,55 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-11-01T12:43:08.863382Z",
-  "total_concerts": 409,
+  "scraped_at": "2026-11-02T14:49:56.573275Z",
+  "total_concerts": 408,
   "concerts": [
-    {
-      "date": "2026-11-01",
-      "source": "ticketmaster",
-      "artists": [
-        "Grupo Compay Segundo"
-      ],
-      "artist_display": "Grupo Compay Segundo",
-      "url": "https://www.ticketmaster.com.mx/grupo-compay-segundo-invitada-olga-cerpa-mexico-01-11-2026/event/3D006518BB0B38A1",
-      "ticket_url": "https://www.ticketmaster.com.mx/grupo-compay-segundo-invitada-olga-cerpa-mexico-01-11-2026/event/3D006518BB0B38A1",
-      "venue": "Teatro de la Ciudad Esperanza Iris",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "date": "2026-11-01",
-      "source": "ticketmaster",
-      "artists": [
-        "Lila Downs"
-      ],
-      "artist_display": "Lila Downs",
-      "url": "https://www.ticketmaster.com.mx/lila-downs-ciudad-de-mexico-01-11-2026/event/3D006491A1F453D1",
-      "ticket_url": "https://www.ticketmaster.com.mx/lila-downs-ciudad-de-mexico-01-11-2026/event/3D006491A1F453D1",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "date": "2026-11-01",
-      "source": "ticketmaster",
-      "artists": [
-        "Akira Yamaoka"
-      ],
-      "artist_display": "Akira Yamaoka",
-      "url": "https://www.ticketmaster.com.mx/akira-yamaoka-mexico-01-11-2026/event/140064BD28A071CC",
-      "ticket_url": "https://www.ticketmaster.com.mx/akira-yamaoka-mexico-01-11-2026/event/140064BD28A071CC",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Alternative Rock"
-      ]
-    },
     {
       "date": "2026-11-02",
       "source": "ticketmaster",
@@ -2801,6 +2755,21 @@
       ]
     },
     {
+      "date": "2026-11-27",
+      "source": "ticketmaster",
+      "artists": [
+        "Jaime Varela"
+      ],
+      "artist_display": "Jaime Varela",
+      "url": "https://www.ticketmaster.com.mx/cabaret-lunario-presenta-jaime-varela-el-ciudad-de-mexico-27-11-2026/event/3D00655E81C12277",
+      "ticket_url": "https://www.ticketmaster.com.mx/cabaret-lunario-presenta-jaime-varela-el-ciudad-de-mexico-27-11-2026/event/3D00655E81C12277",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Ballads/Romantic"
+      ]
+    },
+    {
       "date": "2026-11-28",
       "source": "ticketmaster",
       "artists": [
@@ -3101,6 +3070,21 @@
       "ticket_url": "https://www.ticketmaster.com.mx/nicho-hinojosa-platanito-mexico-28-11-2026/event/3D00642BB82E6C10",
       "venue": "La Maraka",
       "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "source": "ticketmaster",
+      "artists": [
+        "Jorge Muñiz"
+      ],
+      "artist_display": "Jorge Muñiz",
+      "url": "https://www.ticketmaster.com.mx/cabaret-lunario-presenta-jorge-muniz-con-ciudad-de-mexico-28-11-2026/event/3D00655684462D31",
+      "ticket_url": "https://www.ticketmaster.com.mx/cabaret-lunario-presenta-jorge-muniz-con-ciudad-de-mexico-28-11-2026/event/3D00655684462D31",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
       ]
@@ -5687,8 +5671,8 @@
         "Susana Zabaleta"
       ],
       "artist_display": "Susana Zabaleta",
-      "url": "https://www.ticketmaster.com.mx/susana-zabaleta-sinfonico-mexico-17-02-2027/event/1400652581042D6C",
-      "ticket_url": "https://www.ticketmaster.com.mx/susana-zabaleta-sinfonico-mexico-17-02-2027/event/1400652581042D6C",
+      "url": "https://www.ticketmaster.com.mx/zabaleta-sinfonica-mexico-17-02-2027/event/1400652581042D6C",
+      "ticket_url": "https://www.ticketmaster.com.mx/zabaleta-sinfonica-mexico-17-02-2027/event/1400652581042D6C",
       "venue": "Teatro Metropolitan",
       "location": "México, Ciudad de México, Mexico",
       "tags": [
