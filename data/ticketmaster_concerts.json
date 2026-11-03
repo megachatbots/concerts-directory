@@ -1,41 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-11-02T14:49:56.573275Z",
+  "scraped_at": "2026-11-03T13:40:23.004762Z",
   "total_concerts": 408,
   "concerts": [
-    {
-      "date": "2026-11-02",
-      "source": "ticketmaster",
-      "artists": [
-        "Michael Jackson Thriller Party"
-      ],
-      "artist_display": "Michael Jackson Thriller Party",
-      "url": "https://www.ticketmaster.com.mx/thriller-party-by-estefan-jackson-ciudad-de-mexico-02-11-2026/event/3D006518E80E5312",
-      "ticket_url": "https://www.ticketmaster.com.mx/thriller-party-by-estefan-jackson-ciudad-de-mexico-02-11-2026/event/3D006518E80E5312",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-11-02",
-      "source": "ticketmaster",
-      "artists": [
-        "John Maus"
-      ],
-      "artist_display": "John Maus",
-      "url": "https://www.ticketmaster.com.mx/john-maus-mexico-02-11-2026/event/3D006533E0CC612B",
-      "ticket_url": "https://www.ticketmaster.com.mx/john-maus-mexico-02-11-2026/event/3D006533E0CC612B",
-      "venue": "Teatro de la Ciudad Esperanza Iris",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Alternative Rock"
-      ]
-    },
     {
       "date": "2026-11-03",
       "source": "ticketmaster",
@@ -5524,6 +5492,22 @@
       ]
     },
     {
+      "date": "2027-02-10",
+      "source": "ticketmaster",
+      "artists": [
+        "HESSE KASSEL"
+      ],
+      "artist_display": "HESSE KASSEL",
+      "url": "https://www.ticketmaster.com.mx/hesse-kassel-gira-morir-saltando-ciudad-de-mexico-10-02-2027/event/3D006549FEC5AE96",
+      "ticket_url": "https://www.ticketmaster.com.mx/hesse-kassel-gira-morir-saltando-ciudad-de-mexico-10-02-2027/event/3D006549FEC5AE96",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
       "date": "2027-02-12",
       "source": "ticketmaster",
       "artists": [
@@ -6693,6 +6677,22 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2027-05-08",
+      "source": "ticketmaster",
+      "artists": [
+        "David Guetta"
+      ],
+      "artist_display": "David Guetta",
+      "url": "https://www.ticketmaster.com.mx/david-guetta-ciudad-de-mexico-08-05-2027/event/14006538B6C8B41D",
+      "ticket_url": "https://www.ticketmaster.com.mx/david-guetta-ciudad-de-mexico-08-05-2027/event/14006538B6C8B41D",
+      "venue": "Estadio GNP Seguros",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Dance/Electronic",
+        "Amapiano"
       ]
     },
     {

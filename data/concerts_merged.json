@@ -5,66 +5,9 @@
     "ticketmaster"
   ],
   "metro_area": "Mexico City",
-  "scraped_at": "2026-11-02T14:49:56.601952Z",
-  "total_concerts": 646,
+  "scraped_at": "2026-11-03T13:40:23.038483Z",
+  "total_concerts": 645,
   "concerts": [
-    {
-      "date": "2026-11-02",
-      "source": "songkick",
-      "artists": [
-        "John Maus"
-      ],
-      "artist_display": "John Maus",
-      "url": "https://www.songkick.com/concerts/43430724-john-maus-at-teatro-de-la-ciudad-esperanza-iris",
-      "venue": "Teatro de la Ciudad Esperanza Iris",
-      "venue_url": "https://www.songkick.com/venues/2182854-teatro-de-la-ciudad-esperanza-iris",
-      "location": "Teatro de la Ciudad Esperanza Iris,Mexico City, Mexico",
-      "ticket_url": "https://www.ticketmaster.com.mx/john-maus-mexico-02-11-2026/event/3D006533E0CC612B",
-      "tags": [
-        "Alternative Rock",
-        "Rock"
-      ]
-    },
-    {
-      "date": "2026-11-02",
-      "source": "songkick",
-      "artists": [
-        "Delinquent Habits"
-      ],
-      "artist_display": "Delinquent Habits",
-      "url": "https://www.songkick.com/concerts/43473773-delinquent-habits-at-fuck-off-room",
-      "venue": "FÜCK OFF ROOM",
-      "venue_url": "https://www.songkick.com/venues/4540201-fuck-off-room",
-      "location": "FÜCK OFF ROOM,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-02",
-      "source": "songkick",
-      "artists": [
-        "Hypnosis Therapy"
-      ],
-      "artist_display": "Hypnosis Therapy",
-      "url": "https://www.songkick.com/concerts/43454316-hypnosis-therapy-at-gato-calavera",
-      "venue": "Gato Calavera",
-      "venue_url": "https://www.songkick.com/venues/1385981-gato-calavera",
-      "location": "Gato Calavera,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-02",
-      "source": "ticketmaster",
-      "artists": [
-        "Michael Jackson Thriller Party"
-      ],
-      "artist_display": "Michael Jackson Thriller Party",
-      "url": "https://www.ticketmaster.com.mx/thriller-party-by-estefan-jackson-ciudad-de-mexico-02-11-2026/event/3D006518E80E5312",
-      "ticket_url": "https://www.ticketmaster.com.mx/thriller-party-by-estefan-jackson-ciudad-de-mexico-02-11-2026/event/3D006518E80E5312",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
     {
       "date": "2026-11-03",
       "source": "songkick",
@@ -457,18 +400,6 @@
       "date": "2026-11-06",
       "source": "songkick",
       "artists": [
-        "Lorenzo Senni"
-      ],
-      "artist_display": "Lorenzo Senni",
-      "url": "https://www.songkick.com/concerts/43451541-lorenzo-senni-at-mutek",
-      "venue": "MUTEK",
-      "venue_url": "https://www.songkick.com/venues/1974949-mutek",
-      "location": "MUTEK,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-06",
-      "source": "songkick",
-      "artists": [
         "Festival Núcleo 01 2026EL HARAGAN Y COMPAÑIA, Resorte, out of control army, Calaverx, Johnny Nasty Boots, Haragan Y Cia., Haragan, and El Haragan"
       ],
       "artist_display": "Festival Núcleo 01 2026EL HARAGAN Y COMPAÑIA, Resorte, out of control army, Calaverx, Johnny Nasty Boots, Haragan Y Cia., Haragan, and El Haragan",
@@ -476,6 +407,18 @@
       "venue": "Monumento a la Revolución",
       "venue_url": "https://www.songkick.com/venues/1334676-monumento-a-la-revolucion",
       "location": "Monumento a la Revolución,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-11-06",
+      "source": "songkick",
+      "artists": [
+        "For The Children 2026Xibalba, Raw Brigade, Barrio Slam, Worst Behavior, CUSTODIA, Beyond Repair, Ultima Victima, and Uno A Uno"
+      ],
+      "artist_display": "For The Children 2026Xibalba, Raw Brigade, Barrio Slam, Worst Behavior, CUSTODIA, Beyond Repair, Ultima Victima, and Uno A Uno",
+      "url": "https://www.songkick.com/festivals/1189213-for-the-children/id/43406233-for-the-children-2026",
+      "venue": "Foro El Mictlán",
+      "venue_url": "https://www.songkick.com/venues/4421426-foro-el-mictlan",
+      "location": "Foro El Mictlán,Mexico City, Mexico"
     },
     {
       "date": "2026-11-06",
@@ -549,18 +492,6 @@
       "date": "2026-11-07",
       "source": "songkick",
       "artists": [
-        "Hocico"
-      ],
-      "artist_display": "Hocico",
-      "url": "https://www.songkick.com/concerts/43443059-hocico-at-mesones72",
-      "venue": "Mesones72",
-      "venue_url": "https://www.songkick.com/venues/4580951-mesones72",
-      "location": "Mesones72,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-07",
-      "source": "songkick",
-      "artists": [
         "Dillom"
       ],
       "artist_display": "Dillom",
@@ -573,6 +504,18 @@
         "Hip-Hop/Rap",
         "Trap"
       ]
+    },
+    {
+      "date": "2026-11-07",
+      "source": "songkick",
+      "artists": [
+        "Hocico"
+      ],
+      "artist_display": "Hocico",
+      "url": "https://www.songkick.com/concerts/43443059-hocico-at-mesones72",
+      "venue": "Mesones72",
+      "venue_url": "https://www.songkick.com/venues/4580951-mesones72",
+      "location": "Mesones72,Mexico City, Mexico"
     },
     {
       "date": "2026-11-07",
@@ -1470,6 +1413,18 @@
       "date": "2026-11-14",
       "source": "songkick",
       "artists": [
+        "Eiko Ishibashi"
+      ],
+      "artist_display": "Eiko Ishibashi",
+      "url": "https://www.songkick.com/concerts/43447924-eiko-ishibashi-at-cineteca-nacional",
+      "venue": "Cineteca Nacional",
+      "venue_url": "https://www.songkick.com/venues/1320466-cineteca-nacional",
+      "location": "Cineteca Nacional,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-11-14",
+      "source": "songkick",
+      "artists": [
         "Fernando Delgadillo"
       ],
       "artist_display": "Fernando Delgadillo",
@@ -1482,18 +1437,6 @@
         "Trova",
         "World"
       ]
-    },
-    {
-      "date": "2026-11-14",
-      "source": "songkick",
-      "artists": [
-        "Eiko Ishibashi"
-      ],
-      "artist_display": "Eiko Ishibashi",
-      "url": "https://www.songkick.com/concerts/43447924-eiko-ishibashi-at-cineteca-nacional",
-      "venue": "Cineteca Nacional",
-      "venue_url": "https://www.songkick.com/venues/1320466-cineteca-nacional",
-      "location": "Cineteca Nacional,Mexico City, Mexico"
     },
     {
       "date": "2026-11-14",
@@ -4507,6 +4450,18 @@
     },
     {
       "date": "2026-12-06",
+      "source": "songkick",
+      "artists": [
+        "Perra BravaTórax y las Extremidades"
+      ],
+      "artist_display": "Perra BravaTórax y las Extremidades",
+      "url": "https://www.songkick.com/concerts/43495416-perra-brava-at-fuck-off-room",
+      "venue": "FÜCK OFF ROOM",
+      "venue_url": "https://www.songkick.com/venues/4540201-fuck-off-room",
+      "location": "FÜCK OFF ROOM,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-12-06",
       "source": "ticketmaster",
       "artists": [
         "Joy",
@@ -6993,6 +6948,23 @@
       ]
     },
     {
+      "date": "2027-02-10",
+      "source": "songkick",
+      "artists": [
+        "Hesse Kassel"
+      ],
+      "artist_display": "Hesse Kassel",
+      "url": "https://www.songkick.com/concerts/43496149-hesse-kassel-at-lunario-del-auditorio-nacional",
+      "venue": "Lunario Del Auditorio Nacional",
+      "venue_url": "https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional",
+      "location": "Lunario Del Auditorio Nacional,Mexico City, Mexico",
+      "ticket_url": "https://www.ticketmaster.com.mx/hesse-kassel-gira-morir-saltando-ciudad-de-mexico-10-02-2027/event/3D006549FEC5AE96",
+      "tags": [
+        "Pop",
+        "Rock"
+      ]
+    },
+    {
       "date": "2027-02-12",
       "source": "songkick",
       "artists": [
@@ -8893,6 +8865,23 @@
       "tags": [
         "Pop",
         "Rock"
+      ]
+    },
+    {
+      "date": "2027-05-08",
+      "source": "songkick",
+      "artists": [
+        "David Guetta"
+      ],
+      "artist_display": "David Guetta",
+      "url": "https://www.songkick.com/concerts/43496143-david-guetta-at-estadio-gnp-seguros",
+      "venue": "Estadio GNP Seguros",
+      "venue_url": "https://www.songkick.com/venues/33578-estadio-gnp-seguros",
+      "location": "Estadio GNP Seguros,Mexico City, Mexico",
+      "ticket_url": "https://www.ticketmaster.com.mx/david-guetta-ciudad-de-mexico-08-05-2027/event/14006538B6C8B41D",
+      "tags": [
+        "Amapiano",
+        "Dance/Electronic"
       ]
     },
     {
