@@ -1,57 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-11-03T13:40:23.004762Z",
-  "total_concerts": 408,
+  "scraped_at": "2026-11-04T13:49:09.203919Z",
+  "total_concerts": 413,
   "concerts": [
-    {
-      "date": "2026-11-03",
-      "source": "ticketmaster",
-      "artists": [
-        "Omar Courtz"
-      ],
-      "artist_display": "Omar Courtz",
-      "url": "https://www.ticketmaster.com.mx/omar-courtz-ciudad-de-mexico-03-11-2026/event/1400651CAB4CA615",
-      "ticket_url": "https://www.ticketmaster.com.mx/omar-courtz-ciudad-de-mexico-03-11-2026/event/1400651CAB4CA615",
-      "venue": "Palacio de los Deportes",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Hip-Hop/Rap",
-        "Trap"
-      ]
-    },
-    {
-      "date": "2026-11-03",
-      "source": "ticketmaster",
-      "artists": [
-        "Leire Martínez"
-      ],
-      "artist_display": "Leire Martínez",
-      "url": "https://www.ticketmaster.com.mx/leire-martinez-mexico-03-11-2026/event/140064BB849A66DF",
-      "ticket_url": "https://www.ticketmaster.com.mx/leire-martinez-mexico-03-11-2026/event/140064BB849A66DF",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-11-03",
-      "source": "ticketmaster",
-      "artists": [
-        "Liana Flores"
-      ],
-      "artist_display": "Liana Flores",
-      "url": "https://www.ticketmaster.com.mx/liana-flores-ciudad-de-mexico-03-11-2026/event/3D0064D78CB61055",
-      "ticket_url": "https://www.ticketmaster.com.mx/liana-flores-ciudad-de-mexico-03-11-2026/event/3D0064D78CB61055",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Folk",
-        "Indie Folk"
-      ]
-    },
     {
       "date": "2026-11-05",
       "source": "ticketmaster",
@@ -2020,6 +1972,21 @@
       "date": "2026-11-21",
       "source": "ticketmaster",
       "artists": [
+        "El Gran Showman (The Greatest Showman) Movie Concert"
+      ],
+      "artist_display": "El Gran Showman (The Greatest Showman) Movie Concert",
+      "url": "https://www.ticketmaster.com.mx/el-gran-showman-the-greatest-showman-mexico-21-11-2026/event/3D006562F2FE87C1",
+      "ticket_url": "https://www.ticketmaster.com.mx/el-gran-showman-the-greatest-showman-mexico-21-11-2026/event/3D006562F2FE87C1",
+      "venue": "Teatro Xola Julio Prieto",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "source": "ticketmaster",
+      "artists": [
         "Sala Principal Bellas Artes"
       ],
       "artist_display": "Sala Principal Bellas Artes",
@@ -2138,6 +2105,21 @@
       "tags": [
         "Rock",
         "Pop"
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "source": "ticketmaster",
+      "artists": [
+        "El Gran Showman (The Greatest Showman) Movie Concert"
+      ],
+      "artist_display": "El Gran Showman (The Greatest Showman) Movie Concert",
+      "url": "https://www.ticketmaster.com.mx/el-gran-showman-the-greatest-showman-mexico-21-11-2026/event/3D006562F30587CA",
+      "ticket_url": "https://www.ticketmaster.com.mx/el-gran-showman-the-greatest-showman-mexico-21-11-2026/event/3D006562F30587CA",
+      "venue": "Teatro Xola Julio Prieto",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
       ]
     },
     {
@@ -2709,6 +2691,22 @@
       "date": "2026-11-27",
       "source": "ticketmaster",
       "artists": [
+        "La Cantadera"
+      ],
+      "artist_display": "La Cantadera",
+      "url": "https://www.ticketmaster.com.mx/la-cantadera-ciudad-de-mexico-27-11-2026/event/3D006514C2BF6274",
+      "ticket_url": "https://www.ticketmaster.com.mx/la-cantadera-ciudad-de-mexico-27-11-2026/event/3D006514C2BF6274",
+      "venue": "Foro Stelaris Fiesta Americana Reforma",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "source": "ticketmaster",
+      "artists": [
         "Kudai",
         "Nikki Clan"
       ],
@@ -2895,6 +2893,21 @@
       "date": "2026-11-28",
       "source": "ticketmaster",
       "artists": [
+        "El Gran Showman (The Greatest Showman) Movie Concert"
+      ],
+      "artist_display": "El Gran Showman (The Greatest Showman) Movie Concert",
+      "url": "https://www.ticketmaster.com.mx/el-gran-showman-the-greatest-showman-mexico-28-11-2026/event/3D006562F30687CC",
+      "ticket_url": "https://www.ticketmaster.com.mx/el-gran-showman-the-greatest-showman-mexico-28-11-2026/event/3D006562F30687CC",
+      "venue": "Teatro Xola Julio Prieto",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "source": "ticketmaster",
+      "artists": [
         "La Bruja de Texcoco"
       ],
       "artist_display": "La Bruja de Texcoco",
@@ -3009,6 +3022,21 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "source": "ticketmaster",
+      "artists": [
+        "El Gran Showman (The Greatest Showman) Movie Concert"
+      ],
+      "artist_display": "El Gran Showman (The Greatest Showman) Movie Concert",
+      "url": "https://www.ticketmaster.com.mx/el-gran-showman-the-greatest-showman-mexico-28-11-2026/event/3D006562F30787D1",
+      "ticket_url": "https://www.ticketmaster.com.mx/el-gran-showman-the-greatest-showman-mexico-28-11-2026/event/3D006562F30787D1",
+      "venue": "Teatro Xola Julio Prieto",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
       ]
     },
     {
@@ -3292,6 +3320,21 @@
       "date": "2026-11-29",
       "source": "ticketmaster",
       "artists": [
+        "Cómo Entrenar a tu Dragón, Movie Concert"
+      ],
+      "artist_display": "Cómo Entrenar a tu Dragón, Movie Concert",
+      "url": "https://www.ticketmaster.com.mx/como-entrenar-a-tu-dragon-movie-mexico-29-11-2026/event/3D006562F54289A5",
+      "ticket_url": "https://www.ticketmaster.com.mx/como-entrenar-a-tu-dragon-movie-mexico-29-11-2026/event/3D006562F54289A5",
+      "venue": "Teatro Xola Julio Prieto",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
+      ]
+    },
+    {
+      "date": "2026-11-29",
+      "source": "ticketmaster",
+      "artists": [
         "Flow Fest",
         "Ozuna",
         "Kali Uchis",
@@ -3416,6 +3459,21 @@
       "ticket_url": "https://www.ticketmaster.com.mx/individual-general-coca-flow-fest-2026-mexico-29-11-2026/event/140064ACB5838443",
       "venue": "Autodromo Hnos. Rodriguez",
       "location": "México, Ciudad de México, Mexico"
+    },
+    {
+      "date": "2026-11-29",
+      "source": "ticketmaster",
+      "artists": [
+        "Cómo Entrenar a tu Dragón, Movie Concert"
+      ],
+      "artist_display": "Cómo Entrenar a tu Dragón, Movie Concert",
+      "url": "https://www.ticketmaster.com.mx/como-entrenar-a-tu-dragon-movie-mexico-29-11-2026/event/3D006562F54C89AF",
+      "ticket_url": "https://www.ticketmaster.com.mx/como-entrenar-a-tu-dragon-movie-mexico-29-11-2026/event/3D006562F54C89AF",
+      "venue": "Teatro Xola Julio Prieto",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
+      ]
     },
     {
       "date": "2026-11-29",
@@ -6939,6 +6997,22 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2027-07-10",
+      "source": "ticketmaster",
+      "artists": [
+        "Sho-Hai"
+      ],
+      "artist_display": "Sho-Hai",
+      "url": "https://www.ticketmaster.com.mx/shohai-mexico-10-07-2027/event/14006555DE5CE881",
+      "ticket_url": "https://www.ticketmaster.com.mx/shohai-mexico-10-07-2027/event/14006555DE5CE881",
+      "venue": "Pabellón del Palacio de los Deportes",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Hip-Hop/Rap",
+        "Trap"
       ]
     },
     {
