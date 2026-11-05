@@ -1,8 +1,8 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-11-04T13:49:09.203919Z",
-  "total_concerts": 413,
+  "scraped_at": "2026-11-05T14:01:42.466491Z",
+  "total_concerts": 418,
   "concerts": [
     {
       "date": "2026-11-05",
@@ -2456,6 +2456,21 @@
       "date": "2026-11-26",
       "source": "ticketmaster",
       "artists": [
+        "Tributo Sinfonico Tim Burton"
+      ],
+      "artist_display": "Tributo Sinfonico Tim Burton",
+      "url": "https://www.ticketmaster.com.mx/tributo-sinfonico-tim-burton-mexico-26-11-2026/event/3D006564BAB2921B",
+      "ticket_url": "https://www.ticketmaster.com.mx/tributo-sinfonico-tim-burton-mexico-26-11-2026/event/3D006564BAB2921B",
+      "venue": "Foro Red Access",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "source": "ticketmaster",
+      "artists": [
         "Fado"
       ],
       "artist_display": "Fado",
@@ -2542,6 +2557,21 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "source": "ticketmaster",
+      "artists": [
+        "Homenaje Definitvo a Las Leyendas"
+      ],
+      "artist_display": "Homenaje Definitvo a Las Leyendas",
+      "url": "https://www.ticketmaster.com.mx/homenaje-definitvo-a-las-leyendas-mexico-26-11-2026/event/3D006564C0E39A86",
+      "ticket_url": "https://www.ticketmaster.com.mx/homenaje-definitvo-a-las-leyendas-mexico-26-11-2026/event/3D006564C0E39A86",
+      "venue": "Foro Red Access",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
       ]
     },
     {
@@ -3823,6 +3853,18 @@
         "I Love Dance"
       ],
       "artist_display": "I Love Dance",
+      "url": "https://www.ticketmaster.com.mx/i-love-dance-cdmx-palcos-ciudad-de-mexico-05-12-2026/event/3D00655F80FE29E5",
+      "ticket_url": "https://www.ticketmaster.com.mx/i-love-dance-cdmx-palcos-ciudad-de-mexico-05-12-2026/event/3D00655F80FE29E5",
+      "venue": "Estadio Alfredo Harp Helú",
+      "location": "Ciudad de México, Ciudad de México, Mexico"
+    },
+    {
+      "date": "2026-12-05",
+      "source": "ticketmaster",
+      "artists": [
+        "I Love Dance"
+      ],
+      "artist_display": "I Love Dance",
       "url": "https://www.ticketmaster.com.mx/i-love-dance-cdmx-ciudad-de-mexico-05-12-2026/event/3D0065128FE12400",
       "ticket_url": "https://www.ticketmaster.com.mx/i-love-dance-cdmx-ciudad-de-mexico-05-12-2026/event/3D0065128FE12400",
       "venue": "Estadio Alfredo Harp Helú",
@@ -4575,6 +4617,21 @@
       "date": "2026-12-19",
       "source": "ticketmaster",
       "artists": [
+        "The King Experience  Elvis Presley by Evan Dos Épocas, Una Leyenda"
+      ],
+      "artist_display": "The King Experience  Elvis Presley by Evan Dos Épocas, Una Leyenda",
+      "url": "https://www.ticketmaster.com.mx/the-king-experience-elvis-presley-by-mexico-19-12-2026/event/3D006564C2549C80",
+      "ticket_url": "https://www.ticketmaster.com.mx/the-king-experience-elvis-presley-by-mexico-19-12-2026/event/3D006564C2549C80",
+      "venue": "Foro Red Access",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
+      ]
+    },
+    {
+      "date": "2026-12-19",
+      "source": "ticketmaster",
+      "artists": [
         "Fernando Delgadillo y Alejandro Filio"
       ],
       "artist_display": "Fernando Delgadillo y Alejandro Filio",
@@ -5208,22 +5265,6 @@
       "location": "México, Ciudad de México, Mexico",
       "tags": [
         "Ballads/Romantic"
-      ]
-    },
-    {
-      "date": "2027-01-31",
-      "source": "ticketmaster",
-      "artists": [
-        "EVENTO PRUEBA"
-      ],
-      "artist_display": "EVENTO PRUEBA",
-      "url": "https://www.ticketmaster.com.mx/evento-prueba-iztacalco-31-01-2027/event/3D0064F0C57860B6",
-      "ticket_url": "https://www.ticketmaster.com.mx/evento-prueba-iztacalco-31-01-2027/event/3D0064F0C57860B6",
-      "venue": "Estadio Ticketmaster México",
-      "location": "Iztacalco, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Alternative Rock"
       ]
     },
     {
@@ -6379,6 +6420,22 @@
       "date": "2027-03-24",
       "source": "ticketmaster",
       "artists": [
+        "Leon Bridges"
+      ],
+      "artist_display": "Leon Bridges",
+      "url": "https://www.ticketmaster.com.mx/leon-bridges-presents-the-happiness-anytime-mexico-24-03-2027/event/140065589E8F3F05",
+      "ticket_url": "https://www.ticketmaster.com.mx/leon-bridges-presents-the-happiness-anytime-mexico-24-03-2027/event/140065589E8F3F05",
+      "venue": "Teatro Metropolitan",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "R&B",
+        "Soul"
+      ]
+    },
+    {
+      "date": "2027-03-24",
+      "source": "ticketmaster",
+      "artists": [
         "Les Légendes de la Salsa - Hommage à Héctor Lavoe"
       ],
       "artist_display": "Les Légendes de la Salsa - Hommage à Héctor Lavoe",
@@ -6531,6 +6588,21 @@
       "tags": [
         "Rock",
         "Pop"
+      ]
+    },
+    {
+      "date": "2027-04-10",
+      "source": "ticketmaster",
+      "artists": [
+        "YOSHI"
+      ],
+      "artist_display": "YOSHI",
+      "url": "https://www.ticketmaster.com.mx/yoshi-ciudad-de-mexico-10-04-2027/event/3D006555F2BA9E48",
+      "ticket_url": "https://www.ticketmaster.com.mx/yoshi-ciudad-de-mexico-10-04-2027/event/3D006555F2BA9E48",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
       ]
     },
     {

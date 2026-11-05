@@ -1,44 +1,20 @@
 {
   "source": "songkick",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-11-04T13:49:05.421689Z",
-  "total_concerts": 488,
+  "scraped_at": "2026-11-05T14:01:38.782258Z",
+  "total_concerts": 493,
   "concerts": [
     {
       "date": "2026-11-04",
       "source": "songkick",
       "artists": [
-        "Odisseo"
+        "MusicMex 2026TATYANA, Hypnosis Therapy, Hannah Storm, Ale Aguirre, Charly Gynn, Buka, Mirror Revelations, and Marion Raw"
       ],
-      "artist_display": "Odisseo",
-      "url": "https://www.songkick.com/concerts/43491446-odisseo-at-house-of-vans",
-      "venue": "House of Vans",
-      "venue_url": "https://www.songkick.com/venues/3083404-house-of-vans",
-      "location": "House of Vans,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-04",
-      "source": "songkick",
-      "artists": [
-        "headache (UK)amr* (USA) and ARTHUR (US)"
-      ],
-      "artist_display": "headache (UK)amr* (USA) and ARTHUR (US)",
-      "url": "https://www.songkick.com/concerts/43369644-headache-uk-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks!",
-      "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks!,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-04",
-      "source": "songkick",
-      "artists": [
-        "New Delicaumbrales"
-      ],
-      "artist_display": "New Delicaumbrales",
-      "url": "https://www.songkick.com/concerts/43494713-new-delica-at-rebel-rebel-el-club-del-rock-and-roll",
-      "venue": "Rebel Rebel / El Club del Rock & Roll",
-      "venue_url": "https://www.songkick.com/venues/4470855-rebel-rebel-el-club-del-rock-and-roll",
-      "location": "Rebel Rebel / El Club del Rock & Roll,Mexico City, Mexico"
+      "artist_display": "MusicMex 2026TATYANA, Hypnosis Therapy, Hannah Storm, Ale Aguirre, Charly Gynn, Buka, Mirror Revelations, and Marion Raw",
+      "url": "https://www.songkick.com/festivals/3812619-musicmex/id/43499699-musicmex-2026",
+      "venue": "Bajo Circuito Multiforo Urbano",
+      "venue_url": "https://www.songkick.com/venues/4335163-bajo-circuito-multiforo-urbano",
+      "location": "Bajo Circuito Multiforo Urbano,Mexico City, Mexico"
     },
     {
       "date": "2026-11-05",
@@ -104,13 +80,13 @@
       "date": "2026-11-05",
       "source": "songkick",
       "artists": [
-        "Bronze Nazareth, DJ Eyeball, and Kurt SolidAchepe, Racal Tresvecestres, Ana MC, and Perro Zw"
+        "Lng/Sht"
       ],
-      "artist_display": "Bronze Nazareth, DJ Eyeball, and Kurt SolidAchepe, Racal Tresvecestres, Ana MC, and Perro Zw",
-      "url": "https://www.songkick.com/concerts/43390469-bronze-nazareth-at-fuck-off-room",
-      "venue": "FÜCK OFF ROOM",
-      "venue_url": "https://www.songkick.com/venues/4540201-fuck-off-room",
-      "location": "FÜCK OFF ROOM,Mexico City, Mexico"
+      "artist_display": "Lng/Sht",
+      "url": "https://www.songkick.com/concerts/43497478-lngsht-at-foro-cultural-hilvana",
+      "venue": "Foro Cultural Hilvana",
+      "venue_url": "https://www.songkick.com/venues/4071029-foro-cultural-hilvana",
+      "location": "Foro Cultural Hilvana,Mexico City, Mexico"
     },
     {
       "date": "2026-11-05",
@@ -123,6 +99,18 @@
       "venue": "Central Granada 67",
       "venue_url": "https://www.songkick.com/venues/4620979-central-granada-67",
       "location": "Central Granada 67,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-11-05",
+      "source": "songkick",
+      "artists": [
+        "Bronze Nazareth, DJ Eyeball, and Kurt SolidAchepe, Racal Tresvecestres, Ana MC, and Perro Zw"
+      ],
+      "artist_display": "Bronze Nazareth, DJ Eyeball, and Kurt SolidAchepe, Racal Tresvecestres, Ana MC, and Perro Zw",
+      "url": "https://www.songkick.com/concerts/43390469-bronze-nazareth-at-fuck-off-room",
+      "venue": "FÜCK OFF ROOM",
+      "venue_url": "https://www.songkick.com/venues/4540201-fuck-off-room",
+      "location": "FÜCK OFF ROOM,Mexico City, Mexico"
     },
     {
       "date": "2026-11-05",
@@ -149,24 +137,12 @@
       "location": "House of Vans,Mexico City, Mexico"
     },
     {
-      "date": "2026-11-05",
-      "source": "songkick",
-      "artists": [
-        "Lng/Sht"
-      ],
-      "artist_display": "Lng/Sht",
-      "url": "https://www.songkick.com/concerts/43497478-lngsht-at-foro-cultural-hilvana",
-      "venue": "Foro Cultural Hilvana",
-      "venue_url": "https://www.songkick.com/venues/4071029-foro-cultural-hilvana",
-      "location": "Foro Cultural Hilvana,Mexico City, Mexico"
-    },
-    {
       "date": "2026-11-06",
       "source": "songkick",
       "artists": [
-        "Mac DeMarco"
+        "Mac DeMarcoConnan Mockasin"
       ],
-      "artist_display": "Mac DeMarco",
+      "artist_display": "Mac DeMarcoConnan Mockasin",
       "url": "https://www.songkick.com/concerts/43098444-mac-demarco-at-quarry-studios",
       "venue": "Quarry Studios",
       "venue_url": "https://www.songkick.com/venues/4104554-quarry-studios",
@@ -677,6 +653,18 @@
       "location": "ESSEX CLUB,Mexico City, Mexico"
     },
     {
+      "date": "2026-11-12",
+      "source": "songkick",
+      "artists": [
+        "Andy MoorVLIND and Ramiro Puente"
+      ],
+      "artist_display": "Andy MoorVLIND and Ramiro Puente",
+      "url": "https://www.songkick.com/concerts/43499565-andy-moor-at-looloo",
+      "venue": "LooLoo",
+      "venue_url": "https://www.songkick.com/venues/3769259-looloo",
+      "location": "LooLoo,Mexico City, Mexico"
+    },
+    {
       "date": "2026-11-13",
       "source": "songkick",
       "artists": [
@@ -788,13 +776,13 @@
       "date": "2026-11-13",
       "source": "songkick",
       "artists": [
-        "Reyno"
+        "Ayax y Prok"
       ],
-      "artist_display": "Reyno",
-      "url": "https://www.songkick.com/concerts/43181583-reyno-at-doppler",
-      "venue": "Doppler",
-      "venue_url": "https://www.songkick.com/venues/2928958-doppler",
-      "location": "Doppler,Texcoco, Mexico"
+      "artist_display": "Ayax y Prok",
+      "url": "https://www.songkick.com/concerts/43497488-ayax-y-prok-at-hdx-circus-bar",
+      "venue": "HDX Circus Bar",
+      "venue_url": "https://www.songkick.com/venues/3875309-hdx-circus-bar",
+      "location": "HDX Circus Bar,Mexico City, Mexico"
     },
     {
       "date": "2026-11-14",
@@ -1265,6 +1253,30 @@
       "location": "Mambo Cafe Insurgentes,Mexico City, Mexico"
     },
     {
+      "date": "2026-11-19",
+      "source": "songkick",
+      "artists": [
+        "DOR DANINO"
+      ],
+      "artist_display": "DOR DANINO",
+      "url": "https://www.songkick.com/concerts/43499572-dor-danino-at-looloo",
+      "venue": "LooLoo",
+      "venue_url": "https://www.songkick.com/venues/3769259-looloo",
+      "location": "LooLoo,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-11-19",
+      "source": "songkick",
+      "artists": [
+        "Annapura"
+      ],
+      "artist_display": "Annapura",
+      "url": "https://www.songkick.com/concerts/43500382-annapura-at-foro-bizarro",
+      "venue": "Foro Bizarro",
+      "venue_url": "https://www.songkick.com/venues/3229244-foro-bizarro",
+      "location": "Foro Bizarro,Mexico City, Mexico"
+    },
+    {
       "date": "2026-11-20",
       "source": "songkick",
       "artists": [
@@ -1424,9 +1436,9 @@
       "date": "2026-11-21",
       "source": "songkick",
       "artists": [
-        "D.R.I."
+        "D.R.I.Acidez"
       ],
-      "artist_display": "D.R.I.",
+      "artist_display": "D.R.I.Acidez",
       "url": "https://www.songkick.com/concerts/43281886-dri-at-circo-volador",
       "venue": "Circo Volador",
       "venue_url": "https://www.songkick.com/venues/49859-circo-volador",
@@ -1712,18 +1724,6 @@
       "date": "2026-11-26",
       "source": "songkick",
       "artists": [
-        "Helado Negro"
-      ],
-      "artist_display": "Helado Negro",
-      "url": "https://www.songkick.com/concerts/43283393-helado-negro-at-lunario-del-auditorio-nacional",
-      "venue": "Lunario Del Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional",
-      "location": "Lunario Del Auditorio Nacional,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-26",
-      "source": "songkick",
-      "artists": [
         "CocoRosie"
       ],
       "artist_display": "CocoRosie",
@@ -1731,6 +1731,18 @@
       "venue": "Auditorio BB",
       "venue_url": "https://www.songkick.com/venues/1683588-auditorio-bb",
       "location": "Auditorio BB,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-11-26",
+      "source": "songkick",
+      "artists": [
+        "Helado Negro"
+      ],
+      "artist_display": "Helado Negro",
+      "url": "https://www.songkick.com/concerts/43283393-helado-negro-at-lunario-del-auditorio-nacional",
+      "venue": "Lunario Del Auditorio Nacional",
+      "venue_url": "https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional",
+      "location": "Lunario Del Auditorio Nacional,Mexico City, Mexico"
     },
     {
       "date": "2026-11-26",
@@ -1904,9 +1916,9 @@
       "date": "2026-11-27",
       "source": "songkick",
       "artists": [
-        "Insite"
+        "Insitejoliette and Budha"
       ],
-      "artist_display": "Insite",
+      "artist_display": "Insitejoliette and Budha",
       "url": "https://www.songkick.com/concerts/43456703-insite-at-pabellon-del-palacio-de-los-deportes",
       "venue": "Pabellón del Palacio de los Deportes",
       "venue_url": "https://www.songkick.com/venues/1551083-pabellon-del-palacio-de-los-deportes",
@@ -2924,13 +2936,13 @@
       "date": "2026-12-12",
       "source": "songkick",
       "artists": [
-        "Bengala"
+        "GUFIGengibre"
       ],
-      "artist_display": "Bengala",
-      "url": "https://www.songkick.com/concerts/43460618-bengala-at-foro-a",
-      "venue": "Foro A",
-      "venue_url": "https://www.songkick.com/venues/1516898-foro-a",
-      "location": "Foro A,Tlalnepantla, Mexico"
+      "artist_display": "GUFIGengibre",
+      "url": "https://www.songkick.com/concerts/43428183-gufi-at-foro-indie-rocks",
+      "venue": "Foro Indie Rocks!",
+      "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
     },
     {
       "date": "2026-12-12",
@@ -3881,6 +3893,18 @@
       "location": "Circo Volador,Mexico City, Mexico"
     },
     {
+      "date": "2027-01-31",
+      "source": "songkick",
+      "artists": [
+        "QUAL"
+      ],
+      "artist_display": "QUAL",
+      "url": "https://www.songkick.com/concerts/43500400-qual-at-multiforo-alicia",
+      "venue": "Multiforo Alicia",
+      "venue_url": "https://www.songkick.com/venues/120456-multiforo-alicia",
+      "location": "Multiforo Alicia,Mexico City, Mexico"
+    },
+    {
       "date": "2027-02-01",
       "source": "songkick",
       "artists": [
@@ -4220,18 +4244,6 @@
       "date": "2027-02-13",
       "source": "songkick",
       "artists": [
-        "DeceitsOmar Doom and dark chisme"
-      ],
-      "artist_display": "DeceitsOmar Doom and dark chisme",
-      "url": "https://www.songkick.com/concerts/43411140-deceits-at-multiforo-alicia",
-      "venue": "Multiforo Alicia",
-      "venue_url": "https://www.songkick.com/venues/120456-multiforo-alicia",
-      "location": "Multiforo Alicia,Mexico City, Mexico"
-    },
-    {
-      "date": "2027-02-13",
-      "source": "songkick",
-      "artists": [
         "Nonpalidece"
       ],
       "artist_display": "Nonpalidece",
@@ -4239,6 +4251,18 @@
       "venue": "House of Vans",
       "venue_url": "https://www.songkick.com/venues/3083404-house-of-vans",
       "location": "House of Vans,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-02-13",
+      "source": "songkick",
+      "artists": [
+        "DeceitsOmar Doom and dark chisme"
+      ],
+      "artist_display": "DeceitsOmar Doom and dark chisme",
+      "url": "https://www.songkick.com/concerts/43411140-deceits-at-multiforo-alicia",
+      "venue": "Multiforo Alicia",
+      "venue_url": "https://www.songkick.com/venues/120456-multiforo-alicia",
+      "location": "Multiforo Alicia,Mexico City, Mexico"
     },
     {
       "date": "2027-02-13",
@@ -4904,6 +4928,18 @@
       "date": "2027-03-12",
       "source": "songkick",
       "artists": [
+        "Cancer Bats"
+      ],
+      "artist_display": "Cancer Bats",
+      "url": "https://www.songkick.com/concerts/43499910-cancer-bats-at-gato-calavera",
+      "venue": "Gato Calavera",
+      "venue_url": "https://www.songkick.com/venues/1385981-gato-calavera",
+      "location": "Gato Calavera,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-03-12",
+      "source": "songkick",
+      "artists": [
         "Belén Aguilera"
       ],
       "artist_display": "Belén Aguilera",
@@ -5031,6 +5067,18 @@
       "venue": "Pepsi Center WTC",
       "venue_url": "https://www.songkick.com/venues/1774303-pepsi-center-wtc",
       "location": "Pepsi Center WTC,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-03-24",
+      "source": "songkick",
+      "artists": [
+        "Leon Bridges"
+      ],
+      "artist_display": "Leon Bridges",
+      "url": "https://www.songkick.com/concerts/43500504-leon-bridges-at-teatro-metropolitan",
+      "venue": "Teatro Metropólitan",
+      "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
+      "location": "Teatro Metropólitan,Mexico City, Mexico"
     },
     {
       "date": "2027-03-25",
@@ -5163,6 +5211,18 @@
       "venue": "Multiforo Alicia",
       "venue_url": "https://www.songkick.com/venues/120456-multiforo-alicia",
       "location": "Multiforo Alicia,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-04-10",
+      "source": "songkick",
+      "artists": [
+        "Yoshi"
+      ],
+      "artist_display": "Yoshi",
+      "url": "https://www.songkick.com/concerts/43500509-yoshi-at-lunario-del-auditorio-nacional",
+      "venue": "Lunario Del Auditorio Nacional",
+      "venue_url": "https://www.songkick.com/venues/80204-lunario-del-auditorio-nacional",
+      "location": "Lunario Del Auditorio Nacional,Mexico City, Mexico"
     },
     {
       "date": "2027-04-13",
@@ -5648,9 +5708,9 @@
       "date": "2027-06-06",
       "source": "songkick",
       "artists": [
-        "Equilibrium"
+        "EquilibriumSense of Noise"
       ],
-      "artist_display": "Equilibrium",
+      "artist_display": "EquilibriumSense of Noise",
       "url": "https://www.songkick.com/concerts/43466979-equilibrium-at-gato-calavera",
       "venue": "Gato Calavera",
       "venue_url": "https://www.songkick.com/venues/1385981-gato-calavera",
