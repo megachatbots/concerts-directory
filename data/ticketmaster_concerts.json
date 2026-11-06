@@ -1,136 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-11-05T14:01:42.466491Z",
-  "total_concerts": 418,
+  "scraped_at": "2026-11-06T13:46:55.171039Z",
+  "total_concerts": 415,
   "concerts": [
-    {
-      "date": "2026-11-05",
-      "source": "ticketmaster",
-      "artists": [
-        "ROCK-TONY-TLÁN la noche del rock mexicano"
-      ],
-      "artist_display": "ROCK-TONY-TLÁN la noche del rock mexicano",
-      "url": "https://www.ticketmaster.com.mx/rocktonytlan-la-noche-del-rock-mexicano-mexico-05-11-2026/event/3D00650CAC5E39AA",
-      "ticket_url": "https://www.ticketmaster.com.mx/rocktonytlan-la-noche-del-rock-mexicano-mexico-05-11-2026/event/3D00650CAC5E39AA",
-      "venue": "Teatro de la Ciudad Esperanza Iris",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Alternative Rock"
-      ]
-    },
-    {
-      "date": "2026-11-05",
-      "source": "ticketmaster",
-      "artists": [
-        "Peces Raros"
-      ],
-      "artist_display": "Peces Raros",
-      "url": "https://www.ticketmaster.com.mx/peces-raros-mexico-05-11-2026/event/140064AEE70C5CDE",
-      "ticket_url": "https://www.ticketmaster.com.mx/peces-raros-mexico-05-11-2026/event/140064AEE70C5CDE",
-      "venue": "Auditorio BB",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Dance/Electronic",
-        "Amapiano"
-      ]
-    },
-    {
-      "date": "2026-11-05",
-      "source": "ticketmaster",
-      "artists": [
-        "EMJAY"
-      ],
-      "artist_display": "EMJAY",
-      "url": "https://www.ticketmaster.com.mx/emjay-mexico-05-11-2026/event/140064AEBBFACCDE",
-      "ticket_url": "https://www.ticketmaster.com.mx/emjay-mexico-05-11-2026/event/140064AEBBFACCDE",
-      "venue": "Pabellón del Palacio de los Deportes",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Dance/Electronic",
-        "Amapiano"
-      ]
-    },
-    {
-      "date": "2026-11-05",
-      "source": "ticketmaster",
-      "artists": [
-        "Aitana"
-      ],
-      "artist_display": "Aitana",
-      "url": "https://www.ticketmaster.com.mx/aitana-ciudad-de-mexico-05-11-2026/event/3D0064FA9D133590",
-      "ticket_url": "https://www.ticketmaster.com.mx/aitana-ciudad-de-mexico-05-11-2026/event/3D0064FA9D133590",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-11-05",
-      "source": "ticketmaster",
-      "artists": [
-        "Puma Blue"
-      ],
-      "artist_display": "Puma Blue",
-      "url": "https://www.ticketmaster.com.mx/puma-blue-mexico-05-11-2026/event/140064BDFE37EE05",
-      "ticket_url": "https://www.ticketmaster.com.mx/puma-blue-mexico-05-11-2026/event/140064BDFE37EE05",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Alternative Rock"
-      ]
-    },
-    {
-      "date": "2026-11-05",
-      "source": "ticketmaster",
-      "artists": [
-        "Dillom"
-      ],
-      "artist_display": "Dillom",
-      "url": "https://www.ticketmaster.com.mx/dillom-noches-violentas-mexico-05-11-2026/event/3D00651A907D2DD3",
-      "ticket_url": "https://www.ticketmaster.com.mx/dillom-noches-violentas-mexico-05-11-2026/event/3D00651A907D2DD3",
-      "venue": "Foro Puebla",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Hip-Hop/Rap",
-        "Trap"
-      ]
-    },
-    {
-      "date": "2026-11-05",
-      "source": "ticketmaster",
-      "artists": [
-        "Amantes del Amor \"Pasión por Luis Miguel\""
-      ],
-      "artist_display": "Amantes del Amor \"Pasión por Luis Miguel\"",
-      "url": "https://www.ticketmaster.com.mx/amantes-del-amor-pasion-por-luis-ciudad-de-mexico-05-11-2026/event/3D0065228736166E",
-      "ticket_url": "https://www.ticketmaster.com.mx/amantes-del-amor-pasion-por-luis-ciudad-de-mexico-05-11-2026/event/3D0065228736166E",
-      "venue": "Foro Stelaris Fiesta Americana Reforma",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
-      ]
-    },
-    {
-      "date": "2026-11-05",
-      "source": "ticketmaster",
-      "artists": [
-        "Erick Brian"
-      ],
-      "artist_display": "Erick Brian",
-      "url": "https://www.ticketmaster.com.mx/erick-brian-mexico-05-11-2026/event/3D006535C289648B",
-      "ticket_url": "https://www.ticketmaster.com.mx/erick-brian-mexico-05-11-2026/event/3D006535C289648B",
-      "venue": "La Maraka",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
     {
       "date": "2026-11-06",
       "source": "ticketmaster",
@@ -4443,6 +4316,21 @@
       ]
     },
     {
+      "date": "2026-12-15",
+      "source": "ticketmaster",
+      "artists": [
+        "Moenia"
+      ],
+      "artist_display": "Moenia",
+      "url": "https://www.ticketmaster.com.mx/moenia-mexico-15-12-2026/event/3D0064F6872A1773",
+      "ticket_url": "https://www.ticketmaster.com.mx/moenia-mexico-15-12-2026/event/3D0064F6872A1773",
+      "venue": "La Maraka",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
       "date": "2026-12-16",
       "source": "ticketmaster",
       "artists": [
@@ -5271,6 +5159,21 @@
       "date": "2027-01-31",
       "source": "ticketmaster",
       "artists": [
+        "Los Yonics"
+      ],
+      "artist_display": "Los Yonics",
+      "url": "https://www.ticketmaster.com.mx/joyas-romanticas-los-yonics-los-freddys-mexico-31-01-2027/event/1400653799BD4FFB",
+      "ticket_url": "https://www.ticketmaster.com.mx/joyas-romanticas-los-yonics-los-freddys-mexico-31-01-2027/event/1400653799BD4FFB",
+      "venue": "Teatro Metropolitan",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2027-01-31",
+      "source": "ticketmaster",
+      "artists": [
         "Fuerza Regida"
       ],
       "artist_display": "Fuerza Regida",
@@ -5712,6 +5615,21 @@
       "tags": [
         "Pop",
         "Electro Pop"
+      ]
+    },
+    {
+      "date": "2027-02-13",
+      "source": "ticketmaster",
+      "artists": [
+        "Pimpinela"
+      ],
+      "artist_display": "Pimpinela",
+      "url": "https://www.ticketmaster.com.mx/pimpinela-ciudad-de-mexico-13-02-2027/event/3D006563B07364A4",
+      "ticket_url": "https://www.ticketmaster.com.mx/pimpinela-ciudad-de-mexico-13-02-2027/event/3D006563B07364A4",
+      "venue": "Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
       ]
     },
     {
@@ -6255,6 +6173,22 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2027-03-06",
+      "source": "ticketmaster",
+      "artists": [
+        "Hakuna Group Music"
+      ],
+      "artist_display": "Hakuna Group Music",
+      "url": "https://www.ticketmaster.com.mx/hakuna-la-gira-ciudad-de-mexico-06-03-2027/event/3D00655DFD3BB10E",
+      "ticket_url": "https://www.ticketmaster.com.mx/hakuna-la-gira-ciudad-de-mexico-06-03-2027/event/3D00655DFD3BB10E",
+      "venue": "Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -7147,6 +7081,22 @@
       "tags": [
         "Pop",
         "Electro Pop"
+      ]
+    },
+    {
+      "date": "2027-09-18",
+      "source": "ticketmaster",
+      "artists": [
+        "Ozzfest"
+      ],
+      "artist_display": "Ozzfest",
+      "url": "https://www.ticketmaster.com.mx/ozzfest-2027-ciudad-de-mexico-18-09-2027/event/1400656388E82F78",
+      "ticket_url": "https://www.ticketmaster.com.mx/ozzfest-2027-ciudad-de-mexico-18-09-2027/event/1400656388E82F78",
+      "venue": "Estadio GNP Seguros",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Metal",
+        "Nu-Metal"
       ]
     },
     {
