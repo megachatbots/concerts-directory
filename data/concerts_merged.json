@@ -5,153 +5,9 @@
     "ticketmaster"
   ],
   "metro_area": "Mexico City",
-  "scraped_at": "2026-11-06T13:46:55.192873Z",
-  "total_concerts": 656,
+  "scraped_at": "2026-11-07T12:30:13.022719Z",
+  "total_concerts": 676,
   "concerts": [
-    {
-      "date": "2026-11-04",
-      "source": "songkick",
-      "artists": [
-        "MusicMex 2026TATYANA, Hypnosis Therapy, Hannah Storm, Ale Aguirre, Charly Gynn, Buka, Mirror Revelations, and Marion Raw"
-      ],
-      "artist_display": "MusicMex 2026TATYANA, Hypnosis Therapy, Hannah Storm, Ale Aguirre, Charly Gynn, Buka, Mirror Revelations, and Marion Raw",
-      "url": "https://www.songkick.com/festivals/3812619-musicmex/id/43499699-musicmex-2026",
-      "venue": "Bajo Circuito Multiforo Urbano",
-      "venue_url": "https://www.songkick.com/venues/4335163-bajo-circuito-multiforo-urbano",
-      "location": "Bajo Circuito Multiforo Urbano,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-06",
-      "source": "songkick",
-      "artists": [
-        "Mac DeMarcoConnan Mockasin"
-      ],
-      "artist_display": "Mac DeMarcoConnan Mockasin",
-      "url": "https://www.songkick.com/concerts/43098444-mac-demarco-at-quarry-studios",
-      "venue": "Quarry Studios",
-      "venue_url": "https://www.songkick.com/venues/4104554-quarry-studios",
-      "location": "Quarry Studios,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-06",
-      "source": "songkick",
-      "artists": [
-        "Morat"
-      ],
-      "artist_display": "Morat",
-      "url": "https://www.songkick.com/concerts/43143955-morat-at-palacio-de-los-deportes",
-      "venue": "Palacio de los Deportes",
-      "venue_url": "https://www.songkick.com/venues/31907-palacio-de-los-deportes",
-      "location": "Palacio de los Deportes,Mexico City, Mexico",
-      "ticket_url": "https://www.ticketmaster.com.mx/morat-ciudad-de-mexico-06-11-2026/event/14006482BAB17B03",
-      "tags": [
-        "Electro Pop",
-        "Pop"
-      ]
-    },
-    {
-      "date": "2026-11-06",
-      "source": "songkick",
-      "artists": [
-        "Aitana"
-      ],
-      "artist_display": "Aitana",
-      "url": "https://www.songkick.com/concerts/43163686-aitana-at-auditorio-nacional",
-      "venue": "Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/34183-auditorio-nacional",
-      "location": "Auditorio Nacional,Mexico City, Mexico",
-      "ticket_url": "https://www.ticketmaster.com.mx/aitana-ciudad-de-mexico-06-11-2026/event/3D0064719FE45A3A",
-      "tags": [
-        "Electro Pop",
-        "Pop"
-      ]
-    },
-    {
-      "date": "2026-11-06",
-      "source": "songkick",
-      "artists": [
-        "Nil Moliner"
-      ],
-      "artist_display": "Nil Moliner",
-      "url": "https://www.songkick.com/concerts/43339623-nil-moliner-at-foro-la-paz",
-      "venue": "Foro La Paz",
-      "venue_url": "https://www.songkick.com/venues/4471031-foro-la-paz",
-      "location": "Foro La Paz,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-06",
-      "source": "songkick",
-      "artists": [
-        "rubio"
-      ],
-      "artist_display": "rubio",
-      "url": "https://www.songkick.com/concerts/43005816-rubio-at-auditorio-bb",
-      "venue": "Auditorio BB",
-      "venue_url": "https://www.songkick.com/venues/1683588-auditorio-bb",
-      "location": "Auditorio BB,Mexico City, Mexico",
-      "ticket_url": "https://www.ticketmaster.com.mx/rubio-mexico-06-11-2026/event/14006430B00F75C6",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-11-06",
-      "source": "songkick",
-      "artists": [
-        "Dillom"
-      ],
-      "artist_display": "Dillom",
-      "url": "https://www.songkick.com/concerts/43396010-dillom-at-foro-puebla",
-      "venue": "Foro Puebla",
-      "venue_url": "https://www.songkick.com/venues/4506135-foro-puebla",
-      "location": "Foro Puebla,Mexico City, Mexico",
-      "ticket_url": "https://www.ticketmaster.com.mx/dillom-noches-violentas-mexico-06-11-2026/event/3D00651AA0895641",
-      "tags": [
-        "Hip-Hop/Rap",
-        "Trap"
-      ]
-    },
-    {
-      "date": "2026-11-06",
-      "source": "songkick",
-      "artists": [
-        "Yahir and Charlie ZaaErnesto D'Alessio and Ricardo Caballero"
-      ],
-      "artist_display": "Yahir and Charlie ZaaErnesto D'Alessio and Ricardo Caballero",
-      "url": "https://www.songkick.com/concerts/43436255-yahir-at-la-maraka",
-      "venue": "La Maraka",
-      "venue_url": "https://www.songkick.com/venues/1076291-la-maraka",
-      "location": "La Maraka,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-06",
-      "source": "songkick",
-      "artists": [
-        "Serbia"
-      ],
-      "artist_display": "Serbia",
-      "url": "https://www.songkick.com/concerts/43196100-serbia-at-teatro-metropolitan",
-      "venue": "Teatro Metropólitan",
-      "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
-      "location": "Teatro Metropólitan,Mexico City, Mexico",
-      "ticket_url": "https://www.ticketmaster.com.mx/serbia-en-cdmx-mexico-06-11-2026/event/1400649D9C975DE6",
-      "tags": [
-        "Alternative Rock",
-        "Rock"
-      ]
-    },
-    {
-      "date": "2026-11-06",
-      "source": "songkick",
-      "artists": [
-        "Festival Núcleo 01 2026EL HARAGAN Y COMPAÑIA, Resorte, out of control army, Calaverx, Johnny Nasty Boots, Haragan Y Cia., Haragan, and El Haragan"
-      ],
-      "artist_display": "Festival Núcleo 01 2026EL HARAGAN Y COMPAÑIA, Resorte, out of control army, Calaverx, Johnny Nasty Boots, Haragan Y Cia., Haragan, and El Haragan",
-      "url": "https://www.songkick.com/festivals/3810637-nucleo-01/id/43476959-festival-ncleo-01-2026",
-      "venue": "Monumento a la Revolución",
-      "venue_url": "https://www.songkick.com/venues/1334676-monumento-a-la-revolucion",
-      "location": "Monumento a la Revolución,Mexico City, Mexico"
-    },
     {
       "date": "2026-11-06",
       "source": "songkick",
@@ -163,40 +19,6 @@
       "venue": "Foro El Mictlán",
       "venue_url": "https://www.songkick.com/venues/4421426-foro-el-mictlan",
       "location": "Foro El Mictlán,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-06",
-      "source": "ticketmaster",
-      "artists": [
-        "Sala Principal Bellas Artes"
-      ],
-      "artist_display": "Sala Principal Bellas Artes",
-      "url": "https://www.ticketmaster.com.mx/48-fimnme-osn-concierto-inaugural-8-mexico-cdmx-06-11-2026/event/3D00652AA01B3FB5",
-      "ticket_url": "https://www.ticketmaster.com.mx/48-fimnme-osn-concierto-inaugural-8-mexico-cdmx-06-11-2026/event/3D00652AA01B3FB5",
-      "venue": "Palacio de Bellas Artes",
-      "location": "México CDMX, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-11-06",
-      "source": "ticketmaster",
-      "artists": [
-        "Los De Aguilera",
-        "Yahir",
-        "Charlie Zaa",
-        "Ernesto D´Alessio",
-        "Ricardo Caballero"
-      ],
-      "artist_display": "Los De Aguilera, Yahir, Charlie Zaa, Ernesto D´Alessio, Ricardo Caballero",
-      "url": "https://www.ticketmaster.com.mx/los-de-aguilera-recordando-al-divo-mexico-06-11-2026/event/3D0064B0B243A172",
-      "ticket_url": "https://www.ticketmaster.com.mx/los-de-aguilera-recordando-al-divo-mexico-06-11-2026/event/3D0064B0B243A172",
-      "venue": "La Maraka",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
     },
     {
       "date": "2026-11-07",
@@ -514,6 +336,22 @@
       "date": "2026-11-08",
       "source": "songkick",
       "artists": [
+        "Sin Fronteras"
+      ],
+      "artist_display": "Sin Fronteras",
+      "url": "https://www.songkick.com/concerts/43274997-sin-fronteras-at-el-cantoral",
+      "venue": "El Cantoral",
+      "venue_url": "https://www.songkick.com/venues/4032244-el-cantoral",
+      "location": "El Cantoral,Mexico City, Mexico",
+      "ticket_url": "https://www.ticketmaster.com.mx/sin-fronteras-presenta-su-album-va-mexico-08-11-2026/event/3D0064AFB26EA2AC",
+      "tags": [
+        "Ballads/Romantic"
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "source": "songkick",
+      "artists": [
         "Dillom"
       ],
       "artist_display": "Dillom",
@@ -564,21 +402,6 @@
       "location": "México CDMX, Ciudad de México, Mexico",
       "tags": [
         "Latin"
-      ]
-    },
-    {
-      "date": "2026-11-08",
-      "source": "ticketmaster",
-      "artists": [
-        "Sin Fronteras"
-      ],
-      "artist_display": "Sin Fronteras",
-      "url": "https://www.ticketmaster.com.mx/sin-fronteras-presenta-su-album-va-mexico-08-11-2026/event/3D0064AFB26EA2AC",
-      "ticket_url": "https://www.ticketmaster.com.mx/sin-fronteras-presenta-su-album-va-mexico-08-11-2026/event/3D0064AFB26EA2AC",
-      "venue": "El Cantoral ",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
       ]
     },
     {
@@ -1643,6 +1466,18 @@
     },
     {
       "date": "2026-11-18",
+      "source": "songkick",
+      "artists": [
+        "Dulce López and ISAVELI LAINA"
+      ],
+      "artist_display": "Dulce López and ISAVELI LAINA",
+      "url": "https://www.songkick.com/concerts/43503057-dulce-lopez-at-teatro-maria-tereza-montoya",
+      "venue": "Teatro Maria Tereza Montoya",
+      "venue_url": "https://www.songkick.com/venues/4670455-teatro-maria-tereza-montoya",
+      "location": "Teatro Maria Tereza Montoya,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-11-18",
       "source": "ticketmaster",
       "artists": [
         "Tributo a la Diva con Jennely"
@@ -2254,6 +2089,18 @@
       "date": "2026-11-21",
       "source": "songkick",
       "artists": [
+        "Infected MushroomInteractive Noise"
+      ],
+      "artist_display": "Infected MushroomInteractive Noise",
+      "url": "https://www.songkick.com/concerts/43501551-infected-mushroom-at-foro-teambro",
+      "venue": "Foro Teambro",
+      "venue_url": "https://www.songkick.com/venues/4378754-foro-teambro",
+      "location": "Foro Teambro,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-11-21",
+      "source": "songkick",
+      "artists": [
         "Kalimba"
       ],
       "artist_display": "Kalimba",
@@ -2277,18 +2124,6 @@
       "venue": "Foro La Paz",
       "venue_url": "https://www.songkick.com/venues/4471031-foro-la-paz",
       "location": "Foro La Paz,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-21",
-      "source": "songkick",
-      "artists": [
-        "MalcriadaMalcriada (MX)"
-      ],
-      "artist_display": "MalcriadaMalcriada (MX)",
-      "url": "https://www.songkick.com/concerts/43156677-malcriada-at-pabellon-del-palacio-de-los-deportes",
-      "venue": "Pabellón del Palacio de los Deportes",
-      "venue_url": "https://www.songkick.com/venues/1551083-pabellon-del-palacio-de-los-deportes",
-      "location": "Pabellón del Palacio de los Deportes,Mexico City, Mexico"
     },
     {
       "date": "2026-11-21",
@@ -2726,6 +2561,18 @@
     },
     {
       "date": "2026-11-25",
+      "source": "songkick",
+      "artists": [
+        "Dulce López and ISAVELI LAINA"
+      ],
+      "artist_display": "Dulce López and ISAVELI LAINA",
+      "url": "https://www.songkick.com/concerts/43503032-dulce-lopez-at-teatro-maria-tereza-montoya",
+      "venue": "Teatro Maria Tereza Montoya",
+      "venue_url": "https://www.songkick.com/venues/4670455-teatro-maria-tereza-montoya",
+      "location": "Teatro Maria Tereza Montoya,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-11-25",
       "source": "ticketmaster",
       "artists": [
         "Giant Rooks"
@@ -3056,18 +2903,6 @@
       "date": "2026-11-27",
       "source": "songkick",
       "artists": [
-        "DrefQuila"
-      ],
-      "artist_display": "DrefQuila",
-      "url": "https://www.songkick.com/concerts/43382441-drefquila-at-astro",
-      "venue": "Astro",
-      "venue_url": "https://www.songkick.com/venues/4524095-astro",
-      "location": "Astro,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-27",
-      "source": "songkick",
-      "artists": [
         "Las Ligas Menores"
       ],
       "artist_display": "Las Ligas Menores",
@@ -3075,6 +2910,18 @@
       "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
       "location": "Foro Indie Rocks!,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-11-27",
+      "source": "songkick",
+      "artists": [
+        "DrefQuila"
+      ],
+      "artist_display": "DrefQuila",
+      "url": "https://www.songkick.com/concerts/43382441-drefquila-at-astro",
+      "venue": "Astro",
+      "venue_url": "https://www.songkick.com/venues/4524095-astro",
+      "location": "Astro,Mexico City, Mexico"
     },
     {
       "date": "2026-11-27",
@@ -3742,6 +3589,18 @@
       "location": "FÜCK OFF ROOM,Mexico City, Mexico"
     },
     {
+      "date": "2026-12-02",
+      "source": "songkick",
+      "artists": [
+        "Dulce López and ISAVELI LAINA"
+      ],
+      "artist_display": "Dulce López and ISAVELI LAINA",
+      "url": "https://www.songkick.com/concerts/43503033-dulce-lopez-at-teatro-maria-tereza-montoya",
+      "venue": "Teatro Maria Tereza Montoya",
+      "venue_url": "https://www.songkick.com/venues/4670455-teatro-maria-tereza-montoya",
+      "location": "Teatro Maria Tereza Montoya,Mexico City, Mexico"
+    },
+    {
       "date": "2026-12-03",
       "source": "songkick",
       "artists": [
@@ -3964,18 +3823,6 @@
       "date": "2026-12-04",
       "source": "songkick",
       "artists": [
-        "Grotesco Karma"
-      ],
-      "artist_display": "Grotesco Karma",
-      "url": "https://www.songkick.com/concerts/43386585-grotesco-karma-at-gato-calavera",
-      "venue": "Gato Calavera",
-      "venue_url": "https://www.songkick.com/venues/1385981-gato-calavera",
-      "location": "Gato Calavera,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-12-04",
-      "source": "songkick",
-      "artists": [
         "Junior Klan"
       ],
       "artist_display": "Junior Klan",
@@ -4011,6 +3858,18 @@
       "venue": "Foro La Paz",
       "venue_url": "https://www.songkick.com/venues/4471031-foro-la-paz",
       "location": "Foro La Paz,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-12-04",
+      "source": "songkick",
+      "artists": [
+        "Yulia Niko"
+      ],
+      "artist_display": "Yulia Niko",
+      "url": "https://www.songkick.com/concerts/43503828-yulia-niko-at-essex-club",
+      "venue": "ESSEX CLUB",
+      "venue_url": "https://www.songkick.com/venues/4559934-essex-club",
+      "location": "ESSEX CLUB,Mexico City, Mexico"
     },
     {
       "date": "2026-12-04",
@@ -4564,6 +4423,18 @@
     },
     {
       "date": "2026-12-09",
+      "source": "songkick",
+      "artists": [
+        "Dulce López and ISAVELI LAINA"
+      ],
+      "artist_display": "Dulce López and ISAVELI LAINA",
+      "url": "https://www.songkick.com/concerts/43503037-dulce-lopez-at-teatro-maria-tereza-montoya",
+      "venue": "Teatro Maria Tereza Montoya",
+      "venue_url": "https://www.songkick.com/venues/4670455-teatro-maria-tereza-montoya",
+      "location": "Teatro Maria Tereza Montoya,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-12-09",
       "source": "ticketmaster",
       "artists": [
         "Pink Floyd Pulse be Pulse of The Moon"
@@ -4664,6 +4535,23 @@
       "date": "2026-12-11",
       "source": "songkick",
       "artists": [
+        "Gorillaz"
+      ],
+      "artist_display": "Gorillaz",
+      "url": "https://www.songkick.com/concerts/43504166-gorillaz-at-palacio-de-los-deportes",
+      "venue": "Palacio de los Deportes",
+      "venue_url": "https://www.songkick.com/venues/31907-palacio-de-los-deportes",
+      "location": "Palacio de los Deportes,Mexico City, Mexico",
+      "ticket_url": "https://www.ticketmaster.com.mx/gorillaz-ciudad-de-mexico-11-12-2026/event/1400655DC425ABEC",
+      "tags": [
+        "Alternative Rock",
+        "Rock"
+      ]
+    },
+    {
+      "date": "2026-12-11",
+      "source": "songkick",
+      "artists": [
         "Oscar D'León"
       ],
       "artist_display": "Oscar D'León",
@@ -4735,18 +4623,6 @@
       "venue": "Rebel Rebel / El Club del Rock & Roll",
       "venue_url": "https://www.songkick.com/venues/4470855-rebel-rebel-el-club-del-rock-and-roll",
       "location": "Rebel Rebel / El Club del Rock & Roll,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-12-11",
-      "source": "songkick",
-      "artists": [
-        "Segundos AuxiliosLas Decapitadas"
-      ],
-      "artist_display": "Segundos AuxiliosLas Decapitadas",
-      "url": "https://www.songkick.com/concerts/43471794-segundos-auxilios-at-chico",
-      "venue": "Chico",
-      "venue_url": "https://www.songkick.com/venues/69136-chico",
-      "location": "Chico,Mexico City, Mexico"
     },
     {
       "date": "2026-12-11",
@@ -5141,6 +5017,18 @@
       ]
     },
     {
+      "date": "2026-12-16",
+      "source": "songkick",
+      "artists": [
+        "Dulce López and ISAVELI LAINA"
+      ],
+      "artist_display": "Dulce López and ISAVELI LAINA",
+      "url": "https://www.songkick.com/concerts/43503040-dulce-lopez-at-teatro-maria-tereza-montoya",
+      "venue": "Teatro Maria Tereza Montoya",
+      "venue_url": "https://www.songkick.com/venues/4670455-teatro-maria-tereza-montoya",
+      "location": "Teatro Maria Tereza Montoya,Mexico City, Mexico"
+    },
+    {
       "date": "2026-12-17",
       "source": "songkick",
       "artists": [
@@ -5452,6 +5340,30 @@
       "date": "2026-12-19",
       "source": "songkick",
       "artists": [
+        "Dulce López and ISAVELI LAINA"
+      ],
+      "artist_display": "Dulce López and ISAVELI LAINA",
+      "url": "https://www.songkick.com/concerts/43503044-dulce-lopez-at-teatro-maria-tereza-montoya",
+      "venue": "Teatro Maria Tereza Montoya",
+      "venue_url": "https://www.songkick.com/venues/4670455-teatro-maria-tereza-montoya",
+      "location": "Teatro Maria Tereza Montoya,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-12-19",
+      "source": "songkick",
+      "artists": [
+        "Dulce López and ISAVELI LAINA"
+      ],
+      "artist_display": "Dulce López and ISAVELI LAINA",
+      "url": "https://www.songkick.com/concerts/43503046-dulce-lopez-at-teatro-maria-tereza-montoya",
+      "venue": "Teatro Maria Tereza Montoya",
+      "venue_url": "https://www.songkick.com/venues/4670455-teatro-maria-tereza-montoya",
+      "location": "Teatro Maria Tereza Montoya,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-12-19",
+      "source": "songkick",
+      "artists": [
         "Heavy Metal X’Mas 2026Fear Factory, Vektor, Ellende, Demolition Hammer, and Thyrfing"
       ],
       "artist_display": "Heavy Metal X’Mas 2026Fear Factory, Vektor, Ellende, Demolition Hammer, and Thyrfing",
@@ -5588,6 +5500,47 @@
       ]
     },
     {
+      "date": "2026-12-20",
+      "source": "ticketmaster",
+      "artists": [
+        "Academia de Música del Palacio de Minería",
+        "Sinfónica de Minería"
+      ],
+      "artist_display": "Academia de Música del Palacio de Minería, Sinfónica de Minería",
+      "url": "https://www.ticketmaster.com.mx/navidad-sinfonica-mexico-20-12-2026/event/14006550D04FEA75",
+      "ticket_url": "https://www.ticketmaster.com.mx/navidad-sinfonica-mexico-20-12-2026/event/14006550D04FEA75",
+      "venue": "Pepsi Center",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Family",
+        "Other"
+      ]
+    },
+    {
+      "date": "2026-12-23",
+      "source": "songkick",
+      "artists": [
+        "Dulce López and ISAVELI LAINA"
+      ],
+      "artist_display": "Dulce López and ISAVELI LAINA",
+      "url": "https://www.songkick.com/concerts/43503043-dulce-lopez-at-teatro-maria-tereza-montoya",
+      "venue": "Teatro Maria Tereza Montoya",
+      "venue_url": "https://www.songkick.com/venues/4670455-teatro-maria-tereza-montoya",
+      "location": "Teatro Maria Tereza Montoya,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-12-25",
+      "source": "songkick",
+      "artists": [
+        "Dulce López and ISAVELI LAINA"
+      ],
+      "artist_display": "Dulce López and ISAVELI LAINA",
+      "url": "https://www.songkick.com/concerts/43503787-dulce-lopez-at-teatro-maria-tereza-montoya",
+      "venue": "Teatro Maria Tereza Montoya",
+      "venue_url": "https://www.songkick.com/venues/4670455-teatro-maria-tereza-montoya",
+      "location": "Teatro Maria Tereza Montoya,Mexico City, Mexico"
+    },
+    {
       "date": "2026-12-26",
       "source": "songkick",
       "artists": [
@@ -5616,35 +5569,40 @@
       "location": "Rockotitlán,Naucalpan, Mexico"
     },
     {
-      "date": "2026-12-27",
-      "source": "ticketmaster",
+      "date": "2026-12-26",
+      "source": "songkick",
       "artists": [
-        "Evento Demo Platinum Privilegios"
+        "Dulce López and ISAVELI LAINA"
       ],
-      "artist_display": "Evento Demo Platinum Privilegios",
-      "url": "https://www.ticketmaster.com.mx/evento-demo-platinum-privilegios-iztacalco-27-12-2026/event/3D00651AEB1BCD30",
-      "ticket_url": "https://www.ticketmaster.com.mx/evento-demo-platinum-privilegios-iztacalco-27-12-2026/event/3D00651AEB1BCD30",
-      "venue": "Estadio Ticketmaster México",
-      "location": "Iztacalco, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Punk"
-      ]
+      "artist_display": "Dulce López and ISAVELI LAINA",
+      "url": "https://www.songkick.com/concerts/43503047-dulce-lopez-at-teatro-maria-tereza-montoya",
+      "venue": "Teatro Maria Tereza Montoya",
+      "venue_url": "https://www.songkick.com/venues/4670455-teatro-maria-tereza-montoya",
+      "location": "Teatro Maria Tereza Montoya,Mexico City, Mexico"
     },
     {
-      "date": "2026-12-27",
-      "source": "ticketmaster",
+      "date": "2026-12-26",
+      "source": "songkick",
       "artists": [
-        "Evento Demo Platinum HSBC"
+        "Dulce López and ISAVELI LAINA"
       ],
-      "artist_display": "Evento Demo Platinum HSBC",
-      "url": "https://www.ticketmaster.com.mx/evento-demo-platinum-hsbc-iztacalco-27-12-2026/event/3D006521A8F131C4",
-      "ticket_url": "https://www.ticketmaster.com.mx/evento-demo-platinum-hsbc-iztacalco-27-12-2026/event/3D006521A8F131C4",
-      "venue": "Estadio Ticketmaster México",
-      "location": "Iztacalco, Ciudad de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
-      ]
+      "artist_display": "Dulce López and ISAVELI LAINA",
+      "url": "https://www.songkick.com/concerts/43503048-dulce-lopez-at-teatro-maria-tereza-montoya",
+      "venue": "Teatro Maria Tereza Montoya",
+      "venue_url": "https://www.songkick.com/venues/4670455-teatro-maria-tereza-montoya",
+      "location": "Teatro Maria Tereza Montoya,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-12-26",
+      "source": "songkick",
+      "artists": [
+        "Mousse T.Monsieur Van Pratt and Yasmin"
+      ],
+      "artist_display": "Mousse T.Monsieur Van Pratt and Yasmin",
+      "url": "https://www.songkick.com/concerts/43504596-mousse-t-at-foro-niebla",
+      "venue": "Foro Niebla",
+      "venue_url": "https://www.songkick.com/venues/4379084-foro-niebla",
+      "location": "Foro Niebla,Mexico City, Mexico"
     },
     {
       "date": "2026-12-31",
@@ -5929,6 +5887,22 @@
       ]
     },
     {
+      "date": "2027-01-20",
+      "source": "ticketmaster",
+      "artists": [
+        "Milk Love"
+      ],
+      "artist_display": "Milk Love",
+      "url": "https://www.ticketmaster.com.mx/milk-love-mexico-20-01-2027/event/14006548E1AE50DF",
+      "ticket_url": "https://www.ticketmaster.com.mx/milk-love-mexico-20-01-2027/event/14006548E1AE50DF",
+      "venue": "Teatro Metropolitan",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "K-Pop"
+      ]
+    },
+    {
       "date": "2027-01-21",
       "source": "songkick",
       "artists": [
@@ -5987,6 +5961,18 @@
       ]
     },
     {
+      "date": "2027-01-22",
+      "source": "songkick",
+      "artists": [
+        "Lng/Sht"
+      ],
+      "artist_display": "Lng/Sht",
+      "url": "https://www.songkick.com/concerts/43503723-lngsht-at-doppler",
+      "venue": "Doppler",
+      "venue_url": "https://www.songkick.com/venues/2928958-doppler",
+      "location": "Doppler,Texcoco, Mexico"
+    },
+    {
       "date": "2027-01-23",
       "source": "songkick",
       "artists": [
@@ -6035,6 +6021,18 @@
       "tags": [
         "Latin"
       ]
+    },
+    {
+      "date": "2027-01-23",
+      "source": "songkick",
+      "artists": [
+        "Lng/Sht"
+      ],
+      "artist_display": "Lng/Sht",
+      "url": "https://www.songkick.com/concerts/43502213-lngsht-at-la-bodega",
+      "venue": "La Bodega",
+      "venue_url": "https://www.songkick.com/venues/4588590-la-bodega",
+      "location": "La Bodega,Chalco, Mexico"
     },
     {
       "date": "2027-01-23",
@@ -6093,6 +6091,18 @@
       "venue": "La Maraka",
       "venue_url": "https://www.songkick.com/venues/1076291-la-maraka",
       "location": "La Maraka,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-01-24",
+      "source": "songkick",
+      "artists": [
+        "Lng/Sht"
+      ],
+      "artist_display": "Lng/Sht",
+      "url": "https://www.songkick.com/concerts/43502214-lngsht-at-rooster",
+      "venue": "Rooster",
+      "venue_url": "https://www.songkick.com/venues/3323809-rooster",
+      "location": "Rooster,Cuautitlán, Mexico"
     },
     {
       "date": "2027-01-24",
@@ -7157,6 +7167,18 @@
       ]
     },
     {
+      "date": "2027-02-18",
+      "source": "songkick",
+      "artists": [
+        "Lng/Sht"
+      ],
+      "artist_display": "Lng/Sht",
+      "url": "https://www.songkick.com/concerts/43503746-lngsht-at-foro-santa-cecilia",
+      "venue": "Foro Santa Cecilia",
+      "venue_url": "https://www.songkick.com/venues/4670491-foro-santa-cecilia",
+      "location": "Foro Santa Cecilia,Coacalco, Mexico"
+    },
+    {
       "date": "2027-02-19",
       "source": "songkick",
       "artists": [
@@ -7195,6 +7217,18 @@
       "venue": "Foro La Paz",
       "venue_url": "https://www.songkick.com/venues/4471031-foro-la-paz",
       "location": "Foro La Paz,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-02-19",
+      "source": "songkick",
+      "artists": [
+        "Lng/Sht"
+      ],
+      "artist_display": "Lng/Sht",
+      "url": "https://www.songkick.com/concerts/43502219-lngsht-at-foro-el-nahual",
+      "venue": "Foro El Nahual",
+      "venue_url": "https://www.songkick.com/venues/4236269-foro-el-nahual",
+      "location": "Foro El Nahual,Teotihuacan, Mexico"
     },
     {
       "date": "2027-02-19",
@@ -7252,6 +7286,18 @@
         "Pop",
         "Rock"
       ]
+    },
+    {
+      "date": "2027-02-20",
+      "source": "songkick",
+      "artists": [
+        "Lng/Sht"
+      ],
+      "artist_display": "Lng/Sht",
+      "url": "https://www.songkick.com/concerts/43503748-lngsht-at-foro-matamoros",
+      "venue": "Foro Matamoros",
+      "venue_url": "https://www.songkick.com/venues/4670492-foro-matamoros",
+      "location": "Foro Matamoros,Nezahualcóyotl, Mexico"
     },
     {
       "date": "2027-02-20",
@@ -7706,6 +7752,18 @@
       "date": "2027-02-27",
       "source": "songkick",
       "artists": [
+        "Siloe"
+      ],
+      "artist_display": "Siloe",
+      "url": "https://www.songkick.com/concerts/43503091-siloe-at-foro-indie-rocks",
+      "venue": "Foro Indie Rocks!",
+      "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-02-27",
+      "source": "songkick",
+      "artists": [
         "Doom City Fest 2027Kylesa, Bongripper, Hell, Deathchant, Daevar, arteaga, The King in Yellow, and Drowned At Dusk"
       ],
       "artist_display": "Doom City Fest 2027Kylesa, Bongripper, Hell, Deathchant, Daevar, arteaga, The King in Yellow, and Drowned At Dusk",
@@ -7871,6 +7929,18 @@
       "tags": [
         "Latin"
       ]
+    },
+    {
+      "date": "2027-03-05",
+      "source": "songkick",
+      "artists": [
+        "Lng/Sht"
+      ],
+      "artist_display": "Lng/Sht",
+      "url": "https://www.songkick.com/concerts/43502221-lngsht-at-foro-a",
+      "venue": "Foro A",
+      "venue_url": "https://www.songkick.com/venues/1516898-foro-a",
+      "location": "Foro A,Tlalnepantla, Mexico"
     },
     {
       "date": "2027-03-05",
@@ -8075,6 +8145,30 @@
       "venue": "Bajo Circuito Multiforo Urbano",
       "venue_url": "https://www.songkick.com/venues/4335163-bajo-circuito-multiforo-urbano",
       "location": "Bajo Circuito Multiforo Urbano,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-03-13",
+      "source": "songkick",
+      "artists": [
+        "Vive Latino 2027Mötley Crüe, Kasabian, Placebo, Turnstile, Carla Morrison, Milo J, LATIN MAFIA, and Bacilos"
+      ],
+      "artist_display": "Vive Latino 2027Mötley Crüe, Kasabian, Placebo, Turnstile, Carla Morrison, Milo J, LATIN MAFIA, and Bacilos",
+      "url": "https://www.songkick.com/festivals/12951-vive-latino/id/43503659-vive-latino-2027",
+      "venue": "Estadio GNP Seguros",
+      "venue_url": "https://www.songkick.com/venues/33578-estadio-gnp-seguros",
+      "location": "Estadio GNP Seguros,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-03-13",
+      "source": "ticketmaster",
+      "artists": [
+        "Vive Latino"
+      ],
+      "artist_display": "Vive Latino",
+      "url": "https://www.ticketmaster.com.mx/vive-latino-2027-abono-platino-pase-ciudad-de-mexico-13-03-2027/event/14006562AF744B63",
+      "ticket_url": "https://www.ticketmaster.com.mx/vive-latino-2027-abono-platino-pase-ciudad-de-mexico-13-03-2027/event/14006562AF744B63",
+      "venue": "Estadio GNP Seguros",
+      "location": "Ciudad de México, Ciudad de México, Mexico"
     },
     {
       "date": "2027-03-17",
@@ -8763,6 +8857,18 @@
       "location": "Auditorio BB,Mexico City, Mexico"
     },
     {
+      "date": "2027-04-30",
+      "source": "songkick",
+      "artists": [
+        "Lng/Sht"
+      ],
+      "artist_display": "Lng/Sht",
+      "url": "https://www.songkick.com/concerts/43502227-lngsht-at-multiforo-alicia",
+      "venue": "Multiforo Alicia",
+      "venue_url": "https://www.songkick.com/venues/120456-multiforo-alicia",
+      "location": "Multiforo Alicia,Mexico City, Mexico"
+    },
+    {
       "date": "2027-05-01",
       "source": "songkick",
       "artists": [
@@ -8827,6 +8933,18 @@
       ]
     },
     {
+      "date": "2027-05-06",
+      "source": "songkick",
+      "artists": [
+        "Lng/Sht"
+      ],
+      "artist_display": "Lng/Sht",
+      "url": "https://www.songkick.com/concerts/43502228-lngsht-at-multiforo-alicia",
+      "venue": "Multiforo Alicia",
+      "venue_url": "https://www.songkick.com/venues/120456-multiforo-alicia",
+      "location": "Multiforo Alicia,Mexico City, Mexico"
+    },
+    {
       "date": "2027-05-07",
       "source": "songkick",
       "artists": [
@@ -8854,6 +8972,18 @@
         "Pop",
         "Rock"
       ]
+    },
+    {
+      "date": "2027-05-07",
+      "source": "songkick",
+      "artists": [
+        "Lng/Sht"
+      ],
+      "artist_display": "Lng/Sht",
+      "url": "https://www.songkick.com/concerts/43502229-lngsht-at-multiforo-alicia",
+      "venue": "Multiforo Alicia",
+      "venue_url": "https://www.songkick.com/venues/120456-multiforo-alicia",
+      "location": "Multiforo Alicia,Mexico City, Mexico"
     },
     {
       "date": "2027-05-08",
@@ -8933,6 +9063,30 @@
         "Pop",
         "Rock"
       ]
+    },
+    {
+      "date": "2027-05-08",
+      "source": "songkick",
+      "artists": [
+        "Lng/Sht"
+      ],
+      "artist_display": "Lng/Sht",
+      "url": "https://www.songkick.com/concerts/43502230-lngsht-at-multiforo-alicia",
+      "venue": "Multiforo Alicia",
+      "venue_url": "https://www.songkick.com/venues/120456-multiforo-alicia",
+      "location": "Multiforo Alicia,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-05-09",
+      "source": "songkick",
+      "artists": [
+        "Lng/Sht"
+      ],
+      "artist_display": "Lng/Sht",
+      "url": "https://www.songkick.com/concerts/43502231-lngsht-at-multiforo-alicia",
+      "venue": "Multiforo Alicia",
+      "venue_url": "https://www.songkick.com/venues/120456-multiforo-alicia",
+      "location": "Multiforo Alicia,Mexico City, Mexico"
     },
     {
       "date": "2027-05-10",
@@ -9115,6 +9269,22 @@
       "location": "Lunario Del Auditorio Nacional,Mexico City, Mexico"
     },
     {
+      "date": "2027-05-21",
+      "source": "songkick",
+      "artists": [
+        "Feid"
+      ],
+      "artist_display": "Feid",
+      "url": "https://www.songkick.com/concerts/43504161-feid-at-palacio-de-los-deportes",
+      "venue": "Palacio de los Deportes",
+      "venue_url": "https://www.songkick.com/venues/31907-palacio-de-los-deportes",
+      "location": "Palacio de los Deportes,Mexico City, Mexico",
+      "ticket_url": "https://www.ticketmaster.com.mx/ferxxo-the-green-star-tour-2027-ciudad-de-mexico-21-05-2027/event/1400655FE8938938",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
       "date": "2027-05-22",
       "source": "songkick",
       "artists": [
@@ -9224,6 +9394,23 @@
       "venue": "Gato Calavera",
       "venue_url": "https://www.songkick.com/venues/1385981-gato-calavera",
       "location": "Gato Calavera,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-06-09",
+      "source": "songkick",
+      "artists": [
+        "Midnight Generation"
+      ],
+      "artist_display": "Midnight Generation",
+      "url": "https://www.songkick.com/concerts/43504159-midnight-generation-at-auditorio-nacional",
+      "venue": "Auditorio Nacional",
+      "venue_url": "https://www.songkick.com/venues/34183-auditorio-nacional",
+      "location": "Auditorio Nacional,Mexico City, Mexico",
+      "ticket_url": "https://www.ticketmaster.com.mx/midnight-generation-rooted-tour-ciudad-de-mexico-09-06-2027/event/3D006564C1589B2F",
+      "tags": [
+        "Pop",
+        "Rock"
+      ]
     },
     {
       "date": "2027-06-16",
@@ -9529,6 +9716,42 @@
       "venue": "Arena CDMX",
       "venue_url": "https://www.songkick.com/venues/1649258-arena-cdmx",
       "location": "Arena CDMX,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-12-09",
+      "source": "songkick",
+      "artists": [
+        "Joy"
+      ],
+      "artist_display": "Joy",
+      "url": "https://www.songkick.com/concerts/43504164-joy-at-auditorio-nacional",
+      "venue": "Auditorio Nacional",
+      "venue_url": "https://www.songkick.com/venues/34183-auditorio-nacional",
+      "location": "Auditorio Nacional,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-12-27",
+      "source": "songkick",
+      "artists": [
+        "Dulce López and ISAVELI LAINA"
+      ],
+      "artist_display": "Dulce López and ISAVELI LAINA",
+      "url": "https://www.songkick.com/concerts/43503785-dulce-lopez-at-teatro-maria-tereza-montoya",
+      "venue": "Teatro Maria Tereza Montoya",
+      "venue_url": "https://www.songkick.com/venues/4670455-teatro-maria-tereza-montoya",
+      "location": "Teatro Maria Tereza Montoya,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-12-27",
+      "source": "songkick",
+      "artists": [
+        "Dulce López and ISAVELI LAINA"
+      ],
+      "artist_display": "Dulce López and ISAVELI LAINA",
+      "url": "https://www.songkick.com/concerts/43503786-dulce-lopez-at-teatro-maria-tereza-montoya",
+      "venue": "Teatro Maria Tereza Montoya",
+      "venue_url": "https://www.songkick.com/venues/4670455-teatro-maria-tereza-montoya",
+      "location": "Teatro Maria Tereza Montoya,Mexico City, Mexico"
     },
     {
       "date": "2027-12-31",

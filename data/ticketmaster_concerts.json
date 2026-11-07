@@ -1,122 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-11-06T13:46:55.171039Z",
-  "total_concerts": 415,
+  "scraped_at": "2026-11-07T12:30:13.001219Z",
+  "total_concerts": 414,
   "concerts": [
-    {
-      "date": "2026-11-06",
-      "source": "ticketmaster",
-      "artists": [
-        "Sala Principal Bellas Artes"
-      ],
-      "artist_display": "Sala Principal Bellas Artes",
-      "url": "https://www.ticketmaster.com.mx/48-fimnme-osn-concierto-inaugural-8-mexico-cdmx-06-11-2026/event/3D00652AA01B3FB5",
-      "ticket_url": "https://www.ticketmaster.com.mx/48-fimnme-osn-concierto-inaugural-8-mexico-cdmx-06-11-2026/event/3D00652AA01B3FB5",
-      "venue": "Palacio de Bellas Artes",
-      "location": "México CDMX, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-11-06",
-      "source": "ticketmaster",
-      "artists": [
-        "Rubio"
-      ],
-      "artist_display": "Rubio",
-      "url": "https://www.ticketmaster.com.mx/rubio-mexico-06-11-2026/event/14006430B00F75C6",
-      "ticket_url": "https://www.ticketmaster.com.mx/rubio-mexico-06-11-2026/event/14006430B00F75C6",
-      "venue": "Auditorio BB",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-11-06",
-      "source": "ticketmaster",
-      "artists": [
-        "Morat"
-      ],
-      "artist_display": "Morat",
-      "url": "https://www.ticketmaster.com.mx/morat-ciudad-de-mexico-06-11-2026/event/14006482BAB17B03",
-      "ticket_url": "https://www.ticketmaster.com.mx/morat-ciudad-de-mexico-06-11-2026/event/14006482BAB17B03",
-      "venue": "Palacio de los Deportes",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-11-06",
-      "source": "ticketmaster",
-      "artists": [
-        "Aitana"
-      ],
-      "artist_display": "Aitana",
-      "url": "https://www.ticketmaster.com.mx/aitana-ciudad-de-mexico-06-11-2026/event/3D0064719FE45A3A",
-      "ticket_url": "https://www.ticketmaster.com.mx/aitana-ciudad-de-mexico-06-11-2026/event/3D0064719FE45A3A",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-11-06",
-      "source": "ticketmaster",
-      "artists": [
-        "Serbia"
-      ],
-      "artist_display": "Serbia",
-      "url": "https://www.ticketmaster.com.mx/serbia-en-cdmx-mexico-06-11-2026/event/1400649D9C975DE6",
-      "ticket_url": "https://www.ticketmaster.com.mx/serbia-en-cdmx-mexico-06-11-2026/event/1400649D9C975DE6",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Alternative Rock"
-      ]
-    },
-    {
-      "date": "2026-11-06",
-      "source": "ticketmaster",
-      "artists": [
-        "Dillom"
-      ],
-      "artist_display": "Dillom",
-      "url": "https://www.ticketmaster.com.mx/dillom-noches-violentas-mexico-06-11-2026/event/3D00651AA0895641",
-      "ticket_url": "https://www.ticketmaster.com.mx/dillom-noches-violentas-mexico-06-11-2026/event/3D00651AA0895641",
-      "venue": "Foro Puebla",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Hip-Hop/Rap",
-        "Trap"
-      ]
-    },
-    {
-      "date": "2026-11-06",
-      "source": "ticketmaster",
-      "artists": [
-        "Los De Aguilera",
-        "Yahir",
-        "Charlie Zaa",
-        "Ernesto D´Alessio",
-        "Ricardo Caballero"
-      ],
-      "artist_display": "Los De Aguilera, Yahir, Charlie Zaa, Ernesto D´Alessio, Ricardo Caballero",
-      "url": "https://www.ticketmaster.com.mx/los-de-aguilera-recordando-al-divo-mexico-06-11-2026/event/3D0064B0B243A172",
-      "ticket_url": "https://www.ticketmaster.com.mx/los-de-aguilera-recordando-al-divo-mexico-06-11-2026/event/3D0064B0B243A172",
-      "venue": "La Maraka",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
     {
       "date": "2026-11-07",
       "source": "ticketmaster",
@@ -3070,8 +2957,6 @@
       "source": "ticketmaster",
       "artists": [
         "Flow Fest",
-        "Anuel AA",
-        "Tito Double P",
         "Chencho Corleone",
         "Manuel Turizo",
         "Ñengo Flow",
@@ -3134,9 +3019,11 @@
         "Dam Dam",
         "DJ Freshly",
         "Jose Alatorre",
-        "Bvbba Dvbs"
+        "Bvbba Dvbs",
+        "Anuel AA",
+        "Tito Double P"
       ],
-      "artist_display": "Flow Fest, Anuel AA, Tito Double P, Chencho Corleone, Manuel Turizo, Ñengo Flow, Zion, El Bogueto, Tokischa, Kevin Roldan, Ken-Y, Clarent, Noriel, Uzielito Mix, C.R.O, Eme Malafe, legallyrxx, Six Sex, Alanis Yuki, DJ Ish, Grupo Frontera, Ozuna, Kali Uchis, Yandel, Trueno, Tito El Bambino, Farruko, Dei V, Alleh, J Alvarez, FloyyMenor, Kybba, YSY A, Kidd Voodoo, Natt Calma, A.Chal, Doony Graff, Mila, Sinaka, Tobal MJ, Loyaltty, Seven Kayne, Ivy Wavy, DJ Blass, Lauty Gram, Denna La Pori, Flvckka, Chzter, Ikoniko, Pepo Mix, Lucas Gael, Daizak, Martinwhite, Pablito Mix, Low Clika, Novato El Flow, Cael Roldan, Robot95, Tuli Acosta, Rivvaa, Plastikboy, Jozzee, Dam Dam, DJ Freshly, Jose Alatorre, Bvbba Dvbs",
+      "artist_display": "Flow Fest, Chencho Corleone, Manuel Turizo, Ñengo Flow, Zion, El Bogueto, Tokischa, Kevin Roldan, Ken-Y, Clarent, Noriel, Uzielito Mix, C.R.O, Eme Malafe, legallyrxx, Six Sex, Alanis Yuki, DJ Ish, Grupo Frontera, Ozuna, Kali Uchis, Yandel, Trueno, Tito El Bambino, Farruko, Dei V, Alleh, J Alvarez, FloyyMenor, Kybba, YSY A, Kidd Voodoo, Natt Calma, A.Chal, Doony Graff, Mila, Sinaka, Tobal MJ, Loyaltty, Seven Kayne, Ivy Wavy, DJ Blass, Lauty Gram, Denna La Pori, Flvckka, Chzter, Ikoniko, Pepo Mix, Lucas Gael, Daizak, Martinwhite, Pablito Mix, Low Clika, Novato El Flow, Cael Roldan, Robot95, Tuli Acosta, Rivvaa, Plastikboy, Jozzee, Dam Dam, DJ Freshly, Jose Alatorre, Bvbba Dvbs, Anuel AA, Tito Double P",
       "url": "https://www.ticketmaster.com.mx/abono-general-pase-de-2-dias-mexico-28-11-2026/event/140064AC944D40CB",
       "ticket_url": "https://www.ticketmaster.com.mx/abono-general-pase-de-2-dias-mexico-28-11-2026/event/140064AC944D40CB",
       "venue": "Autodromo Hnos. Rodriguez",
@@ -4075,6 +3962,22 @@
       "date": "2026-12-11",
       "source": "ticketmaster",
       "artists": [
+        "Gorillaz"
+      ],
+      "artist_display": "Gorillaz",
+      "url": "https://www.ticketmaster.com.mx/gorillaz-ciudad-de-mexico-11-12-2026/event/1400655DC425ABEC",
+      "ticket_url": "https://www.ticketmaster.com.mx/gorillaz-ciudad-de-mexico-11-12-2026/event/1400655DC425ABEC",
+      "venue": "Palacio de los Deportes",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Alternative Rock"
+      ]
+    },
+    {
+      "date": "2026-12-11",
+      "source": "ticketmaster",
+      "artists": [
         "Maria Jose"
       ],
       "artist_display": "Maria Jose",
@@ -4552,6 +4455,23 @@
       "date": "2026-12-20",
       "source": "ticketmaster",
       "artists": [
+        "Academia de Música del Palacio de Minería",
+        "Sinfónica de Minería"
+      ],
+      "artist_display": "Academia de Música del Palacio de Minería, Sinfónica de Minería",
+      "url": "https://www.ticketmaster.com.mx/navidad-sinfonica-mexico-20-12-2026/event/14006550D04FEA75",
+      "ticket_url": "https://www.ticketmaster.com.mx/navidad-sinfonica-mexico-20-12-2026/event/14006550D04FEA75",
+      "venue": "Pepsi Center",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Family",
+        "Other"
+      ]
+    },
+    {
+      "date": "2026-12-20",
+      "source": "ticketmaster",
+      "artists": [
         "Navidad con The Beatles"
       ],
       "artist_display": "Navidad con The Beatles",
@@ -4592,37 +4512,6 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
-      ]
-    },
-    {
-      "date": "2026-12-27",
-      "source": "ticketmaster",
-      "artists": [
-        "Evento Demo Platinum Privilegios"
-      ],
-      "artist_display": "Evento Demo Platinum Privilegios",
-      "url": "https://www.ticketmaster.com.mx/evento-demo-platinum-privilegios-iztacalco-27-12-2026/event/3D00651AEB1BCD30",
-      "ticket_url": "https://www.ticketmaster.com.mx/evento-demo-platinum-privilegios-iztacalco-27-12-2026/event/3D00651AEB1BCD30",
-      "venue": "Estadio Ticketmaster México",
-      "location": "Iztacalco, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Punk"
-      ]
-    },
-    {
-      "date": "2026-12-27",
-      "source": "ticketmaster",
-      "artists": [
-        "Evento Demo Platinum HSBC"
-      ],
-      "artist_display": "Evento Demo Platinum HSBC",
-      "url": "https://www.ticketmaster.com.mx/evento-demo-platinum-hsbc-iztacalco-27-12-2026/event/3D006521A8F131C4",
-      "ticket_url": "https://www.ticketmaster.com.mx/evento-demo-platinum-hsbc-iztacalco-27-12-2026/event/3D006521A8F131C4",
-      "venue": "Estadio Ticketmaster México",
-      "location": "Iztacalco, Ciudad de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
       ]
     },
     {
@@ -4809,6 +4698,22 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2027-01-20",
+      "source": "ticketmaster",
+      "artists": [
+        "Milk Love"
+      ],
+      "artist_display": "Milk Love",
+      "url": "https://www.ticketmaster.com.mx/milk-love-mexico-20-01-2027/event/14006548E1AE50DF",
+      "ticket_url": "https://www.ticketmaster.com.mx/milk-love-mexico-20-01-2027/event/14006548E1AE50DF",
+      "venue": "Teatro Metropolitan",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "K-Pop"
       ]
     },
     {
@@ -6238,6 +6143,42 @@
       ]
     },
     {
+      "date": "2027-03-13",
+      "source": "ticketmaster",
+      "artists": [
+        "Vive Latino"
+      ],
+      "artist_display": "Vive Latino",
+      "url": "https://www.ticketmaster.com.mx/vive-latino-2027-abono-platino-pase-ciudad-de-mexico-13-03-2027/event/14006562AF744B63",
+      "ticket_url": "https://www.ticketmaster.com.mx/vive-latino-2027-abono-platino-pase-ciudad-de-mexico-13-03-2027/event/14006562AF744B63",
+      "venue": "Estadio GNP Seguros",
+      "location": "Ciudad de México, Ciudad de México, Mexico"
+    },
+    {
+      "date": "2027-03-13",
+      "source": "ticketmaster",
+      "artists": [
+        "Vive Latino"
+      ],
+      "artist_display": "Vive Latino",
+      "url": "https://www.ticketmaster.com.mx/vive-latino-2027-abono-boxes-pase-ciudad-de-mexico-13-03-2027/event/14006562AAAB451F",
+      "ticket_url": "https://www.ticketmaster.com.mx/vive-latino-2027-abono-boxes-pase-ciudad-de-mexico-13-03-2027/event/14006562AAAB451F",
+      "venue": "Estadio GNP Seguros",
+      "location": "Ciudad de México, Ciudad de México, Mexico"
+    },
+    {
+      "date": "2027-03-13",
+      "source": "ticketmaster",
+      "artists": [
+        "Vive Latino"
+      ],
+      "artist_display": "Vive Latino",
+      "url": "https://www.ticketmaster.com.mx/vive-latino-2027-abono-general-pase-ciudad-de-mexico-13-03-2027/event/1400655DB65F93A3",
+      "ticket_url": "https://www.ticketmaster.com.mx/vive-latino-2027-abono-general-pase-ciudad-de-mexico-13-03-2027/event/1400655DB65F93A3",
+      "venue": "Estadio GNP Seguros",
+      "location": "Ciudad de México, Ciudad de México, Mexico"
+    },
+    {
       "date": "2027-03-17",
       "source": "ticketmaster",
       "artists": [
@@ -6854,6 +6795,21 @@
       ]
     },
     {
+      "date": "2027-05-21",
+      "source": "ticketmaster",
+      "artists": [
+        "Feid"
+      ],
+      "artist_display": "Feid",
+      "url": "https://www.ticketmaster.com.mx/ferxxo-the-green-star-tour-2027-ciudad-de-mexico-21-05-2027/event/1400655FE8938938",
+      "ticket_url": "https://www.ticketmaster.com.mx/ferxxo-the-green-star-tour-2027-ciudad-de-mexico-21-05-2027/event/1400655FE8938938",
+      "venue": "Palacio de los Deportes",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
       "date": "2027-05-22",
       "source": "ticketmaster",
       "artists": [
@@ -6927,6 +6883,22 @@
       "location": "Mexico, Ciudad de México, Mexico",
       "tags": [
         "Other"
+      ]
+    },
+    {
+      "date": "2027-06-09",
+      "source": "ticketmaster",
+      "artists": [
+        "Midnight Generation"
+      ],
+      "artist_display": "Midnight Generation",
+      "url": "https://www.ticketmaster.com.mx/midnight-generation-rooted-tour-ciudad-de-mexico-09-06-2027/event/3D006564C1589B2F",
+      "ticket_url": "https://www.ticketmaster.com.mx/midnight-generation-rooted-tour-ciudad-de-mexico-09-06-2027/event/3D006564C1589B2F",
+      "venue": "Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Pop"
       ]
     },
     {
