@@ -1,149 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-11-07T12:30:13.001219Z",
-  "total_concerts": 414,
+  "scraped_at": "2026-11-08T12:48:04.361030Z",
+  "total_concerts": 408,
   "concerts": [
-    {
-      "date": "2026-11-07",
-      "source": "ticketmaster",
-      "artists": [
-        "Coro Acardenchado"
-      ],
-      "artist_display": "Coro Acardenchado",
-      "url": "https://www.ticketmaster.com.mx/coro-acardenchado-x-aniversario-mexico-07-11-2026/event/3D0064E48C262BB1",
-      "ticket_url": "https://www.ticketmaster.com.mx/coro-acardenchado-x-aniversario-mexico-07-11-2026/event/3D0064E48C262BB1",
-      "venue": "Teatro de la Ciudad Esperanza Iris",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-11-07",
-      "source": "ticketmaster",
-      "artists": [
-        "Morat"
-      ],
-      "artist_display": "Morat",
-      "url": "https://www.ticketmaster.com.mx/morat-ciudad-de-mexico-07-11-2026/event/14006482BB9A7DA2",
-      "ticket_url": "https://www.ticketmaster.com.mx/morat-ciudad-de-mexico-07-11-2026/event/14006482BB9A7DA2",
-      "venue": "Palacio de los Deportes",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-11-07",
-      "source": "ticketmaster",
-      "artists": [
-        "Aitana"
-      ],
-      "artist_display": "Aitana",
-      "url": "https://www.ticketmaster.com.mx/aitana-ciudad-de-mexico-07-11-2026/event/3D006471A13C5D15",
-      "ticket_url": "https://www.ticketmaster.com.mx/aitana-ciudad-de-mexico-07-11-2026/event/3D006471A13C5D15",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-11-07",
-      "source": "ticketmaster",
-      "artists": [
-        "Trex"
-      ],
-      "artist_display": "Trex",
-      "url": "https://www.ticketmaster.com.mx/trex-al-sabor-y-al-estilo-ciudad-de-mexico-07-11-2026/event/3D0064BE88A33C96",
-      "ticket_url": "https://www.ticketmaster.com.mx/trex-al-sabor-y-al-estilo-ciudad-de-mexico-07-11-2026/event/3D0064BE88A33C96",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Pop"
-      ]
-    },
-    {
-      "date": "2026-11-07",
-      "source": "ticketmaster",
-      "artists": [
-        "Concierto Homenaje a Juan Gabriel por El Divo del Sur"
-      ],
-      "artist_display": "Concierto Homenaje a Juan Gabriel por El Divo del Sur",
-      "url": "https://www.ticketmaster.com.mx/concierto-homenaje-a-juan-gabriel-por-san-francisco-coaxusco-07-11-2026/event/3D00655AEF38798A",
-      "ticket_url": "https://www.ticketmaster.com.mx/concierto-homenaje-a-juan-gabriel-por-san-francisco-coaxusco-07-11-2026/event/3D00655AEF38798A",
-      "venue": "Alboa Metepec",
-      "location": "San Francisco Coaxusco, Estado de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
-      ]
-    },
-    {
-      "date": "2026-11-07",
-      "source": "ticketmaster",
-      "artists": [
-        "Dillom"
-      ],
-      "artist_display": "Dillom",
-      "url": "https://www.ticketmaster.com.mx/dillom-noches-violentas-mexico-07-11-2026/event/3D00651AA0895643",
-      "ticket_url": "https://www.ticketmaster.com.mx/dillom-noches-violentas-mexico-07-11-2026/event/3D00651AA0895643",
-      "venue": "Foro Puebla",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Hip-Hop/Rap",
-        "Trap"
-      ]
-    },
-    {
-      "date": "2026-11-07",
-      "source": "ticketmaster",
-      "artists": [
-        "Tragico Ballet \"25 Aniversario\""
-      ],
-      "artist_display": "Tragico Ballet \"25 Aniversario\"",
-      "url": "https://www.ticketmaster.com.mx/tragico-ballet-25-aniversario-mexico-07-11-2026/event/3D00648BBBBA4B26",
-      "ticket_url": "https://www.ticketmaster.com.mx/tragico-ballet-25-aniversario-mexico-07-11-2026/event/3D00648BBBBA4B26",
-      "venue": "La Maraka",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Alternative Rock"
-      ]
-    },
-    {
-      "date": "2026-11-07",
-      "source": "ticketmaster",
-      "artists": [
-        "Collage"
-      ],
-      "artist_display": "Collage",
-      "url": "https://www.ticketmaster.com.mx/collage-mexico-07-11-2026/event/3D00651482591E41",
-      "ticket_url": "https://www.ticketmaster.com.mx/collage-mexico-07-11-2026/event/3D00651482591E41",
-      "venue": "Foro Red Access",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
-      ]
-    },
-    {
-      "date": "2026-11-07",
-      "source": "ticketmaster",
-      "artists": [
-        "José María"
-      ],
-      "artist_display": "José María",
-      "url": "https://www.ticketmaster.com.mx/jose-maria-tour-fabrica-de-espinas-ciudad-de-mexico-07-11-2026/event/3D0064DEB8233017",
-      "ticket_url": "https://www.ticketmaster.com.mx/jose-maria-tour-fabrica-de-espinas-ciudad-de-mexico-07-11-2026/event/3D0064DEB8233017",
-      "venue": "Foro Stelaris Fiesta Americana Reforma",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
-      ]
-    },
     {
       "date": "2026-11-08",
       "source": "ticketmaster",
@@ -2481,6 +2341,22 @@
       "date": "2026-11-27",
       "source": "ticketmaster",
       "artists": [
+        "Los Autenticos Caligaris"
+      ],
+      "artist_display": "Los Autenticos Caligaris",
+      "url": "https://www.ticketmaster.com.mx/los-autenticos-caligaris-zona-de-discapacidad-ciudad-de-mexico-27-11-2026/event/1400649EC48AF4D3",
+      "ticket_url": "https://www.ticketmaster.com.mx/los-autenticos-caligaris-zona-de-discapacidad-ciudad-de-mexico-27-11-2026/event/1400649EC48AF4D3",
+      "venue": "Estadio GNP Seguros",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "source": "ticketmaster",
+      "artists": [
         "La Cantadera"
       ],
       "artist_display": "La Cantadera",
@@ -4508,6 +4384,21 @@
       "artist_display": "Panteon Rococo",
       "url": "https://www.ticketmaster.com.mx/panteon-rococo-ciudad-de-mexico-26-12-2026/event/140064E39C485ADC",
       "ticket_url": "https://www.ticketmaster.com.mx/panteon-rococo-ciudad-de-mexico-26-12-2026/event/140064E39C485ADC",
+      "venue": "Estadio GNP Seguros",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-12-26",
+      "source": "ticketmaster",
+      "artists": [
+        "Panteon Rococo"
+      ],
+      "artist_display": "Panteon Rococo",
+      "url": "https://www.ticketmaster.com.mx/panteon-rococo-zona-de-discapacidad-auditiva-ciudad-de-mexico-26-12-2026/event/140064E1B4BB557C",
+      "ticket_url": "https://www.ticketmaster.com.mx/panteon-rococo-zona-de-discapacidad-auditiva-ciudad-de-mexico-26-12-2026/event/140064E1B4BB557C",
       "venue": "Estadio GNP Seguros",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
@@ -6807,6 +6698,22 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2027-05-21",
+      "source": "ticketmaster",
+      "artists": [
+        "Ricky Montgomery"
+      ],
+      "artist_display": "Ricky Montgomery",
+      "url": "https://www.ticketmaster.com.mx/ricky-montgomery-ciudad-de-mexico-21-05-2027/event/3D006566BBA1D127",
+      "ticket_url": "https://www.ticketmaster.com.mx/ricky-montgomery-ciudad-de-mexico-21-05-2027/event/3D006566BBA1D127",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
