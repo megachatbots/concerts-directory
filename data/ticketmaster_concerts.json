@@ -1,101 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-11-08T12:48:04.361030Z",
-  "total_concerts": 408,
+  "scraped_at": "2026-11-09T15:16:29.653746Z",
+  "total_concerts": 405,
   "concerts": [
-    {
-      "date": "2026-11-08",
-      "source": "ticketmaster",
-      "artists": [
-        "Sala Principal Bellas Artes"
-      ],
-      "artist_display": "Sala Principal Bellas Artes",
-      "url": "https://www.ticketmaster.com.mx/compania-nacional-de-danza-gala-balanchine-mexico-cdmx-08-11-2026/event/3D006536F56FAD80",
-      "ticket_url": "https://www.ticketmaster.com.mx/compania-nacional-de-danza-gala-balanchine-mexico-cdmx-08-11-2026/event/3D006536F56FAD80",
-      "venue": "Palacio de Bellas Artes",
-      "location": "México CDMX, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-11-08",
-      "source": "ticketmaster",
-      "artists": [
-        "Los Panchos"
-      ],
-      "artist_display": "Los Panchos",
-      "url": "https://www.ticketmaster.com.mx/los-panchos-la-rondalla-del-amor-mexico-08-11-2026/event/140064C2E60E185C",
-      "ticket_url": "https://www.ticketmaster.com.mx/los-panchos-la-rondalla-del-amor-mexico-08-11-2026/event/140064C2E60E185C",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-11-08",
-      "source": "ticketmaster",
-      "artists": [
-        "Sin Fronteras"
-      ],
-      "artist_display": "Sin Fronteras",
-      "url": "https://www.ticketmaster.com.mx/sin-fronteras-presenta-su-album-va-mexico-08-11-2026/event/3D0064AFB26EA2AC",
-      "ticket_url": "https://www.ticketmaster.com.mx/sin-fronteras-presenta-su-album-va-mexico-08-11-2026/event/3D0064AFB26EA2AC",
-      "venue": "El Cantoral ",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
-      ]
-    },
-    {
-      "date": "2026-11-08",
-      "source": "ticketmaster",
-      "artists": [
-        "Morat"
-      ],
-      "artist_display": "Morat",
-      "url": "https://www.ticketmaster.com.mx/morat-ciudad-de-mexico-08-11-2026/event/14006482BB9B7DA4",
-      "ticket_url": "https://www.ticketmaster.com.mx/morat-ciudad-de-mexico-08-11-2026/event/14006482BB9B7DA4",
-      "venue": "Palacio de los Deportes",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-11-08",
-      "source": "ticketmaster",
-      "artists": [
-        "José y el Toro"
-      ],
-      "artist_display": "José y el Toro",
-      "url": "https://www.ticketmaster.com.mx/jose-y-el-toro-en-cdmx-ciudad-de-mexico-08-11-2026/event/3D0064AEF396563E",
-      "ticket_url": "https://www.ticketmaster.com.mx/jose-y-el-toro-en-cdmx-ciudad-de-mexico-08-11-2026/event/3D0064AEF396563E",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
-      ]
-    },
-    {
-      "date": "2026-11-08",
-      "source": "ticketmaster",
-      "artists": [
-        "Dillom"
-      ],
-      "artist_display": "Dillom",
-      "url": "https://www.ticketmaster.com.mx/dillom-noches-violentas-mexico-08-11-2026/event/3D00651AA08A564E",
-      "ticket_url": "https://www.ticketmaster.com.mx/dillom-noches-violentas-mexico-08-11-2026/event/3D00651AA08A564E",
-      "venue": "Foro Puebla",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Hip-Hop/Rap",
-        "Trap"
-      ]
-    },
     {
       "date": "2026-11-10",
       "source": "ticketmaster",
@@ -6040,6 +5948,18 @@
         "Vive Latino"
       ],
       "artist_display": "Vive Latino",
+      "url": "https://www.ticketmaster.com.mx/precarga-digicash-mexico-13-03-2027/event/1400655FAB614442",
+      "ticket_url": "https://www.ticketmaster.com.mx/precarga-digicash-mexico-13-03-2027/event/1400655FAB614442",
+      "venue": "Autodromo Hnos. Rodriguez",
+      "location": "México, Ciudad de México, Mexico"
+    },
+    {
+      "date": "2027-03-13",
+      "source": "ticketmaster",
+      "artists": [
+        "Vive Latino"
+      ],
+      "artist_display": "Vive Latino",
       "url": "https://www.ticketmaster.com.mx/vive-latino-2027-abono-platino-pase-ciudad-de-mexico-13-03-2027/event/14006562AF744B63",
       "ticket_url": "https://www.ticketmaster.com.mx/vive-latino-2027-abono-platino-pase-ciudad-de-mexico-13-03-2027/event/14006562AF744B63",
       "venue": "Estadio GNP Seguros",
@@ -6068,6 +5988,30 @@
       "ticket_url": "https://www.ticketmaster.com.mx/vive-latino-2027-abono-general-pase-ciudad-de-mexico-13-03-2027/event/1400655DB65F93A3",
       "venue": "Estadio GNP Seguros",
       "location": "Ciudad de México, Ciudad de México, Mexico"
+    },
+    {
+      "date": "2027-03-13",
+      "source": "ticketmaster",
+      "artists": [
+        "Vive Latino"
+      ],
+      "artist_display": "Vive Latino",
+      "url": "https://www.ticketmaster.com.mx/precarga-digicash-mexico-13-03-2027/event/1400655FA56F3DAD",
+      "ticket_url": "https://www.ticketmaster.com.mx/precarga-digicash-mexico-13-03-2027/event/1400655FA56F3DAD",
+      "venue": "Autodromo Hnos. Rodriguez",
+      "location": "México, Ciudad de México, Mexico"
+    },
+    {
+      "date": "2027-03-14",
+      "source": "ticketmaster",
+      "artists": [
+        "Vive Latino"
+      ],
+      "artist_display": "Vive Latino",
+      "url": "https://www.ticketmaster.com.mx/precarga-digicash-mexico-14-03-2027/event/1400655FB5214ECE",
+      "ticket_url": "https://www.ticketmaster.com.mx/precarga-digicash-mexico-14-03-2027/event/1400655FB5214ECE",
+      "venue": "Autodromo Hnos. Rodriguez",
+      "location": "México, Ciudad de México, Mexico"
     },
     {
       "date": "2027-03-17",
