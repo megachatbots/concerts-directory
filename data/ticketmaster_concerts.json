@@ -1,8 +1,8 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-11-09T15:16:29.653746Z",
-  "total_concerts": 405,
+  "scraped_at": "2026-11-10T14:23:23.999948Z",
+  "total_concerts": 407,
   "concerts": [
     {
       "date": "2026-11-10",
@@ -213,6 +213,21 @@
         "Karol G"
       ],
       "artist_display": "Karol G",
+      "url": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-13-11-2026/event/14006481A844637D",
+      "ticket_url": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-13-11-2026/event/14006481A844637D",
+      "venue": "Estadio GNP Seguros",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "source": "ticketmaster",
+      "artists": [
+        "Karol G"
+      ],
+      "artist_display": "Karol G",
       "url": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-13-11-2026/event/1400646A812D2A08",
       "ticket_url": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-13-11-2026/event/1400646A812D2A08",
       "venue": "Estadio GNP Seguros",
@@ -359,6 +374,21 @@
       "location": "Mexico, Ciudad de México, Mexico",
       "tags": [
         "Ballads/Romantic"
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "source": "ticketmaster",
+      "artists": [
+        "Karol G"
+      ],
+      "artist_display": "Karol G",
+      "url": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-14-11-2026/event/14006481A9AD6671",
+      "ticket_url": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-14-11-2026/event/14006481A9AD6671",
+      "venue": "Estadio GNP Seguros",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
       ]
     },
     {
@@ -531,6 +561,21 @@
       "tags": [
         "Hip-Hop/Rap",
         "Trap"
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "source": "ticketmaster",
+      "artists": [
+        "Karol G"
+      ],
+      "artist_display": "Karol G",
+      "url": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-15-11-2026/event/14006481A9AD6673",
+      "ticket_url": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-15-11-2026/event/14006481A9AD6673",
+      "venue": "Estadio GNP Seguros",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
       ]
     },
     {
@@ -3394,9 +3439,11 @@
       "date": "2026-12-05",
       "source": "ticketmaster",
       "artists": [
-        "I Love Dance"
+        "I Love Dance",
+        "Alicia Villarreal",
+        "Lucero"
       ],
-      "artist_display": "I Love Dance",
+      "artist_display": "I Love Dance, Alicia Villarreal, Lucero",
       "url": "https://www.ticketmaster.com.mx/i-love-dance-cdmx-palcos-ciudad-de-mexico-05-12-2026/event/3D00655F80FE29E5",
       "ticket_url": "https://www.ticketmaster.com.mx/i-love-dance-cdmx-palcos-ciudad-de-mexico-05-12-2026/event/3D00655F80FE29E5",
       "venue": "Estadio Alfredo Harp Helú",
@@ -3406,9 +3453,11 @@
       "date": "2026-12-05",
       "source": "ticketmaster",
       "artists": [
-        "I Love Dance"
+        "I Love Dance",
+        "Alicia Villarreal",
+        "Lucero"
       ],
-      "artist_display": "I Love Dance",
+      "artist_display": "I Love Dance, Alicia Villarreal, Lucero",
       "url": "https://www.ticketmaster.com.mx/i-love-dance-cdmx-ciudad-de-mexico-05-12-2026/event/3D0065128FE12400",
       "ticket_url": "https://www.ticketmaster.com.mx/i-love-dance-cdmx-ciudad-de-mexico-05-12-2026/event/3D0065128FE12400",
       "venue": "Estadio Alfredo Harp Helú",
@@ -5948,8 +5997,8 @@
         "Vive Latino"
       ],
       "artist_display": "Vive Latino",
-      "url": "https://www.ticketmaster.com.mx/precarga-digicash-mexico-13-03-2027/event/1400655FAB614442",
-      "ticket_url": "https://www.ticketmaster.com.mx/precarga-digicash-mexico-13-03-2027/event/1400655FAB614442",
+      "url": "https://www.ticketmaster.com.mx/precarga-digicash-boleto-de-evento-no-mexico-13-03-2027/event/1400655FAB614442",
+      "ticket_url": "https://www.ticketmaster.com.mx/precarga-digicash-boleto-de-evento-no-mexico-13-03-2027/event/1400655FAB614442",
       "venue": "Autodromo Hnos. Rodriguez",
       "location": "México, Ciudad de México, Mexico"
     },
@@ -5990,26 +6039,14 @@
       "location": "Ciudad de México, Ciudad de México, Mexico"
     },
     {
-      "date": "2027-03-13",
-      "source": "ticketmaster",
-      "artists": [
-        "Vive Latino"
-      ],
-      "artist_display": "Vive Latino",
-      "url": "https://www.ticketmaster.com.mx/precarga-digicash-mexico-13-03-2027/event/1400655FA56F3DAD",
-      "ticket_url": "https://www.ticketmaster.com.mx/precarga-digicash-mexico-13-03-2027/event/1400655FA56F3DAD",
-      "venue": "Autodromo Hnos. Rodriguez",
-      "location": "México, Ciudad de México, Mexico"
-    },
-    {
       "date": "2027-03-14",
       "source": "ticketmaster",
       "artists": [
         "Vive Latino"
       ],
       "artist_display": "Vive Latino",
-      "url": "https://www.ticketmaster.com.mx/precarga-digicash-mexico-14-03-2027/event/1400655FB5214ECE",
-      "ticket_url": "https://www.ticketmaster.com.mx/precarga-digicash-mexico-14-03-2027/event/1400655FB5214ECE",
+      "url": "https://www.ticketmaster.com.mx/precarga-digicash-boleto-de-evento-no-mexico-14-03-2027/event/1400655FB5214ECE",
+      "ticket_url": "https://www.ticketmaster.com.mx/precarga-digicash-boleto-de-evento-no-mexico-14-03-2027/event/1400655FB5214ECE",
       "venue": "Autodromo Hnos. Rodriguez",
       "location": "México, Ciudad de México, Mexico"
     },

@@ -5,8 +5,8 @@
     "ticketmaster"
   ],
   "metro_area": "Mexico City",
-  "scraped_at": "2026-11-09T15:16:29.668292Z",
-  "total_concerts": 648,
+  "scraped_at": "2026-11-10T14:23:24.030719Z",
+  "total_concerts": 651,
   "concerts": [
     {
       "date": "2026-11-10",
@@ -255,7 +255,7 @@
       "venue": "Estadio GNP Seguros",
       "venue_url": "https://www.songkick.com/venues/33578-estadio-gnp-seguros",
       "location": "Estadio GNP Seguros,Mexico City, Mexico",
-      "ticket_url": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-13-11-2026/event/1400646A812D2A08",
+      "ticket_url": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-13-11-2026/event/14006481A844637D",
       "tags": [
         "Latin"
       ]
@@ -356,6 +356,18 @@
       "date": "2026-11-13",
       "source": "songkick",
       "artists": [
+        "Young Cister"
+      ],
+      "artist_display": "Young Cister",
+      "url": "https://www.songkick.com/concerts/43351067-young-cister-at-house-of-vans",
+      "venue": "House of Vans",
+      "venue_url": "https://www.songkick.com/venues/3083404-house-of-vans",
+      "location": "House of Vans,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-11-13",
+      "source": "songkick",
+      "artists": [
         "Dennis Cruz"
       ],
       "artist_display": "Dennis Cruz",
@@ -368,25 +380,13 @@
       "date": "2026-11-13",
       "source": "songkick",
       "artists": [
-        "Rehash"
+        "Reyno"
       ],
-      "artist_display": "Rehash",
-      "url": "https://www.songkick.com/concerts/43217434-rehash-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks!",
-      "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks!,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-13",
-      "source": "songkick",
-      "artists": [
-        "Ayax y Prok"
-      ],
-      "artist_display": "Ayax y Prok",
-      "url": "https://www.songkick.com/concerts/43497488-ayax-y-prok-at-hdx-circus-bar",
-      "venue": "HDX Circus Bar",
-      "venue_url": "https://www.songkick.com/venues/3875309-hdx-circus-bar",
-      "location": "HDX Circus Bar,Mexico City, Mexico"
+      "artist_display": "Reyno",
+      "url": "https://www.songkick.com/concerts/43181583-reyno-at-doppler",
+      "venue": "Doppler",
+      "venue_url": "https://www.songkick.com/venues/2928958-doppler",
+      "location": "Doppler,Texcoco, Mexico"
     },
     {
       "date": "2026-11-13",
@@ -476,7 +476,7 @@
       "venue": "Estadio GNP Seguros",
       "venue_url": "https://www.songkick.com/venues/33578-estadio-gnp-seguros",
       "location": "Estadio GNP Seguros,Mexico City, Mexico",
-      "ticket_url": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-14-11-2026/event/1400646A82522BC9",
+      "ticket_url": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-14-11-2026/event/14006481A9AD6671",
       "tags": [
         "Latin"
       ]
@@ -485,9 +485,9 @@
       "date": "2026-11-14",
       "source": "songkick",
       "artists": [
-        "GarbageMUÑEKI77A"
+        "GarbageThe Warning, The Warning (MX), and MUÑEKI77A"
       ],
-      "artist_display": "GarbageMUÑEKI77A",
+      "artist_display": "GarbageThe Warning, The Warning (MX), and MUÑEKI77A",
       "url": "https://www.songkick.com/concerts/43467365-garbage-at-zocalo",
       "venue": "Zócalo",
       "venue_url": "https://www.songkick.com/venues/102442-zocalo",
@@ -543,18 +543,6 @@
       "date": "2026-11-14",
       "source": "songkick",
       "artists": [
-        "Luis Angel \"El Flaco\""
-      ],
-      "artist_display": "Luis Angel \"El Flaco\"",
-      "url": "https://www.songkick.com/concerts/43198135-luis-angel-el-flaco-at-monumental-plaza-de-toros-mexico",
-      "venue": "Monumental Plaza de Toros México",
-      "venue_url": "https://www.songkick.com/venues/67080-monumental-plaza-de-toros-mexico",
-      "location": "Monumental Plaza de Toros México,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-14",
-      "source": "songkick",
-      "artists": [
         "DLD"
       ],
       "artist_display": "DLD",
@@ -567,6 +555,18 @@
         "Pop",
         "Rock"
       ]
+    },
+    {
+      "date": "2026-11-14",
+      "source": "songkick",
+      "artists": [
+        "Luis Angel \"El Flaco\""
+      ],
+      "artist_display": "Luis Angel \"El Flaco\"",
+      "url": "https://www.songkick.com/concerts/43198135-luis-angel-el-flaco-at-monumental-plaza-de-toros-mexico",
+      "venue": "Monumental Plaza de Toros México",
+      "venue_url": "https://www.songkick.com/venues/67080-monumental-plaza-de-toros-mexico",
+      "location": "Monumental Plaza de Toros México,Mexico City, Mexico"
     },
     {
       "date": "2026-11-14",
@@ -680,7 +680,7 @@
       "venue": "Estadio GNP Seguros",
       "venue_url": "https://www.songkick.com/venues/33578-estadio-gnp-seguros",
       "location": "Estadio GNP Seguros,Mexico City, Mexico",
-      "ticket_url": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-15-11-2026/event/1400646A82532BCB",
+      "ticket_url": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-15-11-2026/event/14006481A9AD6673",
       "tags": [
         "Latin"
       ]
@@ -1477,13 +1477,13 @@
       "date": "2026-11-20",
       "source": "songkick",
       "artists": [
-        "Festival Axelata 2026Vicente Jáuregui and Yuno (MX)"
+        "Mike DiazLng/Sht and Eptos Uno"
       ],
-      "artist_display": "Festival Axelata 2026Vicente Jáuregui and Yuno (MX)",
-      "url": "https://www.songkick.com/festivals/3772004-axelata/id/43063732-festival-axelata-2026",
-      "venue": "Foro Bizarro",
-      "venue_url": "https://www.songkick.com/venues/3229244-foro-bizarro",
-      "location": "Foro Bizarro,Mexico City, Mexico"
+      "artist_display": "Mike DiazLng/Sht and Eptos Uno",
+      "url": "https://www.songkick.com/concerts/43505781-mike-diaz-at-hdx-circus-bar",
+      "venue": "HDX Circus Bar",
+      "venue_url": "https://www.songkick.com/venues/3875309-hdx-circus-bar",
+      "location": "HDX Circus Bar,Mexico City, Mexico"
     },
     {
       "date": "2026-11-20",
@@ -1646,18 +1646,6 @@
       "date": "2026-11-21",
       "source": "songkick",
       "artists": [
-        "D.R.I.Acidez"
-      ],
-      "artist_display": "D.R.I.Acidez",
-      "url": "https://www.songkick.com/concerts/43281886-dri-at-circo-volador",
-      "venue": "Circo Volador",
-      "venue_url": "https://www.songkick.com/venues/49859-circo-volador",
-      "location": "Circo Volador,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-21",
-      "source": "songkick",
-      "artists": [
         "Infected MushroomInteractive Noise"
       ],
       "artist_display": "Infected MushroomInteractive Noise",
@@ -1665,6 +1653,18 @@
       "venue": "Foro Teambro",
       "venue_url": "https://www.songkick.com/venues/4378754-foro-teambro",
       "location": "Foro Teambro,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-11-21",
+      "source": "songkick",
+      "artists": [
+        "D.R.I.Acidez"
+      ],
+      "artist_display": "D.R.I.Acidez",
+      "url": "https://www.songkick.com/concerts/43281886-dri-at-circo-volador",
+      "venue": "Circo Volador",
+      "venue_url": "https://www.songkick.com/venues/49859-circo-volador",
+      "location": "Circo Volador,Mexico City, Mexico"
     },
     {
       "date": "2026-11-21",
@@ -3673,9 +3673,11 @@
       "date": "2026-12-05",
       "source": "ticketmaster",
       "artists": [
-        "I Love Dance"
+        "I Love Dance",
+        "Alicia Villarreal",
+        "Lucero"
       ],
-      "artist_display": "I Love Dance",
+      "artist_display": "I Love Dance, Alicia Villarreal, Lucero",
       "url": "https://www.ticketmaster.com.mx/i-love-dance-cdmx-palcos-ciudad-de-mexico-05-12-2026/event/3D00655F80FE29E5",
       "ticket_url": "https://www.ticketmaster.com.mx/i-love-dance-cdmx-palcos-ciudad-de-mexico-05-12-2026/event/3D00655F80FE29E5",
       "venue": "Estadio Alfredo Harp Helú",
@@ -3954,6 +3956,18 @@
       "tags": [
         "Latin"
       ]
+    },
+    {
+      "date": "2026-12-08",
+      "source": "songkick",
+      "artists": [
+        "Gabriele Poso"
+      ],
+      "artist_display": "Gabriele Poso",
+      "url": "https://www.songkick.com/concerts/43507495-gabriele-poso-at-fuck-off-room",
+      "venue": "FÜCK OFF ROOM",
+      "venue_url": "https://www.songkick.com/venues/4540201-fuck-off-room",
+      "location": "FÜCK OFF ROOM,Mexico City, Mexico"
     },
     {
       "date": "2026-12-08",
@@ -4328,18 +4342,6 @@
       "date": "2026-12-12",
       "source": "songkick",
       "artists": [
-        "Son Rompe Pera"
-      ],
-      "artist_display": "Son Rompe Pera",
-      "url": "https://www.songkick.com/concerts/43452410-son-rompe-pera-at-salon-los-angeles",
-      "venue": "Salón Los Ángeles",
-      "venue_url": "https://www.songkick.com/venues/4431453-salon-los-angeles",
-      "location": "Salón Los Ángeles,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-12-12",
-      "source": "songkick",
-      "artists": [
         "Allison"
       ],
       "artist_display": "Allison",
@@ -4347,6 +4349,18 @@
       "venue": "Multiforo Alicia",
       "venue_url": "https://www.songkick.com/venues/120456-multiforo-alicia",
       "location": "Multiforo Alicia,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-12-12",
+      "source": "songkick",
+      "artists": [
+        "Son Rompe Pera"
+      ],
+      "artist_display": "Son Rompe Pera",
+      "url": "https://www.songkick.com/concerts/43452410-son-rompe-pera-at-salon-los-angeles",
+      "venue": "Salón Los Ángeles",
+      "venue_url": "https://www.songkick.com/venues/4431453-salon-los-angeles",
+      "location": "Salón Los Ángeles,Mexico City, Mexico"
     },
     {
       "date": "2026-12-12",
@@ -5221,6 +5235,18 @@
       "tags": [
         "Latin"
       ]
+    },
+    {
+      "date": "2027-01-08",
+      "source": "songkick",
+      "artists": [
+        "Secret Agent"
+      ],
+      "artist_display": "Secret Agent",
+      "url": "https://www.songkick.com/concerts/43502158-secret-agent-at-gato-calavera",
+      "venue": "Gato Calavera",
+      "venue_url": "https://www.songkick.com/venues/1385981-gato-calavera",
+      "location": "Gato Calavera,Mexico City, Mexico"
     },
     {
       "date": "2027-01-09",
@@ -6825,23 +6851,13 @@
       "date": "2027-02-19",
       "source": "songkick",
       "artists": [
-        "Electric Daisy Carnival 2027"
+        "Electric Daisy Carnival 2027Tiësto, Martin Garrix, Lost Frequencies, Fatboy Slim, Galantis, Fisher, ILLENIUM, and Four Tet"
       ],
-      "artist_display": "Electric Daisy Carnival 2027",
+      "artist_display": "Electric Daisy Carnival 2027Tiësto, Martin Garrix, Lost Frequencies, Fatboy Slim, Galantis, Fisher, ILLENIUM, and Four Tet",
       "url": "https://www.songkick.com/festivals/10816-electric-daisy-carnival/id/43118514-electric-daisy-carnival-2027",
       "venue": "Autódromo Hermanos Rodríguez",
       "venue_url": "https://www.songkick.com/venues/70055-autodromo-hermanos-rodriguez",
       "location": "Autódromo Hermanos Rodríguez,Mexico City, Mexico"
-    },
-    {
-      "date": "2027-02-19",
-      "source": "songkick",
-      "artists": [
-        "EDC Mexico 2027NGHTMRE and SLANDER"
-      ],
-      "artist_display": "EDC Mexico 2027NGHTMRE and SLANDER",
-      "url": "https://www.songkick.com/festivals/931944-edc-mexico/id/43506158-edc-mexico-2027",
-      "location": "Mexico City, Mexico"
     },
     {
       "date": "2027-02-19",
@@ -7557,6 +7573,18 @@
     },
     {
       "date": "2027-03-05",
+      "source": "songkick",
+      "artists": [
+        "Dollfest 2027Vondré, Las Decapitadas, Seiren, Fulgor, Stereo Animal, I Don't Wear Pink, and Yuno (MX)"
+      ],
+      "artist_display": "Dollfest 2027Vondré, Las Decapitadas, Seiren, Fulgor, Stereo Animal, I Don't Wear Pink, and Yuno (MX)",
+      "url": "https://www.songkick.com/festivals/3697301-dollfest/id/43507476-dollfest-2027",
+      "venue": "Gato Calavera",
+      "venue_url": "https://www.songkick.com/venues/1385981-gato-calavera",
+      "location": "Gato Calavera,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-03-05",
       "source": "ticketmaster",
       "artists": [
         "Peter Hook and the Light"
@@ -7766,8 +7794,8 @@
         "Vive Latino"
       ],
       "artist_display": "Vive Latino",
-      "url": "https://www.ticketmaster.com.mx/precarga-digicash-mexico-13-03-2027/event/1400655FAB614442",
-      "ticket_url": "https://www.ticketmaster.com.mx/precarga-digicash-mexico-13-03-2027/event/1400655FAB614442",
+      "url": "https://www.ticketmaster.com.mx/precarga-digicash-boleto-de-evento-no-mexico-13-03-2027/event/1400655FAB614442",
+      "ticket_url": "https://www.ticketmaster.com.mx/precarga-digicash-boleto-de-evento-no-mexico-13-03-2027/event/1400655FAB614442",
       "venue": "Autodromo Hnos. Rodriguez",
       "location": "México, Ciudad de México, Mexico"
     },
@@ -7778,8 +7806,8 @@
         "Vive Latino"
       ],
       "artist_display": "Vive Latino",
-      "url": "https://www.ticketmaster.com.mx/precarga-digicash-mexico-14-03-2027/event/1400655FB5214ECE",
-      "ticket_url": "https://www.ticketmaster.com.mx/precarga-digicash-mexico-14-03-2027/event/1400655FB5214ECE",
+      "url": "https://www.ticketmaster.com.mx/precarga-digicash-boleto-de-evento-no-mexico-14-03-2027/event/1400655FB5214ECE",
+      "ticket_url": "https://www.ticketmaster.com.mx/precarga-digicash-boleto-de-evento-no-mexico-14-03-2027/event/1400655FB5214ECE",
       "venue": "Autodromo Hnos. Rodriguez",
       "location": "México, Ciudad de México, Mexico"
     },
@@ -8422,6 +8450,18 @@
       "tags": [
         "Latin"
       ]
+    },
+    {
+      "date": "2027-04-24",
+      "source": "songkick",
+      "artists": [
+        "Juan Solo"
+      ],
+      "artist_display": "Juan Solo",
+      "url": "https://www.songkick.com/concerts/43507512-juan-solo-at-foro-la-paz",
+      "venue": "Foro La Paz",
+      "venue_url": "https://www.songkick.com/venues/4471031-foro-la-paz",
+      "location": "Foro La Paz,Mexico City, Mexico"
     },
     {
       "date": "2027-04-26",
