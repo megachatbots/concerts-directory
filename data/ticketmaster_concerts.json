@@ -1,24 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-11-10T14:23:23.999948Z",
-  "total_concerts": 407,
+  "scraped_at": "2026-11-11T13:37:07.717030Z",
+  "total_concerts": 409,
   "concerts": [
-    {
-      "date": "2026-11-10",
-      "source": "ticketmaster",
-      "artists": [
-        "Sala Principal Bellas Artes"
-      ],
-      "artist_display": "Sala Principal Bellas Artes",
-      "url": "https://www.ticketmaster.com.mx/compania-nacional-de-danza-gala-balanchine-mexico-cdmx-10-11-2026/event/3D006536F968B27C",
-      "ticket_url": "https://www.ticketmaster.com.mx/compania-nacional-de-danza-gala-balanchine-mexico-cdmx-10-11-2026/event/3D006536F968B27C",
-      "venue": "Palacio de Bellas Artes",
-      "location": "México CDMX, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
     {
       "date": "2026-11-11",
       "source": "ticketmaster",
@@ -3528,21 +3513,6 @@
       "date": "2026-12-05",
       "source": "ticketmaster",
       "artists": [
-        "Natalia Lacunza"
-      ],
-      "artist_display": "Natalia Lacunza",
-      "url": "https://www.ticketmaster.com.mx/natalia-lacunza-mexico-05-12-2026/event/1400651584CF2A66",
-      "ticket_url": "https://www.ticketmaster.com.mx/natalia-lacunza-mexico-05-12-2026/event/1400651584CF2A66",
-      "venue": "Auditorio BB",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
-      ]
-    },
-    {
-      "date": "2026-12-05",
-      "source": "ticketmaster",
-      "artists": [
         "La Esfinge"
       ],
       "artist_display": "La Esfinge",
@@ -3837,6 +3807,21 @@
       "tags": [
         "Pop",
         "Electro Pop"
+      ]
+    },
+    {
+      "date": "2026-12-11",
+      "source": "ticketmaster",
+      "artists": [
+        "Vico Sanz"
+      ],
+      "artist_display": "Vico Sanz",
+      "url": "https://www.ticketmaster.com.mx/vico-sanz-i-viajera-mexico-11-12-2026/event/3D006566B898CA0A",
+      "ticket_url": "https://www.ticketmaster.com.mx/vico-sanz-i-viajera-mexico-11-12-2026/event/3D006566B898CA0A",
+      "venue": "Foro Red Access",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
       ]
     },
     {
@@ -5437,6 +5422,22 @@
       "date": "2027-02-17",
       "source": "ticketmaster",
       "artists": [
+        "JET"
+      ],
+      "artist_display": "JET",
+      "url": "https://www.ticketmaster.com.mx/jet-2027-us-mexico-tour-mexico-17-02-2027/event/3D006557C17F8EEE",
+      "ticket_url": "https://www.ticketmaster.com.mx/jet-2027-us-mexico-tour-mexico-17-02-2027/event/3D006557C17F8EEE",
+      "venue": "Foro Puebla",
+      "location": "Mexico, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Alternative Rock"
+      ]
+    },
+    {
+      "date": "2027-02-17",
+      "source": "ticketmaster",
+      "artists": [
         "Pitbull"
       ],
       "artist_display": "Pitbull",
@@ -6385,6 +6386,23 @@
       ]
     },
     {
+      "date": "2027-04-17",
+      "source": "ticketmaster",
+      "artists": [
+        "Metric",
+        "Broken Social Scene"
+      ],
+      "artist_display": "Metric, Broken Social Scene",
+      "url": "https://www.ticketmaster.com.mx/metric-x-broken-social-scene-mexico-17-04-2027/event/14006564EEDCE31C",
+      "ticket_url": "https://www.ticketmaster.com.mx/metric-x-broken-social-scene-mexico-17-04-2027/event/14006564EEDCE31C",
+      "venue": "Pepsi Center",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
       "date": "2027-04-18",
       "source": "ticketmaster",
       "artists": [
@@ -6695,6 +6713,21 @@
       "tags": [
         "Pop",
         "Electro Pop"
+      ]
+    },
+    {
+      "date": "2027-05-22",
+      "source": "ticketmaster",
+      "artists": [
+        "Feid"
+      ],
+      "artist_display": "Feid",
+      "url": "https://www.ticketmaster.com.mx/ferxxo-the-green-star-tour-2027-ciudad-de-mexico-22-05-2027/event/1400655FE8938944",
+      "ticket_url": "https://www.ticketmaster.com.mx/ferxxo-the-green-star-tour-2027-ciudad-de-mexico-22-05-2027/event/1400655FE8938944",
+      "venue": "Palacio de los Deportes",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
       ]
     },
     {

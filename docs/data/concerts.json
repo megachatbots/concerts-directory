@@ -5,48 +5,9 @@
     "ticketmaster"
   ],
   "metro_area": "Mexico City",
-  "scraped_at": "2026-11-10T14:23:24.030719Z",
-  "total_concerts": 651,
+  "scraped_at": "2026-11-11T13:37:07.752603Z",
+  "total_concerts": 654,
   "concerts": [
-    {
-      "date": "2026-11-10",
-      "source": "songkick",
-      "artists": [
-        "Ricardo Montaner"
-      ],
-      "artist_display": "Ricardo Montaner",
-      "url": "https://www.songkick.com/concerts/43384546-ricardo-montaner-at-auditorio-nacional",
-      "venue": "Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/34183-auditorio-nacional",
-      "location": "Auditorio Nacional,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-10",
-      "source": "songkick",
-      "artists": [
-        "OneUs"
-      ],
-      "artist_display": "OneUs",
-      "url": "https://www.songkick.com/concerts/43457752-oneus-at-la-maraka",
-      "venue": "La Maraka",
-      "venue_url": "https://www.songkick.com/venues/1076291-la-maraka",
-      "location": "La Maraka,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-10",
-      "source": "ticketmaster",
-      "artists": [
-        "Sala Principal Bellas Artes"
-      ],
-      "artist_display": "Sala Principal Bellas Artes",
-      "url": "https://www.ticketmaster.com.mx/compania-nacional-de-danza-gala-balanchine-mexico-cdmx-10-11-2026/event/3D006536F968B27C",
-      "ticket_url": "https://www.ticketmaster.com.mx/compania-nacional-de-danza-gala-balanchine-mexico-cdmx-10-11-2026/event/3D006536F968B27C",
-      "venue": "Palacio de Bellas Artes",
-      "location": "México CDMX, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
     {
       "date": "2026-11-11",
       "source": "songkick",
@@ -689,18 +650,6 @@
       "date": "2026-11-15",
       "source": "songkick",
       "artists": [
-        "Mägo de OzTierra Santa"
-      ],
-      "artist_display": "Mägo de OzTierra Santa",
-      "url": "https://www.songkick.com/concerts/42900834-mago-de-oz-at-arena-cdmx",
-      "venue": "Arena CDMX",
-      "venue_url": "https://www.songkick.com/venues/1649258-arena-cdmx",
-      "location": "Arena CDMX,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-15",
-      "source": "songkick",
-      "artists": [
         "Ólafur Arnalds"
       ],
       "artist_display": "Ólafur Arnalds",
@@ -708,6 +657,18 @@
       "venue": "Foro Polanco",
       "venue_url": "https://www.songkick.com/venues/2075269-foro-polanco",
       "location": "Foro Polanco,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-11-15",
+      "source": "songkick",
+      "artists": [
+        "Mägo de OzTierra Santa"
+      ],
+      "artist_display": "Mägo de OzTierra Santa",
+      "url": "https://www.songkick.com/concerts/42900834-mago-de-oz-at-arena-cdmx",
+      "venue": "Arena CDMX",
+      "venue_url": "https://www.songkick.com/venues/1649258-arena-cdmx",
+      "location": "Arena CDMX,Mexico City, Mexico"
     },
     {
       "date": "2026-11-15",
@@ -758,6 +719,18 @@
       "date": "2026-11-15",
       "source": "songkick",
       "artists": [
+        "milo mae and Carlos Corté$"
+      ],
+      "artist_display": "milo mae and Carlos Corté$",
+      "url": "https://www.songkick.com/concerts/43457756-milo-mae-at-la-maraka",
+      "venue": "La Maraka",
+      "venue_url": "https://www.songkick.com/venues/1076291-la-maraka",
+      "location": "La Maraka,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-11-15",
+      "source": "songkick",
+      "artists": [
         "BB TrickzDoony graff and Flvckka"
       ],
       "artist_display": "BB TrickzDoony graff and Flvckka",
@@ -777,18 +750,6 @@
       "venue": "Bajo Circuito Multiforo Urbano",
       "venue_url": "https://www.songkick.com/venues/4335163-bajo-circuito-multiforo-urbano",
       "location": "Bajo Circuito Multiforo Urbano,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-15",
-      "source": "songkick",
-      "artists": [
-        "milo mae and Carlos Corté$"
-      ],
-      "artist_display": "milo mae and Carlos Corté$",
-      "url": "https://www.songkick.com/concerts/43457756-milo-mae-at-la-maraka",
-      "venue": "La Maraka",
-      "venue_url": "https://www.songkick.com/venues/1076291-la-maraka",
-      "location": "La Maraka,Mexico City, Mexico"
     },
     {
       "date": "2026-11-15",
@@ -3578,17 +3539,13 @@
       "date": "2026-12-05",
       "source": "songkick",
       "artists": [
-        "Natalia Lacunza"
+        "Padre Guilherme"
       ],
-      "artist_display": "Natalia Lacunza",
-      "url": "https://www.songkick.com/concerts/43393862-natalia-lacunza-at-auditorio-bb",
-      "venue": "Auditorio BB",
-      "venue_url": "https://www.songkick.com/venues/1683588-auditorio-bb",
-      "location": "Auditorio BB,Mexico City, Mexico",
-      "ticket_url": "https://www.ticketmaster.com.mx/natalia-lacunza-mexico-05-12-2026/event/1400651584CF2A66",
-      "tags": [
-        "Ballads/Romantic"
-      ]
+      "artist_display": "Padre Guilherme",
+      "url": "https://www.songkick.com/concerts/43341564-padre-guilherme-at-velodromo-olimpico",
+      "venue": "Velódromo Olímpico",
+      "venue_url": "https://www.songkick.com/venues/451101-velodromo-olimpico",
+      "location": "Velódromo Olímpico,Mexico City, Mexico"
     },
     {
       "date": "2026-12-05",
@@ -3605,18 +3562,6 @@
       "tags": [
         "Latin"
       ]
-    },
-    {
-      "date": "2026-12-05",
-      "source": "songkick",
-      "artists": [
-        "Padre Guilherme"
-      ],
-      "artist_display": "Padre Guilherme",
-      "url": "https://www.songkick.com/concerts/43341564-padre-guilherme-at-velodromo-olimpico",
-      "venue": "Velódromo Olímpico",
-      "venue_url": "https://www.songkick.com/venues/451101-velodromo-olimpico",
-      "location": "Velódromo Olímpico,Mexico City, Mexico"
     },
     {
       "date": "2026-12-05",
@@ -4152,18 +4097,6 @@
       "date": "2026-12-11",
       "source": "songkick",
       "artists": [
-        "Bruno MarsDJ PEE WEE"
-      ],
-      "artist_display": "Bruno MarsDJ PEE WEE",
-      "url": "https://www.songkick.com/concerts/43386726-bruno-mars-at-estadio-gnp-seguros",
-      "venue": "Estadio GNP Seguros",
-      "venue_url": "https://www.songkick.com/venues/33578-estadio-gnp-seguros",
-      "location": "Estadio GNP Seguros,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-12-11",
-      "source": "songkick",
-      "artists": [
         "GorillazLuisa Almaguer"
       ],
       "artist_display": "GorillazLuisa Almaguer",
@@ -4171,6 +4104,18 @@
       "venue": "Palacio de los Deportes",
       "venue_url": "https://www.songkick.com/venues/31907-palacio-de-los-deportes",
       "location": "Palacio de los Deportes,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-12-11",
+      "source": "songkick",
+      "artists": [
+        "Bruno MarsDJ PEE WEE"
+      ],
+      "artist_display": "Bruno MarsDJ PEE WEE",
+      "url": "https://www.songkick.com/concerts/43386726-bruno-mars-at-estadio-gnp-seguros",
+      "venue": "Estadio GNP Seguros",
+      "venue_url": "https://www.songkick.com/venues/33578-estadio-gnp-seguros",
+      "location": "Estadio GNP Seguros,Mexico City, Mexico"
     },
     {
       "date": "2026-12-11",
@@ -4295,6 +4240,21 @@
       "tags": [
         "Pop",
         "Electro Pop"
+      ]
+    },
+    {
+      "date": "2026-12-11",
+      "source": "ticketmaster",
+      "artists": [
+        "Vico Sanz"
+      ],
+      "artist_display": "Vico Sanz",
+      "url": "https://www.ticketmaster.com.mx/vico-sanz-i-viajera-mexico-11-12-2026/event/3D006566B898CA0A",
+      "ticket_url": "https://www.ticketmaster.com.mx/vico-sanz-i-viajera-mexico-11-12-2026/event/3D006566B898CA0A",
+      "venue": "Foro Red Access",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
       ]
     },
     {
@@ -4929,6 +4889,22 @@
       "date": "2026-12-19",
       "source": "songkick",
       "artists": [
+        "T3R Elemento"
+      ],
+      "artist_display": "T3R Elemento",
+      "url": "https://www.songkick.com/concerts/43493235-t3r-elemento-at-pepsi-center-wtc",
+      "venue": "Pepsi Center WTC",
+      "venue_url": "https://www.songkick.com/venues/1774303-pepsi-center-wtc",
+      "location": "Pepsi Center WTC,Mexico City, Mexico",
+      "ticket_url": "https://www.ticketmaster.com.mx/t3r-elemento-mexico-19-12-2026/event/14006551D425E714",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-12-19",
+      "source": "songkick",
+      "artists": [
         "Comisario Pantera"
       ],
       "artist_display": "Comisario Pantera",
@@ -4948,22 +4924,6 @@
       "venue": "Auditorio BB",
       "venue_url": "https://www.songkick.com/venues/1683588-auditorio-bb",
       "location": "Auditorio BB,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-12-19",
-      "source": "songkick",
-      "artists": [
-        "T3R Elemento"
-      ],
-      "artist_display": "T3R Elemento",
-      "url": "https://www.songkick.com/concerts/43493235-t3r-elemento-at-pepsi-center-wtc",
-      "venue": "Pepsi Center WTC",
-      "venue_url": "https://www.songkick.com/venues/1774303-pepsi-center-wtc",
-      "location": "Pepsi Center WTC,Mexico City, Mexico",
-      "ticket_url": "https://www.ticketmaster.com.mx/t3r-elemento-mexico-19-12-2026/event/14006551D425E714",
-      "tags": [
-        "Latin"
-      ]
     },
     {
       "date": "2026-12-19",
@@ -6514,6 +6474,18 @@
       "date": "2027-02-10",
       "source": "songkick",
       "artists": [
+        "Miranda!"
+      ],
+      "artist_display": "Miranda!",
+      "url": "https://www.songkick.com/concerts/43509694-miranda-at-auditorio-nacional",
+      "venue": "Auditorio Nacional",
+      "venue_url": "https://www.songkick.com/venues/34183-auditorio-nacional",
+      "location": "Auditorio Nacional,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-02-10",
+      "source": "songkick",
+      "artists": [
         "Hesse Kassel"
       ],
       "artist_display": "Hesse Kassel",
@@ -6766,6 +6738,23 @@
       "tags": [
         "Electro Pop",
         "Pop"
+      ]
+    },
+    {
+      "date": "2027-02-17",
+      "source": "songkick",
+      "artists": [
+        "Jet"
+      ],
+      "artist_display": "Jet",
+      "url": "https://www.songkick.com/concerts/43509557-jet-at-foro-puebla",
+      "venue": "Foro Puebla",
+      "venue_url": "https://www.songkick.com/venues/4506135-foro-puebla",
+      "location": "Foro Puebla,Mexico City, Mexico",
+      "ticket_url": "https://www.ticketmaster.com.mx/jet-2027-us-mexico-tour-mexico-17-02-2027/event/3D006557C17F8EEE",
+      "tags": [
+        "Alternative Rock",
+        "Rock"
       ]
     },
     {
@@ -7025,6 +7014,16 @@
       "venue": "Circo Volador",
       "venue_url": "https://www.songkick.com/venues/49859-circo-volador",
       "location": "Circo Volador,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-02-21",
+      "source": "songkick",
+      "artists": [
+        "Richie Hawtin"
+      ],
+      "artist_display": "Richie Hawtin",
+      "url": "https://www.songkick.com/concerts/43509477-richie-hawtin-at-unknown-venue",
+      "location": "Mexico City, Mexico"
     },
     {
       "date": "2027-02-21",
@@ -8318,6 +8317,18 @@
       "date": "2027-04-17",
       "source": "songkick",
       "artists": [
+        "MetricBroken Social Scene and Stars"
+      ],
+      "artist_display": "MetricBroken Social Scene and Stars",
+      "url": "https://www.songkick.com/concerts/43509952-metric-at-pepsi-center",
+      "venue": "Pepsi Center",
+      "venue_url": "https://www.songkick.com/venues/4642353-pepsi-center",
+      "location": "Pepsi Center,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-04-17",
+      "source": "songkick",
+      "artists": [
         "Pandora"
       ],
       "artist_display": "Pandora",
@@ -8349,6 +8360,23 @@
       "venue": "La Maraka",
       "venue_url": "https://www.songkick.com/venues/1076291-la-maraka",
       "location": "La Maraka,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-04-17",
+      "source": "ticketmaster",
+      "artists": [
+        "Metric",
+        "Broken Social Scene"
+      ],
+      "artist_display": "Metric, Broken Social Scene",
+      "url": "https://www.ticketmaster.com.mx/metric-x-broken-social-scene-mexico-17-04-2027/event/14006564EEDCE31C",
+      "ticket_url": "https://www.ticketmaster.com.mx/metric-x-broken-social-scene-mexico-17-04-2027/event/14006564EEDCE31C",
+      "venue": "Pepsi Center",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Pop"
+      ]
     },
     {
       "date": "2027-04-18",
@@ -8977,6 +9005,22 @@
       "venue": "Circo Volador",
       "venue_url": "https://www.songkick.com/venues/49859-circo-volador",
       "location": "Circo Volador,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-05-22",
+      "source": "songkick",
+      "artists": [
+        "Feid"
+      ],
+      "artist_display": "Feid",
+      "url": "https://www.songkick.com/concerts/43510248-feid-at-palacio-de-los-deportes",
+      "venue": "Palacio de los Deportes",
+      "venue_url": "https://www.songkick.com/venues/31907-palacio-de-los-deportes",
+      "location": "Palacio de los Deportes,Mexico City, Mexico",
+      "ticket_url": "https://www.ticketmaster.com.mx/ferxxo-the-green-star-tour-2027-ciudad-de-mexico-22-05-2027/event/1400655FE8938944",
+      "tags": [
+        "Latin"
+      ]
     },
     {
       "date": "2027-05-22",
