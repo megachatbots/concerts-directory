@@ -1,45 +1,9 @@
 {
   "source": "songkick",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-11-11T13:37:03.147768Z",
-  "total_concerts": 494,
+  "scraped_at": "2026-11-12T14:40:18.925559Z",
+  "total_concerts": 501,
   "concerts": [
-    {
-      "date": "2026-11-11",
-      "source": "songkick",
-      "artists": [
-        "ZZ Top"
-      ],
-      "artist_display": "ZZ Top",
-      "url": "https://www.songkick.com/concerts/43121098-zz-top-at-auditorio-nacional",
-      "venue": "Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/34183-auditorio-nacional",
-      "location": "Auditorio Nacional,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-11",
-      "source": "songkick",
-      "artists": [
-        "OpethObesity"
-      ],
-      "artist_display": "OpethObesity",
-      "url": "https://www.songkick.com/concerts/43033105-opeth-at-arena-cdmx",
-      "venue": "Arena CDMX",
-      "venue_url": "https://www.songkick.com/venues/1649258-arena-cdmx",
-      "location": "Arena CDMX,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-11",
-      "source": "songkick",
-      "artists": [
-        "Pignoise"
-      ],
-      "artist_display": "Pignoise",
-      "url": "https://www.songkick.com/concerts/43398871-pignoise-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks!",
-      "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks!,Mexico City, Mexico"
-    },
     {
       "date": "2026-11-12",
       "source": "songkick",
@@ -152,9 +116,9 @@
       "date": "2026-11-13",
       "source": "songkick",
       "artists": [
-        "Karol G"
+        "Karol GBecky G and Kenia Os"
       ],
-      "artist_display": "Karol G",
+      "artist_display": "Karol GBecky G and Kenia Os",
       "url": "https://www.songkick.com/concerts/43203810-karol-g-at-estadio-gnp-seguros",
       "venue": "Estadio GNP Seguros",
       "venue_url": "https://www.songkick.com/venues/33578-estadio-gnp-seguros",
@@ -236,18 +200,6 @@
       "date": "2026-11-13",
       "source": "songkick",
       "artists": [
-        "Young Cister"
-      ],
-      "artist_display": "Young Cister",
-      "url": "https://www.songkick.com/concerts/43351067-young-cister-at-house-of-vans",
-      "venue": "House of Vans",
-      "venue_url": "https://www.songkick.com/venues/3083404-house-of-vans",
-      "location": "House of Vans,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-13",
-      "source": "songkick",
-      "artists": [
         "Dennis Cruz"
       ],
       "artist_display": "Dennis Cruz",
@@ -255,6 +207,18 @@
       "venue": "LooLoo",
       "venue_url": "https://www.songkick.com/venues/3769259-looloo",
       "location": "LooLoo,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-11-13",
+      "source": "songkick",
+      "artists": [
+        "Young Cister"
+      ],
+      "artist_display": "Young Cister",
+      "url": "https://www.songkick.com/concerts/43351067-young-cister-at-house-of-vans",
+      "venue": "House of Vans",
+      "venue_url": "https://www.songkick.com/venues/3083404-house-of-vans",
+      "location": "House of Vans,Mexico City, Mexico"
     },
     {
       "date": "2026-11-13",
@@ -272,9 +236,9 @@
       "date": "2026-11-14",
       "source": "songkick",
       "artists": [
-        "Karol G"
+        "Karol GBecky G and Kenia Os"
       ],
-      "artist_display": "Karol G",
+      "artist_display": "Karol GBecky G and Kenia Os",
       "url": "https://www.songkick.com/concerts/43203815-karol-g-at-estadio-gnp-seguros",
       "venue": "Estadio GNP Seguros",
       "venue_url": "https://www.songkick.com/venues/33578-estadio-gnp-seguros",
@@ -392,9 +356,9 @@
       "date": "2026-11-15",
       "source": "songkick",
       "artists": [
-        "Karol G"
+        "Karol GBecky G and Kenia Os"
       ],
-      "artist_display": "Karol G",
+      "artist_display": "Karol GBecky G and Kenia Os",
       "url": "https://www.songkick.com/concerts/43203814-karol-g-at-estadio-gnp-seguros",
       "venue": "Estadio GNP Seguros",
       "venue_url": "https://www.songkick.com/venues/33578-estadio-gnp-seguros",
@@ -1976,6 +1940,18 @@
       "date": "2026-12-05",
       "source": "songkick",
       "artists": [
+        "Adam Ten and Mita Gami"
+      ],
+      "artist_display": "Adam Ten and Mita Gami",
+      "url": "https://www.songkick.com/concerts/43499580-adam-ten-at-hacienda-de-mexico",
+      "venue": "Hacienda de México",
+      "venue_url": "https://www.songkick.com/venues/416976-hacienda-de-mexico",
+      "location": "Hacienda de México,Teotihuacan, Mexico"
+    },
+    {
+      "date": "2026-12-05",
+      "source": "songkick",
+      "artists": [
         "Simifest 2026Snoop Dogg, Miguel, Moby, Justice, Neil Frances, STRFKR, Chet Faker, and Two Another"
       ],
       "artist_display": "Simifest 2026Snoop Dogg, Miguel, Moby, Justice, Neil Frances, STRFKR, Chet Faker, and Two Another",
@@ -2273,12 +2249,24 @@
       "location": "Foro Indie Rocks!,Mexico City, Mexico"
     },
     {
+      "date": "2026-12-10",
+      "source": "songkick",
+      "artists": [
+        "Sad SaturnoMarino CHDKF"
+      ],
+      "artist_display": "Sad SaturnoMarino CHDKF",
+      "url": "https://www.songkick.com/concerts/43512145-sad-saturno-at-chico",
+      "venue": "Chico",
+      "venue_url": "https://www.songkick.com/venues/69136-chico",
+      "location": "Chico,Mexico City, Mexico"
+    },
+    {
       "date": "2026-12-11",
       "source": "songkick",
       "artists": [
-        "Ed Sheeran"
+        "Ed SheeranIsaac Slade"
       ],
-      "artist_display": "Ed Sheeran",
+      "artist_display": "Ed SheeranIsaac Slade",
       "url": "https://www.songkick.com/concerts/43168379-ed-sheeran-at-estadio-ciudad-de-los-deportes",
       "venue": "Estadio Ciudad de los Deportes",
       "venue_url": "https://www.songkick.com/venues/4464658-estadio-ciudad-de-los-deportes",
@@ -2492,9 +2480,9 @@
       "date": "2026-12-12",
       "source": "songkick",
       "artists": [
-        "Amistades 2026Daniel Quién, Axel Catalán, Fernando Milagros, Ataquemos, Dstance, prehïstoricos, and Un León Marinero"
+        "Amistades 2026Daniel Quién, Axel Catalán, Fernando Milagros, Ataquemos, Dstance, prehïstoricos, Un León Marinero, and Exael Salcedo Garcés"
       ],
-      "artist_display": "Amistades 2026Daniel Quién, Axel Catalán, Fernando Milagros, Ataquemos, Dstance, prehïstoricos, and Un León Marinero",
+      "artist_display": "Amistades 2026Daniel Quién, Axel Catalán, Fernando Milagros, Ataquemos, Dstance, prehïstoricos, Un León Marinero, and Exael Salcedo Garcés",
       "url": "https://www.songkick.com/festivals/3801605-amistades/id/43375654-amistades-2026",
       "venue": "Foro Cultural Hilvana",
       "venue_url": "https://www.songkick.com/venues/4071029-foro-cultural-hilvana",
@@ -3329,6 +3317,18 @@
       "location": "La Maraka,Mexico City, Mexico"
     },
     {
+      "date": "2027-01-24",
+      "source": "songkick",
+      "artists": [
+        "STRANGEHUMAN"
+      ],
+      "artist_display": "STRANGEHUMAN",
+      "url": "https://www.songkick.com/concerts/43512888-strangehuman-at-teatro-metropolitan",
+      "venue": "Teatro Metropólitan",
+      "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
+      "location": "Teatro Metropólitan,Mexico City, Mexico"
+    },
+    {
       "date": "2027-01-25",
       "source": "songkick",
       "artists": [
@@ -3749,6 +3749,18 @@
       "location": "La Maraka,Mexico City, Mexico"
     },
     {
+      "date": "2027-02-05",
+      "source": "songkick",
+      "artists": [
+        "Gustavo Lara"
+      ],
+      "artist_display": "Gustavo Lara",
+      "url": "https://www.songkick.com/concerts/43512883-gustavo-lara-at-foro-stelaris-fiesta-americana-reforma",
+      "venue": "Foro Stelaris, Fiesta Americana Reforma",
+      "venue_url": "https://www.songkick.com/venues/4639533-foro-stelaris-fiesta-americana-reforma",
+      "location": "Foro Stelaris, Fiesta Americana Reforma,Mexico City, Mexico"
+    },
+    {
       "date": "2027-02-06",
       "source": "songkick",
       "artists": [
@@ -4133,6 +4145,18 @@
       "location": "Autódromo Hermanos Rodríguez,Mexico City, Mexico"
     },
     {
+      "date": "2027-02-19",
+      "source": "songkick",
+      "artists": [
+        "EDC Mexico 2027ILLENIUM"
+      ],
+      "artist_display": "EDC Mexico 2027ILLENIUM",
+      "url": "https://www.songkick.com/festivals/931944-edc-mexico/id/43512614-edc-mexico-2027",
+      "venue": "Autódromo Hermanos Rodríguez",
+      "venue_url": "https://www.songkick.com/venues/70055-autodromo-hermanos-rodriguez",
+      "location": "Autódromo Hermanos Rodríguez,Mexico City, Mexico"
+    },
+    {
       "date": "2027-02-20",
       "source": "songkick",
       "artists": [
@@ -4239,16 +4263,6 @@
       "venue": "Circo Volador",
       "venue_url": "https://www.songkick.com/venues/49859-circo-volador",
       "location": "Circo Volador,Mexico City, Mexico"
-    },
-    {
-      "date": "2027-02-21",
-      "source": "songkick",
-      "artists": [
-        "Richie Hawtin"
-      ],
-      "artist_display": "Richie Hawtin",
-      "url": "https://www.songkick.com/concerts/43509477-richie-hawtin-at-unknown-venue",
-      "location": "Mexico City, Mexico"
     },
     {
       "date": "2027-02-21",
@@ -4755,6 +4769,18 @@
       "location": "Estadio Fray Nano de Beisbol,Mexico City, Mexico"
     },
     {
+      "date": "2027-03-11",
+      "source": "songkick",
+      "artists": [
+        "Bad Religion"
+      ],
+      "artist_display": "Bad Religion",
+      "url": "https://www.songkick.com/concerts/43512874-bad-religion-at-pabellon-del-palacio-de-los-deportes",
+      "venue": "Pabellón del Palacio de los Deportes",
+      "venue_url": "https://www.songkick.com/venues/1551083-pabellon-del-palacio-de-los-deportes",
+      "location": "Pabellón del Palacio de los Deportes,Mexico City, Mexico"
+    },
+    {
       "date": "2027-03-12",
       "source": "songkick",
       "artists": [
@@ -4777,6 +4803,18 @@
       "venue": "Bajo Circuito Multiforo Urbano",
       "venue_url": "https://www.songkick.com/venues/4335163-bajo-circuito-multiforo-urbano",
       "location": "Bajo Circuito Multiforo Urbano,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-03-13",
+      "source": "songkick",
+      "artists": [
+        "CavaleraMax & Iggor Cavalera, Max e Iggor Cavalera, and Cavalera Conspiracy"
+      ],
+      "artist_display": "CavaleraMax & Iggor Cavalera, Max e Iggor Cavalera, and Cavalera Conspiracy",
+      "url": "https://www.songkick.com/concerts/43512413-cavalera-at-circo-volador",
+      "venue": "Circo Volador",
+      "venue_url": "https://www.songkick.com/venues/49859-circo-volador",
+      "location": "Circo Volador,Mexico City, Mexico"
     },
     {
       "date": "2027-03-13",
@@ -5109,10 +5147,10 @@
         "MetricBroken Social Scene and Stars"
       ],
       "artist_display": "MetricBroken Social Scene and Stars",
-      "url": "https://www.songkick.com/concerts/43509952-metric-at-pepsi-center",
-      "venue": "Pepsi Center",
-      "venue_url": "https://www.songkick.com/venues/4642353-pepsi-center",
-      "location": "Pepsi Center,Mexico City, Mexico"
+      "url": "https://www.songkick.com/concerts/43509952-metric-at-pepsi-center-wtc",
+      "venue": "Pepsi Center WTC",
+      "venue_url": "https://www.songkick.com/venues/1774303-pepsi-center-wtc",
+      "location": "Pepsi Center WTC,Mexico City, Mexico"
     },
     {
       "date": "2027-04-17",
@@ -5293,6 +5331,18 @@
       "venue": "Multiforo Alicia",
       "venue_url": "https://www.songkick.com/venues/120456-multiforo-alicia",
       "location": "Multiforo Alicia,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-04-30",
+      "source": "songkick",
+      "artists": [
+        "Till Lindemann"
+      ],
+      "artist_display": "Till Lindemann",
+      "url": "https://www.songkick.com/concerts/43512877-till-lindemann-at-pepsi-center-wtc",
+      "venue": "Pepsi Center WTC",
+      "venue_url": "https://www.songkick.com/venues/1774303-pepsi-center-wtc",
+      "location": "Pepsi Center WTC,Mexico City, Mexico"
     },
     {
       "date": "2027-05-01",
@@ -5550,18 +5600,6 @@
       "date": "2027-05-21",
       "source": "songkick",
       "artists": [
-        "The Limiñanas"
-      ],
-      "artist_display": "The Limiñanas",
-      "url": "https://www.songkick.com/concerts/43168757-liminanas-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks!",
-      "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks!,Mexico City, Mexico"
-    },
-    {
-      "date": "2027-05-21",
-      "source": "songkick",
-      "artists": [
         "Feid"
       ],
       "artist_display": "Feid",
@@ -5569,6 +5607,18 @@
       "venue": "Palacio de los Deportes",
       "venue_url": "https://www.songkick.com/venues/31907-palacio-de-los-deportes",
       "location": "Palacio de los Deportes,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-05-21",
+      "source": "songkick",
+      "artists": [
+        "The Limiñanas"
+      ],
+      "artist_display": "The Limiñanas",
+      "url": "https://www.songkick.com/concerts/43168757-liminanas-at-foro-indie-rocks",
+      "venue": "Foro Indie Rocks!",
+      "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
     },
     {
       "date": "2027-05-21",
@@ -5593,6 +5643,18 @@
       "venue": "Arena CDMX",
       "venue_url": "https://www.songkick.com/venues/1649258-arena-cdmx",
       "location": "Arena CDMX,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-05-22",
+      "source": "songkick",
+      "artists": [
+        "Feid"
+      ],
+      "artist_display": "Feid",
+      "url": "https://www.songkick.com/concerts/43510248-feid-at-palacio-de-los-deportes",
+      "venue": "Palacio de los Deportes",
+      "venue_url": "https://www.songkick.com/venues/31907-palacio-de-los-deportes",
+      "location": "Palacio de los Deportes,Mexico City, Mexico"
     },
     {
       "date": "2027-05-22",
@@ -5629,18 +5691,6 @@
       "venue": "Circo Volador",
       "venue_url": "https://www.songkick.com/venues/49859-circo-volador",
       "location": "Circo Volador,Mexico City, Mexico"
-    },
-    {
-      "date": "2027-05-22",
-      "source": "songkick",
-      "artists": [
-        "Feid"
-      ],
-      "artist_display": "Feid",
-      "url": "https://www.songkick.com/concerts/43510248-feid-at-palacio-de-los-deportes",
-      "venue": "Palacio de los Deportes",
-      "venue_url": "https://www.songkick.com/venues/31907-palacio-de-los-deportes",
-      "location": "Palacio de los Deportes,Mexico City, Mexico"
     },
     {
       "date": "2027-05-27",
@@ -5794,6 +5844,42 @@
       ],
       "artist_display": "Scorpions",
       "url": "https://www.songkick.com/concerts/43219124-scorpions-at-palacio-de-los-deportes",
+      "venue": "Palacio de los Deportes",
+      "venue_url": "https://www.songkick.com/venues/31907-palacio-de-los-deportes",
+      "location": "Palacio de los Deportes,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-09-07",
+      "source": "songkick",
+      "artists": [
+        "Rels B"
+      ],
+      "artist_display": "Rels B",
+      "url": "https://www.songkick.com/concerts/43512878-rels-b-at-palacio-de-los-deportes",
+      "venue": "Palacio de los Deportes",
+      "venue_url": "https://www.songkick.com/venues/31907-palacio-de-los-deportes",
+      "location": "Palacio de los Deportes,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-09-08",
+      "source": "songkick",
+      "artists": [
+        "Rels B"
+      ],
+      "artist_display": "Rels B",
+      "url": "https://www.songkick.com/concerts/43512882-rels-b-at-palacio-de-los-deportes",
+      "venue": "Palacio de los Deportes",
+      "venue_url": "https://www.songkick.com/venues/31907-palacio-de-los-deportes",
+      "location": "Palacio de los Deportes,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-09-10",
+      "source": "songkick",
+      "artists": [
+        "Rels B"
+      ],
+      "artist_display": "Rels B",
+      "url": "https://www.songkick.com/concerts/43512886-rels-b-at-palacio-de-los-deportes",
       "venue": "Palacio de los Deportes",
       "venue_url": "https://www.songkick.com/venues/31907-palacio-de-los-deportes",
       "location": "Palacio de los Deportes,Mexico City, Mexico"

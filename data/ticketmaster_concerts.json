@@ -1,25 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-11-11T13:37:07.717030Z",
-  "total_concerts": 409,
+  "scraped_at": "2026-11-12T14:40:22.803209Z",
+  "total_concerts": 416,
   "concerts": [
-    {
-      "date": "2026-11-11",
-      "source": "ticketmaster",
-      "artists": [
-        "ZZ Top"
-      ],
-      "artist_display": "ZZ Top",
-      "url": "https://www.ticketmaster.com.mx/zz-top-ciudad-de-mexico-11-11-2026/event/3D00647584612B59",
-      "ticket_url": "https://www.ticketmaster.com.mx/zz-top-ciudad-de-mexico-11-11-2026/event/3D00647584612B59",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Pop"
-      ]
-    },
     {
       "date": "2026-11-12",
       "source": "ticketmaster",
@@ -249,22 +233,6 @@
       "location": "México, Ciudad de México, Mexico",
       "tags": [
         "Ballads/Romantic"
-      ]
-    },
-    {
-      "date": "2026-11-13",
-      "source": "ticketmaster",
-      "artists": [
-        "La Cantadera"
-      ],
-      "artist_display": "La Cantadera",
-      "url": "https://www.ticketmaster.com.mx/la-cantadera-ciudad-de-mexico-13-11-2026/event/3D006514C2BF6272",
-      "ticket_url": "https://www.ticketmaster.com.mx/la-cantadera-ciudad-de-mexico-13-11-2026/event/3D006514C2BF6272",
-      "venue": "Foro Stelaris Fiesta Americana Reforma",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Pop"
       ]
     },
     {
@@ -4550,6 +4518,18 @@
       ]
     },
     {
+      "date": "2027-01-20",
+      "source": "ticketmaster",
+      "artists": [
+        "Milk Love"
+      ],
+      "artist_display": "Milk Love",
+      "url": "https://www.ticketmaster.com.mx/milk-love-soundchek-poster-sin-boleto-mexico-20-01-2027/event/1400654A88373F2F",
+      "ticket_url": "https://www.ticketmaster.com.mx/milk-love-soundchek-poster-sin-boleto-mexico-20-01-2027/event/1400654A88373F2F",
+      "venue": "Teatro Metropolitan",
+      "location": "México, Ciudad de México, Mexico"
+    },
+    {
       "date": "2027-01-21",
       "source": "ticketmaster",
       "artists": [
@@ -4674,6 +4654,22 @@
       ]
     },
     {
+      "date": "2027-01-23",
+      "source": "ticketmaster",
+      "artists": [
+        "NSQK"
+      ],
+      "artist_display": "NSQK",
+      "url": "https://www.ticketmaster.com.mx/nsqk-zona-de-discapacidad-auditiva-ciudad-de-mexico-23-01-2027/event/1400650EA3B66A88",
+      "ticket_url": "https://www.ticketmaster.com.mx/nsqk-zona-de-discapacidad-auditiva-ciudad-de-mexico-23-01-2027/event/1400650EA3B66A88",
+      "venue": "Estadio GNP Seguros",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Hip-Hop/Rap",
+        "Trap"
+      ]
+    },
+    {
       "date": "2027-01-24",
       "source": "ticketmaster",
       "artists": [
@@ -4688,6 +4684,21 @@
       "location": "México, Ciudad de México, Mexico",
       "tags": [
         "Ballads/Romantic"
+      ]
+    },
+    {
+      "date": "2027-01-24",
+      "source": "ticketmaster",
+      "artists": [
+        "Strangehuman"
+      ],
+      "artist_display": "Strangehuman",
+      "url": "https://www.ticketmaster.com.mx/strangehuman-mexico-24-01-2027/event/1400655DE4F6E788",
+      "ticket_url": "https://www.ticketmaster.com.mx/strangehuman-mexico-24-01-2027/event/1400655DE4F6E788",
+      "venue": "Teatro Metropolitan",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
       ]
     },
     {
@@ -5123,6 +5134,21 @@
       "tags": [
         "Rock",
         "Alternative Rock"
+      ]
+    },
+    {
+      "date": "2027-02-05",
+      "source": "ticketmaster",
+      "artists": [
+        "Gustavo Lara"
+      ],
+      "artist_display": "Gustavo Lara",
+      "url": "https://www.ticketmaster.com.mx/gustavo-lara-en-concierto-tour-2027-ciudad-de-mexico-05-02-2027/event/3D00656B8D2E3507",
+      "ticket_url": "https://www.ticketmaster.com.mx/gustavo-lara-en-concierto-tour-2027-ciudad-de-mexico-05-02-2027/event/3D00656B8D2E3507",
+      "venue": "Foro Stelaris Fiesta Americana Reforma",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
       ]
     },
     {
@@ -5992,6 +6018,22 @@
       ]
     },
     {
+      "date": "2027-03-11",
+      "source": "ticketmaster",
+      "artists": [
+        "Bad Religion"
+      ],
+      "artist_display": "Bad Religion",
+      "url": "https://www.ticketmaster.com.mx/bad-religion-mexico-11-03-2027/event/14006564BF9D95F5",
+      "ticket_url": "https://www.ticketmaster.com.mx/bad-religion-mexico-11-03-2027/event/14006564BF9D95F5",
+      "venue": "Pabellón del Palacio de los Deportes",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Punk"
+      ]
+    },
+    {
       "date": "2027-03-13",
       "source": "ticketmaster",
       "artists": [
@@ -6496,6 +6538,22 @@
       ]
     },
     {
+      "date": "2027-04-30",
+      "source": "ticketmaster",
+      "artists": [
+        "Till Lindemann"
+      ],
+      "artist_display": "Till Lindemann",
+      "url": "https://www.ticketmaster.com.mx/till-lindemann-mexico-30-04-2027/event/14006567BE3194DA",
+      "ticket_url": "https://www.ticketmaster.com.mx/till-lindemann-mexico-30-04-2027/event/14006567BE3194DA",
+      "venue": "Pepsi Center",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Metal",
+        "Nu-Metal"
+      ]
+    },
+    {
       "date": "2027-05-01",
       "source": "ticketmaster",
       "artists": [
@@ -6958,6 +7016,54 @@
       "tags": [
         "Rock",
         "Pop"
+      ]
+    },
+    {
+      "date": "2027-09-07",
+      "source": "ticketmaster",
+      "artists": [
+        "Rels B"
+      ],
+      "artist_display": "Rels B",
+      "url": "https://www.ticketmaster.com.mx/rels-b-ciudad-de-mexico-07-09-2027/event/1400655CCFA2CFE6",
+      "ticket_url": "https://www.ticketmaster.com.mx/rels-b-ciudad-de-mexico-07-09-2027/event/1400655CCFA2CFE6",
+      "venue": "Palacio de los Deportes",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Hip-Hop/Rap",
+        "Trap"
+      ]
+    },
+    {
+      "date": "2027-09-08",
+      "source": "ticketmaster",
+      "artists": [
+        "Rels B"
+      ],
+      "artist_display": "Rels B",
+      "url": "https://www.ticketmaster.com.mx/rels-b-ciudad-de-mexico-08-09-2027/event/1400655CD118D258",
+      "ticket_url": "https://www.ticketmaster.com.mx/rels-b-ciudad-de-mexico-08-09-2027/event/1400655CD118D258",
+      "venue": "Palacio de los Deportes",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Hip-Hop/Rap",
+        "Trap"
+      ]
+    },
+    {
+      "date": "2027-09-10",
+      "source": "ticketmaster",
+      "artists": [
+        "Rels B"
+      ],
+      "artist_display": "Rels B",
+      "url": "https://www.ticketmaster.com.mx/rels-b-ciudad-de-mexico-10-09-2027/event/1400655CD11AD25C",
+      "ticket_url": "https://www.ticketmaster.com.mx/rels-b-ciudad-de-mexico-10-09-2027/event/1400655CD11AD25C",
+      "venue": "Palacio de los Deportes",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Hip-Hop/Rap",
+        "Trap"
       ]
     },
     {
