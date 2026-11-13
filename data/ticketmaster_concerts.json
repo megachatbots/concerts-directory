@@ -1,101 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-11-12T14:40:22.803209Z",
-  "total_concerts": 416,
+  "scraped_at": "2026-11-13T13:57:56.564938Z",
+  "total_concerts": 419,
   "concerts": [
-    {
-      "date": "2026-11-12",
-      "source": "ticketmaster",
-      "artists": [
-        "Sala Principal Bellas Artes"
-      ],
-      "artist_display": "Sala Principal Bellas Artes",
-      "url": "https://www.ticketmaster.com.mx/compania-nacional-de-danza-gala-balanchine-mexico-cdmx-12-11-2026/event/3D006536F968B27E",
-      "ticket_url": "https://www.ticketmaster.com.mx/compania-nacional-de-danza-gala-balanchine-mexico-cdmx-12-11-2026/event/3D006536F968B27E",
-      "venue": "Palacio de Bellas Artes",
-      "location": "México CDMX, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-11-12",
-      "source": "ticketmaster",
-      "artists": [
-        "Pancho Varona"
-      ],
-      "artist_display": "Pancho Varona",
-      "url": "https://www.ticketmaster.com.mx/pancho-varona-en-mexico-ciudad-de-mexico-12-11-2026/event/3D0064D0BDED47F5",
-      "ticket_url": "https://www.ticketmaster.com.mx/pancho-varona-en-mexico-ciudad-de-mexico-12-11-2026/event/3D0064D0BDED47F5",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-11-12",
-      "source": "ticketmaster",
-      "artists": [
-        "María León"
-      ],
-      "artist_display": "María León",
-      "url": "https://www.ticketmaster.com.mx/maria-leon-mexico-12-11-2026/event/140064F28A8D3ABF",
-      "ticket_url": "https://www.ticketmaster.com.mx/maria-leon-mexico-12-11-2026/event/140064F28A8D3ABF",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
-      ]
-    },
-    {
-      "date": "2026-11-12",
-      "source": "ticketmaster",
-      "artists": [
-        "Leyendas el show"
-      ],
-      "artist_display": "Leyendas el show",
-      "url": "https://www.ticketmaster.com.mx/leyendas-ciudad-de-mexico-12-11-2026/event/3D006514838A1F78",
-      "ticket_url": "https://www.ticketmaster.com.mx/leyendas-ciudad-de-mexico-12-11-2026/event/3D006514838A1F78",
-      "venue": "Foro Stelaris Fiesta Americana Reforma",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
-      ]
-    },
-    {
-      "date": "2026-11-12",
-      "source": "ticketmaster",
-      "artists": [
-        "Elefante"
-      ],
-      "artist_display": "Elefante",
-      "url": "https://www.ticketmaster.com.mx/elefante-30-aniversario-ciudad-de-mexico-12-11-2026/event/3D0064368B7A2555",
-      "ticket_url": "https://www.ticketmaster.com.mx/elefante-30-aniversario-ciudad-de-mexico-12-11-2026/event/3D0064368B7A2555",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-11-12",
-      "source": "ticketmaster",
-      "artists": [
-        "Lifehouse"
-      ],
-      "artist_display": "Lifehouse",
-      "url": "https://www.ticketmaster.com.mx/lifehouse-best-of-acoustic-mexico-12-11-2026/event/3D0064B08D245B12",
-      "ticket_url": "https://www.ticketmaster.com.mx/lifehouse-best-of-acoustic-mexico-12-11-2026/event/3D0064B08D245B12",
-      "venue": "La Maraka",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Alternative Rock"
-      ]
-    },
     {
       "date": "2026-11-13",
       "source": "ticketmaster",
@@ -296,22 +204,6 @@
       "tags": [
         "Pop",
         "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-11-14",
-      "source": "ticketmaster",
-      "artists": [
-        "Fernando Delgadillo"
-      ],
-      "artist_display": "Fernando Delgadillo",
-      "url": "https://www.ticketmaster.com.mx/fernando-delgadillo-ciudad-de-mexico-14-11-2026/event/3D0064FDABAB4ECE",
-      "ticket_url": "https://www.ticketmaster.com.mx/fernando-delgadillo-ciudad-de-mexico-14-11-2026/event/3D0064FDABAB4ECE",
-      "venue": "Sala Pepsi Black",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "World",
-        "Trova"
       ]
     },
     {
@@ -4222,6 +4114,22 @@
       ]
     },
     {
+      "date": "2026-12-19",
+      "source": "ticketmaster",
+      "artists": [
+        "Deja Vu Retro Experience"
+      ],
+      "artist_display": "Deja Vu Retro Experience",
+      "url": "https://www.ticketmaster.com.mx/deja-vu-retro-show-ciudad-de-mexico-19-12-2026/event/3D00656CBFAD83CC",
+      "ticket_url": "https://www.ticketmaster.com.mx/deja-vu-retro-show-ciudad-de-mexico-19-12-2026/event/3D00656CBFAD83CC",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
+      ]
+    },
+    {
       "date": "2026-12-20",
       "source": "ticketmaster",
       "artists": [
@@ -5200,6 +5108,22 @@
       "date": "2027-02-06",
       "source": "ticketmaster",
       "artists": [
+        "Los Planetas"
+      ],
+      "artist_display": "Los Planetas",
+      "url": "https://www.ticketmaster.com.mx/los-planetas-mexico-06-02-2027/event/140065668EFF51E5",
+      "ticket_url": "https://www.ticketmaster.com.mx/los-planetas-mexico-06-02-2027/event/140065668EFF51E5",
+      "venue": "Teatro Metropolitan",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
+      "date": "2027-02-06",
+      "source": "ticketmaster",
+      "artists": [
         "Lorenzo Antonio"
       ],
       "artist_display": "Lorenzo Antonio",
@@ -5261,6 +5185,22 @@
       "date": "2027-02-10",
       "source": "ticketmaster",
       "artists": [
+        "Bom-Lali + Miranda!"
+      ],
+      "artist_display": "Bom-Lali + Miranda!",
+      "url": "https://www.ticketmaster.com.mx/bomlali-miranda-ciudad-de-mexico-10-02-2027/event/3D00656AAD5363D4",
+      "ticket_url": "https://www.ticketmaster.com.mx/bomlali-miranda-ciudad-de-mexico-10-02-2027/event/3D00656AAD5363D4",
+      "venue": "Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
+      ]
+    },
+    {
+      "date": "2027-02-10",
+      "source": "ticketmaster",
+      "artists": [
         "HESSE KASSEL"
       ],
       "artist_display": "HESSE KASSEL",
@@ -5271,6 +5211,22 @@
       "tags": [
         "Rock",
         "Pop"
+      ]
+    },
+    {
+      "date": "2027-02-11",
+      "source": "ticketmaster",
+      "artists": [
+        "Fernando Delgadillo"
+      ],
+      "artist_display": "Fernando Delgadillo",
+      "url": "https://www.ticketmaster.com.mx/fernando-delgadillo-ciudad-de-mexico-11-02-2027/event/3D0064FDABAB4ECE",
+      "ticket_url": "https://www.ticketmaster.com.mx/fernando-delgadillo-ciudad-de-mexico-11-02-2027/event/3D0064FDABAB4ECE",
+      "venue": "Sala Pepsi Black",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "World",
+        "Trova"
       ]
     },
     {
@@ -5619,6 +5575,22 @@
       "date": "2027-02-21",
       "source": "ticketmaster",
       "artists": [
+        "Golden Ganga"
+      ],
+      "artist_display": "Golden Ganga",
+      "url": "https://www.ticketmaster.com.mx/golden-ganga-mexico-21-02-2027/event/1400656A86A134FD",
+      "ticket_url": "https://www.ticketmaster.com.mx/golden-ganga-mexico-21-02-2027/event/1400656A86A134FD",
+      "venue": "Teatro Metropolitan",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Hip-Hop/Rap",
+        "Trap"
+      ]
+    },
+    {
+      "date": "2027-02-21",
+      "source": "ticketmaster",
+      "artists": [
         "Festival Urbano",
         "C-Kan"
       ],
@@ -5837,12 +5809,44 @@
       "date": "2027-02-28",
       "source": "ticketmaster",
       "artists": [
+        "Tame Impala"
+      ],
+      "artist_display": "Tame Impala",
+      "url": "https://www.ticketmaster.com.mx/tame-impala-deadbeat-tour-ciudad-de-mexico-28-02-2027/event/1400656ABB4AF342",
+      "ticket_url": "https://www.ticketmaster.com.mx/tame-impala-deadbeat-tour-ciudad-de-mexico-28-02-2027/event/1400656ABB4AF342",
+      "venue": "Palacio de los Deportes",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
+      "date": "2027-02-28",
+      "source": "ticketmaster",
+      "artists": [
         "U2"
       ],
       "artist_display": "U2",
       "url": "https://www.ticketmaster.com.mx/u2-the-greatest-show-on-earth-ciudad-de-mexico-28-02-2027/event/14006549BA9ECA85",
       "ticket_url": "https://www.ticketmaster.com.mx/u2-the-greatest-show-on-earth-ciudad-de-mexico-28-02-2027/event/14006549BA9ECA85",
       "venue": "Estadio GNP Seguros",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Pop"
+      ]
+    },
+    {
+      "date": "2027-03-01",
+      "source": "ticketmaster",
+      "artists": [
+        "Tame Impala"
+      ],
+      "artist_display": "Tame Impala",
+      "url": "https://www.ticketmaster.com.mx/tame-impala-deadbeat-tour-ciudad-de-mexico-01-03-2027/event/1400656AC19817A9",
+      "ticket_url": "https://www.ticketmaster.com.mx/tame-impala-deadbeat-tour-ciudad-de-mexico-01-03-2027/event/1400656AC19817A9",
+      "venue": "Palacio de los Deportes",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Rock",
@@ -6365,6 +6369,22 @@
       ]
     },
     {
+      "date": "2027-04-09",
+      "source": "ticketmaster",
+      "artists": [
+        "Reyli",
+        "Elefante"
+      ],
+      "artist_display": "Reyli, Elefante",
+      "url": "https://www.ticketmaster.com.mx/elefante-reyli-barba-asi-es-la-ciudad-de-mexico-09-04-2027/event/3D006565D837D019",
+      "ticket_url": "https://www.ticketmaster.com.mx/elefante-reyli-barba-asi-es-la-ciudad-de-mexico-09-04-2027/event/3D006565D837D019",
+      "venue": "Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
       "date": "2027-04-10",
       "source": "ticketmaster",
       "artists": [
@@ -6466,8 +6486,8 @@
         "Espinoza Paz"
       ],
       "artist_display": "Espinoza Paz",
-      "url": "https://www.ticketmaster.com.mx/espinoza-paz-ciudad-de-mexico-21-04-2027/event/3D006518B86836B7",
-      "ticket_url": "https://www.ticketmaster.com.mx/espinoza-paz-ciudad-de-mexico-21-04-2027/event/3D006518B86836B7",
+      "url": "https://www.ticketmaster.com.mx/espinoza-paz-mariachi-sinfonico-ciudad-de-mexico-21-04-2027/event/3D006518B86836B7",
+      "ticket_url": "https://www.ticketmaster.com.mx/espinoza-paz-mariachi-sinfonico-ciudad-de-mexico-21-04-2027/event/3D006518B86836B7",
       "venue": "Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
@@ -6544,8 +6564,8 @@
         "Till Lindemann"
       ],
       "artist_display": "Till Lindemann",
-      "url": "https://www.ticketmaster.com.mx/till-lindemann-mexico-30-04-2027/event/14006567BE3194DA",
-      "ticket_url": "https://www.ticketmaster.com.mx/till-lindemann-mexico-30-04-2027/event/14006567BE3194DA",
+      "url": "https://www.ticketmaster.com.mx/till-lindemann-world-tour-2027-mexico-30-04-2027/event/14006567BE3194DA",
+      "ticket_url": "https://www.ticketmaster.com.mx/till-lindemann-world-tour-2027-mexico-30-04-2027/event/14006567BE3194DA",
       "venue": "Pepsi Center",
       "location": "México, Ciudad de México, Mexico",
       "tags": [
@@ -6680,6 +6700,22 @@
       ]
     },
     {
+      "date": "2027-05-13",
+      "source": "ticketmaster",
+      "artists": [
+        "Phoebe Bridgers"
+      ],
+      "artist_display": "Phoebe Bridgers",
+      "url": "https://www.ticketmaster.com.mx/phoebe-bridgers-ciudad-de-mexico-13-05-2027/event/14006567B9298B7E",
+      "ticket_url": "https://www.ticketmaster.com.mx/phoebe-bridgers-ciudad-de-mexico-13-05-2027/event/14006567B9298B7E",
+      "venue": "Palacio de los Deportes",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Alternative Rock"
+      ]
+    },
+    {
       "date": "2027-05-14",
       "source": "ticketmaster",
       "artists": [
@@ -6764,8 +6800,8 @@
         "Ricky Montgomery"
       ],
       "artist_display": "Ricky Montgomery",
-      "url": "https://www.ticketmaster.com.mx/ricky-montgomery-ciudad-de-mexico-21-05-2027/event/3D006566BBA1D127",
-      "ticket_url": "https://www.ticketmaster.com.mx/ricky-montgomery-ciudad-de-mexico-21-05-2027/event/3D006566BBA1D127",
+      "url": "https://www.ticketmaster.com.mx/ricky-montgomery-the-monty-tour-ciudad-de-mexico-21-05-2027/event/3D006566BBA1D127",
+      "ticket_url": "https://www.ticketmaster.com.mx/ricky-montgomery-the-monty-tour-ciudad-de-mexico-21-05-2027/event/3D006566BBA1D127",
       "venue": "El Lunario del Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
@@ -6802,6 +6838,21 @@
       "tags": [
         "Rock",
         "Pop"
+      ]
+    },
+    {
+      "date": "2027-05-23",
+      "source": "ticketmaster",
+      "artists": [
+        "Feid"
+      ],
+      "artist_display": "Feid",
+      "url": "https://www.ticketmaster.com.mx/ferxxo-the-green-star-tour-2027-ciudad-de-mexico-23-05-2027/event/1400655FE8958949",
+      "ticket_url": "https://www.ticketmaster.com.mx/ferxxo-the-green-star-tour-2027-ciudad-de-mexico-23-05-2027/event/1400655FE8958949",
+      "venue": "Palacio de los Deportes",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
       ]
     },
     {
