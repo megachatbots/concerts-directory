@@ -1,164 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-11-13T13:57:56.564938Z",
-  "total_concerts": 419,
+  "scraped_at": "2026-11-14T12:59:52.280129Z",
+  "total_concerts": 412,
   "concerts": [
-    {
-      "date": "2026-11-13",
-      "source": "ticketmaster",
-      "artists": [
-        "Congreso Mundial del Mariachi"
-      ],
-      "artist_display": "Congreso Mundial del Mariachi",
-      "url": "https://www.ticketmaster.com.mx/magno-concierto-sinfonico-congreso-mundial-del-mexico-13-11-2026/event/3D0064FFD1687E92",
-      "ticket_url": "https://www.ticketmaster.com.mx/magno-concierto-sinfonico-congreso-mundial-del-mexico-13-11-2026/event/3D0064FFD1687E92",
-      "venue": "Teatro de la Ciudad Esperanza Iris",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-11-13",
-      "source": "ticketmaster",
-      "artists": [
-        "Morat"
-      ],
-      "artist_display": "Morat",
-      "url": "https://www.ticketmaster.com.mx/morat-ciudad-de-mexico-13-11-2026/event/14006482BBA67DBD",
-      "ticket_url": "https://www.ticketmaster.com.mx/morat-ciudad-de-mexico-13-11-2026/event/14006482BBA67DBD",
-      "venue": "Palacio de los Deportes",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-11-13",
-      "source": "ticketmaster",
-      "artists": [
-        "El Kanka"
-      ],
-      "artist_display": "El Kanka",
-      "url": "https://www.ticketmaster.com.mx/el-kanka-mexico-13-11-2026/event/14006451868B3481",
-      "ticket_url": "https://www.ticketmaster.com.mx/el-kanka-mexico-13-11-2026/event/14006451868B3481",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-11-13",
-      "source": "ticketmaster",
-      "artists": [
-        "Andrés Calamaro"
-      ],
-      "artist_display": "Andrés Calamaro",
-      "url": "https://www.ticketmaster.com.mx/andres-calamaro-mexico-13-11-2026/event/140064EFAA6A6B85",
-      "ticket_url": "https://www.ticketmaster.com.mx/andres-calamaro-mexico-13-11-2026/event/140064EFAA6A6B85",
-      "venue": "Pepsi Center",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Pop"
-      ]
-    },
-    {
-      "date": "2026-11-13",
-      "source": "ticketmaster",
-      "artists": [
-        "Majo Aguilar"
-      ],
-      "artist_display": "Majo Aguilar",
-      "url": "https://www.ticketmaster.com.mx/majo-aguilar-ciudad-de-mexico-13-11-2026/event/3D006452B03A2BDD",
-      "ticket_url": "https://www.ticketmaster.com.mx/majo-aguilar-ciudad-de-mexico-13-11-2026/event/3D006452B03A2BDD",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Hip-Hop/Rap",
-        "Reggaeton"
-      ]
-    },
-    {
-      "date": "2026-11-13",
-      "source": "ticketmaster",
-      "artists": [
-        "Karol G"
-      ],
-      "artist_display": "Karol G",
-      "url": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-13-11-2026/event/14006481A844637D",
-      "ticket_url": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-13-11-2026/event/14006481A844637D",
-      "venue": "Estadio GNP Seguros",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-11-13",
-      "source": "ticketmaster",
-      "artists": [
-        "Karol G"
-      ],
-      "artist_display": "Karol G",
-      "url": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-13-11-2026/event/1400646A812D2A08",
-      "ticket_url": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-13-11-2026/event/1400646A812D2A08",
-      "venue": "Estadio GNP Seguros",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-11-13",
-      "source": "ticketmaster",
-      "artists": [
-        "Carlos Cuevas"
-      ],
-      "artist_display": "Carlos Cuevas",
-      "url": "https://www.ticketmaster.com.mx/carlos-cuevas-el-rey-del-bolero-ciudad-de-mexico-13-11-2026/event/3D0064EC942445CF",
-      "ticket_url": "https://www.ticketmaster.com.mx/carlos-cuevas-el-rey-del-bolero-ciudad-de-mexico-13-11-2026/event/3D0064EC942445CF",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-11-13",
-      "source": "ticketmaster",
-      "artists": [
-        "TrendLine"
-      ],
-      "artist_display": "TrendLine",
-      "url": "https://www.ticketmaster.com.mx/trendline-mexico-13-11-2026/event/3D00649B84A10EDC",
-      "ticket_url": "https://www.ticketmaster.com.mx/trendline-mexico-13-11-2026/event/3D00649B84A10EDC",
-      "venue": "Foro Red Access",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
-      ]
-    },
-    {
-      "date": "2026-11-13",
-      "source": "ticketmaster",
-      "artists": [
-        "DLD"
-      ],
-      "artist_display": "DLD",
-      "url": "https://www.ticketmaster.com.mx/dld-mexico-13-11-2026/event/3D0064B5A239958B",
-      "ticket_url": "https://www.ticketmaster.com.mx/dld-mexico-13-11-2026/event/3D0064B5A239958B",
-      "venue": "La Maraka",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Pop"
-      ]
-    },
     {
       "date": "2026-11-14",
       "source": "ticketmaster",
@@ -3373,6 +3218,21 @@
       "date": "2026-12-05",
       "source": "ticketmaster",
       "artists": [
+        "Natalia Lacunza"
+      ],
+      "artist_display": "Natalia Lacunza",
+      "url": "https://www.ticketmaster.com.mx/natalia-lacunza-mexico-05-12-2026/event/3D00656CB0706EA5",
+      "ticket_url": "https://www.ticketmaster.com.mx/natalia-lacunza-mexico-05-12-2026/event/3D00656CB0706EA5",
+      "venue": "Foro Puebla",
+      "location": "Mexico, Ciudad de México, Mexico",
+      "tags": [
+        "Ballads/Romantic"
+      ]
+    },
+    {
+      "date": "2026-12-05",
+      "source": "ticketmaster",
+      "artists": [
         "La Esfinge"
       ],
       "artist_display": "La Esfinge",
@@ -3754,6 +3614,21 @@
       "artist_display": "Los Bukis",
       "url": "https://www.ticketmaster.com.mx/los-bukis-la-despedida-ciudad-de-mexico-12-12-2026/event/1400652FC5999159",
       "ticket_url": "https://www.ticketmaster.com.mx/los-bukis-la-despedida-ciudad-de-mexico-12-12-2026/event/1400652FC5999159",
+      "venue": "Estadio GNP Seguros",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-12-12",
+      "source": "ticketmaster",
+      "artists": [
+        "Los Bukis"
+      ],
+      "artist_display": "Los Bukis",
+      "url": "https://www.ticketmaster.com.mx/los-bukis-zona-de-discapacidad-auditiva-ciudad-de-mexico-12-12-2026/event/1400652FB2ED705E",
+      "ticket_url": "https://www.ticketmaster.com.mx/los-bukis-zona-de-discapacidad-auditiva-ciudad-de-mexico-12-12-2026/event/1400652FB2ED705E",
       "venue": "Estadio GNP Seguros",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
@@ -5690,6 +5565,22 @@
       "ticket_url": "https://www.ticketmaster.com.mx/antonio-orozco-mexico-25-02-2027/event/3D006556886E31E3",
       "venue": "La Maraka",
       "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Pop",
+        "Electro Pop"
+      ]
+    },
+    {
+      "date": "2027-02-26",
+      "source": "ticketmaster",
+      "artists": [
+        "Lupita D'alessio"
+      ],
+      "artist_display": "Lupita D'alessio",
+      "url": "https://www.ticketmaster.com.mx/lupita-dalessio-ciudad-de-mexico-26-02-2027/event/3D00656C91FE3C8D",
+      "ticket_url": "https://www.ticketmaster.com.mx/lupita-dalessio-ciudad-de-mexico-26-02-2027/event/3D00656C91FE3C8D",
+      "venue": "Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Pop",
         "Electro Pop"
