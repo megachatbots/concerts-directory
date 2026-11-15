@@ -1,147 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-11-14T12:59:52.280129Z",
-  "total_concerts": 412,
+  "scraped_at": "2026-11-15T13:28:36.542426Z",
+  "total_concerts": 403,
   "concerts": [
-    {
-      "date": "2026-11-14",
-      "source": "ticketmaster",
-      "artists": [
-        "La marimba teje un puente entre México y Japón"
-      ],
-      "artist_display": "La marimba teje un puente entre México y Japón",
-      "url": "https://www.ticketmaster.com.mx/la-marimba-teje-un-puente-entre-mexico-14-11-2026/event/3D0064FDF95185AB",
-      "ticket_url": "https://www.ticketmaster.com.mx/la-marimba-teje-un-puente-entre-mexico-14-11-2026/event/3D0064FDF95185AB",
-      "venue": "TEATRO SERGIO MAGAÑA",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "date": "2026-11-14",
-      "source": "ticketmaster",
-      "artists": [
-        "Little Jesus"
-      ],
-      "artist_display": "Little Jesus",
-      "url": "https://www.ticketmaster.com.mx/little-jesus-mexico-14-11-2026/event/140064C9C546F0CA",
-      "ticket_url": "https://www.ticketmaster.com.mx/little-jesus-mexico-14-11-2026/event/140064C9C546F0CA",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-11-14",
-      "source": "ticketmaster",
-      "artists": [
-        "Morat"
-      ],
-      "artist_display": "Morat",
-      "url": "https://www.ticketmaster.com.mx/morat-ciudad-de-mexico-14-11-2026/event/14006482BBA67DBF",
-      "ticket_url": "https://www.ticketmaster.com.mx/morat-ciudad-de-mexico-14-11-2026/event/14006482BBA67DBF",
-      "venue": "Palacio de los Deportes",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-11-14",
-      "source": "ticketmaster",
-      "artists": [
-        "Miguel Inzunza"
-      ],
-      "artist_display": "Miguel Inzunza",
-      "url": "https://www.ticketmaster.com.mx/miguel-inzunza-noctournos-en-concierto-la-mexico-14-11-2026/event/3D0064BB8DB22E11",
-      "ticket_url": "https://www.ticketmaster.com.mx/miguel-inzunza-noctournos-en-concierto-la-mexico-14-11-2026/event/3D0064BB8DB22E11",
-      "venue": "El Cantoral ",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
-      ]
-    },
-    {
-      "date": "2026-11-14",
-      "source": "ticketmaster",
-      "artists": [
-        "Karol G"
-      ],
-      "artist_display": "Karol G",
-      "url": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-14-11-2026/event/14006481A9AD6671",
-      "ticket_url": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-14-11-2026/event/14006481A9AD6671",
-      "venue": "Estadio GNP Seguros",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-11-14",
-      "source": "ticketmaster",
-      "artists": [
-        "Karol G"
-      ],
-      "artist_display": "Karol G",
-      "url": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-14-11-2026/event/1400646A82522BC9",
-      "ticket_url": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-14-11-2026/event/1400646A82522BC9",
-      "venue": "Estadio GNP Seguros",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-11-14",
-      "source": "ticketmaster",
-      "artists": [
-        "Julio Ponze"
-      ],
-      "artist_display": "Julio Ponze",
-      "url": "https://www.ticketmaster.com.mx/julio-ponze-tributo-juan-gabriel-mexico-14-11-2026/event/3D00651F881D15B6",
-      "ticket_url": "https://www.ticketmaster.com.mx/julio-ponze-tributo-juan-gabriel-mexico-14-11-2026/event/3D00651F881D15B6",
-      "venue": "Foro Red Access",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
-      ]
-    },
-    {
-      "date": "2026-11-14",
-      "source": "ticketmaster",
-      "artists": [
-        "Aranza"
-      ],
-      "artist_display": "Aranza",
-      "url": "https://www.ticketmaster.com.mx/aranza-en-concierto-ciudad-de-mexico-14-11-2026/event/3D006522C1124B94",
-      "ticket_url": "https://www.ticketmaster.com.mx/aranza-en-concierto-ciudad-de-mexico-14-11-2026/event/3D006522C1124B94",
-      "venue": "Foro Stelaris Fiesta Americana Reforma",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
-      ]
-    },
-    {
-      "date": "2026-11-14",
-      "source": "ticketmaster",
-      "artists": [
-        "DLD"
-      ],
-      "artist_display": "DLD",
-      "url": "https://www.ticketmaster.com.mx/dld-mexico-14-11-2026/event/3D0064B5B0F8B778",
-      "ticket_url": "https://www.ticketmaster.com.mx/dld-mexico-14-11-2026/event/3D0064B5B0F8B778",
-      "venue": "La Maraka",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Pop"
-      ]
-    },
     {
       "date": "2026-11-15",
       "source": "ticketmaster",
@@ -3172,22 +3034,6 @@
       "date": "2026-12-05",
       "source": "ticketmaster",
       "artists": [
-        "Yuki Chiba"
-      ],
-      "artist_display": "Yuki Chiba",
-      "url": "https://www.ticketmaster.com.mx/yuki-chiba-first-north-america-headline-mexico-05-12-2026/event/3D006529FFF38F56",
-      "ticket_url": "https://www.ticketmaster.com.mx/yuki-chiba-first-north-america-headline-mexico-05-12-2026/event/3D006529FFF38F56",
-      "venue": "Foro Puebla",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Hip-Hop/Rap",
-        "Trap"
-      ]
-    },
-    {
-      "date": "2026-12-05",
-      "source": "ticketmaster",
-      "artists": [
         "Caifanes"
       ],
       "artist_display": "Caifanes",
@@ -3321,6 +3167,22 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2026-12-06",
+      "source": "ticketmaster",
+      "artists": [
+        "Yuki Chiba"
+      ],
+      "artist_display": "Yuki Chiba",
+      "url": "https://www.ticketmaster.com.mx/yuki-chiba-first-north-america-headline-ciudad-de-mexico-06-12-2026/event/3D006569A404387B",
+      "ticket_url": "https://www.ticketmaster.com.mx/yuki-chiba-first-north-america-headline-ciudad-de-mexico-06-12-2026/event/3D006569A404387B",
+      "venue": "Foro La Paz",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Hip-Hop/Rap",
+        "Trap"
       ]
     },
     {
@@ -6594,9 +6456,10 @@
       "date": "2027-05-13",
       "source": "ticketmaster",
       "artists": [
-        "Phoebe Bridgers"
+        "Phoebe Bridgers",
+        "Christian Lee Hutson"
       ],
-      "artist_display": "Phoebe Bridgers",
+      "artist_display": "Phoebe Bridgers, Christian Lee Hutson",
       "url": "https://www.ticketmaster.com.mx/phoebe-bridgers-ciudad-de-mexico-13-05-2027/event/14006567B9298B7E",
       "ticket_url": "https://www.ticketmaster.com.mx/phoebe-bridgers-ciudad-de-mexico-13-05-2027/event/14006567B9298B7E",
       "venue": "Palacio de los Deportes",

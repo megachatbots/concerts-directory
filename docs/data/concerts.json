@@ -5,219 +5,9 @@
     "ticketmaster"
   ],
   "metro_area": "Mexico City",
-  "scraped_at": "2026-11-14T12:59:52.313785Z",
-  "total_concerts": 658,
+  "scraped_at": "2026-11-15T13:28:36.573813Z",
+  "total_concerts": 647,
   "concerts": [
-    {
-      "date": "2026-11-14",
-      "source": "songkick",
-      "artists": [
-        "Karol GBecky G and Kenia Os"
-      ],
-      "artist_display": "Karol GBecky G and Kenia Os",
-      "url": "https://www.songkick.com/concerts/43203815-karol-g-at-estadio-gnp-seguros",
-      "venue": "Estadio GNP Seguros",
-      "venue_url": "https://www.songkick.com/venues/33578-estadio-gnp-seguros",
-      "location": "Estadio GNP Seguros,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-14",
-      "source": "songkick",
-      "artists": [
-        "GarbageThe Warning and The Warning (MX)"
-      ],
-      "artist_display": "GarbageThe Warning and The Warning (MX)",
-      "url": "https://www.songkick.com/concerts/43467365-garbage-at-zocalo",
-      "venue": "Zócalo",
-      "venue_url": "https://www.songkick.com/venues/102442-zocalo",
-      "location": "Zócalo,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-14",
-      "source": "songkick",
-      "artists": [
-        "L'Impératrice"
-      ],
-      "artist_display": "L'Impératrice",
-      "url": "https://www.songkick.com/concerts/43464998-limperatrice-at-bar-oriente",
-      "venue": "Bar Oriente",
-      "venue_url": "https://www.songkick.com/venues/3836389-bar-oriente",
-      "location": "Bar Oriente,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-14",
-      "source": "songkick",
-      "artists": [
-        "Morat"
-      ],
-      "artist_display": "Morat",
-      "url": "https://www.songkick.com/concerts/43161026-morat-at-palacio-de-los-deportes",
-      "venue": "Palacio de los Deportes",
-      "venue_url": "https://www.songkick.com/venues/31907-palacio-de-los-deportes",
-      "location": "Palacio de los Deportes,Mexico City, Mexico",
-      "ticket_url": "https://www.ticketmaster.com.mx/morat-ciudad-de-mexico-14-11-2026/event/14006482BBA67DBF",
-      "tags": [
-        "Electro Pop",
-        "Pop"
-      ]
-    },
-    {
-      "date": "2026-11-14",
-      "source": "songkick",
-      "artists": [
-        "Little Jesus"
-      ],
-      "artist_display": "Little Jesus",
-      "url": "https://www.songkick.com/concerts/43322814-little-jesus-at-teatro-metropolitan",
-      "venue": "Teatro Metropólitan",
-      "venue_url": "https://www.songkick.com/venues/44395-teatro-metropolitan",
-      "location": "Teatro Metropólitan,Mexico City, Mexico",
-      "ticket_url": "https://www.ticketmaster.com.mx/little-jesus-mexico-14-11-2026/event/140064C9C546F0CA",
-      "tags": [
-        "Electro Pop",
-        "Pop"
-      ]
-    },
-    {
-      "date": "2026-11-14",
-      "source": "songkick",
-      "artists": [
-        "DLD"
-      ],
-      "artist_display": "DLD",
-      "url": "https://www.songkick.com/concerts/43387314-dld-at-la-maraka",
-      "venue": "La Maraka",
-      "venue_url": "https://www.songkick.com/venues/1076291-la-maraka",
-      "location": "La Maraka,Mexico City, Mexico",
-      "ticket_url": "https://www.ticketmaster.com.mx/dld-mexico-14-11-2026/event/3D0064B5B0F8B778",
-      "tags": [
-        "Pop",
-        "Rock"
-      ]
-    },
-    {
-      "date": "2026-11-14",
-      "source": "songkick",
-      "artists": [
-        "Luis Angel \"El Flaco\""
-      ],
-      "artist_display": "Luis Angel \"El Flaco\"",
-      "url": "https://www.songkick.com/concerts/43198135-luis-angel-el-flaco-at-monumental-plaza-de-toros-mexico",
-      "venue": "Monumental Plaza de Toros México",
-      "venue_url": "https://www.songkick.com/venues/67080-monumental-plaza-de-toros-mexico",
-      "location": "Monumental Plaza de Toros México,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-14",
-      "source": "songkick",
-      "artists": [
-        "AYYBOArvizu and Arvizu (MX)"
-      ],
-      "artist_display": "AYYBOArvizu and Arvizu (MX)",
-      "url": "https://www.songkick.com/concerts/43469487-ayybo-at-looloo",
-      "venue": "LooLoo",
-      "venue_url": "https://www.songkick.com/venues/3769259-looloo",
-      "location": "LooLoo,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-14",
-      "source": "songkick",
-      "artists": [
-        "Eiko Ishibashi"
-      ],
-      "artist_display": "Eiko Ishibashi",
-      "url": "https://www.songkick.com/concerts/43447924-eiko-ishibashi-at-cineteca-nacional",
-      "venue": "Cineteca Nacional",
-      "venue_url": "https://www.songkick.com/venues/1320466-cineteca-nacional",
-      "location": "Cineteca Nacional,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-14",
-      "source": "songkick",
-      "artists": [
-        "OdisseoAzul de Viena"
-      ],
-      "artist_display": "OdisseoAzul de Viena",
-      "url": "https://www.songkick.com/concerts/43494894-odisseo-at-foro-a",
-      "venue": "Foro A",
-      "venue_url": "https://www.songkick.com/venues/1516898-foro-a",
-      "location": "Foro A,Tlalnepantla, Mexico"
-    },
-    {
-      "date": "2026-11-14",
-      "source": "ticketmaster",
-      "artists": [
-        "La marimba teje un puente entre México y Japón"
-      ],
-      "artist_display": "La marimba teje un puente entre México y Japón",
-      "url": "https://www.ticketmaster.com.mx/la-marimba-teje-un-puente-entre-mexico-14-11-2026/event/3D0064FDF95185AB",
-      "ticket_url": "https://www.ticketmaster.com.mx/la-marimba-teje-un-puente-entre-mexico-14-11-2026/event/3D0064FDF95185AB",
-      "venue": "TEATRO SERGIO MAGAÑA",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "World"
-      ]
-    },
-    {
-      "date": "2026-11-14",
-      "source": "ticketmaster",
-      "artists": [
-        "Miguel Inzunza"
-      ],
-      "artist_display": "Miguel Inzunza",
-      "url": "https://www.ticketmaster.com.mx/miguel-inzunza-noctournos-en-concierto-la-mexico-14-11-2026/event/3D0064BB8DB22E11",
-      "ticket_url": "https://www.ticketmaster.com.mx/miguel-inzunza-noctournos-en-concierto-la-mexico-14-11-2026/event/3D0064BB8DB22E11",
-      "venue": "El Cantoral ",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
-      ]
-    },
-    {
-      "date": "2026-11-14",
-      "source": "ticketmaster",
-      "artists": [
-        "Karol G"
-      ],
-      "artist_display": "Karol G",
-      "url": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-14-11-2026/event/14006481A9AD6671",
-      "ticket_url": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-14-11-2026/event/14006481A9AD6671",
-      "venue": "Estadio GNP Seguros",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-11-14",
-      "source": "ticketmaster",
-      "artists": [
-        "Julio Ponze"
-      ],
-      "artist_display": "Julio Ponze",
-      "url": "https://www.ticketmaster.com.mx/julio-ponze-tributo-juan-gabriel-mexico-14-11-2026/event/3D00651F881D15B6",
-      "ticket_url": "https://www.ticketmaster.com.mx/julio-ponze-tributo-juan-gabriel-mexico-14-11-2026/event/3D00651F881D15B6",
-      "venue": "Foro Red Access",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
-      ]
-    },
-    {
-      "date": "2026-11-14",
-      "source": "ticketmaster",
-      "artists": [
-        "Aranza"
-      ],
-      "artist_display": "Aranza",
-      "url": "https://www.ticketmaster.com.mx/aranza-en-concierto-ciudad-de-mexico-14-11-2026/event/3D006522C1124B94",
-      "ticket_url": "https://www.ticketmaster.com.mx/aranza-en-concierto-ciudad-de-mexico-14-11-2026/event/3D006522C1124B94",
-      "venue": "Foro Stelaris Fiesta Americana Reforma",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
-      ]
-    },
     {
       "date": "2026-11-15",
       "source": "songkick",
@@ -3273,22 +3063,6 @@
       "date": "2026-12-05",
       "source": "ticketmaster",
       "artists": [
-        "Yuki Chiba"
-      ],
-      "artist_display": "Yuki Chiba",
-      "url": "https://www.ticketmaster.com.mx/yuki-chiba-first-north-america-headline-mexico-05-12-2026/event/3D006529FFF38F56",
-      "ticket_url": "https://www.ticketmaster.com.mx/yuki-chiba-first-north-america-headline-mexico-05-12-2026/event/3D006529FFF38F56",
-      "venue": "Foro Puebla",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Hip-Hop/Rap",
-        "Trap"
-      ]
-    },
-    {
-      "date": "2026-12-05",
-      "source": "ticketmaster",
-      "artists": [
         "La Esfinge"
       ],
       "artist_display": "La Esfinge",
@@ -3388,6 +3162,23 @@
       "venue": "FÜCK OFF ROOM",
       "venue_url": "https://www.songkick.com/venues/4540201-fuck-off-room",
       "location": "FÜCK OFF ROOM,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-12-06",
+      "source": "songkick",
+      "artists": [
+        "Yuki Chiba"
+      ],
+      "artist_display": "Yuki Chiba",
+      "url": "https://www.songkick.com/concerts/43518074-yuki-chiba-at-foro-la-paz",
+      "venue": "Foro La Paz",
+      "venue_url": "https://www.songkick.com/venues/4471031-foro-la-paz",
+      "location": "Foro La Paz,Mexico City, Mexico",
+      "ticket_url": "https://www.ticketmaster.com.mx/yuki-chiba-first-north-america-headline-ciudad-de-mexico-06-12-2026/event/3D006569A404387B",
+      "tags": [
+        "Hip-Hop/Rap",
+        "Trap"
+      ]
     },
     {
       "date": "2026-12-06",
@@ -4591,6 +4382,18 @@
       "date": "2026-12-19",
       "source": "songkick",
       "artists": [
+        "Banda MS de Sergio Lizárraga"
+      ],
+      "artist_display": "Banda MS de Sergio Lizárraga",
+      "url": "https://www.songkick.com/concerts/43517822-banda-ms-de-sergio-lizarraga-at-arena-cdmx",
+      "venue": "Arena CDMX",
+      "venue_url": "https://www.songkick.com/venues/1649258-arena-cdmx",
+      "location": "Arena CDMX,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-12-19",
+      "source": "songkick",
+      "artists": [
         "Heavy Metal X’Mas 2026Fear Factory, Vektor, Ellende, Demolition Hammer, and Thyrfing"
       ],
       "artist_display": "Heavy Metal X’Mas 2026Fear Factory, Vektor, Ellende, Demolition Hammer, and Thyrfing",
@@ -4878,18 +4681,6 @@
       "date": "2027-01-09",
       "source": "songkick",
       "artists": [
-        "Local Suicide"
-      ],
-      "artist_display": "Local Suicide",
-      "url": "https://www.songkick.com/concerts/43484699-local-suicide-at-bar-oriente",
-      "venue": "Bar Oriente",
-      "venue_url": "https://www.songkick.com/venues/3836389-bar-oriente",
-      "location": "Bar Oriente,Mexico City, Mexico"
-    },
-    {
-      "date": "2027-01-09",
-      "source": "songkick",
-      "artists": [
         "Blaze Bayley"
       ],
       "artist_display": "Blaze Bayley",
@@ -4897,6 +4688,18 @@
       "venue": "Foro Veintiocho",
       "venue_url": "https://www.songkick.com/venues/4416868-foro-veintiocho",
       "location": "Foro Veintiocho,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-01-09",
+      "source": "songkick",
+      "artists": [
+        "Local Suicide"
+      ],
+      "artist_display": "Local Suicide",
+      "url": "https://www.songkick.com/concerts/43484699-local-suicide-at-bar-oriente",
+      "venue": "Bar Oriente",
+      "venue_url": "https://www.songkick.com/venues/3836389-bar-oriente",
+      "location": "Bar Oriente,Mexico City, Mexico"
     },
     {
       "date": "2027-01-10",
@@ -6296,6 +6099,18 @@
       ]
     },
     {
+      "date": "2027-02-11",
+      "source": "songkick",
+      "artists": [
+        "Ana Gabriel"
+      ],
+      "artist_display": "Ana Gabriel",
+      "url": "https://www.songkick.com/concerts/43517807-ana-gabriel-at-arena-cdmx",
+      "venue": "Arena CDMX",
+      "venue_url": "https://www.songkick.com/venues/1649258-arena-cdmx",
+      "location": "Arena CDMX,Mexico City, Mexico"
+    },
+    {
       "date": "2027-02-12",
       "source": "songkick",
       "artists": [
@@ -6343,6 +6158,18 @@
       "tags": [
         "Latin"
       ]
+    },
+    {
+      "date": "2027-02-12",
+      "source": "songkick",
+      "artists": [
+        "Ana Gabriel"
+      ],
+      "artist_display": "Ana Gabriel",
+      "url": "https://www.songkick.com/concerts/43517806-ana-gabriel-at-arena-cdmx",
+      "venue": "Arena CDMX",
+      "venue_url": "https://www.songkick.com/venues/1649258-arena-cdmx",
+      "location": "Arena CDMX,Mexico City, Mexico"
     },
     {
       "date": "2027-02-12",
@@ -6579,6 +6406,18 @@
       "venue": "Foro Santa Cecilia",
       "venue_url": "https://www.songkick.com/venues/4670491-foro-santa-cecilia",
       "location": "Foro Santa Cecilia,Coacalco, Mexico"
+    },
+    {
+      "date": "2027-02-18",
+      "source": "songkick",
+      "artists": [
+        "Ana Gabriel"
+      ],
+      "artist_display": "Ana Gabriel",
+      "url": "https://www.songkick.com/concerts/43517804-ana-gabriel-at-arena-cdmx",
+      "venue": "Arena CDMX",
+      "venue_url": "https://www.songkick.com/venues/1649258-arena-cdmx",
+      "location": "Arena CDMX,Mexico City, Mexico"
     },
     {
       "date": "2027-02-19",
@@ -7812,18 +7651,6 @@
       "date": "2027-03-20",
       "source": "songkick",
       "artists": [
-        "Acid King"
-      ],
-      "artist_display": "Acid King",
-      "url": "https://www.songkick.com/concerts/43474662-acid-king-at-foro-niebla",
-      "venue": "Foro Niebla",
-      "venue_url": "https://www.songkick.com/venues/4379084-foro-niebla",
-      "location": "Foro Niebla,Mexico City, Mexico"
-    },
-    {
-      "date": "2027-03-20",
-      "source": "songkick",
-      "artists": [
         "Gang of Four"
       ],
       "artist_display": "Gang of Four",
@@ -7831,6 +7658,18 @@
       "venue": "Foro Indie Rocks!",
       "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
       "location": "Foro Indie Rocks!,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-03-20",
+      "source": "songkick",
+      "artists": [
+        "Acid King"
+      ],
+      "artist_display": "Acid King",
+      "url": "https://www.songkick.com/concerts/43474662-acid-king-at-foro-niebla",
+      "venue": "Foro Niebla",
+      "venue_url": "https://www.songkick.com/venues/4379084-foro-niebla",
+      "location": "Foro Niebla,Mexico City, Mexico"
     },
     {
       "date": "2027-03-20",
@@ -8804,9 +8643,10 @@
       "date": "2027-05-13",
       "source": "ticketmaster",
       "artists": [
-        "Phoebe Bridgers"
+        "Phoebe Bridgers",
+        "Christian Lee Hutson"
       ],
-      "artist_display": "Phoebe Bridgers",
+      "artist_display": "Phoebe Bridgers, Christian Lee Hutson",
       "url": "https://www.ticketmaster.com.mx/phoebe-bridgers-ciudad-de-mexico-13-05-2027/event/14006567B9298B7E",
       "ticket_url": "https://www.ticketmaster.com.mx/phoebe-bridgers-ciudad-de-mexico-13-05-2027/event/14006567B9298B7E",
       "venue": "Palacio de los Deportes",
