@@ -5,221 +5,9 @@
     "ticketmaster"
   ],
   "metro_area": "Mexico City",
-  "scraped_at": "2026-11-15T13:28:36.573813Z",
-  "total_concerts": 647,
+  "scraped_at": "2026-11-16T14:51:47.014455Z",
+  "total_concerts": 635,
   "concerts": [
-    {
-      "date": "2026-11-15",
-      "source": "songkick",
-      "artists": [
-        "Karol GBecky G and Kenia Os"
-      ],
-      "artist_display": "Karol GBecky G and Kenia Os",
-      "url": "https://www.songkick.com/concerts/43203814-karol-g-at-estadio-gnp-seguros",
-      "venue": "Estadio GNP Seguros",
-      "venue_url": "https://www.songkick.com/venues/33578-estadio-gnp-seguros",
-      "location": "Estadio GNP Seguros,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-15",
-      "source": "songkick",
-      "artists": [
-        "Ólafur Arnalds"
-      ],
-      "artist_display": "Ólafur Arnalds",
-      "url": "https://www.songkick.com/concerts/43400896-olafur-arnalds-at-foro-polanco",
-      "venue": "Foro Polanco",
-      "venue_url": "https://www.songkick.com/venues/2075269-foro-polanco",
-      "location": "Foro Polanco,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-15",
-      "source": "songkick",
-      "artists": [
-        "Mägo de OzTierra Santa"
-      ],
-      "artist_display": "Mägo de OzTierra Santa",
-      "url": "https://www.songkick.com/concerts/42900834-mago-de-oz-at-arena-cdmx",
-      "venue": "Arena CDMX",
-      "venue_url": "https://www.songkick.com/venues/1649258-arena-cdmx",
-      "location": "Arena CDMX,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-15",
-      "source": "songkick",
-      "artists": [
-        "Morat"
-      ],
-      "artist_display": "Morat",
-      "url": "https://www.songkick.com/concerts/43161029-morat-at-palacio-de-los-deportes",
-      "venue": "Palacio de los Deportes",
-      "venue_url": "https://www.songkick.com/venues/31907-palacio-de-los-deportes",
-      "location": "Palacio de los Deportes,Mexico City, Mexico",
-      "ticket_url": "https://www.ticketmaster.com.mx/morat-ciudad-de-mexico-15-11-2026/event/14006482BB9B7DA6",
-      "tags": [
-        "Electro Pop",
-        "Pop"
-      ]
-    },
-    {
-      "date": "2026-11-15",
-      "source": "songkick",
-      "artists": [
-        "Dying Fetus"
-      ],
-      "artist_display": "Dying Fetus",
-      "url": "https://www.songkick.com/concerts/43054438-dying-fetus-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks!",
-      "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks!,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-15",
-      "source": "songkick",
-      "artists": [
-        "Daniel Boaventura"
-      ],
-      "artist_display": "Daniel Boaventura",
-      "url": "https://www.songkick.com/concerts/43201530-daniel-boaventura-at-auditorio-nacional",
-      "venue": "Auditorio Nacional",
-      "venue_url": "https://www.songkick.com/venues/34183-auditorio-nacional",
-      "location": "Auditorio Nacional,Mexico City, Mexico",
-      "ticket_url": "https://www.ticketmaster.com.mx/daniel-boaventura-sinfonico-ciudad-de-mexico-15-11-2026/event/3D0064A1B9727E05",
-      "tags": [
-        "Ballads/Romantic"
-      ]
-    },
-    {
-      "date": "2026-11-15",
-      "source": "songkick",
-      "artists": [
-        "milo mae and Carlos Corté$"
-      ],
-      "artist_display": "milo mae and Carlos Corté$",
-      "url": "https://www.songkick.com/concerts/43457756-milo-mae-at-la-maraka",
-      "venue": "La Maraka",
-      "venue_url": "https://www.songkick.com/venues/1076291-la-maraka",
-      "location": "La Maraka,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-15",
-      "source": "songkick",
-      "artists": [
-        "BB TrickzDoony graff and Flvckka"
-      ],
-      "artist_display": "BB TrickzDoony graff and Flvckka",
-      "url": "https://www.songkick.com/concerts/43467529-bb-trickz-at-pepsi-center-wtc",
-      "venue": "Pepsi Center WTC",
-      "venue_url": "https://www.songkick.com/venues/1774303-pepsi-center-wtc",
-      "location": "Pepsi Center WTC,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-15",
-      "source": "songkick",
-      "artists": [
-        "Villax"
-      ],
-      "artist_display": "Villax",
-      "url": "https://www.songkick.com/concerts/43505782-villax-at-foro-niebla",
-      "venue": "Foro Niebla",
-      "venue_url": "https://www.songkick.com/venues/4379084-foro-niebla",
-      "location": "Foro Niebla,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-15",
-      "source": "ticketmaster",
-      "artists": [
-        "Orquesta Tipica de la ciudad de Mexico"
-      ],
-      "artist_display": "Orquesta Tipica de la ciudad de Mexico",
-      "url": "https://www.ticketmaster.com.mx/aniversario-142-de-la-orquesta-tipica-mexico-15-11-2026/event/3D006556DA9CAF84",
-      "ticket_url": "https://www.ticketmaster.com.mx/aniversario-142-de-la-orquesta-tipica-mexico-15-11-2026/event/3D006556DA9CAF84",
-      "venue": "Teatro de la Ciudad Esperanza Iris",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Classical",
-        "Classical/Vocal"
-      ]
-    },
-    {
-      "date": "2026-11-15",
-      "source": "ticketmaster",
-      "artists": [
-        "Sala Principal Bellas Artes"
-      ],
-      "artist_display": "Sala Principal Bellas Artes",
-      "url": "https://www.ticketmaster.com.mx/compania-nacional-de-danza-gala-balanchine-mexico-cdmx-15-11-2026/event/3D006536F969B280",
-      "ticket_url": "https://www.ticketmaster.com.mx/compania-nacional-de-danza-gala-balanchine-mexico-cdmx-15-11-2026/event/3D006536F969B280",
-      "venue": "Palacio de Bellas Artes",
-      "location": "México CDMX, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-11-15",
-      "source": "ticketmaster",
-      "artists": [
-        "Yolanda Del Rio"
-      ],
-      "artist_display": "Yolanda Del Rio",
-      "url": "https://www.ticketmaster.com.mx/yolanda-del-rio-el-gran-regreso-mexico-15-11-2026/event/140064D59D3141CF",
-      "ticket_url": "https://www.ticketmaster.com.mx/yolanda-del-rio-el-gran-regreso-mexico-15-11-2026/event/140064D59D3141CF",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-11-15",
-      "source": "ticketmaster",
-      "artists": [
-        "Congreso Mundial del Mariachi"
-      ],
-      "artist_display": "Congreso Mundial del Mariachi",
-      "url": "https://www.ticketmaster.com.mx/magno-concierto-3er-congreso-mundial-del-mexico-15-11-2026/event/3D0065238D8D2263",
-      "ticket_url": "https://www.ticketmaster.com.mx/magno-concierto-3er-congreso-mundial-del-mexico-15-11-2026/event/3D0065238D8D2263",
-      "venue": "El Cantoral ",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-11-15",
-      "source": "ticketmaster",
-      "artists": [
-        "BB Trickz",
-        "Doony Graff",
-        "Flvckka",
-        "Fanta Rosario"
-      ],
-      "artist_display": "BB Trickz, Doony Graff, Flvckka, Fanta Rosario",
-      "url": "https://www.ticketmaster.com.mx/debut-presenta-rapaparty-feat-bbtrickz-fanta-mexico-15-11-2026/event/1400654EC20EA15E",
-      "ticket_url": "https://www.ticketmaster.com.mx/debut-presenta-rapaparty-feat-bbtrickz-fanta-mexico-15-11-2026/event/1400654EC20EA15E",
-      "venue": "Pepsi Center",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Hip-Hop/Rap",
-        "Trap"
-      ]
-    },
-    {
-      "date": "2026-11-15",
-      "source": "ticketmaster",
-      "artists": [
-        "Karol G"
-      ],
-      "artist_display": "Karol G",
-      "url": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-15-11-2026/event/14006481A9AD6673",
-      "ticket_url": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-15-11-2026/event/14006481A9AD6673",
-      "venue": "Estadio GNP Seguros",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
     {
       "date": "2026-11-16",
       "source": "songkick",
@@ -251,6 +39,18 @@
       "tags": [
         "Ballads/Romantic"
       ]
+    },
+    {
+      "date": "2026-11-17",
+      "source": "songkick",
+      "artists": [
+        "Karol GBecky G and Kenia Os"
+      ],
+      "artist_display": "Karol GBecky G and Kenia Os",
+      "url": "https://www.songkick.com/concerts/43203814-karol-g-at-estadio-gnp-seguros",
+      "venue": "Estadio GNP Seguros",
+      "venue_url": "https://www.songkick.com/venues/33578-estadio-gnp-seguros",
+      "location": "Estadio GNP Seguros,Mexico City, Mexico"
     },
     {
       "date": "2026-11-17",
@@ -308,6 +108,21 @@
       "ticket_url": "https://www.ticketmaster.com.mx/compania-nacional-de-danza-gala-balanchine-mexico-cdmx-17-11-2026/event/3D006536F96AB282",
       "venue": "Palacio de Bellas Artes",
       "location": "México CDMX, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "source": "ticketmaster",
+      "artists": [
+        "Karol G"
+      ],
+      "artist_display": "Karol G",
+      "url": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-17-11-2026/event/14006481A9AD6673",
+      "ticket_url": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-17-11-2026/event/14006481A9AD6673",
+      "venue": "Estadio GNP Seguros",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
       ]
@@ -798,6 +613,18 @@
       "date": "2026-11-20",
       "source": "songkick",
       "artists": [
+        "Satyr"
+      ],
+      "artist_display": "Satyr",
+      "url": "https://www.songkick.com/concerts/43517290-satyr-at-la-metiche",
+      "venue": "La Metiche",
+      "venue_url": "https://www.songkick.com/venues/4671266-la-metiche",
+      "location": "La Metiche,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-11-20",
+      "source": "songkick",
+      "artists": [
         "DIMASH QUDAIBERGEN"
       ],
       "artist_display": "DIMASH QUDAIBERGEN",
@@ -810,18 +637,6 @@
         "Electro Pop",
         "Pop"
       ]
-    },
-    {
-      "date": "2026-11-20",
-      "source": "songkick",
-      "artists": [
-        "Mike DiazLng/Sht and Eptos Uno"
-      ],
-      "artist_display": "Mike DiazLng/Sht and Eptos Uno",
-      "url": "https://www.songkick.com/concerts/43505781-mike-diaz-at-hdx-circus-bar",
-      "venue": "HDX Circus Bar",
-      "venue_url": "https://www.songkick.com/venues/3875309-hdx-circus-bar",
-      "location": "HDX Circus Bar,Mexico City, Mexico"
     },
     {
       "date": "2026-11-20",
@@ -984,18 +799,6 @@
       "date": "2026-11-21",
       "source": "songkick",
       "artists": [
-        "Infected MushroomInteractive Noise"
-      ],
-      "artist_display": "Infected MushroomInteractive Noise",
-      "url": "https://www.songkick.com/concerts/43501551-infected-mushroom-at-foro-teambro",
-      "venue": "Foro Teambro",
-      "venue_url": "https://www.songkick.com/venues/4378754-foro-teambro",
-      "location": "Foro Teambro,Mexico City, Mexico"
-    },
-    {
-      "date": "2026-11-21",
-      "source": "songkick",
-      "artists": [
         "D.R.I.Acidez"
       ],
       "artist_display": "D.R.I.Acidez",
@@ -1003,6 +806,18 @@
       "venue": "Circo Volador",
       "venue_url": "https://www.songkick.com/venues/49859-circo-volador",
       "location": "Circo Volador,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-11-21",
+      "source": "songkick",
+      "artists": [
+        "Infected MushroomInteractive Noise"
+      ],
+      "artist_display": "Infected MushroomInteractive Noise",
+      "url": "https://www.songkick.com/concerts/43501551-infected-mushroom-at-foro-teambro",
+      "venue": "Foro Teambro",
+      "venue_url": "https://www.songkick.com/venues/4378754-foro-teambro",
+      "location": "Foro Teambro,Mexico City, Mexico"
     },
     {
       "date": "2026-11-21",
@@ -2771,6 +2586,18 @@
       "date": "2026-12-04",
       "source": "songkick",
       "artists": [
+        "Reyno"
+      ],
+      "artist_display": "Reyno",
+      "url": "https://www.songkick.com/concerts/43181578-reyno-at-gran-recinto",
+      "venue": "Gran Recinto",
+      "venue_url": "https://www.songkick.com/venues/3837629-gran-recinto",
+      "location": "Gran Recinto,Tlalnepantla, Mexico"
+    },
+    {
+      "date": "2026-12-04",
+      "source": "songkick",
+      "artists": [
         "Santa RM"
       ],
       "artist_display": "Santa RM",
@@ -2795,18 +2622,6 @@
         "Pop",
         "Rock"
       ]
-    },
-    {
-      "date": "2026-12-04",
-      "source": "songkick",
-      "artists": [
-        "Chetes"
-      ],
-      "artist_display": "Chetes",
-      "url": "https://www.songkick.com/concerts/43454549-chetes-at-foro-a",
-      "venue": "Foro A",
-      "venue_url": "https://www.songkick.com/venues/1516898-foro-a",
-      "location": "Foro A,Tlalnepantla, Mexico"
     },
     {
       "date": "2026-12-04",
@@ -3459,6 +3274,18 @@
       "date": "2026-12-10",
       "source": "songkick",
       "artists": [
+        "Haute & Freddy"
+      ],
+      "artist_display": "Haute & Freddy",
+      "url": "https://www.songkick.com/concerts/43414349-haute-and-freddy-at-foro-indie-rocks",
+      "venue": "Foro Indie Rocks!",
+      "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
+      "location": "Foro Indie Rocks!,Mexico City, Mexico"
+    },
+    {
+      "date": "2026-12-10",
+      "source": "songkick",
+      "artists": [
         "Maria José"
       ],
       "artist_display": "Maria José",
@@ -3470,18 +3297,6 @@
       "tags": [
         "Latin"
       ]
-    },
-    {
-      "date": "2026-12-10",
-      "source": "songkick",
-      "artists": [
-        "Haute & Freddy"
-      ],
-      "artist_display": "Haute & Freddy",
-      "url": "https://www.songkick.com/concerts/43414349-haute-and-freddy-at-foro-indie-rocks",
-      "venue": "Foro Indie Rocks!",
-      "venue_url": "https://www.songkick.com/venues/1859763-foro-indie-rocks",
-      "location": "Foro Indie Rocks!,Mexico City, Mexico"
     },
     {
       "date": "2026-12-10",
@@ -3940,6 +3755,22 @@
       "date": "2026-12-15",
       "source": "songkick",
       "artists": [
+        "Moenia"
+      ],
+      "artist_display": "Moenia",
+      "url": "https://www.songkick.com/concerts/43502376-moenia-at-la-maraka",
+      "venue": "La Maraka",
+      "venue_url": "https://www.songkick.com/venues/1076291-la-maraka",
+      "location": "La Maraka,Mexico City, Mexico",
+      "ticket_url": "https://www.ticketmaster.com.mx/moenia-mexico-15-12-2026/event/3D0064F6872A1773",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-12-15",
+      "source": "songkick",
+      "artists": [
         "Clubz"
       ],
       "artist_display": "Clubz",
@@ -3951,22 +3782,6 @@
       "tags": [
         "Electro Pop",
         "Pop"
-      ]
-    },
-    {
-      "date": "2026-12-15",
-      "source": "songkick",
-      "artists": [
-        "Moenia"
-      ],
-      "artist_display": "Moenia",
-      "url": "https://www.songkick.com/concerts/43502376-moenia-at-la-maraka",
-      "venue": "La Maraka",
-      "venue_url": "https://www.songkick.com/venues/1076291-la-maraka",
-      "location": "La Maraka,Mexico City, Mexico",
-      "ticket_url": "https://www.ticketmaster.com.mx/moenia-mexico-15-12-2026/event/3D0064F6872A1773",
-      "tags": [
-        "Latin"
       ]
     },
     {
@@ -6331,6 +6146,18 @@
     },
     {
       "date": "2027-02-14",
+      "source": "songkick",
+      "artists": [
+        "Kamijo"
+      ],
+      "artist_display": "Kamijo",
+      "url": "https://www.songkick.com/concerts/43519122-kamijo-at-foro-puebla",
+      "venue": "Foro Puebla",
+      "venue_url": "https://www.songkick.com/venues/4506135-foro-puebla",
+      "location": "Foro Puebla,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-02-14",
       "source": "ticketmaster",
       "artists": [
         "Joy",
@@ -7034,6 +6861,18 @@
       "venue": "Foro Veintiocho",
       "venue_url": "https://www.songkick.com/venues/4416868-foro-veintiocho",
       "location": "Foro Veintiocho,Mexico City, Mexico"
+    },
+    {
+      "date": "2027-02-27",
+      "source": "songkick",
+      "artists": [
+        "Saint Avangelineestrella del sol"
+      ],
+      "artist_display": "Saint Avangelineestrella del sol",
+      "url": "https://www.songkick.com/concerts/43519117-saint-avangeline-at-foro-la-paz",
+      "venue": "Foro La Paz",
+      "venue_url": "https://www.songkick.com/venues/4471031-foro-la-paz",
+      "location": "Foro La Paz,Mexico City, Mexico"
     },
     {
       "date": "2027-02-27",
@@ -7880,19 +7719,18 @@
     },
     {
       "date": "2027-03-27",
-      "source": "songkick",
+      "source": "ticketmaster",
       "artists": [
         "Conociendo Rusia"
       ],
       "artist_display": "Conociendo Rusia",
-      "url": "https://www.songkick.com/concerts/43440975-conociendo-rusia-at-auditorio-bb",
-      "venue": "Auditorio BB",
-      "venue_url": "https://www.songkick.com/venues/1683588-auditorio-bb",
-      "location": "Auditorio BB,Mexico City, Mexico",
+      "url": "https://www.ticketmaster.com.mx/conociendo-rusia-mexico-27-03-2027/event/14006535EF6CEE11",
       "ticket_url": "https://www.ticketmaster.com.mx/conociendo-rusia-mexico-27-03-2027/event/14006535EF6CEE11",
+      "venue": "Auditorio BB",
+      "location": "México, Ciudad de México, Mexico",
       "tags": [
-        "Electro Pop",
-        "Pop"
+        "Pop",
+        "Electro Pop"
       ]
     },
     {
@@ -7909,18 +7747,6 @@
       "tags": [
         "Ballads/Romantic"
       ]
-    },
-    {
-      "date": "2027-04-02",
-      "source": "songkick",
-      "artists": [
-        "FAFA"
-      ],
-      "artist_display": "FAFA",
-      "url": "https://www.songkick.com/concerts/43432790-fafa-at-arena-cdmx",
-      "venue": "Arena CDMX",
-      "venue_url": "https://www.songkick.com/venues/1649258-arena-cdmx",
-      "location": "Arena CDMX,Mexico City, Mexico"
     },
     {
       "date": "2027-04-08",

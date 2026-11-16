@@ -1,150 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-11-15T13:28:36.542426Z",
-  "total_concerts": 403,
+  "scraped_at": "2026-11-16T14:51:46.994719Z",
+  "total_concerts": 396,
   "concerts": [
-    {
-      "date": "2026-11-15",
-      "source": "ticketmaster",
-      "artists": [
-        "Orquesta Tipica de la ciudad de Mexico"
-      ],
-      "artist_display": "Orquesta Tipica de la ciudad de Mexico",
-      "url": "https://www.ticketmaster.com.mx/aniversario-142-de-la-orquesta-tipica-mexico-15-11-2026/event/3D006556DA9CAF84",
-      "ticket_url": "https://www.ticketmaster.com.mx/aniversario-142-de-la-orquesta-tipica-mexico-15-11-2026/event/3D006556DA9CAF84",
-      "venue": "Teatro de la Ciudad Esperanza Iris",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Classical",
-        "Classical/Vocal"
-      ]
-    },
-    {
-      "date": "2026-11-15",
-      "source": "ticketmaster",
-      "artists": [
-        "Sala Principal Bellas Artes"
-      ],
-      "artist_display": "Sala Principal Bellas Artes",
-      "url": "https://www.ticketmaster.com.mx/compania-nacional-de-danza-gala-balanchine-mexico-cdmx-15-11-2026/event/3D006536F969B280",
-      "ticket_url": "https://www.ticketmaster.com.mx/compania-nacional-de-danza-gala-balanchine-mexico-cdmx-15-11-2026/event/3D006536F969B280",
-      "venue": "Palacio de Bellas Artes",
-      "location": "México CDMX, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-11-15",
-      "source": "ticketmaster",
-      "artists": [
-        "Yolanda Del Rio"
-      ],
-      "artist_display": "Yolanda Del Rio",
-      "url": "https://www.ticketmaster.com.mx/yolanda-del-rio-el-gran-regreso-mexico-15-11-2026/event/140064D59D3141CF",
-      "ticket_url": "https://www.ticketmaster.com.mx/yolanda-del-rio-el-gran-regreso-mexico-15-11-2026/event/140064D59D3141CF",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-11-15",
-      "source": "ticketmaster",
-      "artists": [
-        "Daniel Boaventura"
-      ],
-      "artist_display": "Daniel Boaventura",
-      "url": "https://www.ticketmaster.com.mx/daniel-boaventura-sinfonico-ciudad-de-mexico-15-11-2026/event/3D0064A1B9727E05",
-      "ticket_url": "https://www.ticketmaster.com.mx/daniel-boaventura-sinfonico-ciudad-de-mexico-15-11-2026/event/3D0064A1B9727E05",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
-      ]
-    },
-    {
-      "date": "2026-11-15",
-      "source": "ticketmaster",
-      "artists": [
-        "Congreso Mundial del Mariachi"
-      ],
-      "artist_display": "Congreso Mundial del Mariachi",
-      "url": "https://www.ticketmaster.com.mx/magno-concierto-3er-congreso-mundial-del-mexico-15-11-2026/event/3D0065238D8D2263",
-      "ticket_url": "https://www.ticketmaster.com.mx/magno-concierto-3er-congreso-mundial-del-mexico-15-11-2026/event/3D0065238D8D2263",
-      "venue": "El Cantoral ",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-11-15",
-      "source": "ticketmaster",
-      "artists": [
-        "Morat"
-      ],
-      "artist_display": "Morat",
-      "url": "https://www.ticketmaster.com.mx/morat-ciudad-de-mexico-15-11-2026/event/14006482BB9B7DA6",
-      "ticket_url": "https://www.ticketmaster.com.mx/morat-ciudad-de-mexico-15-11-2026/event/14006482BB9B7DA6",
-      "venue": "Palacio de los Deportes",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-11-15",
-      "source": "ticketmaster",
-      "artists": [
-        "BB Trickz",
-        "Doony Graff",
-        "Flvckka",
-        "Fanta Rosario"
-      ],
-      "artist_display": "BB Trickz, Doony Graff, Flvckka, Fanta Rosario",
-      "url": "https://www.ticketmaster.com.mx/debut-presenta-rapaparty-feat-bbtrickz-fanta-mexico-15-11-2026/event/1400654EC20EA15E",
-      "ticket_url": "https://www.ticketmaster.com.mx/debut-presenta-rapaparty-feat-bbtrickz-fanta-mexico-15-11-2026/event/1400654EC20EA15E",
-      "venue": "Pepsi Center",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Hip-Hop/Rap",
-        "Trap"
-      ]
-    },
-    {
-      "date": "2026-11-15",
-      "source": "ticketmaster",
-      "artists": [
-        "Karol G"
-      ],
-      "artist_display": "Karol G",
-      "url": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-15-11-2026/event/14006481A9AD6673",
-      "ticket_url": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-15-11-2026/event/14006481A9AD6673",
-      "venue": "Estadio GNP Seguros",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-11-15",
-      "source": "ticketmaster",
-      "artists": [
-        "Karol G"
-      ],
-      "artist_display": "Karol G",
-      "url": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-15-11-2026/event/1400646A82532BCB",
-      "ticket_url": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-15-11-2026/event/1400646A82532BCB",
-      "venue": "Estadio GNP Seguros",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
     {
       "date": "2026-11-16",
       "source": "ticketmaster",
@@ -217,6 +76,36 @@
       "url": "https://www.ticketmaster.com.mx/jerry-rivera-ciudad-de-mexico-17-11-2026/event/3D006491A0255192",
       "ticket_url": "https://www.ticketmaster.com.mx/jerry-rivera-ciudad-de-mexico-17-11-2026/event/3D006491A0255192",
       "venue": "Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "source": "ticketmaster",
+      "artists": [
+        "Karol G"
+      ],
+      "artist_display": "Karol G",
+      "url": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-17-11-2026/event/14006481A9AD6673",
+      "ticket_url": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-17-11-2026/event/14006481A9AD6673",
+      "venue": "Estadio GNP Seguros",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "source": "ticketmaster",
+      "artists": [
+        "Karol G"
+      ],
+      "artist_display": "Karol G",
+      "url": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-17-11-2026/event/1400646A82532BCB",
+      "ticket_url": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-17-11-2026/event/1400646A82532BCB",
+      "venue": "Estadio GNP Seguros",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
