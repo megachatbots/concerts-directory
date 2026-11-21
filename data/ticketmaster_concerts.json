@@ -1,588 +1,9 @@
 {
   "source": "ticketmaster",
   "metro_area": "Mexico City",
-  "scraped_at": "2026-11-16T14:51:46.994719Z",
-  "total_concerts": 396,
+  "scraped_at": "2026-11-21T14:15:21.529308Z",
+  "total_concerts": 376,
   "concerts": [
-    {
-      "date": "2026-11-16",
-      "source": "ticketmaster",
-      "artists": [
-        "Estela Nuñez y Jorge Muñiz"
-      ],
-      "artist_display": "Estela Nuñez y Jorge Muñiz",
-      "url": "https://www.ticketmaster.com.mx/estela-nunez-y-jorge-muniz-mexico-16-11-2026/event/140064BB8A507913",
-      "ticket_url": "https://www.ticketmaster.com.mx/estela-nunez-y-jorge-muniz-mexico-16-11-2026/event/140064BB8A507913",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
-      ]
-    },
-    {
-      "date": "2026-11-16",
-      "source": "ticketmaster",
-      "artists": [
-        "8TURN"
-      ],
-      "artist_display": "8TURN",
-      "url": "https://www.ticketmaster.com.mx/2026-8turn-2nd-world-tour-in-mexico-16-11-2026/event/3D00652BB79D551F",
-      "ticket_url": "https://www.ticketmaster.com.mx/2026-8turn-2nd-world-tour-in-mexico-16-11-2026/event/3D00652BB79D551F",
-      "venue": "La Maraka",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "K-Pop"
-      ]
-    },
-    {
-      "date": "2026-11-17",
-      "source": "ticketmaster",
-      "artists": [
-        "Sala Principal Bellas Artes"
-      ],
-      "artist_display": "Sala Principal Bellas Artes",
-      "url": "https://www.ticketmaster.com.mx/compania-nacional-de-danza-gala-balanchine-mexico-cdmx-17-11-2026/event/3D006536F96AB282",
-      "ticket_url": "https://www.ticketmaster.com.mx/compania-nacional-de-danza-gala-balanchine-mexico-cdmx-17-11-2026/event/3D006536F96AB282",
-      "venue": "Palacio de Bellas Artes",
-      "location": "México CDMX, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-11-17",
-      "source": "ticketmaster",
-      "artists": [
-        "Morat"
-      ],
-      "artist_display": "Morat",
-      "url": "https://www.ticketmaster.com.mx/morat-ciudad-de-mexico-17-11-2026/event/14006482BBA77DC1",
-      "ticket_url": "https://www.ticketmaster.com.mx/morat-ciudad-de-mexico-17-11-2026/event/14006482BBA77DC1",
-      "venue": "Palacio de los Deportes",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-11-17",
-      "source": "ticketmaster",
-      "artists": [
-        "Jerry Rivera"
-      ],
-      "artist_display": "Jerry Rivera",
-      "url": "https://www.ticketmaster.com.mx/jerry-rivera-ciudad-de-mexico-17-11-2026/event/3D006491A0255192",
-      "ticket_url": "https://www.ticketmaster.com.mx/jerry-rivera-ciudad-de-mexico-17-11-2026/event/3D006491A0255192",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-11-17",
-      "source": "ticketmaster",
-      "artists": [
-        "Karol G"
-      ],
-      "artist_display": "Karol G",
-      "url": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-17-11-2026/event/14006481A9AD6673",
-      "ticket_url": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-17-11-2026/event/14006481A9AD6673",
-      "venue": "Estadio GNP Seguros",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-11-17",
-      "source": "ticketmaster",
-      "artists": [
-        "Karol G"
-      ],
-      "artist_display": "Karol G",
-      "url": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-17-11-2026/event/1400646A82532BCB",
-      "ticket_url": "https://www.ticketmaster.com.mx/karol-g-viajando-por-el-mundo-ciudad-de-mexico-17-11-2026/event/1400646A82532BCB",
-      "venue": "Estadio GNP Seguros",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-11-18",
-      "source": "ticketmaster",
-      "artists": [
-        "Tributo a la Diva con Jennely"
-      ],
-      "artist_display": "Tributo a la Diva con Jennely",
-      "url": "https://www.ticketmaster.com.mx/tributo-a-la-diva-celebrando-a-mexico-18-11-2026/event/14006546C0FC9A53",
-      "ticket_url": "https://www.ticketmaster.com.mx/tributo-a-la-diva-celebrando-a-mexico-18-11-2026/event/14006546C0FC9A53",
-      "venue": "Teatro Hidalgo",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-11-18",
-      "source": "ticketmaster",
-      "artists": [
-        "Concierto por un abrazo",
-        "Caifanes",
-        "Vivir Quintana",
-        "Ely Guerra",
-        "Kevin Kaarl",
-        "Meme del Real"
-      ],
-      "artist_display": "Concierto por un abrazo, Caifanes, Vivir Quintana, Ely Guerra, Kevin Kaarl, Meme del Real",
-      "url": "https://www.ticketmaster.com.mx/concierto-por-un-abrazo-mexico-18-11-2026/event/1400654FC260D5C6",
-      "ticket_url": "https://www.ticketmaster.com.mx/concierto-por-un-abrazo-mexico-18-11-2026/event/1400654FC260D5C6",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-11-18",
-      "source": "ticketmaster",
-      "artists": [
-        "Emmanuel & Mijares"
-      ],
-      "artist_display": "Emmanuel & Mijares",
-      "url": "https://www.ticketmaster.com.mx/emmanuel-mijares-ciudad-de-mexico-18-11-2026/event/3D00650DB4FE5BBC",
-      "ticket_url": "https://www.ticketmaster.com.mx/emmanuel-mijares-ciudad-de-mexico-18-11-2026/event/3D00650DB4FE5BBC",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-11-18",
-      "source": "ticketmaster",
-      "artists": [
-        "MARO"
-      ],
-      "artist_display": "MARO",
-      "url": "https://www.ticketmaster.com.mx/maro-mexico-18-11-2026/event/3D00651D940D2696",
-      "ticket_url": "https://www.ticketmaster.com.mx/maro-mexico-18-11-2026/event/3D00651D940D2696",
-      "venue": "Foro Puebla",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Adult Contemporary"
-      ]
-    },
-    {
-      "date": "2026-11-18",
-      "source": "ticketmaster",
-      "artists": [
-        "RaiNao"
-      ],
-      "artist_display": "RaiNao",
-      "url": "https://www.ticketmaster.com.mx/rainao-ciudad-de-mexico-18-11-2026/event/3D0064FAB1675A4D",
-      "ticket_url": "https://www.ticketmaster.com.mx/rainao-ciudad-de-mexico-18-11-2026/event/3D0064FAB1675A4D",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "R&B"
-      ]
-    },
-    {
-      "date": "2026-11-19",
-      "source": "ticketmaster",
-      "artists": [
-        "Baile anual UAM"
-      ],
-      "artist_display": "Baile anual UAM",
-      "url": "https://www.ticketmaster.com.mx/baile-anual-de-la-fundacion-casa-coyoacan-19-11-2026/event/3D0064FDE1847613",
-      "ticket_url": "https://www.ticketmaster.com.mx/baile-anual-de-la-fundacion-casa-coyoacan-19-11-2026/event/3D0064FDE1847613",
-      "venue": "Grand Forum Taxqueña Salón Zafiro",
-      "location": "Coyoacán, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
-      ]
-    },
-    {
-      "date": "2026-11-19",
-      "source": "ticketmaster",
-      "artists": [
-        "Orquesta Nacional de Jazz"
-      ],
-      "artist_display": "Orquesta Nacional de Jazz",
-      "url": "https://www.ticketmaster.com.mx/orquesta-nacional-de-jazz-mexico-19-11-2026/event/3D0064CC01D77F30",
-      "ticket_url": "https://www.ticketmaster.com.mx/orquesta-nacional-de-jazz-mexico-19-11-2026/event/3D0064CC01D77F30",
-      "venue": "Teatro de la Ciudad Esperanza Iris",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Music",
-        "Chamber Music"
-      ]
-    },
-    {
-      "date": "2026-11-19",
-      "source": "ticketmaster",
-      "artists": [
-        "Sala Principal Bellas Artes"
-      ],
-      "artist_display": "Sala Principal Bellas Artes",
-      "url": "https://www.ticketmaster.com.mx/compania-nacional-de-danza-gala-balanchine-mexico-cdmx-19-11-2026/event/3D006536F96BB286",
-      "ticket_url": "https://www.ticketmaster.com.mx/compania-nacional-de-danza-gala-balanchine-mexico-cdmx-19-11-2026/event/3D006536F96BB286",
-      "venue": "Palacio de Bellas Artes",
-      "location": "México CDMX, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-11-19",
-      "source": "ticketmaster",
-      "artists": [
-        "Dimash Qudaibergen"
-      ],
-      "artist_display": "Dimash Qudaibergen",
-      "url": "https://www.ticketmaster.com.mx/dimash-qudaibergen-ciudad-de-mexico-19-11-2026/event/140064C499605A9D",
-      "ticket_url": "https://www.ticketmaster.com.mx/dimash-qudaibergen-ciudad-de-mexico-19-11-2026/event/140064C499605A9D",
-      "venue": "Palacio de los Deportes",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-11-19",
-      "source": "ticketmaster",
-      "artists": [
-        "Arde Bogota"
-      ],
-      "artist_display": "Arde Bogota",
-      "url": "https://www.ticketmaster.com.mx/arde-bogota-mexico-19-11-2026/event/140064BE8ABA5C83",
-      "ticket_url": "https://www.ticketmaster.com.mx/arde-bogota-mexico-19-11-2026/event/140064BE8ABA5C83",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Pop"
-      ]
-    },
-    {
-      "date": "2026-11-19",
-      "source": "ticketmaster",
-      "artists": [
-        "Los Cafres",
-        "Los Estramboticos"
-      ],
-      "artist_display": "Los Cafres, Los Estramboticos",
-      "url": "https://www.ticketmaster.com.mx/cafres-y-estramboticos-ciudad-de-mexico-19-11-2026/event/3D0064ADC21E979E",
-      "ticket_url": "https://www.ticketmaster.com.mx/cafres-y-estramboticos-ciudad-de-mexico-19-11-2026/event/3D0064ADC21E979E",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Reggae"
-      ]
-    },
-    {
-      "date": "2026-11-19",
-      "source": "ticketmaster",
-      "artists": [
-        "María San Felipe"
-      ],
-      "artist_display": "María San Felipe",
-      "url": "https://www.ticketmaster.com.mx/maria-san-felipe-por-si-volvieras-ciudad-de-mexico-19-11-2026/event/3D0064C4B6037318",
-      "ticket_url": "https://www.ticketmaster.com.mx/maria-san-felipe-por-si-volvieras-ciudad-de-mexico-19-11-2026/event/3D0064C4B6037318",
-      "venue": "El Lunario del Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-11-19",
-      "source": "ticketmaster",
-      "artists": [
-        "Roberto Blades"
-      ],
-      "artist_display": "Roberto Blades",
-      "url": "https://www.ticketmaster.com.mx/roberto-blades-viti-ruiz-y-wilmer-mexico-19-11-2026/event/3D00655A827618E3",
-      "ticket_url": "https://www.ticketmaster.com.mx/roberto-blades-viti-ruiz-y-wilmer-mexico-19-11-2026/event/3D00655A827618E3",
-      "venue": "Mambo Cafe Insurgentes",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-11-19",
-      "source": "ticketmaster",
-      "artists": [
-        "Entre Ardidas El Show"
-      ],
-      "artist_display": "Entre Ardidas El Show",
-      "url": "https://www.ticketmaster.com.mx/entre-ardidas-el-show-ciudad-de-mexico-19-11-2026/event/3D0065188ADB12E7",
-      "ticket_url": "https://www.ticketmaster.com.mx/entre-ardidas-el-show-ciudad-de-mexico-19-11-2026/event/3D0065188ADB12E7",
-      "venue": "Foro Stelaris Fiesta Americana Reforma",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
-      ]
-    },
-    {
-      "date": "2026-11-19",
-      "source": "ticketmaster",
-      "artists": [
-        "Kalimba"
-      ],
-      "artist_display": "Kalimba",
-      "url": "https://www.ticketmaster.com.mx/kalimba-christmas-soul-mexico-19-11-2026/event/3D0064E79FC01D9A",
-      "ticket_url": "https://www.ticketmaster.com.mx/kalimba-christmas-soul-mexico-19-11-2026/event/3D0064E79FC01D9A",
-      "venue": "La Maraka",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-11-20",
-      "source": "ticketmaster",
-      "artists": [
-        "Corona Capital",
-        "Absolutely",
-        "Anna Luna",
-        "Chezile",
-        "CHVRCHES",
-        "CMAT",
-        "Daniel Caesar",
-        "Durand Jones & The Indications",
-        "Fcukers",
-        "Friko",
-        "Gorillaz",
-        "Grace Ives",
-        "Hot Milk",
-        "James Blake",
-        "JMSN",
-        "Mumford & Sons",
-        "Olive Jones",
-        "RIP Magic",
-        "SOFIA ISELLA",
-        "The Kooks",
-        "Thee Sinseers",
-        "Violet Grohl",
-        "Yung Lean",
-        "Darianna Everett"
-      ],
-      "artist_display": "Corona Capital, Absolutely, Anna Luna, Chezile, CHVRCHES, CMAT, Daniel Caesar, Durand Jones & The Indications, Fcukers, Friko, Gorillaz, Grace Ives, Hot Milk, James Blake, JMSN, Mumford & Sons, Olive Jones, RIP Magic, SOFIA ISELLA, The Kooks, Thee Sinseers, Violet Grohl, Yung Lean, Darianna Everett",
-      "url": "https://www.ticketmaster.com.mx/individual-general-corona-capital-2026-mexico-20-11-2026/event/14006499FA57F0FC",
-      "ticket_url": "https://www.ticketmaster.com.mx/individual-general-corona-capital-2026-mexico-20-11-2026/event/14006499FA57F0FC",
-      "venue": "Autodromo Hnos. Rodriguez",
-      "location": "México, Ciudad de México, Mexico"
-    },
-    {
-      "date": "2026-11-20",
-      "source": "ticketmaster",
-      "artists": [
-        "Corona Capital",
-        "Absolutely",
-        "Anna Luna",
-        "Chezile",
-        "CHVRCHES",
-        "CMAT",
-        "Daniel Caesar",
-        "Durand Jones & The Indications",
-        "Fcukers",
-        "Friko",
-        "Gorillaz",
-        "Grace Ives",
-        "Hot Milk",
-        "James Blake",
-        "JMSN",
-        "Mumford & Sons",
-        "Olive Jones",
-        "RIP Magic",
-        "SOFIA ISELLA",
-        "The Kooks",
-        "Thee Sinseers",
-        "Violet Grohl",
-        "Yung Lean",
-        "Darianna Everett"
-      ],
-      "artist_display": "Corona Capital, Absolutely, Anna Luna, Chezile, CHVRCHES, CMAT, Daniel Caesar, Durand Jones & The Indications, Fcukers, Friko, Gorillaz, Grace Ives, Hot Milk, James Blake, JMSN, Mumford & Sons, Olive Jones, RIP Magic, SOFIA ISELLA, The Kooks, Thee Sinseers, Violet Grohl, Yung Lean, Darianna Everett",
-      "url": "https://www.ticketmaster.com.mx/individual-comfort-pass-banamex-corona-capital-mexico-20-11-2026/event/14006499FAF2F21C",
-      "ticket_url": "https://www.ticketmaster.com.mx/individual-comfort-pass-banamex-corona-capital-mexico-20-11-2026/event/14006499FAF2F21C",
-      "venue": "Autodromo Hnos. Rodriguez",
-      "location": "México, Ciudad de México, Mexico"
-    },
-    {
-      "date": "2026-11-20",
-      "source": "ticketmaster",
-      "artists": [
-        "Corona Capital",
-        "Absolutely",
-        "Anna Luna",
-        "Chezile",
-        "CHVRCHES",
-        "CMAT",
-        "Daniel Caesar",
-        "Durand Jones & The Indications",
-        "Fcukers",
-        "Friko",
-        "Gorillaz",
-        "Grace Ives",
-        "Hot Milk",
-        "James Blake",
-        "JMSN",
-        "Mumford & Sons",
-        "Olive Jones",
-        "RIP Magic",
-        "SOFIA ISELLA",
-        "The Kooks",
-        "Thee Sinseers",
-        "Violet Grohl",
-        "Yung Lean",
-        "Darianna Everett"
-      ],
-      "artist_display": "Corona Capital, Absolutely, Anna Luna, Chezile, CHVRCHES, CMAT, Daniel Caesar, Durand Jones & The Indications, Fcukers, Friko, Gorillaz, Grace Ives, Hot Milk, James Blake, JMSN, Mumford & Sons, Olive Jones, RIP Magic, SOFIA ISELLA, The Kooks, Thee Sinseers, Violet Grohl, Yung Lean, Darianna Everett",
-      "url": "https://www.ticketmaster.com.mx/individual-banamex-plus-corona-capital-2026-mexico-20-11-2026/event/14006499F22BE35A",
-      "ticket_url": "https://www.ticketmaster.com.mx/individual-banamex-plus-corona-capital-2026-mexico-20-11-2026/event/14006499F22BE35A",
-      "venue": "Autodromo Hnos. Rodriguez",
-      "location": "México, Ciudad de México, Mexico"
-    },
-    {
-      "date": "2026-11-20",
-      "source": "ticketmaster",
-      "artists": [
-        "Time Warp"
-      ],
-      "artist_display": "Time Warp",
-      "url": "https://www.ticketmaster.com.mx/individual-general-time-warp-mexico-20-11-2026/event/14006498D98CF052",
-      "ticket_url": "https://www.ticketmaster.com.mx/individual-general-time-warp-mexico-20-11-2026/event/14006498D98CF052",
-      "venue": "Expo Santa Fe",
-      "location": "México, Ciudad de México, Mexico"
-    },
-    {
-      "date": "2026-11-20",
-      "source": "ticketmaster",
-      "artists": [
-        "Time Warp"
-      ],
-      "artist_display": "Time Warp",
-      "url": "https://www.ticketmaster.com.mx/individual-banamex-stage-vip-time-warp-mexico-20-11-2026/event/14006498D68EEAFE",
-      "ticket_url": "https://www.ticketmaster.com.mx/individual-banamex-stage-vip-time-warp-mexico-20-11-2026/event/14006498D68EEAFE",
-      "venue": "Expo Santa Fe",
-      "location": "México, Ciudad de México, Mexico"
-    },
-    {
-      "date": "2026-11-20",
-      "source": "ticketmaster",
-      "artists": [
-        "Dimash Qudaibergen"
-      ],
-      "artist_display": "Dimash Qudaibergen",
-      "url": "https://www.ticketmaster.com.mx/dimash-qudaibergen-ciudad-de-mexico-20-11-2026/event/140064C49B1F5DB4",
-      "ticket_url": "https://www.ticketmaster.com.mx/dimash-qudaibergen-ciudad-de-mexico-20-11-2026/event/140064C49B1F5DB4",
-      "venue": "Palacio de los Deportes",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Pop",
-        "Electro Pop"
-      ]
-    },
-    {
-      "date": "2026-11-20",
-      "source": "ticketmaster",
-      "artists": [
-        "Los Angeles Azules"
-      ],
-      "artist_display": "Los Angeles Azules",
-      "url": "https://www.ticketmaster.com.mx/los-angeles-azules-ciudad-de-mexico-20-11-2026/event/3D0064F28ED428E3",
-      "ticket_url": "https://www.ticketmaster.com.mx/los-angeles-azules-ciudad-de-mexico-20-11-2026/event/3D0064F28ED428E3",
-      "venue": "Auditorio Nacional",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-11-20",
-      "source": "ticketmaster",
-      "artists": [
-        "Nuestros Boleros de Cantina. Carlos Carreira y Salvador Aponte."
-      ],
-      "artist_display": "Nuestros Boleros de Cantina. Carlos Carreira y Salvador Aponte.",
-      "url": "https://www.ticketmaster.com.mx/nuestros-boleros-de-cantina-carlos-carreira-mexico-20-11-2026/event/3D0064D69F0A1B7E",
-      "ticket_url": "https://www.ticketmaster.com.mx/nuestros-boleros-de-cantina-carlos-carreira-mexico-20-11-2026/event/3D0064D69F0A1B7E",
-      "venue": "El Cantoral ",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Ballads/Romantic"
-      ]
-    },
-    {
-      "date": "2026-11-20",
-      "source": "ticketmaster",
-      "artists": [
-        "Lo Mejor del Rock"
-      ],
-      "artist_display": "Lo Mejor del Rock",
-      "url": "https://www.ticketmaster.com.mx/lo-mejor-del-rock-en-espanol-mexico-20-11-2026/event/1400650CBD867A52",
-      "ticket_url": "https://www.ticketmaster.com.mx/lo-mejor-del-rock-en-espanol-mexico-20-11-2026/event/1400650CBD867A52",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Rock",
-        "Pop"
-      ]
-    },
-    {
-      "date": "2026-11-20",
-      "source": "ticketmaster",
-      "artists": [
-        "Francisca Valenzuela"
-      ],
-      "artist_display": "Francisca Valenzuela",
-      "url": "https://www.ticketmaster.com.mx/francisca-valenzuela-maldita-tour-mexico-20-11-2026/event/3D0064B59E9E8DA5",
-      "ticket_url": "https://www.ticketmaster.com.mx/francisca-valenzuela-maldita-tour-mexico-20-11-2026/event/3D0064B59E9E8DA5",
-      "venue": "Foro Puebla",
-      "location": "Mexico, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-11-20",
-      "source": "ticketmaster",
-      "artists": [
-        "Carlos Macías"
-      ],
-      "artist_display": "Carlos Macías",
-      "url": "https://www.ticketmaster.com.mx/carlos-macias-mexico-es-a-todo-ciudad-de-mexico-20-11-2026/event/3D006548B9BC6A94",
-      "ticket_url": "https://www.ticketmaster.com.mx/carlos-macias-mexico-es-a-todo-ciudad-de-mexico-20-11-2026/event/3D006548B9BC6A94",
-      "venue": "Foro Stelaris Fiesta Americana Reforma",
-      "location": "Ciudad de México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
-    {
-      "date": "2026-11-20",
-      "source": "ticketmaster",
-      "artists": [
-        "Kalimba"
-      ],
-      "artist_display": "Kalimba",
-      "url": "https://www.ticketmaster.com.mx/kalimba-christmas-soul-mexico-20-11-2026/event/3D0064F0E1EF7CDC",
-      "ticket_url": "https://www.ticketmaster.com.mx/kalimba-christmas-soul-mexico-20-11-2026/event/3D0064F0E1EF7CDC",
-      "venue": "La Maraka",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Latin"
-      ]
-    },
     {
       "date": "2026-11-20",
       "source": "ticketmaster",
@@ -1351,21 +772,6 @@
       "tags": [
         "Rock",
         "Pop"
-      ]
-    },
-    {
-      "date": "2026-11-23",
-      "source": "ticketmaster",
-      "artists": [
-        "Taburete"
-      ],
-      "artist_display": "Taburete",
-      "url": "https://www.ticketmaster.com.mx/taburete-mexico-23-11-2026/event/14006524A02E9742",
-      "ticket_url": "https://www.ticketmaster.com.mx/taburete-mexico-23-11-2026/event/14006524A02E9742",
-      "venue": "Teatro Metropolitan",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
       ]
     },
     {
@@ -2380,21 +1786,6 @@
       "date": "2026-11-29",
       "source": "ticketmaster",
       "artists": [
-        "Cómo Entrenar a tu Dragón, Movie Concert"
-      ],
-      "artist_display": "Cómo Entrenar a tu Dragón, Movie Concert",
-      "url": "https://www.ticketmaster.com.mx/como-entrenar-a-tu-dragon-movie-mexico-29-11-2026/event/3D006562F54289A5",
-      "ticket_url": "https://www.ticketmaster.com.mx/como-entrenar-a-tu-dragon-movie-mexico-29-11-2026/event/3D006562F54289A5",
-      "venue": "Teatro Xola Julio Prieto",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
-      ]
-    },
-    {
-      "date": "2026-11-29",
-      "source": "ticketmaster",
-      "artists": [
         "Flow Fest",
         "Ozuna",
         "Kali Uchis",
@@ -2519,21 +1910,6 @@
       "ticket_url": "https://www.ticketmaster.com.mx/individual-general-coca-flow-fest-2026-mexico-29-11-2026/event/140064ACB5838443",
       "venue": "Autodromo Hnos. Rodriguez",
       "location": "México, Ciudad de México, Mexico"
-    },
-    {
-      "date": "2026-11-29",
-      "source": "ticketmaster",
-      "artists": [
-        "Cómo Entrenar a tu Dragón, Movie Concert"
-      ],
-      "artist_display": "Cómo Entrenar a tu Dragón, Movie Concert",
-      "url": "https://www.ticketmaster.com.mx/como-entrenar-a-tu-dragon-movie-mexico-29-11-2026/event/3D006562F54C89AF",
-      "ticket_url": "https://www.ticketmaster.com.mx/como-entrenar-a-tu-dragon-movie-mexico-29-11-2026/event/3D006562F54C89AF",
-      "venue": "Teatro Xola Julio Prieto",
-      "location": "México, Ciudad de México, Mexico",
-      "tags": [
-        "Other"
-      ]
     },
     {
       "date": "2026-11-29",
@@ -2710,6 +2086,21 @@
       "date": "2026-12-04",
       "source": "ticketmaster",
       "artists": [
+        "Harry Potter Concierto Tributo Audiovisual"
+      ],
+      "artist_display": "Harry Potter Concierto Tributo Audiovisual",
+      "url": "https://www.ticketmaster.com.mx/harry-potter-concierto-tributo-audiovisual-mexico-04-12-2026/event/3D00657194DA6B94",
+      "ticket_url": "https://www.ticketmaster.com.mx/harry-potter-concierto-tributo-audiovisual-mexico-04-12-2026/event/3D00657194DA6B94",
+      "venue": "Teatro Xola Julio Prieto",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
+      ]
+    },
+    {
+      "date": "2026-12-04",
+      "source": "ticketmaster",
+      "artists": [
         "Caifanes"
       ],
       "artist_display": "Caifanes",
@@ -2747,6 +2138,21 @@
       "url": "https://www.ticketmaster.com.mx/germain-y-maurizio-ruiz-juntos-por-mexico-04-12-2026/event/14006542E1D9E803",
       "ticket_url": "https://www.ticketmaster.com.mx/germain-y-maurizio-ruiz-juntos-por-mexico-04-12-2026/event/14006542E1D9E803",
       "venue": "Teatro Tepeyac",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Other"
+      ]
+    },
+    {
+      "date": "2026-12-04",
+      "source": "ticketmaster",
+      "artists": [
+        "Harry Potter Concierto Tributo Audiovisual"
+      ],
+      "artist_display": "Harry Potter Concierto Tributo Audiovisual",
+      "url": "https://www.ticketmaster.com.mx/harry-potter-concierto-tributo-audiovisual-mexico-04-12-2026/event/3D00657195846CC9",
+      "ticket_url": "https://www.ticketmaster.com.mx/harry-potter-concierto-tributo-audiovisual-mexico-04-12-2026/event/3D00657195846CC9",
+      "venue": "Teatro Xola Julio Prieto",
       "location": "México, Ciudad de México, Mexico",
       "tags": [
         "Other"
@@ -3236,6 +2642,21 @@
       "date": "2026-12-11",
       "source": "ticketmaster",
       "artists": [
+        "Rosy Arango"
+      ],
+      "artist_display": "Rosy Arango",
+      "url": "https://www.ticketmaster.com.mx/la-gran-posada-navidena-rosy-arango-mexico-11-12-2026/event/3D00656F93EF68B1",
+      "ticket_url": "https://www.ticketmaster.com.mx/la-gran-posada-navidena-rosy-arango-mexico-11-12-2026/event/3D00656F93EF68B1",
+      "venue": "Teatro de la Ciudad Esperanza Iris",
+      "location": "Mexico, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2026-12-11",
+      "source": "ticketmaster",
+      "artists": [
         "Gorillaz"
       ],
       "artist_display": "Gorillaz",
@@ -3314,9 +2735,12 @@
       "date": "2026-12-12",
       "source": "ticketmaster",
       "artists": [
-        "Concierto Despecho"
+        "Concierto Despecho",
+        "Alicia Villarreal",
+        "Lucero",
+        "Daniela Romo"
       ],
-      "artist_display": "Concierto Despecho",
+      "artist_display": "Concierto Despecho, Alicia Villarreal, Lucero, Daniela Romo",
       "url": "https://www.ticketmaster.com.mx/concierto-despecho-2026-ciudad-de-mexico-12-12-2026/event/3D00653AA8EC3F99",
       "ticket_url": "https://www.ticketmaster.com.mx/concierto-despecho-2026-ciudad-de-mexico-12-12-2026/event/3D00653AA8EC3F99",
       "venue": "Estadio Alfredo Harp Helú",
@@ -3712,9 +3136,9 @@
       "date": "2026-12-19",
       "source": "ticketmaster",
       "artists": [
-        "The King Experience  Elvis Presley by Evan Dos Épocas, Una Leyenda"
+        "The King Experience — Elvis Presley"
       ],
-      "artist_display": "The King Experience  Elvis Presley by Evan Dos Épocas, Una Leyenda",
+      "artist_display": "The King Experience — Elvis Presley",
       "url": "https://www.ticketmaster.com.mx/the-king-experience-elvis-presley-by-mexico-19-12-2026/event/3D006564C2549C80",
       "ticket_url": "https://www.ticketmaster.com.mx/the-king-experience-elvis-presley-by-mexico-19-12-2026/event/3D006564C2549C80",
       "venue": "Foro Red Access",
@@ -4285,15 +3709,15 @@
       "date": "2027-01-29",
       "source": "ticketmaster",
       "artists": [
-        "Mono Blanco 50 Años"
+        "Mono Blanco"
       ],
-      "artist_display": "Mono Blanco 50 Años",
+      "artist_display": "Mono Blanco",
       "url": "https://www.ticketmaster.com.mx/mono-blanco-50-anos-mexico-29-01-2027/event/14006543D4970F5C",
       "ticket_url": "https://www.ticketmaster.com.mx/mono-blanco-50-anos-mexico-29-01-2027/event/14006543D4970F5C",
       "venue": "Teatro Metropolitan",
       "location": "México, Ciudad de México, Mexico",
       "tags": [
-        "Other"
+        "Latin"
       ]
     },
     {
@@ -4734,6 +4158,21 @@
       "date": "2027-02-06",
       "source": "ticketmaster",
       "artists": [
+        "Ernesto D´Alessio"
+      ],
+      "artist_display": "Ernesto D´Alessio",
+      "url": "https://www.ticketmaster.com.mx/ernesto-dalessio-imparable-mexico-06-02-2027/event/3D0065699F6A3485",
+      "ticket_url": "https://www.ticketmaster.com.mx/ernesto-dalessio-imparable-mexico-06-02-2027/event/3D0065699F6A3485",
+      "venue": "El Cantoral ",
+      "location": "Mexico, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2027-02-06",
+      "source": "ticketmaster",
+      "artists": [
         "Los Planetas"
       ],
       "artist_display": "Los Planetas",
@@ -4840,6 +4279,21 @@
       ]
     },
     {
+      "date": "2027-02-10",
+      "source": "ticketmaster",
+      "artists": [
+        "Alberto Barros"
+      ],
+      "artist_display": "Alberto Barros",
+      "url": "https://www.ticketmaster.com.mx/alberto-barros-mexico-10-02-2027/event/3D00656C8A973051",
+      "ticket_url": "https://www.ticketmaster.com.mx/alberto-barros-mexico-10-02-2027/event/3D00656C8A973051",
+      "venue": "La Maraka",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
       "date": "2027-02-11",
       "source": "ticketmaster",
       "artists": [
@@ -4853,6 +4307,22 @@
       "tags": [
         "World",
         "Trova"
+      ]
+    },
+    {
+      "date": "2027-02-11",
+      "source": "ticketmaster",
+      "artists": [
+        "Starship"
+      ],
+      "artist_display": "Starship",
+      "url": "https://www.ticketmaster.com.mx/starship-featuring-mickey-thomas-mexico-11-02-2027/event/3D00656B9C034C6E",
+      "ticket_url": "https://www.ticketmaster.com.mx/starship-featuring-mickey-thomas-mexico-11-02-2027/event/3D00656B9C034C6E",
+      "venue": "La Maraka",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Pop"
       ]
     },
     {
@@ -5695,9 +5165,44 @@
       "date": "2027-03-13",
       "source": "ticketmaster",
       "artists": [
-        "Vive Latino"
+        "Vive Latino",
+        "Andres Cepeda",
+        "Attaque 77",
+        "Bacilos",
+        "Bandalos Chinos",
+        "Barry B",
+        "Camilo Septimo",
+        "Carlos Ares",
+        "Carolina Durante",
+        "Dromedarios Magicos",
+        "Ed Maverick",
+        "Epica",
+        "Inspector",
+        "Jumbo",
+        "Kasabian",
+        "Kase.O",
+        "La Gusana Ciega",
+        "LA LOM",
+        "La M.O.D.A.: Salvavida (De las Balas Perdidas)",
+        "La Santa Cecilia",
+        "Latin Mafia",
+        "Laureano Brizuela",
+        "Leo Rizzi",
+        "Los Auténticos Decadentes",
+        "Los Vaguens",
+        "Mi Banda El Mexicano",
+        "Milo J",
+        "Modelo",
+        "Ozomatli",
+        "Paloma Morphy",
+        "Polymarch",
+        "Residente",
+        "The Skatalites",
+        "The Wookies",
+        "Tino El Pingüino",
+        "Ximena Sariñana"
       ],
-      "artist_display": "Vive Latino",
+      "artist_display": "Vive Latino, Andres Cepeda, Attaque 77, Bacilos, Bandalos Chinos, Barry B, Camilo Septimo, Carlos Ares, Carolina Durante, Dromedarios Magicos, Ed Maverick, Epica, Inspector, Jumbo, Kasabian, Kase.O, La Gusana Ciega, LA LOM, La M.O.D.A.: Salvavida (De las Balas Perdidas), La Santa Cecilia, Latin Mafia, Laureano Brizuela, Leo Rizzi, Los Auténticos Decadentes, Los Vaguens, Mi Banda El Mexicano, Milo J, Modelo, Ozomatli, Paloma Morphy, Polymarch, Residente, The Skatalites, The Wookies, Tino El Pingüino, Ximena Sariñana",
       "url": "https://www.ticketmaster.com.mx/vive-latino-2027-abono-platino-pase-ciudad-de-mexico-13-03-2027/event/14006562AF744B63",
       "ticket_url": "https://www.ticketmaster.com.mx/vive-latino-2027-abono-platino-pase-ciudad-de-mexico-13-03-2027/event/14006562AF744B63",
       "venue": "Estadio GNP Seguros",
@@ -5707,9 +5212,44 @@
       "date": "2027-03-13",
       "source": "ticketmaster",
       "artists": [
-        "Vive Latino"
+        "Vive Latino",
+        "Andres Cepeda",
+        "Attaque 77",
+        "Bacilos",
+        "Bandalos Chinos",
+        "Barry B",
+        "Camilo Septimo",
+        "Carlos Ares",
+        "Carolina Durante",
+        "Dromedarios Magicos",
+        "Ed Maverick",
+        "Epica",
+        "Inspector",
+        "Jumbo",
+        "Kasabian",
+        "Kase.O",
+        "La Gusana Ciega",
+        "LA LOM",
+        "La M.O.D.A.: Salvavida (De las Balas Perdidas)",
+        "La Santa Cecilia",
+        "Latin Mafia",
+        "Laureano Brizuela",
+        "Leo Rizzi",
+        "Los Auténticos Decadentes",
+        "Los Vaguens",
+        "Mi Banda El Mexicano",
+        "Milo J",
+        "Modelo",
+        "Ozomatli",
+        "Paloma Morphy",
+        "Polymarch",
+        "Residente",
+        "The Skatalites",
+        "The Wookies",
+        "Tino El Pingüino",
+        "Ximena Sariñana"
       ],
-      "artist_display": "Vive Latino",
+      "artist_display": "Vive Latino, Andres Cepeda, Attaque 77, Bacilos, Bandalos Chinos, Barry B, Camilo Septimo, Carlos Ares, Carolina Durante, Dromedarios Magicos, Ed Maverick, Epica, Inspector, Jumbo, Kasabian, Kase.O, La Gusana Ciega, LA LOM, La M.O.D.A.: Salvavida (De las Balas Perdidas), La Santa Cecilia, Latin Mafia, Laureano Brizuela, Leo Rizzi, Los Auténticos Decadentes, Los Vaguens, Mi Banda El Mexicano, Milo J, Modelo, Ozomatli, Paloma Morphy, Polymarch, Residente, The Skatalites, The Wookies, Tino El Pingüino, Ximena Sariñana",
       "url": "https://www.ticketmaster.com.mx/vive-latino-2027-abono-boxes-pase-ciudad-de-mexico-13-03-2027/event/14006562AAAB451F",
       "ticket_url": "https://www.ticketmaster.com.mx/vive-latino-2027-abono-boxes-pase-ciudad-de-mexico-13-03-2027/event/14006562AAAB451F",
       "venue": "Estadio GNP Seguros",
@@ -5719,9 +5259,44 @@
       "date": "2027-03-13",
       "source": "ticketmaster",
       "artists": [
-        "Vive Latino"
+        "Vive Latino",
+        "Andres Cepeda",
+        "Attaque 77",
+        "Bacilos",
+        "Bandalos Chinos",
+        "Barry B",
+        "Camilo Septimo",
+        "Carlos Ares",
+        "Carolina Durante",
+        "Dromedarios Magicos",
+        "Ed Maverick",
+        "Epica",
+        "Inspector",
+        "Jumbo",
+        "Kasabian",
+        "Kase.O",
+        "La Gusana Ciega",
+        "LA LOM",
+        "La M.O.D.A.: Salvavida (De las Balas Perdidas)",
+        "La Santa Cecilia",
+        "Latin Mafia",
+        "Laureano Brizuela",
+        "Leo Rizzi",
+        "Los Auténticos Decadentes",
+        "Los Vaguens",
+        "Mi Banda El Mexicano",
+        "Milo J",
+        "Modelo",
+        "Ozomatli",
+        "Paloma Morphy",
+        "Polymarch",
+        "Residente",
+        "The Skatalites",
+        "The Wookies",
+        "Tino El Pingüino",
+        "Ximena Sariñana"
       ],
-      "artist_display": "Vive Latino",
+      "artist_display": "Vive Latino, Andres Cepeda, Attaque 77, Bacilos, Bandalos Chinos, Barry B, Camilo Septimo, Carlos Ares, Carolina Durante, Dromedarios Magicos, Ed Maverick, Epica, Inspector, Jumbo, Kasabian, Kase.O, La Gusana Ciega, LA LOM, La M.O.D.A.: Salvavida (De las Balas Perdidas), La Santa Cecilia, Latin Mafia, Laureano Brizuela, Leo Rizzi, Los Auténticos Decadentes, Los Vaguens, Mi Banda El Mexicano, Milo J, Modelo, Ozomatli, Paloma Morphy, Polymarch, Residente, The Skatalites, The Wookies, Tino El Pingüino, Ximena Sariñana",
       "url": "https://www.ticketmaster.com.mx/vive-latino-2027-abono-general-pase-ciudad-de-mexico-13-03-2027/event/1400655DB65F93A3",
       "ticket_url": "https://www.ticketmaster.com.mx/vive-latino-2027-abono-general-pase-ciudad-de-mexico-13-03-2027/event/1400655DB65F93A3",
       "venue": "Estadio GNP Seguros",
@@ -6011,6 +5586,37 @@
       ]
     },
     {
+      "date": "2027-04-01",
+      "source": "ticketmaster",
+      "artists": [
+        "Cypress Hill"
+      ],
+      "artist_display": "Cypress Hill",
+      "url": "https://www.ticketmaster.com.mx/cypress-hill-mexico-01-04-2027/event/14006557CF1FB3A9",
+      "ticket_url": "https://www.ticketmaster.com.mx/cypress-hill-mexico-01-04-2027/event/14006557CF1FB3A9",
+      "venue": "Pepsi Center",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Hip-Hop/Rap",
+        "Trap"
+      ]
+    },
+    {
+      "date": "2027-04-04",
+      "source": "ticketmaster",
+      "artists": [
+        "Victor Wooten & The Wooten Brothers"
+      ],
+      "artist_display": "Victor Wooten & The Wooten Brothers",
+      "url": "https://www.ticketmaster.com.mx/victor-wooten-and-the-wooten-brothers-ciudad-de-mexico-04-04-2027/event/3D006567DF733584",
+      "ticket_url": "https://www.ticketmaster.com.mx/victor-wooten-and-the-wooten-brothers-ciudad-de-mexico-04-04-2027/event/3D006567DF733584",
+      "venue": "El Lunario del Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Jazz"
+      ]
+    },
+    {
       "date": "2027-04-09",
       "source": "ticketmaster",
       "artists": [
@@ -6094,11 +5700,12 @@
       "source": "ticketmaster",
       "artists": [
         "Metric",
-        "Broken Social Scene"
+        "Broken Social Scene",
+        "Stars"
       ],
-      "artist_display": "Metric, Broken Social Scene",
-      "url": "https://www.ticketmaster.com.mx/metric-x-broken-social-scene-mexico-17-04-2027/event/14006564EEDCE31C",
-      "ticket_url": "https://www.ticketmaster.com.mx/metric-x-broken-social-scene-mexico-17-04-2027/event/14006564EEDCE31C",
+      "artist_display": "Metric, Broken Social Scene, Stars",
+      "url": "https://www.ticketmaster.com.mx/metric-x-broken-social-scene-x-mexico-17-04-2027/event/14006564EEDCE31C",
+      "ticket_url": "https://www.ticketmaster.com.mx/metric-x-broken-social-scene-x-mexico-17-04-2027/event/14006564EEDCE31C",
       "venue": "Pepsi Center",
       "location": "México, Ciudad de México, Mexico",
       "tags": [
@@ -6362,6 +5969,22 @@
       "date": "2027-05-14",
       "source": "ticketmaster",
       "artists": [
+        "El Mato a un Policia Motorizado"
+      ],
+      "artist_display": "El Mato a un Policia Motorizado",
+      "url": "https://www.ticketmaster.com.mx/el-mato-a-un-policia-motorizado-ciudad-de-mexico-14-05-2027/event/3D006566B45AC011",
+      "ticket_url": "https://www.ticketmaster.com.mx/el-mato-a-un-policia-motorizado-ciudad-de-mexico-14-05-2027/event/3D006566B45AC011",
+      "venue": "Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Alternative Rock"
+      ]
+    },
+    {
+      "date": "2027-05-14",
+      "source": "ticketmaster",
+      "artists": [
         "Agnes Obel"
       ],
       "artist_display": "Agnes Obel",
@@ -6428,8 +6051,8 @@
         "Feid"
       ],
       "artist_display": "Feid",
-      "url": "https://www.ticketmaster.com.mx/ferxxo-the-green-star-tour-2027-ciudad-de-mexico-21-05-2027/event/1400655FE8938938",
-      "ticket_url": "https://www.ticketmaster.com.mx/ferxxo-the-green-star-tour-2027-ciudad-de-mexico-21-05-2027/event/1400655FE8938938",
+      "url": "https://www.ticketmaster.com.mx/feidferxxothe-green-star-tour-2027-ciudad-de-mexico-21-05-2027/event/1400655FE8938938",
+      "ticket_url": "https://www.ticketmaster.com.mx/feidferxxothe-green-star-tour-2027-ciudad-de-mexico-21-05-2027/event/1400655FE8938938",
       "venue": "Palacio de los Deportes",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
@@ -6459,8 +6082,8 @@
         "Feid"
       ],
       "artist_display": "Feid",
-      "url": "https://www.ticketmaster.com.mx/ferxxo-the-green-star-tour-2027-ciudad-de-mexico-22-05-2027/event/1400655FE8938944",
-      "ticket_url": "https://www.ticketmaster.com.mx/ferxxo-the-green-star-tour-2027-ciudad-de-mexico-22-05-2027/event/1400655FE8938944",
+      "url": "https://www.ticketmaster.com.mx/feidferxxothe-green-star-tour-2027-ciudad-de-mexico-22-05-2027/event/1400655FE8938944",
+      "ticket_url": "https://www.ticketmaster.com.mx/feidferxxothe-green-star-tour-2027-ciudad-de-mexico-22-05-2027/event/1400655FE8938944",
       "venue": "Palacio de los Deportes",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
@@ -6490,9 +6113,24 @@
         "Feid"
       ],
       "artist_display": "Feid",
-      "url": "https://www.ticketmaster.com.mx/ferxxo-the-green-star-tour-2027-ciudad-de-mexico-23-05-2027/event/1400655FE8958949",
-      "ticket_url": "https://www.ticketmaster.com.mx/ferxxo-the-green-star-tour-2027-ciudad-de-mexico-23-05-2027/event/1400655FE8958949",
+      "url": "https://www.ticketmaster.com.mx/feidferxxothe-green-star-tour-2027-ciudad-de-mexico-23-05-2027/event/1400655FE8958949",
+      "ticket_url": "https://www.ticketmaster.com.mx/feidferxxothe-green-star-tour-2027-ciudad-de-mexico-23-05-2027/event/1400655FE8958949",
       "venue": "Palacio de los Deportes",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Latin"
+      ]
+    },
+    {
+      "date": "2027-05-25",
+      "source": "ticketmaster",
+      "artists": [
+        "Grupo Bryndis"
+      ],
+      "artist_display": "Grupo Bryndis",
+      "url": "https://www.ticketmaster.com.mx/bxs-bryndis-por-siempre-ciudad-de-mexico-25-05-2027/event/3D00657280712B00",
+      "ticket_url": "https://www.ticketmaster.com.mx/bxs-bryndis-por-siempre-ciudad-de-mexico-25-05-2027/event/3D00657280712B00",
+      "venue": "Auditorio Nacional",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
@@ -6556,6 +6194,22 @@
       "location": "Mexico, Ciudad de México, Mexico",
       "tags": [
         "Other"
+      ]
+    },
+    {
+      "date": "2027-06-05",
+      "source": "ticketmaster",
+      "artists": [
+        "Beth Gibbons"
+      ],
+      "artist_display": "Beth Gibbons",
+      "url": "https://www.ticketmaster.com.mx/beth-gibbons-mexico-05-06-2027/event/1400655E8BA43306",
+      "ticket_url": "https://www.ticketmaster.com.mx/beth-gibbons-mexico-05-06-2027/event/1400655E8BA43306",
+      "venue": "Teatro Metropolitan",
+      "location": "México, Ciudad de México, Mexico",
+      "tags": [
+        "Rock",
+        "Alternative Rock"
       ]
     },
     {
@@ -6719,8 +6373,8 @@
         "Rels B"
       ],
       "artist_display": "Rels B",
-      "url": "https://www.ticketmaster.com.mx/rels-b-ciudad-de-mexico-07-09-2027/event/1400655CCFA2CFE6",
-      "ticket_url": "https://www.ticketmaster.com.mx/rels-b-ciudad-de-mexico-07-09-2027/event/1400655CCFA2CFE6",
+      "url": "https://www.ticketmaster.com.mx/rels-b-flakk-tour-2027-ciudad-de-mexico-07-09-2027/event/1400655CCFA2CFE6",
+      "ticket_url": "https://www.ticketmaster.com.mx/rels-b-flakk-tour-2027-ciudad-de-mexico-07-09-2027/event/1400655CCFA2CFE6",
       "venue": "Palacio de los Deportes",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
@@ -6735,8 +6389,8 @@
         "Rels B"
       ],
       "artist_display": "Rels B",
-      "url": "https://www.ticketmaster.com.mx/rels-b-ciudad-de-mexico-08-09-2027/event/1400655CD118D258",
-      "ticket_url": "https://www.ticketmaster.com.mx/rels-b-ciudad-de-mexico-08-09-2027/event/1400655CD118D258",
+      "url": "https://www.ticketmaster.com.mx/rels-b-flakk-tour-2027-ciudad-de-mexico-08-09-2027/event/1400655CD118D258",
+      "ticket_url": "https://www.ticketmaster.com.mx/rels-b-flakk-tour-2027-ciudad-de-mexico-08-09-2027/event/1400655CD118D258",
       "venue": "Palacio de los Deportes",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
@@ -6751,8 +6405,56 @@
         "Rels B"
       ],
       "artist_display": "Rels B",
-      "url": "https://www.ticketmaster.com.mx/rels-b-ciudad-de-mexico-10-09-2027/event/1400655CD11AD25C",
-      "ticket_url": "https://www.ticketmaster.com.mx/rels-b-ciudad-de-mexico-10-09-2027/event/1400655CD11AD25C",
+      "url": "https://www.ticketmaster.com.mx/rels-b-flakk-tour-2027-ciudad-de-mexico-10-09-2027/event/1400655CD11AD25C",
+      "ticket_url": "https://www.ticketmaster.com.mx/rels-b-flakk-tour-2027-ciudad-de-mexico-10-09-2027/event/1400655CD11AD25C",
+      "venue": "Palacio de los Deportes",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Hip-Hop/Rap",
+        "Trap"
+      ]
+    },
+    {
+      "date": "2027-09-11",
+      "source": "ticketmaster",
+      "artists": [
+        "Rels B"
+      ],
+      "artist_display": "Rels B",
+      "url": "https://www.ticketmaster.com.mx/rels-b-flakk-tour-2027-ciudad-de-mexico-11-09-2027/event/1400655CD11BD260",
+      "ticket_url": "https://www.ticketmaster.com.mx/rels-b-flakk-tour-2027-ciudad-de-mexico-11-09-2027/event/1400655CD11BD260",
+      "venue": "Palacio de los Deportes",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Hip-Hop/Rap",
+        "Trap"
+      ]
+    },
+    {
+      "date": "2027-09-12",
+      "source": "ticketmaster",
+      "artists": [
+        "Rels B"
+      ],
+      "artist_display": "Rels B",
+      "url": "https://www.ticketmaster.com.mx/rels-b-flakk-tour-2027-ciudad-de-mexico-12-09-2027/event/1400655CD11CD267",
+      "ticket_url": "https://www.ticketmaster.com.mx/rels-b-flakk-tour-2027-ciudad-de-mexico-12-09-2027/event/1400655CD11CD267",
+      "venue": "Palacio de los Deportes",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Hip-Hop/Rap",
+        "Trap"
+      ]
+    },
+    {
+      "date": "2027-09-14",
+      "source": "ticketmaster",
+      "artists": [
+        "Rels B"
+      ],
+      "artist_display": "Rels B",
+      "url": "https://www.ticketmaster.com.mx/rels-b-flakk-tour-2027-ciudad-de-mexico-14-09-2027/event/1400655CD11ED278",
+      "ticket_url": "https://www.ticketmaster.com.mx/rels-b-flakk-tour-2027-ciudad-de-mexico-14-09-2027/event/1400655CD11ED278",
       "venue": "Palacio de los Deportes",
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
@@ -6809,6 +6511,21 @@
       ]
     },
     {
+      "date": "2027-10-02",
+      "source": "ticketmaster",
+      "artists": [
+        "Daniel Boaventura"
+      ],
+      "artist_display": "Daniel Boaventura",
+      "url": "https://www.ticketmaster.com.mx/daniel-boaventura-nightlife-tour-2027-ciudad-de-mexico-02-10-2027/event/3D00656ED6D3866F",
+      "ticket_url": "https://www.ticketmaster.com.mx/daniel-boaventura-nightlife-tour-2027-ciudad-de-mexico-02-10-2027/event/3D00656ED6D3866F",
+      "venue": "Auditorio Nacional",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Ballads/Romantic"
+      ]
+    },
+    {
       "date": "2027-10-07",
       "source": "ticketmaster",
       "artists": [
@@ -6821,6 +6538,38 @@
       "location": "Ciudad de México, Ciudad de México, Mexico",
       "tags": [
         "Latin"
+      ]
+    },
+    {
+      "date": "2027-10-12",
+      "source": "ticketmaster",
+      "artists": [
+        "Rels B"
+      ],
+      "artist_display": "Rels B",
+      "url": "https://www.ticketmaster.com.mx/rels-b-flakk-tour-2027-ciudad-de-mexico-12-10-2027/event/1400657385103994",
+      "ticket_url": "https://www.ticketmaster.com.mx/rels-b-flakk-tour-2027-ciudad-de-mexico-12-10-2027/event/1400657385103994",
+      "venue": "Palacio de los Deportes",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Hip-Hop/Rap",
+        "Trap"
+      ]
+    },
+    {
+      "date": "2027-10-13",
+      "source": "ticketmaster",
+      "artists": [
+        "Rels B"
+      ],
+      "artist_display": "Rels B",
+      "url": "https://www.ticketmaster.com.mx/rels-b-flakk-tour-2027-ciudad-de-mexico-13-10-2027/event/1400657385113996",
+      "ticket_url": "https://www.ticketmaster.com.mx/rels-b-flakk-tour-2027-ciudad-de-mexico-13-10-2027/event/1400657385113996",
+      "venue": "Palacio de los Deportes",
+      "location": "Ciudad de México, Ciudad de México, Mexico",
+      "tags": [
+        "Hip-Hop/Rap",
+        "Trap"
       ]
     },
     {
